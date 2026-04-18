@@ -19,6 +19,10 @@ public class RoomCameraController : MonoBehaviour
     [Header("Transition")]
     public float transitionDuration = 0.45f;
 
+    [Header("Counter-Only Objects")]
+    [Tooltip("GameObjects to hide when leaving the counter (e.g. the cooking Canvas)")]
+    public GameObject[] counterObjects;
+
     private Camera cam;
     private CameraState state = CameraState.Counter;
     private bool transitioning = false;
@@ -90,6 +94,10 @@ public class RoomCameraController : MonoBehaviour
         transform.position   = endPos;
         cam.orthographicSize = endSize;
         transitioning = false;
+
+        bool atCounter = next == CameraState.Counter;
+        foreach (var obj in counterObjects)
+            obj?.SetActive(atCounter);
     }
 
     Vector3 PositionFor(CameraState s) => s switch

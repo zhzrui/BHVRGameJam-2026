@@ -6,7 +6,6 @@ using UnityEngine;
 public class GhostSpawner : MonoBehaviour
 {
     [Header("References")]
-    public RoomCameraController cameraController;
     public GameObject ghostPrefab;
 
     [Header("Spawn Settings")]
@@ -26,27 +25,15 @@ public class GhostSpawner : MonoBehaviour
 
     private AudioSource audioSource;
     private List<GameObject> activeGhosts = new List<GameObject>();
-    private Coroutine spawnRoutine;
 
     void Awake()
     {
         audioSource = GetComponent<AudioSource>();
     }
 
-    void Update()
+    void Start()
     {
-        if (cameraController == null) return;
-
-        if (cameraController.IsInRoomView && spawnRoutine == null)
-            spawnRoutine = StartCoroutine(SpawnLoop());
-        else if (!cameraController.IsInRoomView && spawnRoutine != null)
-            StopSpawning();
-    }
-
-    void StopSpawning()
-    {
-        StopCoroutine(spawnRoutine);
-        spawnRoutine = null;
+        StartCoroutine(SpawnLoop());
     }
 
     IEnumerator SpawnLoop()
@@ -54,10 +41,8 @@ public class GhostSpawner : MonoBehaviour
         while (true)
         {
             yield return new WaitForSeconds(Random.Range(spawnIntervalMin, spawnIntervalMax));
-
             activeGhosts.RemoveAll(g => g == null);
-
-            if (activeGhosts.Count < maxGhosts && cameraController.IsInRoomView)
+            if (activeGhosts.Count < maxGhosts)
                 SpawnGhost();
         }
     }
@@ -77,8 +62,4 @@ public class GhostSpawner : MonoBehaviour
             audioSource.PlayOneShot(spawnSounds[Random.Range(0, spawnSounds.Length)]);
     }
 
-    void OnDisable()
-    {
-        if (spawnRoutine != null) StopSpawning();
-    }
 }
