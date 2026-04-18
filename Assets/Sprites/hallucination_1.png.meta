@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: ca452bc1ed2f6447e83e0c43ead1a3e2
+guid: 8a24705c2862945fc9c1597d49350392
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -7247684675989346004
-    second: render_0
+      213: 5731494089058639463
+    second: hallucination_1_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,13 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: render_0
+      name: hallucination_1_0
       rect:
         serializedVersion: 2
-        x: 282
-        y: 259
-        width: 592
-        height: 519
+        x: 718
+        y: 0
+        width: 1545
+        height: 2959
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: c29ec93ef2d0b6b90800000000000000
-      internalID: -7247684675989346004
+      spriteID: 76e579ad18b5a8f40800000000000000
+      internalID: 5731494089058639463
       vertices: []
       indices: 
       edges: []
@@ -135,7 +135,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      render_0: -7247684675989346004
+      hallucination_1_0: 5731494089058639463
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
