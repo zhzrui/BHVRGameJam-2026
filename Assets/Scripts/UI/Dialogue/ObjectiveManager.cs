@@ -1,31 +1,47 @@
+using System;
+using System.Collections.Generic;
 using UnityEngine;
 
 public class ObjectiveManager : MonoBehaviour
 {
     public static ObjectiveManager Instance;
 
+    public event Action<string> OnObjectiveCompleted;
+
+    private HashSet<string> completedObjectives = new HashSet<string>();
+
     private void Awake()
     {
-        Instance = this;
-    }
-
-    public void StartObjective(string objectiveId)
-    {
-        Debug.Log("Starting objective: " + objectiveId);
-
-        // Put your gameplay activation logic here
-        // Example:
-        // if (objectiveId == "CleanDesk") { ... }
-    }
-
-    public void CompleteObjective(string objectiveId)
-    {
-        Debug.Log("Completed objective: " + objectiveId);
-
-        DialogueManager dialogue = FindFirstObjectByType<DialogueManager>();
-        if (dialogue != null)
+        if (Instance == null)
         {
-            dialogue.ResumeAfterObjective(objectiveId);
+            Instance = this;
+            DontDestroyOnLoad(gameObject);
         }
+        else
+        {
+            Destroy(gameObject);
+        }
+    }
+
+    public void CompleteObjective(string objectiveKey)
+    {
+        Debug.Log("ObjectiveManager.CompleteObjective called with: " + objectiveKey);
+
+        if (string.IsNullOrEmpty(objectiveKey))
+        {
+            Debug.LogWarning("CompleteObjective called with empty key");
+            return;
+        }
+
+        if (completedObjectives.Contains(objectiveKey))
+        {
+            Debug.Log("Objective already completed: " + objectiveKey);
+            return;
+        }
+
+        completedObjectives.Add(objectiveKey);
+
+        Debug.Log("Invoking OnObjectiveCompleted for: " + objectiveKey);
+        OnObjectiveCompleted?.Invoke(objectiveKey);
     }
 }

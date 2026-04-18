@@ -56,7 +56,14 @@ public class TimingMinigame : CookingMinigameBase
         if (inGreen)
         {
             Debug.Log("Successful cooking");
-            ObjectiveManager.Instance?.CompleteObjective(objectiveKey);
+            //ObjectiveManager.Instance?.CompleteObjective(objectiveKey);
+
+            DialogueManager dm = FindFirstObjectByType<DialogueManager>();
+            if (dm != null)
+            {
+                dm.MarkObjectiveComplete(objectiveKey);
+            }
+
             RaiseSuccess();
         }
         else
