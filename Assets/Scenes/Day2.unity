@@ -1189,18 +1189,18 @@ MonoBehaviour:
   - text: "Get the vegetables from your CookingCandyBox\u2606. Chop them into medium-thin
       slices and add them to your bowl."
     flagToSet: 
-    pauseForObjective: 0
-    objectiveId: 
+    pauseForObjective: 1
+    objectiveId: day2step1
   - text: "Now, add the cartilage into the bowl too! It might look a little strange
       for people who have never tried it before, but it\u2019s veeeeery yummy!"
     flagToSet: 
-    pauseForObjective: 0
-    objectiveId: 
+    pauseForObjective: 1
+    objectiveId: day2step2
   - text: "Mix, mix, mix~ And now to the pan we go! Stir it until it\u2019s thoroughly
       cooked, then place it into a plate."
     flagToSet: 
-    pauseForObjective: 0
-    objectiveId: 
+    pauseForObjective: 1
+    objectiveId: day2step3
   - text: Now you have yourself a delicious, chewy stir fry with unconventional ingredients!
     flagToSet: 
     pauseForObjective: 0
@@ -1213,14 +1213,11 @@ MonoBehaviour:
   voiceClips: []
   voiceSource: {fileID: 0}
   voiceVolume: 1
-  stopVoiceOnSkip: 0
   cutOnLineEndClips: []
   autoLoadNextLevel: 1
   onDialogueComplete:
     m_PersistentCalls:
       m_Calls: []
-  pulseSpeed: 2.5
-  minPulseAlpha: 0.3
 --- !u!114 &1112481457
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2135,8 +2132,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0.98, y: 1}
-  m_AnchoredPosition: {x: 5.320984, y: -385}
-  m_SizeDelta: {x: -8.328003, y: -902.907}
+  m_AnchoredPosition: {x: 5.320984, y: -365.02032}
+  m_SizeDelta: {x: -8.328, y: -862.9476}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &2021739497
 MonoBehaviour:

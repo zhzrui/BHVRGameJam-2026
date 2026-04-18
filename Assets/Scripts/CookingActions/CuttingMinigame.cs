@@ -182,7 +182,15 @@ public class CuttingMinigame : CookingMinigameBase, IPointerDownHandler, IDragHa
         mainDisplay?.gameObject.SetActive(false);
 
         minigamePanel?.SetActive(false);
-        ObjectiveManager.Instance?.CompleteObjective(objectiveKey);
+
+        //ObjectiveManager.Instance?.CompleteObjective(objectiveKey);
+
+        DialogueManager dm = FindFirstObjectByType<DialogueManager>();
+        if (dm != null)
+        {
+            dm.MarkObjectiveComplete(objectiveKey);
+        }
+
         RaiseSuccess();
     }
 }

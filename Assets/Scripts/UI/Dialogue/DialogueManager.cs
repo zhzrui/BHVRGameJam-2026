@@ -1,5 +1,4 @@
-﻿using System.Collections;
-using UnityEngine;
+﻿using UnityEngine;
 using TMPro;
 using UnityEngine.InputSystem;
 using UnityEngine.Events;
@@ -32,7 +31,6 @@ public class DialogueManager : MonoBehaviour
     public AudioClip[] voiceClips;
     [SerializeField] private AudioSource voiceSource;
     [Range(0f, 1f)] public float voiceVolume = 1f;
-    public bool stopVoiceOnSkip = false;
 
     [Header("Cut rule")]
     [Tooltip("Any clip in this list will be cut immediately when the line is fully shown.")]
@@ -42,26 +40,13 @@ public class DialogueManager : MonoBehaviour
     public bool autoLoadNextLevel = true;
     public UnityEvent onDialogueComplete = new UnityEvent();
 
-    [Header("Indicator Pulse")]
-    public float pulseSpeed = 2.5f;
-    [Range(0f, 1f)] public float minPulseAlpha = 0.3f;
-
     private int currentLine = 0;
-    private Coroutine pulseCoroutine;
-    private CanvasGroup indicatorCanvasGroup;
 
     private bool waitingForObjective = false;
     private string waitingObjectiveId = "";
 
     void Awake()
     {
-        if (continueIndicator != null)
-        {
-            indicatorCanvasGroup = continueIndicator.GetComponent<CanvasGroup>();
-            if (indicatorCanvasGroup == null)
-                indicatorCanvasGroup = continueIndicator.AddComponent<CanvasGroup>();
-        }
-
         if (voiceSource == null)
             voiceSource = GetComponent<AudioSource>();
     }
@@ -72,10 +57,12 @@ public class DialogueManager : MonoBehaviour
 
         if (lines == null || lines.Length == 0)
         {
-            dialogueText.text = "";
+            if (dialogueText != null)
+                dialogueText.text = "";
             return;
         }
 
+        currentLine = 0;
         ShowLine(currentLine);
     }
 
@@ -113,47 +100,50 @@ public class DialogueManager : MonoBehaviour
 
     private void ShowLine(int index)
     {
-        if (index < 0 || index >= lines.Length)
+        if (lines == null || index < 0 || index >= lines.Length)
             return;
 
         HideIndicator();
 
         DialogueLineData lineData = lines[index];
 
-        // Show text instantly
-        dialogueText.text = lineData.text;
+        if (dialogueText != null)
+            dialogueText.text = lineData.text;
 
-        // Optional flag
         if (!string.IsNullOrEmpty(lineData.flagToSet))
         {
             DialogueFlags.SetFlag(lineData.flagToSet);
+            Debug.Log("Dialogue flag set: " + lineData.flagToSet);
         }
 
         PlayVoiceForLine(index);
-
-        // Since the line is fully displayed immediately,
-        // apply the "cut on line end" rule right away.
         CutIfCurrentClipMatchesRule();
 
-        if (lineData.pauseForObjective)
+        if (lineData.pauseForObjective && !string.IsNullOrEmpty(lineData.objectiveId))
         {
             waitingForObjective = true;
             waitingObjectiveId = lineData.objectiveId;
 
+            Debug.Log("Dialogue paused, waiting for objective: " + waitingObjectiveId);
             HideIndicator();
-
-            // Start objective in gameplay
-            ObjectiveManager.Instance?.StartObjective(waitingObjectiveId);
         }
         else
         {
+            waitingForObjective = false;
+            waitingObjectiveId = "";
             ShowIndicator();
         }
     }
 
-    public void ResumeAfterObjective(string objectiveId)
+    public void MarkObjectiveComplete(string objectiveId)
     {
+        Debug.Log("MarkObjectiveComplete called with: " + objectiveId);
+        Debug.Log("Currently waiting for: " + waitingObjectiveId);
+
         if (!waitingForObjective)
+            return;
+
+        if (string.IsNullOrEmpty(objectiveId))
             return;
 
         if (objectiveId != waitingObjectiveId)
@@ -174,12 +164,22 @@ public class DialogueManager : MonoBehaviour
         }
     }
 
+    public bool IsWaitingForObjective()
+    {
+        return waitingForObjective;
+    }
+
+    public string GetWaitingObjectiveId()
+    {
+        return waitingObjectiveId;
+    }
+
     private void EndDialogue()
     {
         HideIndicator();
         onDialogueComplete?.Invoke();
 
-        if (autoLoadNextLevel)
+        if (autoLoadNextLevel && LevelManager.Instance != null)
         {
             LevelManager.Instance.LoadNextLevel();
         }
@@ -190,6 +190,7 @@ public class DialogueManager : MonoBehaviour
         if (voiceSource == null) return;
 
         AudioClip clip = null;
+
         if (voiceClips != null && index >= 0 && index < voiceClips.Length)
             clip = voiceClips[index];
 
@@ -200,12 +201,6 @@ public class DialogueManager : MonoBehaviour
         voiceSource.loop = false;
         voiceSource.clip = clip;
         voiceSource.Play();
-    }
-
-    private void StopVoice()
-    {
-        if (voiceSource != null && voiceSource.isPlaying)
-            voiceSource.Stop();
     }
 
     private void CutIfCurrentClipMatchesRule()
@@ -229,42 +224,13 @@ public class DialogueManager : MonoBehaviour
 
     private void ShowIndicator()
     {
-        if (continueIndicator == null || indicatorCanvasGroup == null)
-            return;
-
-        continueIndicator.SetActive(true);
-
-        if (pulseCoroutine != null)
-            StopCoroutine(pulseCoroutine);
-
-        pulseCoroutine = StartCoroutine(PulseIndicator());
+        if (continueIndicator != null)
+            continueIndicator.SetActive(true);
     }
 
     private void HideIndicator()
     {
-        if (pulseCoroutine != null)
-        {
-            StopCoroutine(pulseCoroutine);
-            pulseCoroutine = null;
-        }
-
-        if (indicatorCanvasGroup != null)
-            indicatorCanvasGroup.alpha = 0f;
-
         if (continueIndicator != null)
             continueIndicator.SetActive(false);
-    }
-
-    private IEnumerator PulseIndicator()
-    {
-        float t = 0f;
-
-        while (true)
-        {
-            t += Time.deltaTime * pulseSpeed;
-            float alpha = Mathf.Lerp(minPulseAlpha, 1f, (Mathf.Sin(t) + 1f) / 2f);
-            indicatorCanvasGroup.alpha = alpha;
-            yield return null;
-        }
     }
 }

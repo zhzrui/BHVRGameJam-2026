@@ -52,7 +52,14 @@ public class AssemblingMinigame : CookingMinigameBase, IDropHandler
         Debug.Log("[Assembling] Complete! Hiding panel and raising success.");
         if (minigamePanel != null) minigamePanel.SetActive(false);
         else Debug.LogWarning("[Assembling] minigamePanel is not assigned!");
-        ObjectiveManager.Instance?.CompleteObjective(objectiveKey);
+        //ObjectiveManager.Instance?.CompleteObjective(objectiveKey);
+
+        DialogueManager dm = FindFirstObjectByType<DialogueManager>();
+        if (dm != null)
+        {
+            dm.MarkObjectiveComplete(objectiveKey);
+        }
+
         RaiseSuccess();
     }
 }

@@ -52,7 +52,14 @@ public class MixingMinigame : CookingMinigameBase
 
         if (success)
         {
-            ObjectiveManager.Instance?.CompleteObjective(objectiveKey);
+            //ObjectiveManager.Instance?.CompleteObjective(objectiveKey);
+
+            DialogueManager dm = FindFirstObjectByType<DialogueManager>();
+            if (dm != null)
+            {
+                dm.MarkObjectiveComplete(objectiveKey);
+            }
+
             RaiseSuccess();
         }
         else RaiseFail();
