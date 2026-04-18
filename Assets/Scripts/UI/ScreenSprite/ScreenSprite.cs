@@ -44,9 +44,4 @@ public class ScreenSprite : MonoBehaviour
     {
         screenLayers[layer].SetVisible(visible);
     }
-
-    void Start()
-    {
-        SetSprite("hair", "short");
-    }
 }
