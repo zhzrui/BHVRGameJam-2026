@@ -13,12 +13,14 @@ public class ScreenLayer
 
     public void SetSprite(int index)
     {
+        SetVisible(true);
         if (index >= sprites.Count || index < 0) Debug.LogError("accessed sprite outside of sprite list bounds");
         imageRenderer.sprite = sprites[index];
     }
 
     public void SetSprite(string name)
     {
+        SetVisible(true);
         foreach(Sprite sprite in sprites)
         {
             if (sprite.name.Split("_").Last() == name)
