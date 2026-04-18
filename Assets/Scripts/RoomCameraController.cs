@@ -4,17 +4,17 @@ using UnityEngine.InputSystem;
 
 public class RoomCameraController : MonoBehaviour
 {
-    public enum CameraState { Counter, RoomCenter, RoomLeft, RoomRight }
+    public enum CameraState { Counter, Room }
 
     [Header("Counter Screen")]
     public Vector3 counterPosition = new Vector3(0f, 0f, -10f);
     public float counterOrthoSize = 3f;
 
-    [Header("Room Screens")]
-    public Vector3 roomCenterPosition = new Vector3(0f, 0f, -10f);
-    public Vector3 roomLeftPosition   = new Vector3(-8f, 0f, -10f);
-    public Vector3 roomRightPosition  = new Vector3( 8f, 0f, -10f);
+    [Header("Room Panorama")]
+    [Tooltip("Drag the room SpriteRenderer here — two clones are auto-created at runtime for seamless wrap")]
+    public SpriteRenderer roomSprite;
     public float roomOrthoSize = 6f;
+    public float panSpeed = 10f;
 
     [Header("Transition")]
     public float fadeDuration = 0.25f;
@@ -29,13 +29,52 @@ public class RoomCameraController : MonoBehaviour
     private CameraState state = CameraState.Counter;
     private bool transitioning = false;
 
-    public bool IsInRoomView => state != CameraState.Counter;
+    private float roomY;
+    private float roomZ;
+    private float spriteWidth;
+    // The treadmill anchor: camera X stays within [anchorX - halfWidth, anchorX + halfWidth]
+    // and teleports by spriteWidth when it crosses either boundary.
+    private float anchorX;
+
+    public bool IsInRoomView => state == CameraState.Room;
 
     void Awake()
     {
         cam = GetComponent<Camera>();
         transform.position = counterPosition;
         cam.orthographicSize = counterOrthoSize;
+    }
+
+    void Start()
+    {
+        if (roomSprite != null)
+            AutoFitRoom();
+    }
+
+    void AutoFitRoom()
+    {
+        Bounds b = roomSprite.bounds;
+        roomY = b.center.y;
+        roomZ = counterPosition.z;
+        roomOrthoSize = b.size.y / 2f;
+        spriteWidth = b.size.x;
+        anchorX = b.center.x;
+
+        // Place two clones flanking the original so the wrap is always covered
+        CreateClone(roomSprite, anchorX - spriteWidth, roomY);
+        CreateClone(roomSprite, anchorX + spriteWidth, roomY);
+    }
+
+    void CreateClone(SpriteRenderer source, float x, float y)
+    {
+        GameObject clone = new GameObject("RoomClone");
+        clone.transform.position = new Vector3(x, y, source.transform.position.z);
+        clone.transform.localScale = source.transform.localScale;
+        SpriteRenderer sr = clone.AddComponent<SpriteRenderer>();
+        sr.sprite = source.sprite;
+        sr.material = source.material;
+        sr.sortingLayerID = source.sortingLayerID;
+        sr.sortingOrder = source.sortingOrder;
     }
 
     void Update()
@@ -45,50 +84,62 @@ public class RoomCameraController : MonoBehaviour
         var kb = Keyboard.current;
         if (kb == null) return;
 
-        switch (state)
+        if (state == CameraState.Counter)
         {
-            case CameraState.Counter:
-                if (kb.upArrowKey.wasPressedThisFrame)
-                    StartCoroutine(TransitionTo(CameraState.RoomCenter));
-                break;
+            if (kb.upArrowKey.wasPressedThisFrame)
+                StartCoroutine(TransitionToRoom());
+        }
+        else
+        {
+            if (kb.downArrowKey.wasPressedThisFrame)
+                StartCoroutine(TransitionToCounter());
 
-            case CameraState.RoomCenter:
-                if (kb.downArrowKey.wasPressedThisFrame)
-                    StartCoroutine(TransitionTo(CameraState.Counter));
-                else if (kb.leftArrowKey.wasPressedThisFrame)
-                    StartCoroutine(TransitionTo(CameraState.RoomLeft));
-                else if (kb.rightArrowKey.wasPressedThisFrame)
-                    StartCoroutine(TransitionTo(CameraState.RoomRight));
-                break;
+            float dir = 0f;
+            if (kb.leftArrowKey.isPressed)  dir = -1f;
+            if (kb.rightArrowKey.isPressed) dir =  1f;
 
-            case CameraState.RoomLeft:
-                if (kb.rightArrowKey.wasPressedThisFrame)
-                    StartCoroutine(TransitionTo(CameraState.RoomCenter));
-                break;
+            if (dir != 0f)
+            {
+                Vector3 pos = transform.position;
+                pos.x += dir * panSpeed * Time.deltaTime;
 
-            case CameraState.RoomRight:
-                if (kb.leftArrowKey.wasPressedThisFrame)
-                    StartCoroutine(TransitionTo(CameraState.RoomCenter));
-                break;
+                // Treadmill: silently teleport by one sprite width when crossing boundary
+                if (pos.x > anchorX + spriteWidth * 0.5f) pos.x -= spriteWidth;
+                else if (pos.x < anchorX - spriteWidth * 0.5f) pos.x += spriteWidth;
+
+                transform.position = pos;
+            }
         }
     }
 
-    IEnumerator TransitionTo(CameraState next)
+    IEnumerator TransitionToRoom()
     {
         transitioning = true;
-
         yield return StartCoroutine(Fade(0f, 1f));
 
-        state = next;
-        transform.position   = PositionFor(next);
-        cam.orthographicSize = next == CameraState.Counter ? counterOrthoSize : roomOrthoSize;
+        state = CameraState.Room;
+        cam.orthographicSize = roomOrthoSize;
+        // Enter at the center of the panorama
+        transform.position = new Vector3(anchorX, roomY, roomZ);
 
-        bool atCounter = next == CameraState.Counter;
-        foreach (var obj in counterObjects)
-            obj?.SetActive(atCounter);
+        foreach (var obj in counterObjects) obj?.SetActive(false);
 
         yield return StartCoroutine(Fade(1f, 0f));
+        transitioning = false;
+    }
 
+    IEnumerator TransitionToCounter()
+    {
+        transitioning = true;
+        yield return StartCoroutine(Fade(0f, 1f));
+
+        state = CameraState.Counter;
+        cam.orthographicSize = counterOrthoSize;
+        transform.position = counterPosition;
+
+        foreach (var obj in counterObjects) obj?.SetActive(true);
+
+        yield return StartCoroutine(Fade(1f, 0f));
         transitioning = false;
     }
 
@@ -107,13 +158,4 @@ public class RoomCameraController : MonoBehaviour
         fadeOverlay.alpha = to;
         if (to == 0f) fadeOverlay.gameObject.SetActive(false);
     }
-
-    Vector3 PositionFor(CameraState s) => s switch
-    {
-        CameraState.Counter    => counterPosition,
-        CameraState.RoomCenter => roomCenterPosition,
-        CameraState.RoomLeft   => roomLeftPosition,
-        CameraState.RoomRight  => roomRightPosition,
-        _                      => counterPosition
-    };
 }
