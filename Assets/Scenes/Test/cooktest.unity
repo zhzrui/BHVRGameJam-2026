@@ -1072,6 +1072,52 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1085842515}
   m_CullTransparentMesh: 1
+--- !u!1 &1108960698
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1108960700}
+  - component: {fileID: 1108960699}
+  m_Layer: 0
+  m_Name: GameObject
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &1108960699
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1108960698}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 93b0d7f825dbdcb448cc96a1d5e12ec4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Day1CookingSequence
+  sequence:
+  - {fileID: 1823739599}
+--- !u!4 &1108960700
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1108960698}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 822.07996, y: 231.30725, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1167456646
 GameObject:
   m_ObjectHideFlags: 0
@@ -1106,6 +1152,7 @@ RectTransform:
   - {fileID: 694823765}
   - {fileID: 1525943185}
   - {fileID: 1375177178}
+  - {fileID: 2069804477}
   m_Father: {fileID: 592274661}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
@@ -1584,7 +1631,6 @@ RectTransform:
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 1662921643}
-  - {fileID: 2069804477}
   m_Father: {fileID: 1823739598}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
@@ -1604,6 +1650,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 23bc80f989166514b99b3d531fda0a43, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::CuttingMinigame
+  minigamePanel: {fileID: 1405921845}
   ingredientTexture: {fileID: 2800000, guid: 4782d8113683ec44cb6bf02d32f1502c, type: 3}
   ingredientContainer: {fileID: 1405921846}
   cutPositions:
@@ -1614,7 +1661,7 @@ MonoBehaviour:
   requiredCutDistance: 108
   cutLineIndicator: {fileID: 1662921643}
   sliceSeparation: 5
-  minigamePanel: {fileID: 1405921845}
+  objectiveKey: cooking
 --- !u!114 &1405921848
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2255,8 +2302,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 23bc80f989166514b99b3d531fda0a43, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::CuttingMinigame
+  minigamePanel: {fileID: 1405921845}
   ingredientTexture: {fileID: 2800000, guid: 4782d8113683ec44cb6bf02d32f1502c, type: 3}
-  ingredientContainer: {fileID: 2069804477}
+  ingredientContainer: {fileID: 1405921846}
   cutPositions:
   - 0.25
   - 0.5
@@ -2265,7 +2313,7 @@ MonoBehaviour:
   requiredCutDistance: 108
   cutLineIndicator: {fileID: 1662921643}
   sliceSeparation: 8
-  minigamePanel: {fileID: 1405921845}
+  objectiveKey: day2step0
 --- !u!1 &1981171155
 GameObject:
   m_ObjectHideFlags: 0
@@ -2448,11 +2496,11 @@ RectTransform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 1405921846}
+  m_Father: {fileID: 1167456647}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 69.30347, y: -75.22623}
+  m_AnchoredPosition: {x: 243.06104, y: -115.83743}
   m_SizeDelta: {x: 195.3931, y: 201.5476}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &2069804478
@@ -2675,3 +2723,4 @@ SceneRoots:
   - {fileID: 809152422}
   - {fileID: 592274661}
   - {fileID: 282976984}
+  - {fileID: 1108960700}

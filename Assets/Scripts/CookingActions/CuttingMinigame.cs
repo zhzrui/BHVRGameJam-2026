@@ -49,6 +49,7 @@ public class CuttingMinigame : CookingMinigameBase, IPointerDownHandler, IDragHa
         mainDisplay.texture = ingredientTexture;
         SetAnchoredSlice(mainDisplay.rectTransform, 0f, 1f, 0f);
         mainDisplay.uvRect = new Rect(0, 0, 1, 1);
+        mainDisplay.transform.SetAsFirstSibling(); // always render behind slices and cut line
 
         minigamePanel.SetActive(true);
         RefreshCutLine();
@@ -96,6 +97,7 @@ public class CuttingMinigame : CookingMinigameBase, IPointerDownHandler, IDragHa
         slice.uvRect = new Rect(currentRightStart, 0, cutX - currentRightStart, 1);
         SetAnchoredSlice(slice.rectTransform, currentRightStart, cutX, 0f);
         completedSlices.Add(slice);
+        cutLineIndicator?.SetAsLastSibling(); // keep cut line on top after each new slice
 
         for (int i = 0; i < completedSlices.Count; i++)
             SetAnchoredSlice(completedSlices[i].rectTransform,
@@ -141,18 +143,35 @@ public class CuttingMinigame : CookingMinigameBase, IPointerDownHandler, IDragHa
             return;
         }
 
+        // Add an overriding Canvas so the cut line always sorts above the ingredient image
+        if (!cutLineIndicator.TryGetComponent<Canvas>(out var lineCanvas))
+        {
+            lineCanvas = cutLineIndicator.gameObject.AddComponent<Canvas>();
+            cutLineIndicator.gameObject.AddComponent<UnityEngine.UI.GraphicRaycaster>();
+        }
+        lineCanvas.overrideSorting = true;
+        lineCanvas.sortingOrder = 10;
+
         float cutX = cutPositions[currentCutIndex];
         cutLineIndicator.anchorMin = new Vector2(cutX, 0f);
         cutLineIndicator.anchorMax = new Vector2(cutX, 1f);
         cutLineIndicator.sizeDelta = new Vector2(4f, 0f);
         cutLineIndicator.anchoredPosition = Vector2.zero;
-        cutLineIndicator.SetAsLastSibling();
         cutLineIndicator.gameObject.SetActive(true);
     }
 
     private void Complete()
     {
         cutLineIndicator?.gameObject.SetActive(false);
+
+        // Destroy dynamically created slice images so they don't persist if ingredientContainer
+        // is outside minigamePanel
+        foreach (var slice in completedSlices)
+            if (slice != null) Destroy(slice.gameObject);
+        completedSlices.Clear();
+        mainDisplay?.gameObject.SetActive(false);
+
+        minigamePanel?.SetActive(false);
         ObjectiveManager.Instance?.CompleteObjective(objectiveKey);
         RaiseSuccess();
     }
