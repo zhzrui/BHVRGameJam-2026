@@ -20,7 +20,8 @@ public class Day1CookingSequence : MonoBehaviour
     {
         if (currentIndex >= sequence.Count)
         {
-            Debug.Log("Day 1 cooking complete!");
+            Debug.Log("Day cooking complete!");
+            LevelManager.Instance?.LoadNextLevel();
             return;
         }
 
