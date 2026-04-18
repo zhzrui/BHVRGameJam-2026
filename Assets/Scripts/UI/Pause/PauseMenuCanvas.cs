@@ -41,8 +41,9 @@ public class PauseMenu : MonoBehaviour
             menuShown = true;
             canvasGroup.blocksRaycasts = true;
             canvasGroup.interactable = true;
-            canvasGroup.DOFade(1f, 0.5f);
-            // canvasGroup.DOFade(1f, 0.5f).OnComplete(() => { Time.timeScale = 0f; }); removed cuz it doesn't really work
+            Time.timeScale = 0f;
+            canvasGroup.DOFade(1f, 0.5f).SetUpdate(true);
+            // canvasGroup.DOFade(1f, 0.5f).OnComplete(() => { Time.timeScale = 0f; });
         }
     }
 
@@ -53,8 +54,7 @@ public class PauseMenu : MonoBehaviour
             menuShown = false;
             canvasGroup.blocksRaycasts = false;
             canvasGroup.interactable = false;
-            canvasGroup.DOFade(0f, 0.5f);
-            // Time.timeScale = 1f;
+            canvasGroup.DOFade(0f, 0.5f).SetUpdate(true).OnComplete(() => { Time.timeScale = 1f; });
         }
     }
 
