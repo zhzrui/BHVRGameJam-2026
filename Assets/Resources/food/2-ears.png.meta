@@ -1,0 +1,663 @@
+fileFormatVersion: 2
+guid: d7c3ed1add46c7d4c8c89682ffac948a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5888663636699395619
+    second: 2-ears_0
+  - first:
+      213: -4330559701863995670
+    second: 2-ears_1
+  - first:
+      213: -2460280766530929052
+    second: 2-ears_2
+  - first:
+      213: -6608634158044339106
+    second: 2-ears_3
+  - first:
+      213: 998171684291125696
+    second: 2-ears_4
+  - first:
+      213: 3306902238976374381
+    second: 2-ears_5
+  - first:
+      213: -750717867411905294
+    second: 2-ears_6
+  - first:
+      213: -8815006537965043308
+    second: 2-ears_7
+  - first:
+      213: 1988635755672051721
+    second: 2-ears_8
+  - first:
+      213: 3973099829120522332
+    second: 2-ears_9
+  - first:
+      213: 1153460917972019305
+    second: 2-ears_10
+  - first:
+      213: 4552421564007271337
+    second: 2-ears_11
+  - first:
+      213: -7961282594149638015
+    second: 2-ears_12
+  - first:
+      213: -6730595294550490853
+    second: 2-ears_13
+  - first:
+      213: -667334902580581890
+    second: 2-ears_14
+  - first:
+      213: -5928445392011230037
+    second: 2-ears_15
+  - first:
+      213: 1954012583339381110
+    second: 2-ears_16
+  - first:
+      213: 754198140112988312
+    second: 2-ears_17
+  - first:
+      213: -2085335514664307134
+    second: 2-ears_18
+  - first:
+      213: -5167573266188583385
+    second: 2-ears_19
+  - first:
+      213: 6239976269319929290
+    second: 2-ears_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 2-ears_0
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 2232
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd9c5c43f93474ea0800000000000000
+      internalID: -5888663636699395619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-ears_1
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 1506
+        width: 1774
+        height: 1527
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae666cb35e2c6e3c0800000000000000
+      internalID: -4330559701863995670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-ears_2
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 2210
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46eb23f8da35bddd0800000000000000
+      internalID: -2460280766530929052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-ears_3
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 2195
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e54214f4f3a6944a0800000000000000
+      internalID: -6608634158044339106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-ears_4
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 2140
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c1a60bbbd73add00800000000000000
+      internalID: 998171684291125696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-ears_5
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 2101
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d66712dc01a74ed20800000000000000
+      internalID: 3306902238976374381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-ears_6
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 2084
+        width: 41
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f4ef5ab31ae495f0800000000000000
+      internalID: -750717867411905294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-ears_7
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 2079
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49109d3f14ecaa580800000000000000
+      internalID: -8815006537965043308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-ears_8
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 2069
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 900297cfead099b10800000000000000
+      internalID: 1988635755672051721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-ears_9
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 2077
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c58d4e38e39432730800000000000000
+      internalID: 3973099829120522332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-ears_10
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 2060
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 968a406f79ae10010800000000000000
+      internalID: 1153460917972019305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-ears_11
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 2015
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ab4b7eea437d2f30800000000000000
+      internalID: 4552421564007271337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-ears_12
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 2023
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 180e53b49a7d38190800000000000000
+      internalID: -7961282594149638015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-ears_13
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 1505
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1107656d3f1892a0800000000000000
+      internalID: -6730595294550490853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-ears_14
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 1507
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef9e67911762db6f0800000000000000
+      internalID: -667334902580581890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-ears_15
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 1508
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba48ed2835ee9bda0800000000000000
+      internalID: -5928445392011230037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-ears_16
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 1508
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 671569c771c0e1b10800000000000000
+      internalID: 1954012583339381110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-ears_17
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 1507
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 898e1b76633777a00800000000000000
+      internalID: 754198140112988312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-ears_18
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 1506
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2467de2e5666f03e0800000000000000
+      internalID: -2085335514664307134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-ears_19
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 1508
+        width: 28
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72e360e4e771948b0800000000000000
+      internalID: -5167573266188583385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-ears_20
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 1507
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acd7eab2b59d89650800000000000000
+      internalID: 6239976269319929290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      2-ears_0: -5888663636699395619
+      2-ears_1: -4330559701863995670
+      2-ears_10: 1153460917972019305
+      2-ears_11: 4552421564007271337
+      2-ears_12: -7961282594149638015
+      2-ears_13: -6730595294550490853
+      2-ears_14: -667334902580581890
+      2-ears_15: -5928445392011230037
+      2-ears_16: 1954012583339381110
+      2-ears_17: 754198140112988312
+      2-ears_18: -2085335514664307134
+      2-ears_19: -5167573266188583385
+      2-ears_2: -2460280766530929052
+      2-ears_20: 6239976269319929290
+      2-ears_3: -6608634158044339106
+      2-ears_4: 998171684291125696
+      2-ears_5: 3306902238976374381
+      2-ears_6: -750717867411905294
+      2-ears_7: -8815006537965043308
+      2-ears_8: 1988635755672051721
+      2-ears_9: 3973099829120522332
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

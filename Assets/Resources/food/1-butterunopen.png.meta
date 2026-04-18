@@ -1,0 +1,6435 @@
+fileFormatVersion: 2
+guid: 2b24f57e3110c0241aa766d6479cb5c8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -130861992382628887
+    second: 1-butterunopen_0
+  - first:
+      213: 1651053011644112842
+    second: 1-butterunopen_1
+  - first:
+      213: -3921880810340839159
+    second: 1-butterunopen_2
+  - first:
+      213: 6270795912844987099
+    second: 1-butterunopen_3
+  - first:
+      213: -4130743825445343670
+    second: 1-butterunopen_4
+  - first:
+      213: 3439220599460516069
+    second: 1-butterunopen_5
+  - first:
+      213: 6215712320307122040
+    second: 1-butterunopen_6
+  - first:
+      213: -7965275209341916459
+    second: 1-butterunopen_7
+  - first:
+      213: -2294476529182526405
+    second: 1-butterunopen_8
+  - first:
+      213: -4349293599466575732
+    second: 1-butterunopen_9
+  - first:
+      213: -8088510418319357124
+    second: 1-butterunopen_10
+  - first:
+      213: -7403726838180432874
+    second: 1-butterunopen_11
+  - first:
+      213: -2340162527677768134
+    second: 1-butterunopen_12
+  - first:
+      213: 294251350268981545
+    second: 1-butterunopen_13
+  - first:
+      213: -4441668649119636377
+    second: 1-butterunopen_14
+  - first:
+      213: 384105972695242974
+    second: 1-butterunopen_15
+  - first:
+      213: -1743372255436373591
+    second: 1-butterunopen_16
+  - first:
+      213: -2007584919322076879
+    second: 1-butterunopen_17
+  - first:
+      213: 5757518195161322555
+    second: 1-butterunopen_18
+  - first:
+      213: -3850315665881144985
+    second: 1-butterunopen_19
+  - first:
+      213: -8001620638242471410
+    second: 1-butterunopen_20
+  - first:
+      213: -8218295363785828892
+    second: 1-butterunopen_21
+  - first:
+      213: -8966048819706957992
+    second: 1-butterunopen_22
+  - first:
+      213: 1259550741424982926
+    second: 1-butterunopen_23
+  - first:
+      213: 7982433652860148129
+    second: 1-butterunopen_24
+  - first:
+      213: 3916068166545737743
+    second: 1-butterunopen_25
+  - first:
+      213: 7741387927360463497
+    second: 1-butterunopen_26
+  - first:
+      213: 3408775513362288915
+    second: 1-butterunopen_27
+  - first:
+      213: 1938741869847211650
+    second: 1-butterunopen_28
+  - first:
+      213: 3937548707931824842
+    second: 1-butterunopen_29
+  - first:
+      213: -4017066791799310771
+    second: 1-butterunopen_30
+  - first:
+      213: 7689771744918860003
+    second: 1-butterunopen_31
+  - first:
+      213: -3553242634078085549
+    second: 1-butterunopen_32
+  - first:
+      213: 1340490847481193329
+    second: 1-butterunopen_33
+  - first:
+      213: -4665926290316515498
+    second: 1-butterunopen_34
+  - first:
+      213: -3631498209947202980
+    second: 1-butterunopen_35
+  - first:
+      213: -5829349380221992278
+    second: 1-butterunopen_36
+  - first:
+      213: -8119342725155357963
+    second: 1-butterunopen_37
+  - first:
+      213: -5110135552854964032
+    second: 1-butterunopen_38
+  - first:
+      213: -5416099572268966189
+    second: 1-butterunopen_39
+  - first:
+      213: 3031525633033470004
+    second: 1-butterunopen_40
+  - first:
+      213: -1264015024694730460
+    second: 1-butterunopen_41
+  - first:
+      213: 3411343913271498270
+    second: 1-butterunopen_42
+  - first:
+      213: 2104321174930656364
+    second: 1-butterunopen_43
+  - first:
+      213: 2086649899443464821
+    second: 1-butterunopen_44
+  - first:
+      213: -1466577438340490019
+    second: 1-butterunopen_45
+  - first:
+      213: 3587699543766721256
+    second: 1-butterunopen_46
+  - first:
+      213: -9547727957811200
+    second: 1-butterunopen_47
+  - first:
+      213: 5681598500318054274
+    second: 1-butterunopen_48
+  - first:
+      213: -7545484418197762642
+    second: 1-butterunopen_49
+  - first:
+      213: 6564716565536242465
+    second: 1-butterunopen_50
+  - first:
+      213: -4854592645321264163
+    second: 1-butterunopen_51
+  - first:
+      213: -5121109838233622225
+    second: 1-butterunopen_52
+  - first:
+      213: 1572964199431318714
+    second: 1-butterunopen_53
+  - first:
+      213: -4482480469224563864
+    second: 1-butterunopen_54
+  - first:
+      213: -2173172289467795334
+    second: 1-butterunopen_55
+  - first:
+      213: 3269011727533570659
+    second: 1-butterunopen_56
+  - first:
+      213: 6054657228311049248
+    second: 1-butterunopen_57
+  - first:
+      213: -6253274848814421102
+    second: 1-butterunopen_58
+  - first:
+      213: -8223228123896186333
+    second: 1-butterunopen_59
+  - first:
+      213: -1461464232110409868
+    second: 1-butterunopen_60
+  - first:
+      213: 5548227731713024049
+    second: 1-butterunopen_61
+  - first:
+      213: 3413601825960174791
+    second: 1-butterunopen_62
+  - first:
+      213: 260259766279944849
+    second: 1-butterunopen_63
+  - first:
+      213: -3028869958017496292
+    second: 1-butterunopen_64
+  - first:
+      213: 6415508475861601207
+    second: 1-butterunopen_65
+  - first:
+      213: 2439526673635682675
+    second: 1-butterunopen_66
+  - first:
+      213: 7829820892805963257
+    second: 1-butterunopen_67
+  - first:
+      213: 5391169520008406695
+    second: 1-butterunopen_68
+  - first:
+      213: 7437501572297869927
+    second: 1-butterunopen_69
+  - first:
+      213: 7743341560251104879
+    second: 1-butterunopen_70
+  - first:
+      213: 7535247584437213060
+    second: 1-butterunopen_71
+  - first:
+      213: -7340601653419422593
+    second: 1-butterunopen_72
+  - first:
+      213: 6613967734589003379
+    second: 1-butterunopen_73
+  - first:
+      213: 7332467226050194204
+    second: 1-butterunopen_74
+  - first:
+      213: -7928054639943767288
+    second: 1-butterunopen_75
+  - first:
+      213: -1761809674442207762
+    second: 1-butterunopen_76
+  - first:
+      213: -4083829110947150812
+    second: 1-butterunopen_77
+  - first:
+      213: -4594664362679470453
+    second: 1-butterunopen_78
+  - first:
+      213: -1625899911211877432
+    second: 1-butterunopen_79
+  - first:
+      213: -1462764717041159441
+    second: 1-butterunopen_80
+  - first:
+      213: -7656962209385452101
+    second: 1-butterunopen_81
+  - first:
+      213: 7631185568367387829
+    second: 1-butterunopen_82
+  - first:
+      213: 2452129939497564226
+    second: 1-butterunopen_83
+  - first:
+      213: 7127598765602913019
+    second: 1-butterunopen_84
+  - first:
+      213: -6872983128646452983
+    second: 1-butterunopen_85
+  - first:
+      213: -6006088053929224569
+    second: 1-butterunopen_86
+  - first:
+      213: -749137366042725248
+    second: 1-butterunopen_87
+  - first:
+      213: 7575842529005438918
+    second: 1-butterunopen_88
+  - first:
+      213: 1133794238041507759
+    second: 1-butterunopen_89
+  - first:
+      213: -5215933547767185322
+    second: 1-butterunopen_90
+  - first:
+      213: 3812293468690157460
+    second: 1-butterunopen_91
+  - first:
+      213: -6488740237575974113
+    second: 1-butterunopen_92
+  - first:
+      213: 8068068947292184727
+    second: 1-butterunopen_93
+  - first:
+      213: -3250595572415638249
+    second: 1-butterunopen_94
+  - first:
+      213: -4212815887737088918
+    second: 1-butterunopen_95
+  - first:
+      213: -3901581625334451964
+    second: 1-butterunopen_96
+  - first:
+      213: 4471112092548812256
+    second: 1-butterunopen_97
+  - first:
+      213: -1312990041410587984
+    second: 1-butterunopen_98
+  - first:
+      213: 8927899733363109994
+    second: 1-butterunopen_99
+  - first:
+      213: 8266138294222269180
+    second: 1-butterunopen_100
+  - first:
+      213: -3710641285655720531
+    second: 1-butterunopen_101
+  - first:
+      213: -7410755468810768943
+    second: 1-butterunopen_102
+  - first:
+      213: -4074650420796971832
+    second: 1-butterunopen_103
+  - first:
+      213: -7109484521154257724
+    second: 1-butterunopen_104
+  - first:
+      213: -6657071930397266065
+    second: 1-butterunopen_105
+  - first:
+      213: 7855202055772231803
+    second: 1-butterunopen_106
+  - first:
+      213: -5597272033343489495
+    second: 1-butterunopen_107
+  - first:
+      213: 2632701601339547564
+    second: 1-butterunopen_108
+  - first:
+      213: 3013542888163914827
+    second: 1-butterunopen_109
+  - first:
+      213: 1749441577512894200
+    second: 1-butterunopen_110
+  - first:
+      213: -8502301790794243729
+    second: 1-butterunopen_111
+  - first:
+      213: 5261481941785664286
+    second: 1-butterunopen_112
+  - first:
+      213: 4429337247120686416
+    second: 1-butterunopen_113
+  - first:
+      213: -1276574611728808983
+    second: 1-butterunopen_114
+  - first:
+      213: -5121456672597858507
+    second: 1-butterunopen_115
+  - first:
+      213: 5040895141141231963
+    second: 1-butterunopen_116
+  - first:
+      213: 6359380127542933884
+    second: 1-butterunopen_117
+  - first:
+      213: 3230389138532641090
+    second: 1-butterunopen_118
+  - first:
+      213: 7610317643898163070
+    second: 1-butterunopen_119
+  - first:
+      213: 276771888805773384
+    second: 1-butterunopen_120
+  - first:
+      213: 4186267931561828103
+    second: 1-butterunopen_121
+  - first:
+      213: -7079497652876035006
+    second: 1-butterunopen_122
+  - first:
+      213: 500209118157426144
+    second: 1-butterunopen_123
+  - first:
+      213: -4472650128205300980
+    second: 1-butterunopen_124
+  - first:
+      213: -7161180115686547835
+    second: 1-butterunopen_125
+  - first:
+      213: 8952588351353492928
+    second: 1-butterunopen_126
+  - first:
+      213: -8078751158684448537
+    second: 1-butterunopen_127
+  - first:
+      213: 1627501184379259853
+    second: 1-butterunopen_128
+  - first:
+      213: 7548421128848644073
+    second: 1-butterunopen_129
+  - first:
+      213: 9098366041577302815
+    second: 1-butterunopen_130
+  - first:
+      213: -4598082802189096026
+    second: 1-butterunopen_131
+  - first:
+      213: 2622517953816460246
+    second: 1-butterunopen_132
+  - first:
+      213: 5864527597933958819
+    second: 1-butterunopen_133
+  - first:
+      213: 3371844274419382706
+    second: 1-butterunopen_134
+  - first:
+      213: 7109205493045913528
+    second: 1-butterunopen_135
+  - first:
+      213: 3471250208108492366
+    second: 1-butterunopen_136
+  - first:
+      213: -7838595524486734937
+    second: 1-butterunopen_137
+  - first:
+      213: 1725515806034968777
+    second: 1-butterunopen_138
+  - first:
+      213: -3506676132678701282
+    second: 1-butterunopen_139
+  - first:
+      213: 4221151862755584357
+    second: 1-butterunopen_140
+  - first:
+      213: 1439104521600287793
+    second: 1-butterunopen_141
+  - first:
+      213: 5910150222877667439
+    second: 1-butterunopen_142
+  - first:
+      213: 3104036232082170512
+    second: 1-butterunopen_143
+  - first:
+      213: 7286545235276475103
+    second: 1-butterunopen_144
+  - first:
+      213: -4288243910332306777
+    second: 1-butterunopen_145
+  - first:
+      213: -768514215031826700
+    second: 1-butterunopen_146
+  - first:
+      213: 4883902518982072408
+    second: 1-butterunopen_147
+  - first:
+      213: 2821496567321433034
+    second: 1-butterunopen_148
+  - first:
+      213: -3369395199633852917
+    second: 1-butterunopen_149
+  - first:
+      213: 7163739489378598650
+    second: 1-butterunopen_150
+  - first:
+      213: 5777708161481638505
+    second: 1-butterunopen_151
+  - first:
+      213: -7068999165243181217
+    second: 1-butterunopen_152
+  - first:
+      213: 7684580981290414241
+    second: 1-butterunopen_153
+  - first:
+      213: -5090573396361053017
+    second: 1-butterunopen_154
+  - first:
+      213: -7287276072238661157
+    second: 1-butterunopen_155
+  - first:
+      213: 7895701566124348396
+    second: 1-butterunopen_156
+  - first:
+      213: 5750641805662708177
+    second: 1-butterunopen_157
+  - first:
+      213: -478139614712727893
+    second: 1-butterunopen_158
+  - first:
+      213: 3758833417075041210
+    second: 1-butterunopen_159
+  - first:
+      213: 3746990571688538868
+    second: 1-butterunopen_160
+  - first:
+      213: 6168583977422702096
+    second: 1-butterunopen_161
+  - first:
+      213: 4185910168032360230
+    second: 1-butterunopen_162
+  - first:
+      213: -9109378249489476316
+    second: 1-butterunopen_163
+  - first:
+      213: -4333282000854803132
+    second: 1-butterunopen_164
+  - first:
+      213: -4492217435849064078
+    second: 1-butterunopen_165
+  - first:
+      213: 628030164978372382
+    second: 1-butterunopen_166
+  - first:
+      213: -7109718470662170712
+    second: 1-butterunopen_167
+  - first:
+      213: 1160569229558293808
+    second: 1-butterunopen_168
+  - first:
+      213: -679443295103110633
+    second: 1-butterunopen_169
+  - first:
+      213: -8363934127143043283
+    second: 1-butterunopen_170
+  - first:
+      213: 8435441113202900107
+    second: 1-butterunopen_171
+  - first:
+      213: -1823471571558165076
+    second: 1-butterunopen_172
+  - first:
+      213: 4882102376504839018
+    second: 1-butterunopen_173
+  - first:
+      213: 100515878557517700
+    second: 1-butterunopen_174
+  - first:
+      213: 4273151471563008629
+    second: 1-butterunopen_175
+  - first:
+      213: 5277414640603252419
+    second: 1-butterunopen_176
+  - first:
+      213: -8618140584969926722
+    second: 1-butterunopen_177
+  - first:
+      213: 4741065878544568848
+    second: 1-butterunopen_178
+  - first:
+      213: -5448878519077470042
+    second: 1-butterunopen_179
+  - first:
+      213: 574767056066686696
+    second: 1-butterunopen_180
+  - first:
+      213: -2527288966491094033
+    second: 1-butterunopen_181
+  - first:
+      213: 4185324509187705893
+    second: 1-butterunopen_182
+  - first:
+      213: 3546123388042637524
+    second: 1-butterunopen_183
+  - first:
+      213: 5420314310623432563
+    second: 1-butterunopen_184
+  - first:
+      213: 4075875566269317008
+    second: 1-butterunopen_185
+  - first:
+      213: 4009636782455735034
+    second: 1-butterunopen_186
+  - first:
+      213: -5261884079354635532
+    second: 1-butterunopen_187
+  - first:
+      213: -2800330083397210501
+    second: 1-butterunopen_188
+  - first:
+      213: -2559860091334480386
+    second: 1-butterunopen_189
+  - first:
+      213: -730594318889723235
+    second: 1-butterunopen_190
+  - first:
+      213: 4718189478596808011
+    second: 1-butterunopen_191
+  - first:
+      213: 702893707631978962
+    second: 1-butterunopen_192
+  - first:
+      213: -8054506186096145641
+    second: 1-butterunopen_193
+  - first:
+      213: -2343527400363550488
+    second: 1-butterunopen_194
+  - first:
+      213: 3255358754258498509
+    second: 1-butterunopen_195
+  - first:
+      213: 5615417516767022021
+    second: 1-butterunopen_196
+  - first:
+      213: 4080928047247535677
+    second: 1-butterunopen_197
+  - first:
+      213: 6224217416899172787
+    second: 1-butterunopen_198
+  - first:
+      213: 2560565044976041876
+    second: 1-butterunopen_199
+  - first:
+      213: -2495244599984657012
+    second: 1-butterunopen_200
+  - first:
+      213: 4073187844578122223
+    second: 1-butterunopen_201
+  - first:
+      213: -671518000370224524
+    second: 1-butterunopen_202
+  - first:
+      213: 1240564049233085015
+    second: 1-butterunopen_203
+  - first:
+      213: -3123064721533493322
+    second: 1-butterunopen_204
+  - first:
+      213: -447067383680869182
+    second: 1-butterunopen_205
+  - first:
+      213: 435918177599770899
+    second: 1-butterunopen_206
+  - first:
+      213: 2040584375761112158
+    second: 1-butterunopen_207
+  - first:
+      213: 4163724424793602403
+    second: 1-butterunopen_208
+  - first:
+      213: -6638045705439875442
+    second: 1-butterunopen_209
+  - first:
+      213: 5056541055482701067
+    second: 1-butterunopen_210
+  - first:
+      213: 5373834598575061896
+    second: 1-butterunopen_211
+  - first:
+      213: -2320060678740494927
+    second: 1-butterunopen_212
+  - first:
+      213: 1727259153183180516
+    second: 1-butterunopen_213
+  - first:
+      213: 4189225257984534247
+    second: 1-butterunopen_214
+  - first:
+      213: -4229022284067299198
+    second: 1-butterunopen_215
+  - first:
+      213: -8449987994658508986
+    second: 1-butterunopen_216
+  - first:
+      213: 7530128327938718349
+    second: 1-butterunopen_217
+  - first:
+      213: -7684640355794858012
+    second: 1-butterunopen_218
+  - first:
+      213: -3024153005143309566
+    second: 1-butterunopen_219
+  - first:
+      213: -8918752630449963412
+    second: 1-butterunopen_220
+  - first:
+      213: 6223368579021974653
+    second: 1-butterunopen_221
+  - first:
+      213: -4122660342318011987
+    second: 1-butterunopen_222
+  - first:
+      213: 6890381242556087964
+    second: 1-butterunopen_223
+  - first:
+      213: -3026050793788208942
+    second: 1-butterunopen_224
+  - first:
+      213: -1980807018348690616
+    second: 1-butterunopen_225
+  - first:
+      213: -3065843931364613336
+    second: 1-butterunopen_226
+  - first:
+      213: 1427203711583552780
+    second: 1-butterunopen_227
+  - first:
+      213: -9064805579910387017
+    second: 1-butterunopen_228
+  - first:
+      213: -8206719939676621050
+    second: 1-butterunopen_229
+  - first:
+      213: 3290632150021786907
+    second: 1-butterunopen_230
+  - first:
+      213: 1074275844678336339
+    second: 1-butterunopen_231
+  - first:
+      213: 8805142834773559437
+    second: 1-butterunopen_232
+  - first:
+      213: -3913137573340067823
+    second: 1-butterunopen_233
+  - first:
+      213: -791940954201429942
+    second: 1-butterunopen_234
+  - first:
+      213: -7918230937948393002
+    second: 1-butterunopen_235
+  - first:
+      213: -4500101316814799495
+    second: 1-butterunopen_236
+  - first:
+      213: -9076216507043221738
+    second: 1-butterunopen_237
+  - first:
+      213: -6467142646055375367
+    second: 1-butterunopen_238
+  - first:
+      213: -7845617407610467407
+    second: 1-butterunopen_239
+  - first:
+      213: -8765614405666208145
+    second: 1-butterunopen_240
+  - first:
+      213: 7197447505145492753
+    second: 1-butterunopen_241
+  - first:
+      213: 7861870720161203623
+    second: 1-butterunopen_242
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 1-butterunopen_0
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 2846
+        width: 78
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ebfe6516b51f2ef0800000000000000
+      internalID: -130861992382628887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butterunopen_1
+      rect:
+        serializedVersion: 2
+        x: 1109
+        y: 2845
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acfd26867f7b9e610800000000000000
+      internalID: 1651053011644112842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butterunopen_2
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 2856
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90196389e2ea299c0800000000000000
+      internalID: -3921880810340839159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butterunopen_3
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 2845
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdac81c98a7560750800000000000000
+      internalID: 6270795912844987099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butterunopen_4
+      rect:
+        serializedVersion: 2
+        x: 1123
+        y: 2843
+        width: 55
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4e213a5066aca6c0800000000000000
+      internalID: -4130743825445343670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butterunopen_5
+      rect:
+        serializedVersion: 2
+        x: 1177
+        y: 2841
+        width: 40
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e0dc07d9e09abf20800000000000000
+      internalID: 3439220599460516069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butterunopen_6
+      rect:
+        serializedVersion: 2
+        x: 1217
+        y: 2847
+        width: 33
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87fcced4c65a24650800000000000000
+      internalID: 6215712320307122040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butterunopen_7
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 2846
+        width: 21
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5da23f02668a57190800000000000000
+      internalID: -7965275209341916459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butterunopen_8
+      rect:
+        serializedVersion: 2
+        x: 1273
+        y: 2846
+        width: 60
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b34ba9cd0c16820e0800000000000000
+      internalID: -2294476529182526405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butterunopen_9
+      rect:
+        serializedVersion: 2
+        x: 1569
+        y: 2712
+        width: 72
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c882aebc38434a3c0800000000000000
+      internalID: -4349293599466575732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butterunopen_10
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 2772
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3b470a11a6dfbf80800000000000000
+      internalID: -8088510418319357124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butterunopen_11
+      rect:
+        serializedVersion: 2
+        x: 1638
+        y: 2707
+        width: 72
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 614ba34daada04990800000000000000
+      internalID: -7403726838180432874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butterunopen_12
+      rect:
+        serializedVersion: 2
+        x: 1638
+        y: 2771
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3e161d6492168fd0800000000000000
+      internalID: -2340162527677768134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butterunopen_13
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 2679
+        width: 152
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92136774b04651400800000000000000
+      internalID: 294251350268981545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butterunopen_14
+      rect:
+        serializedVersion: 2
+        x: 1519
+        y: 2748
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7642c3785e50c52c0800000000000000
+      internalID: -4441668649119636377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butterunopen_15
+      rect:
+        serializedVersion: 2
+        x: 1535
+        y: 2755
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed81b9ad85e945500800000000000000
+      internalID: 384105972695242974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butterunopen_16
+      rect:
+        serializedVersion: 2
+        x: 1541
+        y: 2745
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a18173ab2c4ec7e0800000000000000
+      internalID: -1743372255436373591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butterunopen_17
+      rect:
+        serializedVersion: 2
+        x: 1563
+        y: 2751
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 139506b0720a324e0800000000000000
+      internalID: -2007584919322076879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butterunopen_18
+      rect:
+        serializedVersion: 2
+        x: 1614
+        y: 2759
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b34507a3b40d6ef40800000000000000
+      internalID: 5757518195161322555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butterunopen_19
+      rect:
+        serializedVersion: 2
+        x: 1528
+        y: 2737
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 761680e3d4ee09ac0800000000000000
+      internalID: -3850315665881144985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butterunopen_20
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 2729
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e028f168c6884f090800000000000000
+      internalID: -8001620638242471410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butterunopen_21
+      rect:
+        serializedVersion: 2
+        x: 1548
+        y: 2730
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e55e46b8efb2fd80800000000000000
+      internalID: -8218295363785828892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butterunopen_22
+      rect:
+        serializedVersion: 2
+        x: 1552
+        y: 2736
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85f6e864a12329380800000000000000
+      internalID: -8966048819706957992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butterunopen_23
+      rect:
+        serializedVersion: 2
+        x: 1561
+        y: 2739
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8b4737d9b2da7110800000000000000
+      internalID: 1259550741424982926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butterunopen_24
+      rect:
+        serializedVersion: 2
+        x: 1567
+        y: 2737
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a95ad15d1d47ce60800000000000000
+      internalID: 7982433652860148129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butterunopen_25
+      rect:
+        serializedVersion: 2
+        x: 1589
+        y: 2731
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f088c2fcf3ba85630800000000000000
+      internalID: 3916068166545737743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butterunopen_26
+      rect:
+        serializedVersion: 2
+        x: 1605
+        y: 2739
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98261d6ed4fee6b60800000000000000
+      internalID: 7741387927360463497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butterunopen_27
+      rect:
+        serializedVersion: 2
+        x: 1615
+        y: 2737
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3115209d4476e4f20800000000000000
+      internalID: 3408775513362288915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butterunopen_28
+      rect:
+        serializedVersion: 2
+        x: 1622
+        y: 2737
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28e6b6f657bc7ea10800000000000000
+      internalID: 1938741869847211650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butterunopen_29
+      rect:
+        serializedVersion: 2
+        x: 1625
+        y: 2735
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac2231610bbf4a630800000000000000
+      internalID: 3937548707931824842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butterunopen_30
+      rect:
+        serializedVersion: 2
+        x: 1626
+        y: 2742
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d46b8c349038048c0800000000000000
+      internalID: -4017066791799310771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butterunopen_31
+      rect:
+        serializedVersion: 2
+        x: 1630
+        y: 2738
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e079bbe8ae87ba60800000000000000
+      internalID: 7689771744918860003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butterunopen_32
+      rect:
+        serializedVersion: 2
+        x: 1634
+        y: 2736
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35e900376a850bec0800000000000000
+      internalID: -3553242634078085549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butterunopen_33
+      rect:
+        serializedVersion: 2
+        x: 1637
+        y: 2741
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17367c4d2516a9210800000000000000
+      internalID: 1340490847481193329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butterunopen_34
+      rect:
+        serializedVersion: 2
+        x: 1530
+        y: 2730
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 657278592cc4f3fb0800000000000000
+      internalID: -4665926290316515498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butterunopen_35
+      rect:
+        serializedVersion: 2
+        x: 1566
+        y: 2730
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5a41a95e935a9dc0800000000000000
+      internalID: -3631498209947202980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butterunopen_36
+      rect:
+        serializedVersion: 2
+        x: 1617
+        y: 2732
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa28938bf9df91fa0800000000000000
+      internalID: -5829349380221992278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butterunopen_37
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 2725
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fa76714fcc425f80800000000000000
+      internalID: -8119342725155357963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butterunopen_38
+      rect:
+        serializedVersion: 2
+        x: 1526
+        y: 2718
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c84cf11ac62519b0800000000000000
+      internalID: -5110135552854964032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butterunopen_39
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 2704
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3de53ce722626d4b0800000000000000
+      internalID: -5416099572268966189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butterunopen_40
+      rect:
+        serializedVersion: 2
+        x: 1538
+        y: 2719
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43083746084221a20800000000000000
+      internalID: 3031525633033470004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butterunopen_41
+      rect:
+        serializedVersion: 2
+        x: 1551
+        y: 2719
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42160563801557ee0800000000000000
+      internalID: -1264015024694730460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butterunopen_42
+      rect:
+        serializedVersion: 2
+        x: 1566
+        y: 2722
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e161d3d0737875f20800000000000000
+      internalID: 3411343913271498270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butterunopen_43
+      rect:
+        serializedVersion: 2
+        x: 1574
+        y: 2720
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6c031d95fc043d10800000000000000
+      internalID: 2104321174930656364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butterunopen_44
+      rect:
+        serializedVersion: 2
+        x: 1582
+        y: 2722
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57aaeea270545fc10800000000000000
+      internalID: 2086649899443464821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butterunopen_45
+      rect:
+        serializedVersion: 2
+        x: 1596
+        y: 2720
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddcdc10179ba5abe0800000000000000
+      internalID: -1466577438340490019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butterunopen_46
+      rect:
+        serializedVersion: 2
+        x: 1603
+        y: 2720
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e2eb030ab11ac130800000000000000
+      internalID: 3587699543766721256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butterunopen_47
+      rect:
+        serializedVersion: 2
+        x: 1610
+        y: 2718
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 000a9aa54641edff0800000000000000
+      internalID: -9547727957811200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butterunopen_48
+      rect:
+        serializedVersion: 2
+        x: 1626
+        y: 2725
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28789dfcbb719de40800000000000000
+      internalID: 5681598500318054274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butterunopen_49
+      rect:
+        serializedVersion: 2
+        x: 1513
+        y: 2702
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eadc31b36ed094790800000000000000
+      internalID: -7545484418197762642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butterunopen_50
+      rect:
+        serializedVersion: 2
+        x: 1530
+        y: 2660
+        width: 220
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12bf8eb5fee8a1b50800000000000000
+      internalID: 6564716565536242465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butterunopen_51
+      rect:
+        serializedVersion: 2
+        x: 1554
+        y: 2701
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd3f666b5b501acb0800000000000000
+      internalID: -4854592645321264163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butterunopen_52
+      rect:
+        serializedVersion: 2
+        x: 1562
+        y: 2710
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f29a3542cb92ee8b0800000000000000
+      internalID: -5121109838233622225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butterunopen_53
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 2711
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abca28ffa9a44d510800000000000000
+      internalID: 1572964199431318714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butterunopen_54
+      rect:
+        serializedVersion: 2
+        x: 1569
+        y: 2705
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86b5e3f23c70bc1c0800000000000000
+      internalID: -4482480469224563864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butterunopen_55
+      rect:
+        serializedVersion: 2
+        x: 1578
+        y: 2705
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a78bc82115757d1e0800000000000000
+      internalID: -2173172289467795334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butterunopen_56
+      rect:
+        serializedVersion: 2
+        x: 1581
+        y: 2706
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36a7932a8dcdd5d20800000000000000
+      internalID: 3269011727533570659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butterunopen_57
+      rect:
+        serializedVersion: 2
+        x: 1590
+        y: 2705
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0243b329ba6760450800000000000000
+      internalID: 6054657228311049248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butterunopen_58
+      rect:
+        serializedVersion: 2
+        x: 1591
+        y: 2700
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29b288108a7e739a0800000000000000
+      internalID: -6253274848814421102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butterunopen_59
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 2706
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32a7a20079931ed80800000000000000
+      internalID: -8223228123896186333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butterunopen_60
+      rect:
+        serializedVersion: 2
+        x: 1604
+        y: 2704
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 477be192606d7bbe0800000000000000
+      internalID: -1461464232110409868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butterunopen_61
+      rect:
+        serializedVersion: 2
+        x: 1617
+        y: 2707
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 130e9b9e9b34ffc40800000000000000
+      internalID: 5548227731713024049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butterunopen_62
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 2705
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c42bf056cc8f5f20800000000000000
+      internalID: 3413601825960174791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butterunopen_63
+      rect:
+        serializedVersion: 2
+        x: 1629
+        y: 2706
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19a3176e0e0ac9300800000000000000
+      internalID: 260259766279944849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butterunopen_64
+      rect:
+        serializedVersion: 2
+        x: 1634
+        y: 2709
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1bc38122da47f5d0800000000000000
+      internalID: -3028869958017496292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butterunopen_65
+      rect:
+        serializedVersion: 2
+        x: 1639
+        y: 2706
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bb0d3dc7f6780950800000000000000
+      internalID: 6415508475861601207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butterunopen_66
+      rect:
+        serializedVersion: 2
+        x: 1648
+        y: 2712
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3792522a590fad120800000000000000
+      internalID: 2439526673635682675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butterunopen_67
+      rect:
+        serializedVersion: 2
+        x: 1523
+        y: 2678
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fd91aa2e9c19ac60800000000000000
+      internalID: 7829820892805963257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butterunopen_68
+      rect:
+        serializedVersion: 2
+        x: 1744
+        y: 2665
+        width: 25
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a6a3046d1841da40800000000000000
+      internalID: 5391169520008406695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butterunopen_69
+      rect:
+        serializedVersion: 2
+        x: 1768
+        y: 2653
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76a49314640573760800000000000000
+      internalID: 7437501572297869927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butterunopen_70
+      rect:
+        serializedVersion: 2
+        x: 1698
+        y: 2656
+        width: 44
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6e39418f10e57b60800000000000000
+      internalID: 7743341560251104879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butterunopen_71
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 2654
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 487100d21c3929860800000000000000
+      internalID: 7535247584437213060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butterunopen_72
+      rect:
+        serializedVersion: 2
+        x: 1757
+        y: 2653
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7c4a4a30b1f02a90800000000000000
+      internalID: -7340601653419422593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butterunopen_73
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 2478
+        width: 33
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3769210cc9889cb50800000000000000
+      internalID: 6613967734589003379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butterunopen_74
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 2500
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1b6aefc71822c560800000000000000
+      internalID: 7332467226050194204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butterunopen_75
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 772
+        width: 1316
+        height: 1789
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80ba3424f44e9f190800000000000000
+      internalID: -7928054639943767288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butterunopen_76
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 2484
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eed86018f6bcc87e0800000000000000
+      internalID: -1761809674442207762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butterunopen_77
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 2486
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42488968f035357c0800000000000000
+      internalID: -4083829110947150812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butterunopen_78
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 2144
+        width: 120
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b86f7501b197c30c0800000000000000
+      internalID: -4594664362679470453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butterunopen_79
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 2445
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cb70e725a4af69e0800000000000000
+      internalID: -1625899911211877432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butterunopen_80
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 2448
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe279ca6d3733bbe0800000000000000
+      internalID: -1462764717041159441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butterunopen_81
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 2441
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbd6dfa50710db590800000000000000
+      internalID: -7656962209385452101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butterunopen_82
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 2420
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b420a9b7da67e960800000000000000
+      internalID: 7631185568367387829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butterunopen_83
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 2429
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2483ad22037b70220800000000000000
+      internalID: 2452129939497564226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butterunopen_84
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 2386
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfa364d40515ae260800000000000000
+      internalID: 7127598765602913019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butterunopen_85
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 2373
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90976c552424e90a0800000000000000
+      internalID: -6872983128646452983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butterunopen_86
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 2374
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 786d4df8cb616aca0800000000000000
+      internalID: -6006088053929224569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butterunopen_87
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 2366
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0843d01e8878a95f0800000000000000
+      internalID: -749137366042725248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butterunopen_88
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 2321
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c78aaf34acc22960800000000000000
+      internalID: 7575842529005438918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butterunopen_89
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 2361
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa749d63adb0cbf00800000000000000
+      internalID: 1133794238041507759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butterunopen_90
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 2332
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6504b41d2184d97b0800000000000000
+      internalID: -5215933547767185322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butterunopen_91
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 2325
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49f81dc16bcf7e430800000000000000
+      internalID: 3812293468690157460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butterunopen_92
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 2316
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f13108bf12d53f5a0800000000000000
+      internalID: -6488740237575974113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butterunopen_93
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 2231
+        width: 53
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 790e5ba06f987ff60800000000000000
+      internalID: 8068068947292184727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butterunopen_94
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 2282
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71555bd9c8093e2d0800000000000000
+      internalID: -3250595572415638249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butterunopen_95
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 2265
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a641f4345421985c0800000000000000
+      internalID: -4212815887737088918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butterunopen_96
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 2240
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 401bfb7ee2ccad9c0800000000000000
+      internalID: -3901581625334451964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butterunopen_97
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 2165
+        width: 27
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ed435b52c49c0e30800000000000000
+      internalID: 4471112092548812256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butterunopen_98
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 2231
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b2b81c838257cde0800000000000000
+      internalID: -1312990041410587984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butterunopen_99
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 2194
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a60b965618546eb70800000000000000
+      internalID: 8927899733363109994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butterunopen_100
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 2185
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfa2f539bf837b270800000000000000
+      internalID: 8266138294222269180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butterunopen_101
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 2136
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dad87971967218cc0800000000000000
+      internalID: -3710641285655720531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butterunopen_102
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 2162
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dd204c3a25b72990800000000000000
+      internalID: -7410755468810768943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butterunopen_103
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 2161
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c4208cd70fe377c0800000000000000
+      internalID: -4074650420796971832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butterunopen_104
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 2149
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cc5674ee79065d90800000000000000
+      internalID: -7109484521154257724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butterunopen_105
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 2114
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6f627899545d93a0800000000000000
+      internalID: -6657071930397266065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butterunopen_106
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 2129
+        width: 19
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b78d83da6a8430d60800000000000000
+      internalID: 7855202055772231803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butterunopen_107
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 2119
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92a3555cdbe7252b0800000000000000
+      internalID: -5597272033343489495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butterunopen_108
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 2125
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caf1273682c398420800000000000000
+      internalID: 2632701601339547564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butterunopen_109
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 2112
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b443a645a4142d920800000000000000
+      internalID: 3013542888163914827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butterunopen_110
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 2092
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fe74f688d3474810800000000000000
+      internalID: 1749441577512894200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butterunopen_111
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 2116
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f61aa828191c10a80800000000000000
+      internalID: -8502301790794243729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butterunopen_112
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 2081
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1b544413f9840940800000000000000
+      internalID: 5261481941785664286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butterunopen_113
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 2096
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05df80532ca287d30800000000000000
+      internalID: 4429337247120686416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butterunopen_114
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 2075
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e34f9a7722b84ee0800000000000000
+      internalID: -1276574611728808983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butterunopen_115
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 2078
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53720497a4eece8b0800000000000000
+      internalID: -5121456672597858507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butterunopen_116
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 2083
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5937bd4c6bd4f540800000000000000
+      internalID: 5040895141141231963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butterunopen_117
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 2085
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c79ffd5588e014850800000000000000
+      internalID: 6359380127542933884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butterunopen_118
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 1916
+        width: 118
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 249a4806ec5a4dc20800000000000000
+      internalID: 3230389138532641090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butterunopen_119
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 2062
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7f007073974d9960800000000000000
+      internalID: 7610317643898163070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butterunopen_120
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 2049
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8400514019a47d300800000000000000
+      internalID: 276771888805773384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butterunopen_121
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 2066
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70f1a53018c981a30800000000000000
+      internalID: 4186267931561828103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butterunopen_122
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 2070
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24cbc1cb46290cd90800000000000000
+      internalID: -7079497652876035006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butterunopen_123
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 2029
+        width: 52
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ed4f21fa8911f600800000000000000
+      internalID: 500209118157426144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butterunopen_124
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 2028
+        width: 13
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0bb7bfc764fde1c0800000000000000
+      internalID: -4472650128205300980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butterunopen_125
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 2022
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58e99e750a06e9c90800000000000000
+      internalID: -7161180115686547835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butterunopen_126
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 1999
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c599b63cabfd3c70800000000000000
+      internalID: 8952588351353492928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butterunopen_127
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 2027
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e886ddcf9282ef80800000000000000
+      internalID: -8078751158684448537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butterunopen_128
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 1988
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcb047e44bb069610800000000000000
+      internalID: 1627501184379259853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butterunopen_129
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 1983
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e79310060161c860800000000000000
+      internalID: 7548421128848644073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butterunopen_130
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 1969
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1b21b8a5b3e34e70800000000000000
+      internalID: 9098366041577302815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butterunopen_131
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 1962
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6abafa79d045030c0800000000000000
+      internalID: -4598082802189096026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butterunopen_132
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 1815
+        width: 65
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6db705e2f2e056420800000000000000
+      internalID: 2622517953816460246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butterunopen_133
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1949
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a6145a57ccf26150800000000000000
+      internalID: 5864527597933958819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butterunopen_134
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 1956
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b9b3b6b0823bce20800000000000000
+      internalID: 3371844274419382706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butterunopen_135
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 1952
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b7e140dab8f8a260800000000000000
+      internalID: 7109205493045913528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butterunopen_136
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 1928
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e46becc3cab5c2030800000000000000
+      internalID: 3471250208108492366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butterunopen_137
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1891
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ab5001b6e6b73390800000000000000
+      internalID: -7838595524486734937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butterunopen_138
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 1680
+        width: 87
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c04901cb7342f710800000000000000
+      internalID: 1725515806034968777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butterunopen_139
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 1808
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1f6851f2a8c55fc0800000000000000
+      internalID: -3506676132678701282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butterunopen_140
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 1807
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 569668a214b849a30800000000000000
+      internalID: 4221151862755584357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butterunopen_141
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 1808
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 134c4ac00f9b8f310800000000000000
+      internalID: 1439104521600287793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butterunopen_142
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 1807
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f60b1db7052150250800000000000000
+      internalID: 5910150222877667439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butterunopen_143
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 1801
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0922337d180c31b20800000000000000
+      internalID: 3104036232082170512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butterunopen_144
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1776
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fda287429420f1560800000000000000
+      internalID: 7286545235276475103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butterunopen_145
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 1772
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7aa296632e81d74c0800000000000000
+      internalID: -4288243910332306777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butterunopen_146
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 1782
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f69038a460b555f0800000000000000
+      internalID: -768514215031826700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butterunopen_147
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 1764
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 858df89077b17c340800000000000000
+      internalID: 4883902518982072408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butterunopen_148
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 1707
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac39d26dd28f72720800000000000000
+      internalID: 2821496567321433034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butterunopen_149
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 1712
+        width: 52
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b06fae1fae08d31d0800000000000000
+      internalID: -3369395199633852917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butterunopen_150
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 1710
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afe79d74c17ba6360800000000000000
+      internalID: 7163739489378598650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butterunopen_151
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 1706
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9620df416fa8e2050800000000000000
+      internalID: 5777708161481638505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butterunopen_152
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 1718
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f57b52e56bed5ed90800000000000000
+      internalID: -7068999165243181217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butterunopen_153
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 1705
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a0b98510bd15aa60800000000000000
+      internalID: 7684580981290414241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butterunopen_154
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 1701
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ac78de8776aa59b0800000000000000
+      internalID: -5090573396361053017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butterunopen_155
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 1718
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd1c20e95056eda90800000000000000
+      internalID: -7287276072238661157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butterunopen_156
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 1717
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce3565dbdba239d60800000000000000
+      internalID: 7895701566124348396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butterunopen_157
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1703
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d1690901426ecf40800000000000000
+      internalID: 5750641805662708177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butterunopen_158
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 1701
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba67100cd8e4d59f0800000000000000
+      internalID: -478139614712727893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butterunopen_159
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 1662
+        width: 55
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab320a2e31f0a2430800000000000000
+      internalID: 3758833417075041210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butterunopen_160
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 1692
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f2bb32921cfff330800000000000000
+      internalID: 3746990571688538868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butterunopen_161
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 1691
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0164275e1763b9550800000000000000
+      internalID: 6168583977422702096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butterunopen_162
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 1656
+        width: 30
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 627b343be17571a30800000000000000
+      internalID: 4185910168032360230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butterunopen_163
+      rect:
+        serializedVersion: 2
+        x: 1858
+        y: 1326
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4259282eebcf49180800000000000000
+      internalID: -9109378249489476316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butterunopen_164
+      rect:
+        serializedVersion: 2
+        x: 1858
+        y: 1314
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44d947b9af61dd3c0800000000000000
+      internalID: -4333282000854803132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butterunopen_165
+      rect:
+        serializedVersion: 2
+        x: 1866
+        y: 1321
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 271866afa0078a1c0800000000000000
+      internalID: -4492217435849064078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butterunopen_166
+      rect:
+        serializedVersion: 2
+        x: 1875
+        y: 1321
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1f04cb8b1637b800800000000000000
+      internalID: 628030164978372382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butterunopen_167
+      rect:
+        serializedVersion: 2
+        x: 1900
+        y: 1320
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a7d52748b4355d90800000000000000
+      internalID: -7109718470662170712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butterunopen_168
+      rect:
+        serializedVersion: 2
+        x: 1855
+        y: 1316
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0352219b09b2b1010800000000000000
+      internalID: 1160569229558293808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butterunopen_169
+      rect:
+        serializedVersion: 2
+        x: 1868
+        y: 1317
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 712bb564ce12296f0800000000000000
+      internalID: -679443295103110633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butterunopen_170
+      rect:
+        serializedVersion: 2
+        x: 1854
+        y: 1297
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2f3fd2b9365deb80800000000000000
+      internalID: -8363934127143043283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butterunopen_171
+      rect:
+        serializedVersion: 2
+        x: 1857
+        y: 1297
+        width: 27
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8c3f24eff4b01570800000000000000
+      internalID: 8435441113202900107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butterunopen_172
+      rect:
+        serializedVersion: 2
+        x: 1885
+        y: 1299
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca5904f444ab1b6e0800000000000000
+      internalID: -1823471571558165076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butterunopen_173
+      rect:
+        serializedVersion: 2
+        x: 1855
+        y: 1286
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6b49a4be36b0c340800000000000000
+      internalID: 4882102376504839018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butterunopen_174
+      rect:
+        serializedVersion: 2
+        x: 1861
+        y: 1267
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48705b3b8aa156100800000000000000
+      internalID: 100515878557517700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butterunopen_175
+      rect:
+        serializedVersion: 2
+        x: 1874
+        y: 1265
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57a63fd8f984d4b30800000000000000
+      internalID: 4273151471563008629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butterunopen_176
+      rect:
+        serializedVersion: 2
+        x: 1879
+        y: 1270
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c64a9997a42d3940800000000000000
+      internalID: 5277414640603252419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butterunopen_177
+      rect:
+        serializedVersion: 2
+        x: 1875
+        y: 1250
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb78d708cc6366880800000000000000
+      internalID: -8618140584969926722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butterunopen_178
+      rect:
+        serializedVersion: 2
+        x: 1857
+        y: 1231
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 012df5b1c46abc140800000000000000
+      internalID: 4741065878544568848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butterunopen_179
+      rect:
+        serializedVersion: 2
+        x: 1865
+        y: 1231
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a081263bd1b164b0800000000000000
+      internalID: -5448878519077470042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butterunopen_180
+      rect:
+        serializedVersion: 2
+        x: 1875
+        y: 1234
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8eea37d979bf9f700800000000000000
+      internalID: 574767056066686696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butterunopen_181
+      rect:
+        serializedVersion: 2
+        x: 1896
+        y: 1230
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe3c88b33144decd0800000000000000
+      internalID: -2527288966491094033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butterunopen_182
+      rect:
+        serializedVersion: 2
+        x: 1912
+        y: 1236
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52c8edf5772451a30800000000000000
+      internalID: 4185324509187705893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butterunopen_183
+      rect:
+        serializedVersion: 2
+        x: 1857
+        y: 1225
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d07cf9ee6c563130800000000000000
+      internalID: 3546123388042637524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butterunopen_184
+      rect:
+        serializedVersion: 2
+        x: 1875
+        y: 1225
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37f0dafb523d83b40800000000000000
+      internalID: 5420314310623432563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butterunopen_185
+      rect:
+        serializedVersion: 2
+        x: 1857
+        y: 1212
+        width: 22
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09f3d2c8b3b609830800000000000000
+      internalID: 4075875566269317008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butterunopen_186
+      rect:
+        serializedVersion: 2
+        x: 1897
+        y: 1204
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af24d90e86715a730800000000000000
+      internalID: 4009636782455735034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butterunopen_187
+      rect:
+        serializedVersion: 2
+        x: 1857
+        y: 1200
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fa98c8fe480af6b0800000000000000
+      internalID: -5261884079354635532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butterunopen_188
+      rect:
+        serializedVersion: 2
+        x: 1863
+        y: 1200
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7ee44d30aa3329d0800000000000000
+      internalID: -2800330083397210501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butterunopen_189
+      rect:
+        serializedVersion: 2
+        x: 1879
+        y: 1200
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efd2f454fcc897cd0800000000000000
+      internalID: -2559860091334480386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butterunopen_190
+      rect:
+        serializedVersion: 2
+        x: 1905
+        y: 1204
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9ad8ab76586cd5f0800000000000000
+      internalID: -730594318889723235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butterunopen_191
+      rect:
+        serializedVersion: 2
+        x: 1858
+        y: 1187
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4d8fbe25506a7140800000000000000
+      internalID: 4718189478596808011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butterunopen_192
+      rect:
+        serializedVersion: 2
+        x: 1850
+        y: 1136
+        width: 33
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d9e24e5a1e21c900800000000000000
+      internalID: 702893707631978962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butterunopen_193
+      rect:
+        serializedVersion: 2
+        x: 1880
+        y: 1157
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71b8d806c45a83090800000000000000
+      internalID: -8054506186096145641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butterunopen_194
+      rect:
+        serializedVersion: 2
+        x: 1888
+        y: 1143
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e89fe3fe3e1a7fd0800000000000000
+      internalID: -2343527400363550488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butterunopen_195
+      rect:
+        serializedVersion: 2
+        x: 1882
+        y: 1145
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc339041a8b5d2d20800000000000000
+      internalID: 3255358754258498509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butterunopen_196
+      rect:
+        serializedVersion: 2
+        x: 1906
+        y: 1144
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cb8760da78fded40800000000000000
+      internalID: 5615417516767022021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butterunopen_197
+      rect:
+        serializedVersion: 2
+        x: 1847
+        y: 1106
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3e2e12ff6e52a830800000000000000
+      internalID: 4080928047247535677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butterunopen_198
+      rect:
+        serializedVersion: 2
+        x: 1854
+        y: 1112
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b9131b63ccd06650800000000000000
+      internalID: 6224217416899172787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butterunopen_199
+      rect:
+        serializedVersion: 2
+        x: 1848
+        y: 1097
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49f341a8754f88320800000000000000
+      internalID: 2560565044976041876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butterunopen_200
+      rect:
+        serializedVersion: 2
+        x: 1855
+        y: 1099
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8de336b14c1f5dd0800000000000000
+      internalID: -2495244599984657012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butterunopen_201
+      rect:
+        serializedVersion: 2
+        x: 1879
+        y: 1091
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe9948393ced68830800000000000000
+      internalID: 4073187844578122223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butterunopen_202
+      rect:
+        serializedVersion: 2
+        x: 1886
+        y: 1102
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 472f6afbfe94ea6f0800000000000000
+      internalID: -671518000370224524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butterunopen_203
+      rect:
+        serializedVersion: 2
+        x: 1893
+        y: 1102
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75288a31e6e573110800000000000000
+      internalID: 1240564049233085015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butterunopen_204
+      rect:
+        serializedVersion: 2
+        x: 1841
+        y: 1090
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bf1176be25a8a4d0800000000000000
+      internalID: -3123064721533493322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butterunopen_205
+      rect:
+        serializedVersion: 2
+        x: 1849
+        y: 1087
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ccd90d4592bbc9f0800000000000000
+      internalID: -447067383680869182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butterunopen_206
+      rect:
+        serializedVersion: 2
+        x: 1864
+        y: 1091
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31158fed541bc0600800000000000000
+      internalID: 435918177599770899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butterunopen_207
+      rect:
+        serializedVersion: 2
+        x: 1887
+        y: 1088
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5c0473adac915c10800000000000000
+      internalID: 2040584375761112158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butterunopen_208
+      rect:
+        serializedVersion: 2
+        x: 1887
+        y: 1078
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 369b072dd4588c930800000000000000
+      internalID: 4163724424793602403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butterunopen_209
+      rect:
+        serializedVersion: 2
+        x: 1894
+        y: 1090
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8ee27cc99ce0e3a0800000000000000
+      internalID: -6638045705439875442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butterunopen_210
+      rect:
+        serializedVersion: 2
+        x: 1899
+        y: 1085
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b05a93c9c417c2640800000000000000
+      internalID: 5056541055482701067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butterunopen_211
+      rect:
+        serializedVersion: 2
+        x: 1912
+        y: 1080
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88b35c97812b39a40800000000000000
+      internalID: 5373834598575061896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butterunopen_212
+      rect:
+        serializedVersion: 2
+        x: 1842
+        y: 1068
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b5325ada1d7dcfd0800000000000000
+      internalID: -2320060678740494927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butterunopen_213
+      rect:
+        serializedVersion: 2
+        x: 1860
+        y: 1081
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e686846c0578f710800000000000000
+      internalID: 1727259153183180516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butterunopen_214
+      rect:
+        serializedVersion: 2
+        x: 1871
+        y: 1070
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e6234a3d2e132a30800000000000000
+      internalID: 4189225257984534247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butterunopen_215
+      rect:
+        serializedVersion: 2
+        x: 1894
+        y: 1075
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28025f293ae7f45c0800000000000000
+      internalID: -4229022284067299198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butterunopen_216
+      rect:
+        serializedVersion: 2
+        x: 1899
+        y: 1077
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64f601650bc9bba80800000000000000
+      internalID: -8449987994658508986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butterunopen_217
+      rect:
+        serializedVersion: 2
+        x: 1846
+        y: 1064
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8ab4e361d3608860800000000000000
+      internalID: 7530128327938718349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butterunopen_218
+      rect:
+        serializedVersion: 2
+        x: 1869
+        y: 1071
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ef4736bf4caa5590800000000000000
+      internalID: -7684640355794858012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butterunopen_219
+      rect:
+        serializedVersion: 2
+        x: 1889
+        y: 1071
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 203c00e4ddc0806d0800000000000000
+      internalID: -3024153005143309566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butterunopen_220
+      rect:
+        serializedVersion: 2
+        x: 1695
+        y: 779
+        width: 151
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6ef2767cb93a3480800000000000000
+      internalID: -8918752630449963412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butterunopen_221
+      rect:
+        serializedVersion: 2
+        x: 1781
+        y: 868
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7caee2ffb8dd5650800000000000000
+      internalID: 6223368579021974653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butterunopen_222
+      rect:
+        serializedVersion: 2
+        x: 1803
+        y: 868
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da96b8ee24e59c6c0800000000000000
+      internalID: -4122660342318011987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butterunopen_223
+      rect:
+        serializedVersion: 2
+        x: 1814
+        y: 871
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9ef199bb3d8f9f50800000000000000
+      internalID: 6890381242556087964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butterunopen_224
+      rect:
+        serializedVersion: 2
+        x: 1818
+        y: 868
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d807f3f5de4106d0800000000000000
+      internalID: -3026050793788208942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butterunopen_225
+      rect:
+        serializedVersion: 2
+        x: 1838
+        y: 869
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 843c9b6f282c284e0800000000000000
+      internalID: -1980807018348690616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butterunopen_226
+      rect:
+        serializedVersion: 2
+        x: 1694
+        y: 825
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 823a93e103fe375d0800000000000000
+      internalID: -3065843931364613336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butterunopen_227
+      rect:
+        serializedVersion: 2
+        x: 1827
+        y: 839
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c058e0bc6327ec310800000000000000
+      internalID: 1427203711583552780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butterunopen_228
+      rect:
+        serializedVersion: 2
+        x: 1642
+        y: 772
+        width: 52
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ba667b3a57533280800000000000000
+      internalID: -9064805579910387017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butterunopen_229
+      rect:
+        serializedVersion: 2
+        x: 1689
+        y: 825
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 607b57822bfdb1e80800000000000000
+      internalID: -8206719939676621050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butterunopen_230
+      rect:
+        serializedVersion: 2
+        x: 1610
+        y: 797
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1d4784818caaad20800000000000000
+      internalID: 3290632150021786907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butterunopen_231
+      rect:
+        serializedVersion: 2
+        x: 1626
+        y: 796
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35fb5d0603898ee00800000000000000
+      internalID: 1074275844678336339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butterunopen_232
+      rect:
+        serializedVersion: 2
+        x: 1642
+        y: 799
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d88014fa1c6223a70800000000000000
+      internalID: 8805142834773559437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butterunopen_233
+      rect:
+        serializedVersion: 2
+        x: 1654
+        y: 804
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 118c4d71c1eb1b9c0800000000000000
+      internalID: -3913137573340067823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butterunopen_234
+      rect:
+        serializedVersion: 2
+        x: 1736
+        y: 807
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a486db5e5e57205f0800000000000000
+      internalID: -791940954201429942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butterunopen_235
+      rect:
+        serializedVersion: 2
+        x: 1576
+        y: 770
+        width: 53
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d1f31e1aeacc1290800000000000000
+      internalID: -7918230937948393002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butterunopen_236
+      rect:
+        serializedVersion: 2
+        x: 1604
+        y: 795
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97d7cf5e1bd6c81c0800000000000000
+      internalID: -4500101316814799495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butterunopen_237
+      rect:
+        serializedVersion: 2
+        x: 1624
+        y: 781
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61fe629bc2dca0280800000000000000
+      internalID: -9076216507043221738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butterunopen_238
+      rect:
+        serializedVersion: 2
+        x: 1638
+        y: 776
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fde61e17081046a0800000000000000
+      internalID: -6467142646055375367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butterunopen_239
+      rect:
+        serializedVersion: 2
+        x: 1667
+        y: 794
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bbc1cf1984ce1390800000000000000
+      internalID: -7845617407610467407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butterunopen_240
+      rect:
+        serializedVersion: 2
+        x: 1687
+        y: 787
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f660838e3284a5680800000000000000
+      internalID: -8765614405666208145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butterunopen_241
+      rect:
+        serializedVersion: 2
+        x: 1638
+        y: 786
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 115f7b94f5872e360800000000000000
+      internalID: 7197447505145492753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butterunopen_242
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 772
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a5c04914c9fa1d60800000000000000
+      internalID: 7861870720161203623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      1-butterunopen_0: -130861992382628887
+      1-butterunopen_1: 1651053011644112842
+      1-butterunopen_10: -8088510418319357124
+      1-butterunopen_100: 8266138294222269180
+      1-butterunopen_101: -3710641285655720531
+      1-butterunopen_102: -7410755468810768943
+      1-butterunopen_103: -4074650420796971832
+      1-butterunopen_104: -7109484521154257724
+      1-butterunopen_105: -6657071930397266065
+      1-butterunopen_106: 7855202055772231803
+      1-butterunopen_107: -5597272033343489495
+      1-butterunopen_108: 2632701601339547564
+      1-butterunopen_109: 3013542888163914827
+      1-butterunopen_11: -7403726838180432874
+      1-butterunopen_110: 1749441577512894200
+      1-butterunopen_111: -8502301790794243729
+      1-butterunopen_112: 5261481941785664286
+      1-butterunopen_113: 4429337247120686416
+      1-butterunopen_114: -1276574611728808983
+      1-butterunopen_115: -5121456672597858507
+      1-butterunopen_116: 5040895141141231963
+      1-butterunopen_117: 6359380127542933884
+      1-butterunopen_118: 3230389138532641090
+      1-butterunopen_119: 7610317643898163070
+      1-butterunopen_12: -2340162527677768134
+      1-butterunopen_120: 276771888805773384
+      1-butterunopen_121: 4186267931561828103
+      1-butterunopen_122: -7079497652876035006
+      1-butterunopen_123: 500209118157426144
+      1-butterunopen_124: -4472650128205300980
+      1-butterunopen_125: -7161180115686547835
+      1-butterunopen_126: 8952588351353492928
+      1-butterunopen_127: -8078751158684448537
+      1-butterunopen_128: 1627501184379259853
+      1-butterunopen_129: 7548421128848644073
+      1-butterunopen_13: 294251350268981545
+      1-butterunopen_130: 9098366041577302815
+      1-butterunopen_131: -4598082802189096026
+      1-butterunopen_132: 2622517953816460246
+      1-butterunopen_133: 5864527597933958819
+      1-butterunopen_134: 3371844274419382706
+      1-butterunopen_135: 7109205493045913528
+      1-butterunopen_136: 3471250208108492366
+      1-butterunopen_137: -7838595524486734937
+      1-butterunopen_138: 1725515806034968777
+      1-butterunopen_139: -3506676132678701282
+      1-butterunopen_14: -4441668649119636377
+      1-butterunopen_140: 4221151862755584357
+      1-butterunopen_141: 1439104521600287793
+      1-butterunopen_142: 5910150222877667439
+      1-butterunopen_143: 3104036232082170512
+      1-butterunopen_144: 7286545235276475103
+      1-butterunopen_145: -4288243910332306777
+      1-butterunopen_146: -768514215031826700
+      1-butterunopen_147: 4883902518982072408
+      1-butterunopen_148: 2821496567321433034
+      1-butterunopen_149: -3369395199633852917
+      1-butterunopen_15: 384105972695242974
+      1-butterunopen_150: 7163739489378598650
+      1-butterunopen_151: 5777708161481638505
+      1-butterunopen_152: -7068999165243181217
+      1-butterunopen_153: 7684580981290414241
+      1-butterunopen_154: -5090573396361053017
+      1-butterunopen_155: -7287276072238661157
+      1-butterunopen_156: 7895701566124348396
+      1-butterunopen_157: 5750641805662708177
+      1-butterunopen_158: -478139614712727893
+      1-butterunopen_159: 3758833417075041210
+      1-butterunopen_16: -1743372255436373591
+      1-butterunopen_160: 3746990571688538868
+      1-butterunopen_161: 6168583977422702096
+      1-butterunopen_162: 4185910168032360230
+      1-butterunopen_163: -9109378249489476316
+      1-butterunopen_164: -4333282000854803132
+      1-butterunopen_165: -4492217435849064078
+      1-butterunopen_166: 628030164978372382
+      1-butterunopen_167: -7109718470662170712
+      1-butterunopen_168: 1160569229558293808
+      1-butterunopen_169: -679443295103110633
+      1-butterunopen_17: -2007584919322076879
+      1-butterunopen_170: -8363934127143043283
+      1-butterunopen_171: 8435441113202900107
+      1-butterunopen_172: -1823471571558165076
+      1-butterunopen_173: 4882102376504839018
+      1-butterunopen_174: 100515878557517700
+      1-butterunopen_175: 4273151471563008629
+      1-butterunopen_176: 5277414640603252419
+      1-butterunopen_177: -8618140584969926722
+      1-butterunopen_178: 4741065878544568848
+      1-butterunopen_179: -5448878519077470042
+      1-butterunopen_18: 5757518195161322555
+      1-butterunopen_180: 574767056066686696
+      1-butterunopen_181: -2527288966491094033
+      1-butterunopen_182: 4185324509187705893
+      1-butterunopen_183: 3546123388042637524
+      1-butterunopen_184: 5420314310623432563
+      1-butterunopen_185: 4075875566269317008
+      1-butterunopen_186: 4009636782455735034
+      1-butterunopen_187: -5261884079354635532
+      1-butterunopen_188: -2800330083397210501
+      1-butterunopen_189: -2559860091334480386
+      1-butterunopen_19: -3850315665881144985
+      1-butterunopen_190: -730594318889723235
+      1-butterunopen_191: 4718189478596808011
+      1-butterunopen_192: 702893707631978962
+      1-butterunopen_193: -8054506186096145641
+      1-butterunopen_194: -2343527400363550488
+      1-butterunopen_195: 3255358754258498509
+      1-butterunopen_196: 5615417516767022021
+      1-butterunopen_197: 4080928047247535677
+      1-butterunopen_198: 6224217416899172787
+      1-butterunopen_199: 2560565044976041876
+      1-butterunopen_2: -3921880810340839159
+      1-butterunopen_20: -8001620638242471410
+      1-butterunopen_200: -2495244599984657012
+      1-butterunopen_201: 4073187844578122223
+      1-butterunopen_202: -671518000370224524
+      1-butterunopen_203: 1240564049233085015
+      1-butterunopen_204: -3123064721533493322
+      1-butterunopen_205: -447067383680869182
+      1-butterunopen_206: 435918177599770899
+      1-butterunopen_207: 2040584375761112158
+      1-butterunopen_208: 4163724424793602403
+      1-butterunopen_209: -6638045705439875442
+      1-butterunopen_21: -8218295363785828892
+      1-butterunopen_210: 5056541055482701067
+      1-butterunopen_211: 5373834598575061896
+      1-butterunopen_212: -2320060678740494927
+      1-butterunopen_213: 1727259153183180516
+      1-butterunopen_214: 4189225257984534247
+      1-butterunopen_215: -4229022284067299198
+      1-butterunopen_216: -8449987994658508986
+      1-butterunopen_217: 7530128327938718349
+      1-butterunopen_218: -7684640355794858012
+      1-butterunopen_219: -3024153005143309566
+      1-butterunopen_22: -8966048819706957992
+      1-butterunopen_220: -8918752630449963412
+      1-butterunopen_221: 6223368579021974653
+      1-butterunopen_222: -4122660342318011987
+      1-butterunopen_223: 6890381242556087964
+      1-butterunopen_224: -3026050793788208942
+      1-butterunopen_225: -1980807018348690616
+      1-butterunopen_226: -3065843931364613336
+      1-butterunopen_227: 1427203711583552780
+      1-butterunopen_228: -9064805579910387017
+      1-butterunopen_229: -8206719939676621050
+      1-butterunopen_23: 1259550741424982926
+      1-butterunopen_230: 3290632150021786907
+      1-butterunopen_231: 1074275844678336339
+      1-butterunopen_232: 8805142834773559437
+      1-butterunopen_233: -3913137573340067823
+      1-butterunopen_234: -791940954201429942
+      1-butterunopen_235: -7918230937948393002
+      1-butterunopen_236: -4500101316814799495
+      1-butterunopen_237: -9076216507043221738
+      1-butterunopen_238: -6467142646055375367
+      1-butterunopen_239: -7845617407610467407
+      1-butterunopen_24: 7982433652860148129
+      1-butterunopen_240: -8765614405666208145
+      1-butterunopen_241: 7197447505145492753
+      1-butterunopen_242: 7861870720161203623
+      1-butterunopen_25: 3916068166545737743
+      1-butterunopen_26: 7741387927360463497
+      1-butterunopen_27: 3408775513362288915
+      1-butterunopen_28: 1938741869847211650
+      1-butterunopen_29: 3937548707931824842
+      1-butterunopen_3: 6270795912844987099
+      1-butterunopen_30: -4017066791799310771
+      1-butterunopen_31: 7689771744918860003
+      1-butterunopen_32: -3553242634078085549
+      1-butterunopen_33: 1340490847481193329
+      1-butterunopen_34: -4665926290316515498
+      1-butterunopen_35: -3631498209947202980
+      1-butterunopen_36: -5829349380221992278
+      1-butterunopen_37: -8119342725155357963
+      1-butterunopen_38: -5110135552854964032
+      1-butterunopen_39: -5416099572268966189
+      1-butterunopen_4: -4130743825445343670
+      1-butterunopen_40: 3031525633033470004
+      1-butterunopen_41: -1264015024694730460
+      1-butterunopen_42: 3411343913271498270
+      1-butterunopen_43: 2104321174930656364
+      1-butterunopen_44: 2086649899443464821
+      1-butterunopen_45: -1466577438340490019
+      1-butterunopen_46: 3587699543766721256
+      1-butterunopen_47: -9547727957811200
+      1-butterunopen_48: 5681598500318054274
+      1-butterunopen_49: -7545484418197762642
+      1-butterunopen_5: 3439220599460516069
+      1-butterunopen_50: 6564716565536242465
+      1-butterunopen_51: -4854592645321264163
+      1-butterunopen_52: -5121109838233622225
+      1-butterunopen_53: 1572964199431318714
+      1-butterunopen_54: -4482480469224563864
+      1-butterunopen_55: -2173172289467795334
+      1-butterunopen_56: 3269011727533570659
+      1-butterunopen_57: 6054657228311049248
+      1-butterunopen_58: -6253274848814421102
+      1-butterunopen_59: -8223228123896186333
+      1-butterunopen_6: 6215712320307122040
+      1-butterunopen_60: -1461464232110409868
+      1-butterunopen_61: 5548227731713024049
+      1-butterunopen_62: 3413601825960174791
+      1-butterunopen_63: 260259766279944849
+      1-butterunopen_64: -3028869958017496292
+      1-butterunopen_65: 6415508475861601207
+      1-butterunopen_66: 2439526673635682675
+      1-butterunopen_67: 7829820892805963257
+      1-butterunopen_68: 5391169520008406695
+      1-butterunopen_69: 7437501572297869927
+      1-butterunopen_7: -7965275209341916459
+      1-butterunopen_70: 7743341560251104879
+      1-butterunopen_71: 7535247584437213060
+      1-butterunopen_72: -7340601653419422593
+      1-butterunopen_73: 6613967734589003379
+      1-butterunopen_74: 7332467226050194204
+      1-butterunopen_75: -7928054639943767288
+      1-butterunopen_76: -1761809674442207762
+      1-butterunopen_77: -4083829110947150812
+      1-butterunopen_78: -4594664362679470453
+      1-butterunopen_79: -1625899911211877432
+      1-butterunopen_8: -2294476529182526405
+      1-butterunopen_80: -1462764717041159441
+      1-butterunopen_81: -7656962209385452101
+      1-butterunopen_82: 7631185568367387829
+      1-butterunopen_83: 2452129939497564226
+      1-butterunopen_84: 7127598765602913019
+      1-butterunopen_85: -6872983128646452983
+      1-butterunopen_86: -6006088053929224569
+      1-butterunopen_87: -749137366042725248
+      1-butterunopen_88: 7575842529005438918
+      1-butterunopen_89: 1133794238041507759
+      1-butterunopen_9: -4349293599466575732
+      1-butterunopen_90: -5215933547767185322
+      1-butterunopen_91: 3812293468690157460
+      1-butterunopen_92: -6488740237575974113
+      1-butterunopen_93: 8068068947292184727
+      1-butterunopen_94: -3250595572415638249
+      1-butterunopen_95: -4212815887737088918
+      1-butterunopen_96: -3901581625334451964
+      1-butterunopen_97: 4471112092548812256
+      1-butterunopen_98: -1312990041410587984
+      1-butterunopen_99: 8927899733363109994
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
