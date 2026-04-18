@@ -46,6 +46,7 @@ public class CuttingMinigame : CookingMinigameBase, IPointerDownHandler, IDragHa
             mainDisplay.transform.SetParent(ingredientContainer, false);
         }
 
+        mainDisplay.gameObject.SetActive(true);
         mainDisplay.texture = ingredientTexture;
         SetAnchoredSlice(mainDisplay.rectTransform, 0f, 1f, 0f);
         mainDisplay.uvRect = new Rect(0, 0, 1, 1);
@@ -61,8 +62,11 @@ public class CuttingMinigame : CookingMinigameBase, IPointerDownHandler, IDragHa
 
         float normX = PointerToNormalizedX(eventData.position, eventData.pressEventCamera);
         float tolerance = cutLineTolerance / ingredientContainer.rect.width;
+        float cutX = cutPositions[currentCutIndex];
 
-        if (Mathf.Abs(normX - cutPositions[currentCutIndex]) <= tolerance)
+        Debug.Log($"[Cutting] Click at normX={normX:F2}, cutX={cutX:F2}, tolerance={tolerance:F2}, hit={Mathf.Abs(normX - cutX) <= tolerance}");
+
+        if (Mathf.Abs(normX - cutX) <= tolerance)
         {
             isCutting = true;
             cuttingProgress = 0f;
@@ -71,15 +75,14 @@ public class CuttingMinigame : CookingMinigameBase, IPointerDownHandler, IDragHa
 
     public void OnDrag(PointerEventData eventData)
     {
-        if (!isCutting) return;
-
-        cuttingProgress += Mathf.Abs(eventData.delta.y);
-        if (cuttingProgress >= requiredCutDistance)
-            CompleteCut();
+        // intentionally empty — drag is not required, cut completes on release
     }
 
     public void OnPointerUp(PointerEventData eventData)
     {
+        if (isCutting)
+            CompleteCut();
+
         isCutting = false;
         cuttingProgress = 0f;
     }
@@ -110,11 +113,18 @@ public class CuttingMinigame : CookingMinigameBase, IPointerDownHandler, IDragHa
         SetAnchoredSlice(mainDisplay.rectTransform, cutX, 1f, 0f);
 
         currentCutIndex++;
+        Debug.Log($"[Cutting] Cut {currentCutIndex}/{cutPositions.Length} done. Slices: {completedSlices.Count}");
 
         if (currentCutIndex >= cutPositions.Length)
+        {
+            Debug.Log("[Cutting] All cuts done, completing.");
             Complete();
+        }
         else
+        {
+            Debug.Log($"[Cutting] Next cut at normX={cutPositions[currentCutIndex]:F2}");
             RefreshCutLine();
+        }
     }
 
     private void SetAnchoredSlice(RectTransform rt, float fromNorm, float toNorm, float xPixels)
