@@ -153,8 +153,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 307, y: 182}
-  m_SizeDelta: {x: 100, y: 100}
+  m_AnchoredPosition: {x: 252.49207, y: -2.1163}
+  m_SizeDelta: {x: 496.3741, y: 392.67}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &67376267
 MonoBehaviour:
@@ -169,7 +169,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: UnityEngine.UI::UnityEngine.UI.Image
   m_Material: {fileID: 0}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Color: {r: 1, g: 1, b: 1, a: 0}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
@@ -364,7 +364,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3157a2957458bcb47bf04bf60e3f3db2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::AssemblingMinigame
-  minigamePanel: {fileID: 0}
+  minigamePanel: {fileID: 155167866}
   ingredientsInOrder:
   - {fileID: 904613274}
   - {fileID: 2068176993}
@@ -482,8 +482,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 317, y: -2.116}
-  m_SizeDelta: {x: 425.0988, y: 301.3609}
+  m_AnchoredPosition: {x: 252.49, y: -2.116}
+  m_SizeDelta: {x: 296.08, y: 301.3609}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &623099913
 MonoBehaviour:
@@ -2084,8 +2084,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -144.3877, y: 8.16}
-  m_SizeDelta: {x: 3.2246, y: 102.32}
+  m_AnchoredPosition: {x: -140.0639, y: -16.341494}
+  m_SizeDelta: {x: 11.8722, y: 151.323}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1931152640
 MonoBehaviour:
