@@ -254,7 +254,7 @@ MonoBehaviour:
   requiredCutDistance: 108
   cutLineIndicator: {fileID: 755531360}
   sliceSeparation: 8
-  objectiveKey: day2step1
+  objectiveKey: day4step2
 --- !u!1 &77368091
 GameObject:
   m_ObjectHideFlags: 0
@@ -388,7 +388,7 @@ MonoBehaviour:
   - {fileID: 967193602}
   - {fileID: 0}
   bowlSlotParent: {fileID: 77368092}
-  objectiveKey: day2step2
+  objectiveKey: day4step3
 --- !u!1 &251130129
 GameObject:
   m_ObjectHideFlags: 0
@@ -1525,7 +1525,7 @@ MonoBehaviour:
   greenZone: {fileID: 260996233}
   greenZoneCenter: 0.5
   greenZoneWidth: 0.34
-  objectiveKey: day2step3
+  objectiveKey: day4step4
 --- !u!224 &904499502
 RectTransform:
   m_ObjectHideFlags: 0
@@ -2252,7 +2252,7 @@ MonoBehaviour:
   requiredCutDistance: 108
   cutLineIndicator: {fileID: 605352058}
   sliceSeparation: 8
-  objectiveKey: day2step1
+  objectiveKey: day4step1
 --- !u!1 &1683847385
 GameObject:
   m_ObjectHideFlags: 0
