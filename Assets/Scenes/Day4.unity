@@ -1332,61 +1332,84 @@ MonoBehaviour:
   dialogueText: {fileID: 772833778}
   continueIndicator: {fileID: 0}
   lines:
-  - text: Hi my lovelies, welcome back to my cooking show!
+  - text: "Hi my lovelies. It\u2019s me, Candy\u2606, the host of\u2026 my own cooking
+      show."
     flagToSet: 
     pauseForObjective: 0
     objectiveId: 
-  - text: "I\u2019m your cutieful host, Candy\u2606."
+  - text: "I\u2019ve been feeling a little sick lately, so I\u2019ll show you how
+      to make my comfort food: steak."
     flagToSet: 
     pauseForObjective: 0
     objectiveId: 
-  - text: Today, we will be making spicy stir-fried cartilage.
+  - text: "Look into your CookingCandyBox\u2606. You\u2019ll find some juicy cuts
+      of steak\u2026 and some vegetables. I forgot. I think they\u2019re assorted
+      veggies."
     flagToSet: 
     pauseForObjective: 0
     objectiveId: 
-  - text: "It\u2019s a dish that is very amusing to eat: crunchy and bouncy."
+  - text: Cut the vegetables into pieces. I like to make mine into little finger
+      shapes.
     flagToSet: 
     pauseForObjective: 0
     objectiveId: 
-  - text: "Let\u2019s get cooking!"
+  - text: "Actually? I don\u2019t care. Cut them however you like."
+    flagToSet: 
+    pauseForObjective: 1
+    objectiveId: day4step1
+  - text: "And now, the thing we\u2019ve all been waiting for. The steak."
     flagToSet: 
     pauseForObjective: 0
     objectiveId: 
-  - text: "Get the vegetables from your CookingCandyBox\u2606. Chop them into medium-thin
-      slices and add them to your bowl."
+  - text: Cut them into pieces. Make it match the size of your vegetables.
+    flagToSet: 
+    pauseForObjective: 1
+    objectiveId: day4step2
+  - text: "If you made a pur\xE9e out of them\u2026 I don\u2019t know, turn your
+      steak into ground beef or something."
     flagToSet: 
     pauseForObjective: 0
     objectiveId: 
-  - text: "Now, add the cartilage into the bowl too! It might look a little strange
-      for people who have never tried it before, but it\u2019s veeeeery yummy!"
+  - text: Marinade the steak in sauce. Oh, you know, the one I always make.
+    flagToSet: 
+    pauseForObjective: 1
+    objectiveId: day4step3
+  - text: Sear all your cuts in a pan. You should be able to smell that delicious
+      Maillard reaction.
+    flagToSet: 
+    pauseForObjective: 1
+    objectiveId: day4step4
+  - text: Yummy steak strips and vegetables, ready in just a few excruciating minutes.
+      And ended in even less.
     flagToSet: 
     pauseForObjective: 0
     objectiveId: 
-  - text: "Mix, mix, mix~ And now to the pan we go! Stir it until it\u2019s thoroughly
-      cooked, then place it into a plate."
+  - text: "If you turned them into beef and vegetable mush, great. You failed today\u2019s
+      cooking lesson."
     flagToSet: 
     pauseForObjective: 0
     objectiveId: 
-  - text: Now you have yourself a delicious, chewy stir fry with unconventional ingredients!
+  - text: ...
     flagToSet: 
     pauseForObjective: 0
     objectiveId: 
-  - text: "Try it out! Don\u2019t forget: whenever you eat my cooking, I become a
-      part of you!"
+  - text: I have to go. Goodbye.
+    flagToSet: 
+    pauseForObjective: 0
+    objectiveId: 
+  - text: "Don\u2019t forget that whenever you eat my cooking, I become a part of
+      you."
     flagToSet: 
     pauseForObjective: 0
     objectiveId: 
   voiceClips: []
   voiceSource: {fileID: 0}
   voiceVolume: 1
-  stopVoiceOnSkip: 0
   cutOnLineEndClips: []
-  autoLoadNextLevel: 1
+  autoLoadNextLevel: 0
   onDialogueComplete:
     m_PersistentCalls:
       m_Calls: []
-  pulseSpeed: 2.5
-  minPulseAlpha: 0.3
 --- !u!114 &772833778
 MonoBehaviour:
   m_ObjectHideFlags: 0
