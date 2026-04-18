@@ -5,7 +5,7 @@ using System.Collections.Generic;
 
 public class AssemblingMinigame : MonoBehaviour, IDropHandler
 {
-    private void Start() => StartMinigame();
+    //private void Start() => StartMinigame();
 
     [Header("Setup")]
     [SerializeField] private List<DraggableIngredient> ingredientsInOrder; // assign in Inspector, top-to-bottom = correct order
