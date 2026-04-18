@@ -305,9 +305,9 @@ RectTransform:
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 1167456647}
-  - {fileID: 1405921846}
   - {fileID: 1072598070}
   - {fileID: 1562943727}
+  - {fileID: 1823739598}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
@@ -1562,10 +1562,10 @@ GameObject:
   m_Component:
   - component: {fileID: 1405921846}
   - component: {fileID: 1405921849}
-  - component: {fileID: 1405921848}
   - component: {fileID: 1405921847}
+  - component: {fileID: 1405921848}
   m_Layer: 5
-  m_Name: cutting
+  m_Name: cuttingPanel
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1578,19 +1578,19 @@ RectTransform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1405921845}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 1662921643}
   - {fileID: 2069804477}
-  m_Father: {fileID: 592274661}
+  m_Father: {fileID: 1823739598}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 96, y: -7}
-  m_SizeDelta: {x: -561.9011, y: -247.6571}
+  m_AnchoredPosition: {x: 172, y: -2.116}
+  m_SizeDelta: {x: 425.0988, y: 301.3609}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1405921847
 MonoBehaviour:
@@ -2206,6 +2206,66 @@ MonoBehaviour:
   m_OnValueChanged:
     m_PersistentCalls:
       m_Calls: []
+--- !u!1 &1823739597
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1823739598}
+  - component: {fileID: 1823739599}
+  m_Layer: 5
+  m_Name: cutting
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &1823739598
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1823739597}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 1405921846}
+  m_Father: {fileID: 592274661}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: 1.7576, y: 5.5048}
+  m_SizeDelta: {x: 200.2906, y: 91.311}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &1823739599
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1823739597}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23bc80f989166514b99b3d531fda0a43, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::CuttingMinigame
+  ingredientTexture: {fileID: 2800000, guid: 4782d8113683ec44cb6bf02d32f1502c, type: 3}
+  ingredientContainer: {fileID: 2069804477}
+  cutPositions:
+  - 0.25
+  - 0.5
+  - 0.75
+  cutLineTolerance: 20
+  requiredCutDistance: 108
+  cutLineIndicator: {fileID: 1662921643}
+  sliceSeparation: 8
+  minigamePanel: {fileID: 1405921845}
 --- !u!1 &1981171155
 GameObject:
   m_ObjectHideFlags: 0
@@ -2383,7 +2443,7 @@ RectTransform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2069804476}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalRotation: {x: -0, y: -0, z: 0.0000004679896, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
@@ -2392,8 +2452,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 117, y: -126}
-  m_SizeDelta: {x: 100, y: 100}
+  m_AnchoredPosition: {x: 69.30347, y: -75.22623}
+  m_SizeDelta: {x: 195.3931, y: 201.5476}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &2069804478
 MonoBehaviour:

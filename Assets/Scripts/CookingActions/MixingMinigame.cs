@@ -3,7 +3,7 @@ using UnityEngine.UI;
 
 public class MixingMinigame : CookingMinigameBase
 {
-    private void Start() => StartMinigame();
+    //private void Start() => StartMinigame();
 
     [Header("Meter Settings")]
     [SerializeField] private float maxMeter = 100f;
