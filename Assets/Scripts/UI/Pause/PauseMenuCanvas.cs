@@ -60,6 +60,8 @@ public class PauseMenu : MonoBehaviour
 
     public void Restart()
     {
+        cancel.performed -= Cancel;
+        DOTween.Kill(canvasGroup);
         SceneManager.LoadScene(SceneManager.GetActiveScene().name);
     }
 
@@ -70,6 +72,7 @@ public class PauseMenu : MonoBehaviour
     
     void OnDestroy()
     {
+        DOTween.Kill(canvasGroup);
         cancel.performed -= Cancel;
     }
 }
