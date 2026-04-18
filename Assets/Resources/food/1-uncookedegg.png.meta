@@ -1,0 +1,3341 @@
+fileFormatVersion: 2
+guid: 2dcaeaaff06e85f478a65a9d09b9e750
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2314935903724479986
+    second: 1-uncookedegg_0
+  - first:
+      213: -8407868986842660308
+    second: 1-uncookedegg_1
+  - first:
+      213: -8103715085031503771
+    second: 1-uncookedegg_2
+  - first:
+      213: -5268527950351475606
+    second: 1-uncookedegg_3
+  - first:
+      213: -6591789344176266442
+    second: 1-uncookedegg_4
+  - first:
+      213: -1708652968331272018
+    second: 1-uncookedegg_5
+  - first:
+      213: 703123137828202651
+    second: 1-uncookedegg_6
+  - first:
+      213: -1634831971963787136
+    second: 1-uncookedegg_7
+  - first:
+      213: -6127226936846512119
+    second: 1-uncookedegg_8
+  - first:
+      213: 2978674280049941695
+    second: 1-uncookedegg_9
+  - first:
+      213: -7400347568808290367
+    second: 1-uncookedegg_10
+  - first:
+      213: 7812949812108011204
+    second: 1-uncookedegg_11
+  - first:
+      213: -5627754255694082257
+    second: 1-uncookedegg_12
+  - first:
+      213: 7013702025262870352
+    second: 1-uncookedegg_13
+  - first:
+      213: -4456599299980237181
+    second: 1-uncookedegg_14
+  - first:
+      213: 8330789442191943031
+    second: 1-uncookedegg_15
+  - first:
+      213: -7789347201285286881
+    second: 1-uncookedegg_16
+  - first:
+      213: 4547729276386019635
+    second: 1-uncookedegg_17
+  - first:
+      213: -6183478616420882957
+    second: 1-uncookedegg_18
+  - first:
+      213: 6563729214915270739
+    second: 1-uncookedegg_19
+  - first:
+      213: -6878809449165309222
+    second: 1-uncookedegg_20
+  - first:
+      213: -7430724039565652301
+    second: 1-uncookedegg_21
+  - first:
+      213: 3621319245352195675
+    second: 1-uncookedegg_22
+  - first:
+      213: -4578335326961491845
+    second: 1-uncookedegg_23
+  - first:
+      213: -7782380437754797472
+    second: 1-uncookedegg_24
+  - first:
+      213: -5136558288892653525
+    second: 1-uncookedegg_25
+  - first:
+      213: 2694571213973159818
+    second: 1-uncookedegg_26
+  - first:
+      213: -3582811222174208664
+    second: 1-uncookedegg_27
+  - first:
+      213: -7401014709578333309
+    second: 1-uncookedegg_28
+  - first:
+      213: 5323005325725299859
+    second: 1-uncookedegg_29
+  - first:
+      213: -2665927280438813080
+    second: 1-uncookedegg_30
+  - first:
+      213: -4020949661811603998
+    second: 1-uncookedegg_31
+  - first:
+      213: 3033675196944609150
+    second: 1-uncookedegg_32
+  - first:
+      213: 1353408197930145327
+    second: 1-uncookedegg_33
+  - first:
+      213: 4859878465065968559
+    second: 1-uncookedegg_34
+  - first:
+      213: -6991126824181929249
+    second: 1-uncookedegg_35
+  - first:
+      213: 1109832061929908214
+    second: 1-uncookedegg_36
+  - first:
+      213: -3729271775702359559
+    second: 1-uncookedegg_37
+  - first:
+      213: 7855199016366979073
+    second: 1-uncookedegg_38
+  - first:
+      213: 8997794505494744499
+    second: 1-uncookedegg_39
+  - first:
+      213: -11844382272939484
+    second: 1-uncookedegg_40
+  - first:
+      213: 7733372051073768543
+    second: 1-uncookedegg_41
+  - first:
+      213: 6715767989016756660
+    second: 1-uncookedegg_42
+  - first:
+      213: 5586196285352333925
+    second: 1-uncookedegg_43
+  - first:
+      213: -7817531187924066949
+    second: 1-uncookedegg_44
+  - first:
+      213: -4771334660524836701
+    second: 1-uncookedegg_45
+  - first:
+      213: -593230508880775847
+    second: 1-uncookedegg_46
+  - first:
+      213: 8947893655623716157
+    second: 1-uncookedegg_47
+  - first:
+      213: 2025249203627812577
+    second: 1-uncookedegg_48
+  - first:
+      213: 7410334422559922091
+    second: 1-uncookedegg_49
+  - first:
+      213: -5336047500083111522
+    second: 1-uncookedegg_50
+  - first:
+      213: 5167683816628457000
+    second: 1-uncookedegg_51
+  - first:
+      213: 3665770458141134834
+    second: 1-uncookedegg_52
+  - first:
+      213: 4675868429349134316
+    second: 1-uncookedegg_53
+  - first:
+      213: -8534185972631774026
+    second: 1-uncookedegg_54
+  - first:
+      213: 814319241037088686
+    second: 1-uncookedegg_55
+  - first:
+      213: 5272789610202632954
+    second: 1-uncookedegg_56
+  - first:
+      213: -9084773555688019498
+    second: 1-uncookedegg_57
+  - first:
+      213: -5149482247958631430
+    second: 1-uncookedegg_58
+  - first:
+      213: 5767128660031315991
+    second: 1-uncookedegg_59
+  - first:
+      213: -5393275825279667295
+    second: 1-uncookedegg_60
+  - first:
+      213: -2458833077891361419
+    second: 1-uncookedegg_61
+  - first:
+      213: 5608026898327153830
+    second: 1-uncookedegg_62
+  - first:
+      213: 1371247322172728953
+    second: 1-uncookedegg_63
+  - first:
+      213: -4977040057058414197
+    second: 1-uncookedegg_64
+  - first:
+      213: -503593331898178932
+    second: 1-uncookedegg_65
+  - first:
+      213: -8408785310899567211
+    second: 1-uncookedegg_66
+  - first:
+      213: -6726188961457213241
+    second: 1-uncookedegg_67
+  - first:
+      213: 6951366813719385615
+    second: 1-uncookedegg_68
+  - first:
+      213: -3418792379566501243
+    second: 1-uncookedegg_69
+  - first:
+      213: 1484258165284115918
+    second: 1-uncookedegg_70
+  - first:
+      213: -2554203370615657046
+    second: 1-uncookedegg_71
+  - first:
+      213: 3512848425466159104
+    second: 1-uncookedegg_72
+  - first:
+      213: 7295358740702417220
+    second: 1-uncookedegg_73
+  - first:
+      213: -3392871191136546569
+    second: 1-uncookedegg_74
+  - first:
+      213: 5508921936462760508
+    second: 1-uncookedegg_75
+  - first:
+      213: -5496497463665478615
+    second: 1-uncookedegg_76
+  - first:
+      213: 97984366201929406
+    second: 1-uncookedegg_77
+  - first:
+      213: 3809168899268583836
+    second: 1-uncookedegg_78
+  - first:
+      213: 393059945284863831
+    second: 1-uncookedegg_79
+  - first:
+      213: -6146215875564187065
+    second: 1-uncookedegg_80
+  - first:
+      213: 4392456508278190528
+    second: 1-uncookedegg_81
+  - first:
+      213: 9045318278229751928
+    second: 1-uncookedegg_82
+  - first:
+      213: 6450033913199344630
+    second: 1-uncookedegg_83
+  - first:
+      213: -4832164727010586501
+    second: 1-uncookedegg_84
+  - first:
+      213: -1489494859139808018
+    second: 1-uncookedegg_85
+  - first:
+      213: -3970992399794896147
+    second: 1-uncookedegg_86
+  - first:
+      213: 3242766423610268499
+    second: 1-uncookedegg_87
+  - first:
+      213: -8908591680018249375
+    second: 1-uncookedegg_88
+  - first:
+      213: -3755715973005106975
+    second: 1-uncookedegg_89
+  - first:
+      213: -9189766716980259627
+    second: 1-uncookedegg_90
+  - first:
+      213: -7100916857596515248
+    second: 1-uncookedegg_91
+  - first:
+      213: 8014546925224034811
+    second: 1-uncookedegg_92
+  - first:
+      213: 5005463497790560348
+    second: 1-uncookedegg_93
+  - first:
+      213: 5391570752033909009
+    second: 1-uncookedegg_94
+  - first:
+      213: 4878371272402238924
+    second: 1-uncookedegg_95
+  - first:
+      213: -7178500620912786659
+    second: 1-uncookedegg_96
+  - first:
+      213: 628602046551965636
+    second: 1-uncookedegg_97
+  - first:
+      213: 8945219420116383101
+    second: 1-uncookedegg_98
+  - first:
+      213: -1783091773921707476
+    second: 1-uncookedegg_99
+  - first:
+      213: -9051169555886184793
+    second: 1-uncookedegg_100
+  - first:
+      213: -1239658798106392773
+    second: 1-uncookedegg_101
+  - first:
+      213: -3635854127389093843
+    second: 1-uncookedegg_102
+  - first:
+      213: 4274080616228163860
+    second: 1-uncookedegg_103
+  - first:
+      213: -2071332215333796269
+    second: 1-uncookedegg_104
+  - first:
+      213: 8689294025063149981
+    second: 1-uncookedegg_105
+  - first:
+      213: 3839903391078654007
+    second: 1-uncookedegg_106
+  - first:
+      213: 1258042071927393874
+    second: 1-uncookedegg_107
+  - first:
+      213: -6318394790810317790
+    second: 1-uncookedegg_108
+  - first:
+      213: -1552750927252257655
+    second: 1-uncookedegg_109
+  - first:
+      213: -4809475378805422204
+    second: 1-uncookedegg_110
+  - first:
+      213: -7710654440411569662
+    second: 1-uncookedegg_111
+  - first:
+      213: 4366324421643995186
+    second: 1-uncookedegg_112
+  - first:
+      213: -476622175815819954
+    second: 1-uncookedegg_113
+  - first:
+      213: -3057599639846640662
+    second: 1-uncookedegg_114
+  - first:
+      213: -2388334814952493458
+    second: 1-uncookedegg_115
+  - first:
+      213: 515249361321699814
+    second: 1-uncookedegg_116
+  - first:
+      213: 7825537489954446479
+    second: 1-uncookedegg_117
+  - first:
+      213: -7088232086777500510
+    second: 1-uncookedegg_118
+  - first:
+      213: 8150972062794865833
+    second: 1-uncookedegg_119
+  - first:
+      213: 33842218706913124
+    second: 1-uncookedegg_120
+  - first:
+      213: 8979361241370961850
+    second: 1-uncookedegg_121
+  - first:
+      213: -2878475019995729350
+    second: 1-uncookedegg_122
+  - first:
+      213: -3709209646099080545
+    second: 1-uncookedegg_123
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 1-uncookedegg_0
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 378
+        width: 1272
+        height: 2426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0a54b48f02bfdfd0800000000000000
+      internalID: -2314935903724479986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-uncookedegg_1
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 2794
+        width: 24
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c22483904bf315b80800000000000000
+      internalID: -8407868986842660308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-uncookedegg_2
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 2787
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56809b3c012d98f80800000000000000
+      internalID: -8103715085031503771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-uncookedegg_3
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 2782
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6c55163ebd62e6b0800000000000000
+      internalID: -5268527950351475606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-uncookedegg_4
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 2783
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6332b2a24824584a0800000000000000
+      internalID: -6591789344176266442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-uncookedegg_5
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 2796
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea0a23a9d25a948e0800000000000000
+      internalID: -1708652968331272018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-uncookedegg_6
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 2793
+        width: 26
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b98ab9fb4cef1c900800000000000000
+      internalID: 703123137828202651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-uncookedegg_7
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 2785
+        width: 282
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 088a5a3bbf8ef49e0800000000000000
+      internalID: -1634831971963787136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-uncookedegg_8
+      rect:
+        serializedVersion: 2
+        x: 1256
+        y: 2812
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9001f0b7097b7faa0800000000000000
+      internalID: -6127226936846512119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-uncookedegg_9
+      rect:
+        serializedVersion: 2
+        x: 1264
+        y: 2796
+        width: 41
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbc18fbd970665920800000000000000
+      internalID: 2978674280049941695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-uncookedegg_10
+      rect:
+        serializedVersion: 2
+        x: 1298
+        y: 2801
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c791ca481fac4990800000000000000
+      internalID: -7400347568808290367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-uncookedegg_11
+      rect:
+        serializedVersion: 2
+        x: 1298
+        y: 2798
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c627a6957c2d6c60800000000000000
+      internalID: 7812949812108011204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-uncookedegg_12
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 2798
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2f4922525336e1b0800000000000000
+      internalID: -5627754255694082257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-uncookedegg_13
+      rect:
+        serializedVersion: 2
+        x: 1316
+        y: 2820
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05f2b30f4dca55160800000000000000
+      internalID: 7013702025262870352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-uncookedegg_14
+      rect:
+        serializedVersion: 2
+        x: 1318
+        y: 2810
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3866c6a7c8af622c0800000000000000
+      internalID: -4456599299980237181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-uncookedegg_15
+      rect:
+        serializedVersion: 2
+        x: 1332
+        y: 2818
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 775ec68fbd8ec9370800000000000000
+      internalID: 8330789442191943031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-uncookedegg_16
+      rect:
+        serializedVersion: 2
+        x: 1332
+        y: 2800
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f14153b7dfda6e390800000000000000
+      internalID: -7789347201285286881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-uncookedegg_17
+      rect:
+        serializedVersion: 2
+        x: 1336
+        y: 2800
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33902a59ea7cc1f30800000000000000
+      internalID: 4547729276386019635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-uncookedegg_18
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 2794
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f56208b5fedf2aa0800000000000000
+      internalID: -6183478616420882957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-uncookedegg_19
+      rect:
+        serializedVersion: 2
+        x: 1353
+        y: 2801
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 358d0e0e1fc071b50800000000000000
+      internalID: 6563729214915270739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-uncookedegg_20
+      rect:
+        serializedVersion: 2
+        x: 1354
+        y: 2821
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adab6e0604f8980a0800000000000000
+      internalID: -6878809449165309222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-uncookedegg_21
+      rect:
+        serializedVersion: 2
+        x: 1354
+        y: 2808
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3becbbd0bd3c0e890800000000000000
+      internalID: -7430724039565652301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-uncookedegg_22
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 2817
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b56d085caa2814230800000000000000
+      internalID: 3621319245352195675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-uncookedegg_23
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 2802
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b70a6d5f64c7670c0800000000000000
+      internalID: -4578335326961491845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-uncookedegg_24
+      rect:
+        serializedVersion: 2
+        x: 1364
+        y: 2808
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0622da4893e6ff390800000000000000
+      internalID: -7782380437754797472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-uncookedegg_25
+      rect:
+        serializedVersion: 2
+        x: 1366
+        y: 2822
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b20177e637747b8b0800000000000000
+      internalID: -5136558288892653525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-uncookedegg_26
+      rect:
+        serializedVersion: 2
+        x: 1371
+        y: 2811
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8ffcde1e3a056520800000000000000
+      internalID: 2694571213973159818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-uncookedegg_27
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 2822
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86de50d0d2c474ec0800000000000000
+      internalID: -3582811222174208664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-uncookedegg_28
+      rect:
+        serializedVersion: 2
+        x: 1379
+        y: 2800
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 383842a75505a4990800000000000000
+      internalID: -7401014709578333309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-uncookedegg_29
+      rect:
+        serializedVersion: 2
+        x: 1384
+        y: 2821
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3947e59242d1fd940800000000000000
+      internalID: 5323005325725299859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-uncookedegg_30
+      rect:
+        serializedVersion: 2
+        x: 1384
+        y: 2811
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86edb6c5349b00bd0800000000000000
+      internalID: -2665927280438813080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-uncookedegg_31
+      rect:
+        serializedVersion: 2
+        x: 1397
+        y: 2810
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e50ef32697b238c0800000000000000
+      internalID: -4020949661811603998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-uncookedegg_32
+      rect:
+        serializedVersion: 2
+        x: 1402
+        y: 2799
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7febcdb487c91a20800000000000000
+      internalID: 3033675196944609150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-uncookedegg_33
+      rect:
+        serializedVersion: 2
+        x: 1414
+        y: 2810
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f265ab9d59548c210800000000000000
+      internalID: 1353408197930145327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-uncookedegg_34
+      rect:
+        serializedVersion: 2
+        x: 1426
+        y: 2800
+        width: 78
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa3e3d917b1c17340800000000000000
+      internalID: 4859878465065968559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-uncookedegg_35
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 2788
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fda6ee8a1378afe90800000000000000
+      internalID: -6991126824181929249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-uncookedegg_36
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 2791
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f7eba3516ae66f00800000000000000
+      internalID: 1109832061929908214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-uncookedegg_37
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 2786
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f1ee5a1417fe3cc0800000000000000
+      internalID: -3729271775702359559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-uncookedegg_38
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 2790
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1083d8203e5430d60800000000000000
+      internalID: 7855199016366979073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-uncookedegg_39
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 2783
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bdc9fd2e669edc70800000000000000
+      internalID: 8997794505494744499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-uncookedegg_40
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 2785
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42a990ad89be5dff0800000000000000
+      internalID: -11844382272939484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-uncookedegg_41
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 2786
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5c9f2448e4725b60800000000000000
+      internalID: 7733372051073768543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-uncookedegg_42
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 2788
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b188438763333d50800000000000000
+      internalID: 6715767989016756660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-uncookedegg_43
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 2783
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5625802bce7268d40800000000000000
+      internalID: 5586196285352333925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-uncookedegg_44
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 2782
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7d9f3bbdcc828390800000000000000
+      internalID: -7817531187924066949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-uncookedegg_45
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 2783
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a878e6e760d8cdb0800000000000000
+      internalID: -4771334660524836701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-uncookedegg_46
+      rect:
+        serializedVersion: 2
+        x: 1204
+        y: 2783
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 955bc38cefb64c7f0800000000000000
+      internalID: -593230508880775847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-uncookedegg_47
+      rect:
+        serializedVersion: 2
+        x: 1259
+        y: 2790
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3d4c6f2fdd4d2c70800000000000000
+      internalID: 8947893655623716157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-uncookedegg_48
+      rect:
+        serializedVersion: 2
+        x: 1293
+        y: 2791
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e6e0e3ab612b1c10800000000000000
+      internalID: 2025249203627812577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-uncookedegg_49
+      rect:
+        serializedVersion: 2
+        x: 1349
+        y: 2792
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba7988b45ebc6d660800000000000000
+      internalID: 7410334422559922091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-uncookedegg_50
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 2780
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e995fecf11d82f5b0800000000000000
+      internalID: -5336047500083111522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-uncookedegg_51
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 2783
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82e8ca93d0d47b740800000000000000
+      internalID: 5167683816628457000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-uncookedegg_52
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 2783
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ff8f914fce6fd230800000000000000
+      internalID: 3665770458141134834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-uncookedegg_53
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 2783
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cef91db009504e040800000000000000
+      internalID: 4675868429349134316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-uncookedegg_54
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 2783
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bc592ee21b709980800000000000000
+      internalID: -8534185972631774026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-uncookedegg_55
+      rect:
+        serializedVersion: 2
+        x: 1265
+        y: 2782
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea708c7090b0d4b00800000000000000
+      internalID: 814319241037088686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-uncookedegg_56
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 2782
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af29f7bc636bc2940800000000000000
+      internalID: 5272789610202632954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-uncookedegg_57
+      rect:
+        serializedVersion: 2
+        x: 1453
+        y: 2785
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d96a5495966ce180800000000000000
+      internalID: -9084773555688019498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-uncookedegg_58
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 2316
+        width: 137
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afbee39bd2d5988b0800000000000000
+      internalID: -5149482247958631430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-uncookedegg_59
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 2487
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7102423f5f4f80050800000000000000
+      internalID: 5767128660031315991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-uncookedegg_60
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 2299
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a3f082363c3725b0800000000000000
+      internalID: -5393275825279667295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-uncookedegg_61
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 2102
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5751e46d75870edd0800000000000000
+      internalID: -2458833077891361419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-uncookedegg_62
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 1940
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ac20ad50c6b3dd40800000000000000
+      internalID: 5608026898327153830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-uncookedegg_63
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 1840
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 976af41ac26a70310800000000000000
+      internalID: 1371247322172728953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-uncookedegg_64
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 1846
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b81b42600700eeab0800000000000000
+      internalID: -4977040057058414197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-uncookedegg_65
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 1835
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8224f46880e209f0800000000000000
+      internalID: -503593331898178932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-uncookedegg_66
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 1483
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5950f47bf4efd4b80800000000000000
+      internalID: -8408785310899567211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-uncookedegg_67
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 1490
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c07034c6c6c7a2a0800000000000000
+      internalID: -6726188961457213241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-uncookedegg_68
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 1151
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f06de238947387060800000000000000
+      internalID: 6951366813719385615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-uncookedegg_69
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 1137
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 582502fb1720e80d0800000000000000
+      internalID: -3418792379566501243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-uncookedegg_70
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 1139
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec59bb8ffe4299410800000000000000
+      internalID: 1484258165284115918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-uncookedegg_71
+      rect:
+        serializedVersion: 2
+        x: 1723
+        y: 1068
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aad29523195ad8cd0800000000000000
+      internalID: -2554203370615657046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-uncookedegg_72
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 1028
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00063b5f70520c030800000000000000
+      internalID: 3512848425466159104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-uncookedegg_73
+      rect:
+        serializedVersion: 2
+        x: 1727
+        y: 1013
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 441db984f125e3560800000000000000
+      internalID: 7295358740702417220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-uncookedegg_74
+      rect:
+        serializedVersion: 2
+        x: 1733
+        y: 1004
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f056abb0a91ae0d0800000000000000
+      internalID: -3392871191136546569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-uncookedegg_75
+      rect:
+        serializedVersion: 2
+        x: 1724
+        y: 983
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3a483e405f937c40800000000000000
+      internalID: 5508921936462760508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-uncookedegg_76
+      rect:
+        serializedVersion: 2
+        x: 1736
+        y: 978
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9243261bda488b3b0800000000000000
+      internalID: -5496497463665478615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-uncookedegg_77
+      rect:
+        serializedVersion: 2
+        x: 1737
+        y: 897
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebef10d034c1c5100800000000000000
+      internalID: 97984366201929406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-uncookedegg_78
+      rect:
+        serializedVersion: 2
+        x: 1726
+        y: 795
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c91ae5a9ee2ecd430800000000000000
+      internalID: 3809168899268583836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-uncookedegg_79
+      rect:
+        serializedVersion: 2
+        x: 1736
+        y: 807
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 757832e00fd647500800000000000000
+      internalID: 393059945284863831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-uncookedegg_80
+      rect:
+        serializedVersion: 2
+        x: 1732
+        y: 789
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7425128a93144baa0800000000000000
+      internalID: -6146215875564187065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-uncookedegg_81
+      rect:
+        serializedVersion: 2
+        x: 1744
+        y: 787
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c1364b0ce325fc30800000000000000
+      internalID: 4392456508278190528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-uncookedegg_82
+      rect:
+        serializedVersion: 2
+        x: 1737
+        y: 776
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8787b36cc0d678d70800000000000000
+      internalID: 9045318278229751928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-uncookedegg_83
+      rect:
+        serializedVersion: 2
+        x: 1754
+        y: 778
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fb38799baf138950800000000000000
+      internalID: 6450033913199344630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-uncookedegg_84
+      rect:
+        serializedVersion: 2
+        x: 1742
+        y: 698
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b709c5e58c3b0fcb0800000000000000
+      internalID: -4832164727010586501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-uncookedegg_85
+      rect:
+        serializedVersion: 2
+        x: 1746
+        y: 690
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee4833a3150445be0800000000000000
+      internalID: -1489494859139808018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-uncookedegg_86
+      rect:
+        serializedVersion: 2
+        x: 1741
+        y: 664
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de2037c937334e8c0800000000000000
+      internalID: -3970992399794896147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-uncookedegg_87
+      rect:
+        serializedVersion: 2
+        x: 1761
+        y: 666
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35b9ad0a1ee900d20800000000000000
+      internalID: 3242766423610268499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-uncookedegg_88
+      rect:
+        serializedVersion: 2
+        x: 1764
+        y: 652
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 169038711135e5480800000000000000
+      internalID: -8908591680018249375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-uncookedegg_89
+      rect:
+        serializedVersion: 2
+        x: 1729
+        y: 597
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e025cf983401ebc0800000000000000
+      internalID: -3755715973005106975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-uncookedegg_90
+      rect:
+        serializedVersion: 2
+        x: 1729
+        y: 599
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d41fa14cd3677080800000000000000
+      internalID: -9189766716980259627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-uncookedegg_91
+      rect:
+        serializedVersion: 2
+        x: 1738
+        y: 586
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05c60638db9747d90800000000000000
+      internalID: -7100916857596515248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-uncookedegg_92
+      rect:
+        serializedVersion: 2
+        x: 1758
+        y: 600
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf18da137f3693f60800000000000000
+      internalID: 8014546925224034811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-uncookedegg_93
+      rect:
+        serializedVersion: 2
+        x: 1775
+        y: 598
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c589df9f78af67540800000000000000
+      internalID: 5005463497790560348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-uncookedegg_94
+      rect:
+        serializedVersion: 2
+        x: 1777
+        y: 604
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 119ed508805b2da40800000000000000
+      internalID: 5391570752033909009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-uncookedegg_95
+      rect:
+        serializedVersion: 2
+        x: 1710
+        y: 581
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccd710653d473b340800000000000000
+      internalID: 4878371272402238924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-uncookedegg_96
+      rect:
+        serializedVersion: 2
+        x: 1715
+        y: 588
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d138296f7b7d06c90800000000000000
+      internalID: -7178500620912786659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-uncookedegg_97
+      rect:
+        serializedVersion: 2
+        x: 1727
+        y: 584
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cf30d91b3e39b800800000000000000
+      internalID: 628602046551965636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-uncookedegg_98
+      rect:
+        serializedVersion: 2
+        x: 1736
+        y: 586
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7576f53badc32c70800000000000000
+      internalID: 8945219420116383101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-uncookedegg_99
+      rect:
+        serializedVersion: 2
+        x: 1738
+        y: 589
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2ab9759a7f2147e0800000000000000
+      internalID: -1783091773921707476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-uncookedegg_100
+      rect:
+        serializedVersion: 2
+        x: 1752
+        y: 583
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a6e29b7e39c36280800000000000000
+      internalID: -9051169555886184793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-uncookedegg_101
+      rect:
+        serializedVersion: 2
+        x: 1767
+        y: 589
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b374e2024e8dbcee0800000000000000
+      internalID: -1239658798106392773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-uncookedegg_102
+      rect:
+        serializedVersion: 2
+        x: 1769
+        y: 591
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d20d5d94fe9da8dc0800000000000000
+      internalID: -3635854127389093843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-uncookedegg_103
+      rect:
+        serializedVersion: 2
+        x: 1708
+        y: 564
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41199a7eca5905b30800000000000000
+      internalID: 4274080616228163860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-uncookedegg_104
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 563
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 356c43513562143e0800000000000000
+      internalID: -2071332215333796269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-uncookedegg_105
+      rect:
+        serializedVersion: 2
+        x: 1752
+        y: 570
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9130d0c0e2969870800000000000000
+      internalID: 8689294025063149981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-uncookedegg_106
+      rect:
+        serializedVersion: 2
+        x: 1729
+        y: 552
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 730af0d1ac31a4530800000000000000
+      internalID: 3839903391078654007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-uncookedegg_107
+      rect:
+        serializedVersion: 2
+        x: 1428
+        y: 462
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25e8ab95996757110800000000000000
+      internalID: 1258042071927393874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-uncookedegg_108
+      rect:
+        serializedVersion: 2
+        x: 1433
+        y: 472
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22c821ff96d8058a0800000000000000
+      internalID: -6318394790810317790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-uncookedegg_109
+      rect:
+        serializedVersion: 2
+        x: 1442
+        y: 452
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 984887c2245837ae0800000000000000
+      internalID: -1552750927252257655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-uncookedegg_110
+      rect:
+        serializedVersion: 2
+        x: 1469
+        y: 472
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 487c05aef9f414db0800000000000000
+      internalID: -4809475378805422204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-uncookedegg_111
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 474
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 202ea75a3a04ef490800000000000000
+      internalID: -7710654440411569662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-uncookedegg_112
+      rect:
+        serializedVersion: 2
+        x: 1450
+        y: 448
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 238043e7dec489c30800000000000000
+      internalID: 4366324421643995186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-uncookedegg_113
+      rect:
+        serializedVersion: 2
+        x: 1458
+        y: 448
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4d9c6608a2b269f0800000000000000
+      internalID: -476622175815819954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-uncookedegg_114
+      rect:
+        serializedVersion: 2
+        x: 1469
+        y: 455
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae32491d3593195d0800000000000000
+      internalID: -3057599639846640662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-uncookedegg_115
+      rect:
+        serializedVersion: 2
+        x: 1471
+        y: 448
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6eee06c32eeaded0800000000000000
+      internalID: -2388334814952493458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-uncookedegg_116
+      rect:
+        serializedVersion: 2
+        x: 1437
+        y: 437
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e9a3507098862700800000000000000
+      internalID: 515249361321699814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-uncookedegg_117
+      rect:
+        serializedVersion: 2
+        x: 1445
+        y: 438
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8c9c39b2e4e99c60800000000000000
+      internalID: 7825537489954446479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-uncookedegg_118
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 413
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ace91ed87a81ad90800000000000000
+      internalID: -7088232086777500510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-uncookedegg_119
+      rect:
+        serializedVersion: 2
+        x: 1093
+        y: 413
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ac5509c7e11e1170800000000000000
+      internalID: 8150972062794865833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-uncookedegg_120
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 404
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 467cf60915b387000800000000000000
+      internalID: 33842218706913124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-uncookedegg_121
+      rect:
+        serializedVersion: 2
+        x: 1101
+        y: 404
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab7a3dd69791d9c70800000000000000
+      internalID: 8979361241370961850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-uncookedegg_122
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 399
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a32b15a583a9d08d0800000000000000
+      internalID: -2878475019995729350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-uncookedegg_123
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 393
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9adfc6aa7d368cc0800000000000000
+      internalID: -3709209646099080545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      1-uncookedegg_0: -2314935903724479986
+      1-uncookedegg_1: -8407868986842660308
+      1-uncookedegg_10: -7400347568808290367
+      1-uncookedegg_100: -9051169555886184793
+      1-uncookedegg_101: -1239658798106392773
+      1-uncookedegg_102: -3635854127389093843
+      1-uncookedegg_103: 4274080616228163860
+      1-uncookedegg_104: -2071332215333796269
+      1-uncookedegg_105: 8689294025063149981
+      1-uncookedegg_106: 3839903391078654007
+      1-uncookedegg_107: 1258042071927393874
+      1-uncookedegg_108: -6318394790810317790
+      1-uncookedegg_109: -1552750927252257655
+      1-uncookedegg_11: 7812949812108011204
+      1-uncookedegg_110: -4809475378805422204
+      1-uncookedegg_111: -7710654440411569662
+      1-uncookedegg_112: 4366324421643995186
+      1-uncookedegg_113: -476622175815819954
+      1-uncookedegg_114: -3057599639846640662
+      1-uncookedegg_115: -2388334814952493458
+      1-uncookedegg_116: 515249361321699814
+      1-uncookedegg_117: 7825537489954446479
+      1-uncookedegg_118: -7088232086777500510
+      1-uncookedegg_119: 8150972062794865833
+      1-uncookedegg_12: -5627754255694082257
+      1-uncookedegg_120: 33842218706913124
+      1-uncookedegg_121: 8979361241370961850
+      1-uncookedegg_122: -2878475019995729350
+      1-uncookedegg_123: -3709209646099080545
+      1-uncookedegg_13: 7013702025262870352
+      1-uncookedegg_14: -4456599299980237181
+      1-uncookedegg_15: 8330789442191943031
+      1-uncookedegg_16: -7789347201285286881
+      1-uncookedegg_17: 4547729276386019635
+      1-uncookedegg_18: -6183478616420882957
+      1-uncookedegg_19: 6563729214915270739
+      1-uncookedegg_2: -8103715085031503771
+      1-uncookedegg_20: -6878809449165309222
+      1-uncookedegg_21: -7430724039565652301
+      1-uncookedegg_22: 3621319245352195675
+      1-uncookedegg_23: -4578335326961491845
+      1-uncookedegg_24: -7782380437754797472
+      1-uncookedegg_25: -5136558288892653525
+      1-uncookedegg_26: 2694571213973159818
+      1-uncookedegg_27: -3582811222174208664
+      1-uncookedegg_28: -7401014709578333309
+      1-uncookedegg_29: 5323005325725299859
+      1-uncookedegg_3: -5268527950351475606
+      1-uncookedegg_30: -2665927280438813080
+      1-uncookedegg_31: -4020949661811603998
+      1-uncookedegg_32: 3033675196944609150
+      1-uncookedegg_33: 1353408197930145327
+      1-uncookedegg_34: 4859878465065968559
+      1-uncookedegg_35: -6991126824181929249
+      1-uncookedegg_36: 1109832061929908214
+      1-uncookedegg_37: -3729271775702359559
+      1-uncookedegg_38: 7855199016366979073
+      1-uncookedegg_39: 8997794505494744499
+      1-uncookedegg_4: -6591789344176266442
+      1-uncookedegg_40: -11844382272939484
+      1-uncookedegg_41: 7733372051073768543
+      1-uncookedegg_42: 6715767989016756660
+      1-uncookedegg_43: 5586196285352333925
+      1-uncookedegg_44: -7817531187924066949
+      1-uncookedegg_45: -4771334660524836701
+      1-uncookedegg_46: -593230508880775847
+      1-uncookedegg_47: 8947893655623716157
+      1-uncookedegg_48: 2025249203627812577
+      1-uncookedegg_49: 7410334422559922091
+      1-uncookedegg_5: -1708652968331272018
+      1-uncookedegg_50: -5336047500083111522
+      1-uncookedegg_51: 5167683816628457000
+      1-uncookedegg_52: 3665770458141134834
+      1-uncookedegg_53: 4675868429349134316
+      1-uncookedegg_54: -8534185972631774026
+      1-uncookedegg_55: 814319241037088686
+      1-uncookedegg_56: 5272789610202632954
+      1-uncookedegg_57: -9084773555688019498
+      1-uncookedegg_58: -5149482247958631430
+      1-uncookedegg_59: 5767128660031315991
+      1-uncookedegg_6: 703123137828202651
+      1-uncookedegg_60: -5393275825279667295
+      1-uncookedegg_61: -2458833077891361419
+      1-uncookedegg_62: 5608026898327153830
+      1-uncookedegg_63: 1371247322172728953
+      1-uncookedegg_64: -4977040057058414197
+      1-uncookedegg_65: -503593331898178932
+      1-uncookedegg_66: -8408785310899567211
+      1-uncookedegg_67: -6726188961457213241
+      1-uncookedegg_68: 6951366813719385615
+      1-uncookedegg_69: -3418792379566501243
+      1-uncookedegg_7: -1634831971963787136
+      1-uncookedegg_70: 1484258165284115918
+      1-uncookedegg_71: -2554203370615657046
+      1-uncookedegg_72: 3512848425466159104
+      1-uncookedegg_73: 7295358740702417220
+      1-uncookedegg_74: -3392871191136546569
+      1-uncookedegg_75: 5508921936462760508
+      1-uncookedegg_76: -5496497463665478615
+      1-uncookedegg_77: 97984366201929406
+      1-uncookedegg_78: 3809168899268583836
+      1-uncookedegg_79: 393059945284863831
+      1-uncookedegg_8: -6127226936846512119
+      1-uncookedegg_80: -6146215875564187065
+      1-uncookedegg_81: 4392456508278190528
+      1-uncookedegg_82: 9045318278229751928
+      1-uncookedegg_83: 6450033913199344630
+      1-uncookedegg_84: -4832164727010586501
+      1-uncookedegg_85: -1489494859139808018
+      1-uncookedegg_86: -3970992399794896147
+      1-uncookedegg_87: 3242766423610268499
+      1-uncookedegg_88: -8908591680018249375
+      1-uncookedegg_89: -3755715973005106975
+      1-uncookedegg_9: 2978674280049941695
+      1-uncookedegg_90: -9189766716980259627
+      1-uncookedegg_91: -7100916857596515248
+      1-uncookedegg_92: 8014546925224034811
+      1-uncookedegg_93: 5005463497790560348
+      1-uncookedegg_94: 5391570752033909009
+      1-uncookedegg_95: 4878371272402238924
+      1-uncookedegg_96: -7178500620912786659
+      1-uncookedegg_97: 628602046551965636
+      1-uncookedegg_98: 8945219420116383101
+      1-uncookedegg_99: -1783091773921707476
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

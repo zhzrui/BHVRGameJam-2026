@@ -1,0 +1,793 @@
+fileFormatVersion: 2
+guid: 593900cf1fba30444b2c2b03846533ec
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6940469024440120528
+    second: 2-chili_0
+  - first:
+      213: -3047017933758641761
+    second: 2-chili_1
+  - first:
+      213: -6926771898225280841
+    second: 2-chili_2
+  - first:
+      213: -50212293125808043
+    second: 2-chili_3
+  - first:
+      213: -4976239627897938947
+    second: 2-chili_4
+  - first:
+      213: -4523767596014654936
+    second: 2-chili_5
+  - first:
+      213: -7991458808327194712
+    second: 2-chili_6
+  - first:
+      213: 6009969245193162207
+    second: 2-chili_7
+  - first:
+      213: 6788564465753677090
+    second: 2-chili_8
+  - first:
+      213: 8240105628676032803
+    second: 2-chili_9
+  - first:
+      213: 6685648231522498539
+    second: 2-chili_10
+  - first:
+      213: 8367240731365061193
+    second: 2-chili_11
+  - first:
+      213: -4735348409371401679
+    second: 2-chili_12
+  - first:
+      213: -3198579460220396722
+    second: 2-chili_13
+  - first:
+      213: -8420589001934944029
+    second: 2-chili_14
+  - first:
+      213: 6426515599953323639
+    second: 2-chili_15
+  - first:
+      213: -2904338648188608087
+    second: 2-chili_16
+  - first:
+      213: -1953847347597418681
+    second: 2-chili_17
+  - first:
+      213: -5041691157426913607
+    second: 2-chili_18
+  - first:
+      213: 4115000830219552606
+    second: 2-chili_19
+  - first:
+      213: 7722074117301840825
+    second: 2-chili_20
+  - first:
+      213: 3646338093831326622
+    second: 2-chili_21
+  - first:
+      213: -5636739592562498085
+    second: 2-chili_22
+  - first:
+      213: 4489876395127613721
+    second: 2-chili_23
+  - first:
+      213: -97617887858451610
+    second: 2-chili_24
+  - first:
+      213: 8978456076101925173
+    second: 2-chili_25
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 2-chili_0
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 1230
+        width: 810
+        height: 2282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03b05a7c1308eaf90800000000000000
+      internalID: -6940469024440120528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-chili_1
+      rect:
+        serializedVersion: 2
+        x: 1845
+        y: 3071
+        width: 51
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9942124551d6b5d0800000000000000
+      internalID: -3047017933758641761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-chili_2
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 1762
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b8bf1e78a92fdf90800000000000000
+      internalID: -6926771898225280841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-chili_3
+      rect:
+        serializedVersion: 2
+        x: 1217
+        y: 1395
+        width: 611
+        height: 1657
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 550e0e87f2c9d4ff0800000000000000
+      internalID: -50212293125808043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-chili_4
+      rect:
+        serializedVersion: 2
+        x: 1669
+        y: 462
+        width: 536
+        height: 1766
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfbdbe57c68d0fab0800000000000000
+      internalID: -4976239627897938947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-chili_5
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 1751
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82aaf11e6595831c0800000000000000
+      internalID: -4523767596014654936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-chili_6
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 381
+        width: 1543
+        height: 1323
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a7bd7ced82a81190800000000000000
+      internalID: -7991458808327194712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-chili_7
+      rect:
+        serializedVersion: 2
+        x: 1687
+        y: 556
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fddc2c2bf23b76350800000000000000
+      internalID: 6009969245193162207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-chili_8
+      rect:
+        serializedVersion: 2
+        x: 1690
+        y: 541
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22d561c0a63d53e50800000000000000
+      internalID: 6788564465753677090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-chili_9
+      rect:
+        serializedVersion: 2
+        x: 1703
+        y: 538
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3298eec496cba5270800000000000000
+      internalID: 8240105628676032803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-chili_10
+      rect:
+        serializedVersion: 2
+        x: 1711
+        y: 546
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be7fd1df4a138cc50800000000000000
+      internalID: 6685648231522498539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-chili_11
+      rect:
+        serializedVersion: 2
+        x: 1717
+        y: 527
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 942b1371d196e1470800000000000000
+      internalID: 8367240731365061193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-chili_12
+      rect:
+        serializedVersion: 2
+        x: 1721
+        y: 534
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 132e4bbe5b9a84eb0800000000000000
+      internalID: -4735348409371401679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-chili_13
+      rect:
+        serializedVersion: 2
+        x: 1673
+        y: 499
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4bd3bf7dec5c93d0800000000000000
+      internalID: -3198579460220396722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-chili_14
+      rect:
+        serializedVersion: 2
+        x: 1678
+        y: 499
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e84b1cbaee042b80800000000000000
+      internalID: -8420589001934944029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-chili_15
+      rect:
+        serializedVersion: 2
+        x: 1693
+        y: 490
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77669b693e19f2950800000000000000
+      internalID: 6426515599953323639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-chili_16
+      rect:
+        serializedVersion: 2
+        x: 1860
+        y: 500
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a1a7472367b1b7d0800000000000000
+      internalID: -2904338648188608087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-chili_17
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 420
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74fdd15703a82e4e0800000000000000
+      internalID: -1953847347597418681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-chili_18
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 419
+        width: 20
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9be3756ba90580ab0800000000000000
+      internalID: -5041691157426913607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-chili_19
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 401
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e578cafe37b6b1930800000000000000
+      internalID: 4115000830219552606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-chili_20
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 404
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bba3031f715a2b60800000000000000
+      internalID: 7722074117301840825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-chili_21
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 405
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9b8acd5d256a9230800000000000000
+      internalID: 3646338093831326622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-chili_22
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 398
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd5aeed843746c1b0800000000000000
+      internalID: -5636739592562498085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-chili_23
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 405
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9192ef00bce3f4e30800000000000000
+      internalID: 4489876395127613721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-chili_24
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 397
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66b19765c0135aef0800000000000000
+      internalID: -97617887858451610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-chili_25
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 400
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 539b0873b32e99c70800000000000000
+      internalID: 8978456076101925173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      2-chili_0: -6940469024440120528
+      2-chili_1: -3047017933758641761
+      2-chili_10: 6685648231522498539
+      2-chili_11: 8367240731365061193
+      2-chili_12: -4735348409371401679
+      2-chili_13: -3198579460220396722
+      2-chili_14: -8420589001934944029
+      2-chili_15: 6426515599953323639
+      2-chili_16: -2904338648188608087
+      2-chili_17: -1953847347597418681
+      2-chili_18: -5041691157426913607
+      2-chili_19: 4115000830219552606
+      2-chili_2: -6926771898225280841
+      2-chili_20: 7722074117301840825
+      2-chili_21: 3646338093831326622
+      2-chili_22: -5636739592562498085
+      2-chili_23: 4489876395127613721
+      2-chili_24: -97617887858451610
+      2-chili_25: 8978456076101925173
+      2-chili_3: -50212293125808043
+      2-chili_4: -4976239627897938947
+      2-chili_5: -4523767596014654936
+      2-chili_6: -7991458808327194712
+      2-chili_7: 6009969245193162207
+      2-chili_8: 6788564465753677090
+      2-chili_9: 8240105628676032803
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

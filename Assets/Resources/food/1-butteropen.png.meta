@@ -1,0 +1,6435 @@
+fileFormatVersion: 2
+guid: 3ab0487e245435c40bf42882376133f7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7061654364708746291
+    second: 1-butteropen_0
+  - first:
+      213: -7664107344404980099
+    second: 1-butteropen_1
+  - first:
+      213: -8056879751908289760
+    second: 1-butteropen_2
+  - first:
+      213: -276189283033224464
+    second: 1-butteropen_3
+  - first:
+      213: 940531484834933601
+    second: 1-butteropen_4
+  - first:
+      213: 2738142985122657854
+    second: 1-butteropen_5
+  - first:
+      213: -6709893189087862013
+    second: 1-butteropen_6
+  - first:
+      213: -6086391173278424593
+    second: 1-butteropen_7
+  - first:
+      213: 2984939981384715366
+    second: 1-butteropen_8
+  - first:
+      213: 4540857517075396628
+    second: 1-butteropen_9
+  - first:
+      213: -1366537843049207548
+    second: 1-butteropen_10
+  - first:
+      213: 5891034456926001034
+    second: 1-butteropen_11
+  - first:
+      213: 796225881682494642
+    second: 1-butteropen_12
+  - first:
+      213: -4625677982303580058
+    second: 1-butteropen_13
+  - first:
+      213: -104039842453718443
+    second: 1-butteropen_14
+  - first:
+      213: 3056414181568737929
+    second: 1-butteropen_15
+  - first:
+      213: 846535125855463504
+    second: 1-butteropen_16
+  - first:
+      213: 559363582646836835
+    second: 1-butteropen_17
+  - first:
+      213: -8833914823232933846
+    second: 1-butteropen_18
+  - first:
+      213: 7067968473302119607
+    second: 1-butteropen_19
+  - first:
+      213: 7161062742091648898
+    second: 1-butteropen_20
+  - first:
+      213: 1280603262316179665
+    second: 1-butteropen_21
+  - first:
+      213: 1138072785203973155
+    second: 1-butteropen_22
+  - first:
+      213: -3317846426854453189
+    second: 1-butteropen_23
+  - first:
+      213: -7252681826165366961
+    second: 1-butteropen_24
+  - first:
+      213: -6975647165822887747
+    second: 1-butteropen_25
+  - first:
+      213: 2829134856615804453
+    second: 1-butteropen_26
+  - first:
+      213: 7157299517852484826
+    second: 1-butteropen_27
+  - first:
+      213: -2272353107216695971
+    second: 1-butteropen_28
+  - first:
+      213: -7110702924612800314
+    second: 1-butteropen_29
+  - first:
+      213: 589696331759614966
+    second: 1-butteropen_30
+  - first:
+      213: 2145563882385341080
+    second: 1-butteropen_31
+  - first:
+      213: -4070415889063711778
+    second: 1-butteropen_32
+  - first:
+      213: 7891766582004472897
+    second: 1-butteropen_33
+  - first:
+      213: -3323827187849725091
+    second: 1-butteropen_34
+  - first:
+      213: 9200123305646189650
+    second: 1-butteropen_35
+  - first:
+      213: 8782762932589989598
+    second: 1-butteropen_36
+  - first:
+      213: 3920181045046234888
+    second: 1-butteropen_37
+  - first:
+      213: -7824105853910887583
+    second: 1-butteropen_38
+  - first:
+      213: -60427639791712687
+    second: 1-butteropen_39
+  - first:
+      213: -3855763672565512063
+    second: 1-butteropen_40
+  - first:
+      213: 1430085082732612844
+    second: 1-butteropen_41
+  - first:
+      213: -528154495351958333
+    second: 1-butteropen_42
+  - first:
+      213: -6096804179943065413
+    second: 1-butteropen_43
+  - first:
+      213: 5059078506438766531
+    second: 1-butteropen_44
+  - first:
+      213: 873038441432196354
+    second: 1-butteropen_45
+  - first:
+      213: 1742606132185561727
+    second: 1-butteropen_46
+  - first:
+      213: 4538657473879697232
+    second: 1-butteropen_47
+  - first:
+      213: 7912038751468065293
+    second: 1-butteropen_48
+  - first:
+      213: 7695880691331325017
+    second: 1-butteropen_49
+  - first:
+      213: 1743090808508639407
+    second: 1-butteropen_50
+  - first:
+      213: -3442373782328116796
+    second: 1-butteropen_51
+  - first:
+      213: -8410764970982292937
+    second: 1-butteropen_52
+  - first:
+      213: 3157523675050395135
+    second: 1-butteropen_53
+  - first:
+      213: -7604408850376540437
+    second: 1-butteropen_54
+  - first:
+      213: -4473387345087560707
+    second: 1-butteropen_55
+  - first:
+      213: 6688429661024226206
+    second: 1-butteropen_56
+  - first:
+      213: -3395451256114777510
+    second: 1-butteropen_57
+  - first:
+      213: -366186169756349512
+    second: 1-butteropen_58
+  - first:
+      213: -6884245749884103241
+    second: 1-butteropen_59
+  - first:
+      213: -8006193682117756035
+    second: 1-butteropen_60
+  - first:
+      213: -5907336477043803038
+    second: 1-butteropen_61
+  - first:
+      213: -243412469243865244
+    second: 1-butteropen_62
+  - first:
+      213: 7487259885660637168
+    second: 1-butteropen_63
+  - first:
+      213: -8099550863850694913
+    second: 1-butteropen_64
+  - first:
+      213: 5540734372282308116
+    second: 1-butteropen_65
+  - first:
+      213: 2127601426112227199
+    second: 1-butteropen_66
+  - first:
+      213: -3061026879276965439
+    second: 1-butteropen_67
+  - first:
+      213: 8476536337732728419
+    second: 1-butteropen_68
+  - first:
+      213: 4100366885349001697
+    second: 1-butteropen_69
+  - first:
+      213: 5272078351797329805
+    second: 1-butteropen_70
+  - first:
+      213: -7530962384977780789
+    second: 1-butteropen_71
+  - first:
+      213: 6438516581442708717
+    second: 1-butteropen_72
+  - first:
+      213: -7776441605813395013
+    second: 1-butteropen_73
+  - first:
+      213: 2480780732269688216
+    second: 1-butteropen_74
+  - first:
+      213: -2231835864740340157
+    second: 1-butteropen_75
+  - first:
+      213: 4952758471836929992
+    second: 1-butteropen_76
+  - first:
+      213: -3278096754368390567
+    second: 1-butteropen_77
+  - first:
+      213: -126080818230377307
+    second: 1-butteropen_78
+  - first:
+      213: -5295511702999724928
+    second: 1-butteropen_79
+  - first:
+      213: 2029058706750161629
+    second: 1-butteropen_80
+  - first:
+      213: 6910337699122133533
+    second: 1-butteropen_81
+  - first:
+      213: 8753506062787921604
+    second: 1-butteropen_82
+  - first:
+      213: 6741725342306240798
+    second: 1-butteropen_83
+  - first:
+      213: 1163970407507071846
+    second: 1-butteropen_84
+  - first:
+      213: 9104710617347501324
+    second: 1-butteropen_85
+  - first:
+      213: -7447445239865143597
+    second: 1-butteropen_86
+  - first:
+      213: 1531709591101658751
+    second: 1-butteropen_87
+  - first:
+      213: -6002487145126444868
+    second: 1-butteropen_88
+  - first:
+      213: -1421414174178667014
+    second: 1-butteropen_89
+  - first:
+      213: 1776060379272035233
+    second: 1-butteropen_90
+  - first:
+      213: 1712727162699896390
+    second: 1-butteropen_91
+  - first:
+      213: -70980074177963431
+    second: 1-butteropen_92
+  - first:
+      213: -8014809297062482175
+    second: 1-butteropen_93
+  - first:
+      213: 7886042078518591301
+    second: 1-butteropen_94
+  - first:
+      213: 3525768606675178047
+    second: 1-butteropen_95
+  - first:
+      213: 6192349045872035237
+    second: 1-butteropen_96
+  - first:
+      213: 730873756898964888
+    second: 1-butteropen_97
+  - first:
+      213: 2618468744822791467
+    second: 1-butteropen_98
+  - first:
+      213: -8972301357199012191
+    second: 1-butteropen_99
+  - first:
+      213: -4796944051806102814
+    second: 1-butteropen_100
+  - first:
+      213: 5396329441547894434
+    second: 1-butteropen_101
+  - first:
+      213: 8140629403300969006
+    second: 1-butteropen_102
+  - first:
+      213: 1179427127447634880
+    second: 1-butteropen_103
+  - first:
+      213: -1225147662899752228
+    second: 1-butteropen_104
+  - first:
+      213: -6503088137701469255
+    second: 1-butteropen_105
+  - first:
+      213: -6736695896557727774
+    second: 1-butteropen_106
+  - first:
+      213: -8472356306992244731
+    second: 1-butteropen_107
+  - first:
+      213: 7891714030678913044
+    second: 1-butteropen_108
+  - first:
+      213: -5872985287360919355
+    second: 1-butteropen_109
+  - first:
+      213: 2492845671676795279
+    second: 1-butteropen_110
+  - first:
+      213: 7524906867338909884
+    second: 1-butteropen_111
+  - first:
+      213: 7384912886193641204
+    second: 1-butteropen_112
+  - first:
+      213: -6029835362992138771
+    second: 1-butteropen_113
+  - first:
+      213: 4319380398903549541
+    second: 1-butteropen_114
+  - first:
+      213: 52920843074097648
+    second: 1-butteropen_115
+  - first:
+      213: -7708310985980672162
+    second: 1-butteropen_116
+  - first:
+      213: 4092077063681186806
+    second: 1-butteropen_117
+  - first:
+      213: 8176227471013591829
+    second: 1-butteropen_118
+  - first:
+      213: -8012812026553621905
+    second: 1-butteropen_119
+  - first:
+      213: -5077302296919542147
+    second: 1-butteropen_120
+  - first:
+      213: -5596696096493666682
+    second: 1-butteropen_121
+  - first:
+      213: -2596021118026557885
+    second: 1-butteropen_122
+  - first:
+      213: -1901395342605712490
+    second: 1-butteropen_123
+  - first:
+      213: 1288029301596999569
+    second: 1-butteropen_124
+  - first:
+      213: 4633545206557374401
+    second: 1-butteropen_125
+  - first:
+      213: 5834280120719689505
+    second: 1-butteropen_126
+  - first:
+      213: 6778009343239175169
+    second: 1-butteropen_127
+  - first:
+      213: 1445103774341940879
+    second: 1-butteropen_128
+  - first:
+      213: -6035920222503995567
+    second: 1-butteropen_129
+  - first:
+      213: 741686295802355255
+    second: 1-butteropen_130
+  - first:
+      213: 7669522147606352426
+    second: 1-butteropen_131
+  - first:
+      213: 1423349353852997670
+    second: 1-butteropen_132
+  - first:
+      213: 1873651371128422915
+    second: 1-butteropen_133
+  - first:
+      213: 7709318554166671272
+    second: 1-butteropen_134
+  - first:
+      213: 6570312993756725253
+    second: 1-butteropen_135
+  - first:
+      213: -7344505595460993685
+    second: 1-butteropen_136
+  - first:
+      213: 973515687420663380
+    second: 1-butteropen_137
+  - first:
+      213: -1329523016107914813
+    second: 1-butteropen_138
+  - first:
+      213: -3732982257387669622
+    second: 1-butteropen_139
+  - first:
+      213: 2990980954829108075
+    second: 1-butteropen_140
+  - first:
+      213: 3410057761403126243
+    second: 1-butteropen_141
+  - first:
+      213: 8427675773886995609
+    second: 1-butteropen_142
+  - first:
+      213: 2332920223277862911
+    second: 1-butteropen_143
+  - first:
+      213: 5695601563612178217
+    second: 1-butteropen_144
+  - first:
+      213: -8003953470438722518
+    second: 1-butteropen_145
+  - first:
+      213: 513820310967359251
+    second: 1-butteropen_146
+  - first:
+      213: 7119308596922717129
+    second: 1-butteropen_147
+  - first:
+      213: -8563708914515812028
+    second: 1-butteropen_148
+  - first:
+      213: -3001819753391236585
+    second: 1-butteropen_149
+  - first:
+      213: 8720986394012032288
+    second: 1-butteropen_150
+  - first:
+      213: 2230122527981288235
+    second: 1-butteropen_151
+  - first:
+      213: 3463882608899518379
+    second: 1-butteropen_152
+  - first:
+      213: -4297099351110813795
+    second: 1-butteropen_153
+  - first:
+      213: -5894959662749397174
+    second: 1-butteropen_154
+  - first:
+      213: 2521461907356363470
+    second: 1-butteropen_155
+  - first:
+      213: 4108246324345918101
+    second: 1-butteropen_156
+  - first:
+      213: -8705367151853731729
+    second: 1-butteropen_157
+  - first:
+      213: -4162876878483961762
+    second: 1-butteropen_158
+  - first:
+      213: 1976282001797624684
+    second: 1-butteropen_159
+  - first:
+      213: -2879548210915539957
+    second: 1-butteropen_160
+  - first:
+      213: -2755471098122158024
+    second: 1-butteropen_161
+  - first:
+      213: -8562675970665877932
+    second: 1-butteropen_162
+  - first:
+      213: 7907628635738151631
+    second: 1-butteropen_163
+  - first:
+      213: 1887310045596391431
+    second: 1-butteropen_164
+  - first:
+      213: 2497180498238413693
+    second: 1-butteropen_165
+  - first:
+      213: -4011573266605358226
+    second: 1-butteropen_166
+  - first:
+      213: -4794141875703390345
+    second: 1-butteropen_167
+  - first:
+      213: -6761186203173257209
+    second: 1-butteropen_168
+  - first:
+      213: 5253754908315198254
+    second: 1-butteropen_169
+  - first:
+      213: 5375427095994465007
+    second: 1-butteropen_170
+  - first:
+      213: -5504530249609303034
+    second: 1-butteropen_171
+  - first:
+      213: 6719336413217865113
+    second: 1-butteropen_172
+  - first:
+      213: -185713141301233137
+    second: 1-butteropen_173
+  - first:
+      213: 2412179878236196107
+    second: 1-butteropen_174
+  - first:
+      213: -3413609554749133725
+    second: 1-butteropen_175
+  - first:
+      213: -2225056719220979751
+    second: 1-butteropen_176
+  - first:
+      213: -3896755600751221903
+    second: 1-butteropen_177
+  - first:
+      213: 8345991703628664069
+    second: 1-butteropen_178
+  - first:
+      213: 1989920100505943052
+    second: 1-butteropen_179
+  - first:
+      213: -3475726760662394322
+    second: 1-butteropen_180
+  - first:
+      213: 4782218326167634066
+    second: 1-butteropen_181
+  - first:
+      213: -1336106301009966927
+    second: 1-butteropen_182
+  - first:
+      213: 886502133909087612
+    second: 1-butteropen_183
+  - first:
+      213: -418019990103222946
+    second: 1-butteropen_184
+  - first:
+      213: 815466826346447822
+    second: 1-butteropen_185
+  - first:
+      213: 5164685272197920924
+    second: 1-butteropen_186
+  - first:
+      213: 2557609214909441887
+    second: 1-butteropen_187
+  - first:
+      213: -429394131708941577
+    second: 1-butteropen_188
+  - first:
+      213: -2446428773132165179
+    second: 1-butteropen_189
+  - first:
+      213: 2674644101519251311
+    second: 1-butteropen_190
+  - first:
+      213: 5394718522912332290
+    second: 1-butteropen_191
+  - first:
+      213: 6273226437489077095
+    second: 1-butteropen_192
+  - first:
+      213: 2222327760453142104
+    second: 1-butteropen_193
+  - first:
+      213: -3285552828932429418
+    second: 1-butteropen_194
+  - first:
+      213: -993324335426427197
+    second: 1-butteropen_195
+  - first:
+      213: -2966591231351762024
+    second: 1-butteropen_196
+  - first:
+      213: 8916651321719443842
+    second: 1-butteropen_197
+  - first:
+      213: -9118271364836783897
+    second: 1-butteropen_198
+  - first:
+      213: -4255771970197738359
+    second: 1-butteropen_199
+  - first:
+      213: -2433468969202312402
+    second: 1-butteropen_200
+  - first:
+      213: -7378658102202934573
+    second: 1-butteropen_201
+  - first:
+      213: 1357951801157561926
+    second: 1-butteropen_202
+  - first:
+      213: 692469692607207828
+    second: 1-butteropen_203
+  - first:
+      213: -1862196566722806188
+    second: 1-butteropen_204
+  - first:
+      213: 7829021019400937110
+    second: 1-butteropen_205
+  - first:
+      213: -4048177320435954302
+    second: 1-butteropen_206
+  - first:
+      213: 4835136575136883866
+    second: 1-butteropen_207
+  - first:
+      213: -827469777148821888
+    second: 1-butteropen_208
+  - first:
+      213: -1980081444121299813
+    second: 1-butteropen_209
+  - first:
+      213: -8703807828671937696
+    second: 1-butteropen_210
+  - first:
+      213: 3564875270521694613
+    second: 1-butteropen_211
+  - first:
+      213: 1751231586977430912
+    second: 1-butteropen_212
+  - first:
+      213: -2118667271745154076
+    second: 1-butteropen_213
+  - first:
+      213: -2064976187137276845
+    second: 1-butteropen_214
+  - first:
+      213: 992199817247097300
+    second: 1-butteropen_215
+  - first:
+      213: 5667931842561140155
+    second: 1-butteropen_216
+  - first:
+      213: -64489189803983567
+    second: 1-butteropen_217
+  - first:
+      213: 8936099606101818392
+    second: 1-butteropen_218
+  - first:
+      213: -7010594149532956247
+    second: 1-butteropen_219
+  - first:
+      213: 5738210793916931748
+    second: 1-butteropen_220
+  - first:
+      213: -6119541377009795530
+    second: 1-butteropen_221
+  - first:
+      213: -2655644784986310586
+    second: 1-butteropen_222
+  - first:
+      213: -7350317970169309095
+    second: 1-butteropen_223
+  - first:
+      213: -4479950845822392640
+    second: 1-butteropen_224
+  - first:
+      213: 5923774285958066963
+    second: 1-butteropen_225
+  - first:
+      213: 1551658832010675952
+    second: 1-butteropen_226
+  - first:
+      213: 1900744437439110448
+    second: 1-butteropen_227
+  - first:
+      213: -2482850242645452373
+    second: 1-butteropen_228
+  - first:
+      213: 5078877622626120370
+    second: 1-butteropen_229
+  - first:
+      213: 2793383580038795375
+    second: 1-butteropen_230
+  - first:
+      213: 1022152030266289103
+    second: 1-butteropen_231
+  - first:
+      213: 1828546374275853287
+    second: 1-butteropen_232
+  - first:
+      213: -7567994217095884639
+    second: 1-butteropen_233
+  - first:
+      213: 1500357653500477259
+    second: 1-butteropen_234
+  - first:
+      213: 5389977996893216068
+    second: 1-butteropen_235
+  - first:
+      213: 6038159450222418359
+    second: 1-butteropen_236
+  - first:
+      213: -8619120985804693779
+    second: 1-butteropen_237
+  - first:
+      213: 5972872698031172878
+    second: 1-butteropen_238
+  - first:
+      213: -2813397862797130460
+    second: 1-butteropen_239
+  - first:
+      213: 3826228167763757267
+    second: 1-butteropen_240
+  - first:
+      213: 7906557655490229664
+    second: 1-butteropen_241
+  - first:
+      213: 7643538972150094540
+    second: 1-butteropen_242
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 1-butteropen_0
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 2846
+        width: 78
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcbc2f005c6fffd90800000000000000
+      internalID: -7061654364708746291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butteropen_1
+      rect:
+        serializedVersion: 2
+        x: 1109
+        y: 2845
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7e5748f9fe93a590800000000000000
+      internalID: -7664107344404980099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butteropen_2
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 2856
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02318758d86303090800000000000000
+      internalID: -8056879751908289760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butteropen_3
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 2845
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fae8067f47ca2cf0800000000000000
+      internalID: -276189283033224464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butteropen_4
+      rect:
+        serializedVersion: 2
+        x: 1123
+        y: 2843
+        width: 55
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16b28adf6607d0d00800000000000000
+      internalID: 940531484834933601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butteropen_5
+      rect:
+        serializedVersion: 2
+        x: 1177
+        y: 2841
+        width: 40
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e36b674a986dff520800000000000000
+      internalID: 2738142985122657854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butteropen_6
+      rect:
+        serializedVersion: 2
+        x: 1217
+        y: 2847
+        width: 33
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 303ea9fe1bba1e2a0800000000000000
+      internalID: -6709893189087862013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butteropen_7
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 2846
+        width: 21
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe1aaa8997bc88ba0800000000000000
+      internalID: -6086391173278424593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butteropen_8
+      rect:
+        serializedVersion: 2
+        x: 1273
+        y: 2846
+        width: 60
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66c0c422913ac6920800000000000000
+      internalID: 2984939981384715366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butteropen_9
+      rect:
+        serializedVersion: 2
+        x: 1569
+        y: 2712
+        width: 72
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 418f0f07add540f30800000000000000
+      internalID: 4540857517075396628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butteropen_10
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 2772
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4096cec6215190de0800000000000000
+      internalID: -1366537843049207548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butteropen_11
+      rect:
+        serializedVersion: 2
+        x: 1638
+        y: 2707
+        width: 72
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8719a460a821c150800000000000000
+      internalID: 5891034456926001034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butteropen_12
+      rect:
+        serializedVersion: 2
+        x: 1638
+        y: 2771
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b448a68833cc0b00800000000000000
+      internalID: 796225881682494642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butteropen_13
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 2679
+        width: 152
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 660137b026a4ecfb0800000000000000
+      internalID: -4625677982303580058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butteropen_14
+      rect:
+        serializedVersion: 2
+        x: 1519
+        y: 2748
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55afe0480506e8ef0800000000000000
+      internalID: -104039842453718443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butteropen_15
+      rect:
+        serializedVersion: 2
+        x: 1535
+        y: 2755
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 982feda21809a6a20800000000000000
+      internalID: 3056414181568737929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butteropen_16
+      rect:
+        serializedVersion: 2
+        x: 1541
+        y: 2745
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 058618a363f7fbb00800000000000000
+      internalID: 846535125855463504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butteropen_17
+      rect:
+        serializedVersion: 2
+        x: 1563
+        y: 2751
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36e54fbf63243c700800000000000000
+      internalID: 559363582646836835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butteropen_18
+      rect:
+        serializedVersion: 2
+        x: 1614
+        y: 2759
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a20b429b541a76580800000000000000
+      internalID: -8833914823232933846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butteropen_19
+      rect:
+        serializedVersion: 2
+        x: 1528
+        y: 2737
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b435d6f0e7761260800000000000000
+      internalID: 7067968473302119607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butteropen_20
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 2729
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28f48ac7f94316360800000000000000
+      internalID: 7161062742091648898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butteropen_21
+      rect:
+        serializedVersion: 2
+        x: 1548
+        y: 2730
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d0ff84d1ed95c110800000000000000
+      internalID: 1280603262316179665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butteropen_22
+      rect:
+        serializedVersion: 2
+        x: 1552
+        y: 2736
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32c4f9a1b2f3bcf00800000000000000
+      internalID: 1138072785203973155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butteropen_23
+      rect:
+        serializedVersion: 2
+        x: 1561
+        y: 2739
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b309a04e044a4f1d0800000000000000
+      internalID: -3317846426854453189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butteropen_24
+      rect:
+        serializedVersion: 2
+        x: 1567
+        y: 2737
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4f5b723e4c495b90800000000000000
+      internalID: -7252681826165366961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butteropen_25
+      rect:
+        serializedVersion: 2
+        x: 1589
+        y: 2731
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db89aaa7cd5813f90800000000000000
+      internalID: -6975647165822887747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butteropen_26
+      rect:
+        serializedVersion: 2
+        x: 1605
+        y: 2739
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52eb246a92b134720800000000000000
+      internalID: 2829134856615804453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butteropen_27
+      rect:
+        serializedVersion: 2
+        x: 1615
+        y: 2737
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad40ca09df5d35360800000000000000
+      internalID: 7157299517852484826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butteropen_28
+      rect:
+        serializedVersion: 2
+        x: 1622
+        y: 2737
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5df71073eaf670e0800000000000000
+      internalID: -2272353107216695971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butteropen_29
+      rect:
+        serializedVersion: 2
+        x: 1625
+        y: 2735
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c07f1b3d55b15d90800000000000000
+      internalID: -7110702924612800314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butteropen_30
+      rect:
+        serializedVersion: 2
+        x: 1626
+        y: 2742
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fbf1eb70b50f2800800000000000000
+      internalID: 589696331759614966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butteropen_31
+      rect:
+        serializedVersion: 2
+        x: 1630
+        y: 2738
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89a7c7cbbf296cd10800000000000000
+      internalID: 2145563882385341080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butteropen_32
+      rect:
+        serializedVersion: 2
+        x: 1634
+        y: 2736
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edb604c905af287c0800000000000000
+      internalID: -4070415889063711778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butteropen_33
+      rect:
+        serializedVersion: 2
+        x: 1637
+        y: 2741
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14cdcaad4ef258d60800000000000000
+      internalID: 7891766582004472897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butteropen_34
+      rect:
+        serializedVersion: 2
+        x: 1530
+        y: 2730
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5b7e6578c46fd1d0800000000000000
+      internalID: -3323827187849725091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butteropen_35
+      rect:
+        serializedVersion: 2
+        x: 1566
+        y: 2730
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25c65d2f6676daf70800000000000000
+      internalID: 9200123305646189650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butteropen_36
+      rect:
+        serializedVersion: 2
+        x: 1617
+        y: 2732
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ede8e77aa54a2e970800000000000000
+      internalID: 8782762932589989598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butteropen_37
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 2725
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80f4335f3e7476630800000000000000
+      internalID: 3920181045046234888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butteropen_38
+      rect:
+        serializedVersion: 2
+        x: 1526
+        y: 2718
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16356940e213b6390800000000000000
+      internalID: -7824105853910887583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butteropen_39
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 2704
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 156899bb161592ff0800000000000000
+      internalID: -60427639791712687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butteropen_40
+      rect:
+        serializedVersion: 2
+        x: 1538
+        y: 2719
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18880e65e539d7ac0800000000000000
+      internalID: -3855763672565512063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butteropen_41
+      rect:
+        serializedVersion: 2
+        x: 1551
+        y: 2719
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cecccda4ecea8d310800000000000000
+      internalID: 1430085082732612844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butteropen_42
+      rect:
+        serializedVersion: 2
+        x: 1566
+        y: 2722
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c45506e84e9ba8f0800000000000000
+      internalID: -528154495351958333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butteropen_43
+      rect:
+        serializedVersion: 2
+        x: 1574
+        y: 2720
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb8706d86ecc36ba0800000000000000
+      internalID: -6096804179943065413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butteropen_44
+      rect:
+        serializedVersion: 2
+        x: 1582
+        y: 2722
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cfa813f815753640800000000000000
+      internalID: 5059078506438766531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butteropen_45
+      rect:
+        serializedVersion: 2
+        x: 1596
+        y: 2720
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 205a3d046d7ad1c00800000000000000
+      internalID: 873038441432196354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butteropen_46
+      rect:
+        serializedVersion: 2
+        x: 1603
+        y: 2720
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7a76546b0bfe2810800000000000000
+      internalID: 1742606132185561727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butteropen_47
+      rect:
+        serializedVersion: 2
+        x: 1610
+        y: 2718
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05765c7fcec8cfe30800000000000000
+      internalID: 4538657473879697232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butteropen_48
+      rect:
+        serializedVersion: 2
+        x: 1626
+        y: 2725
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d02116e13553dcd60800000000000000
+      internalID: 7912038751468065293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butteropen_49
+      rect:
+        serializedVersion: 2
+        x: 1513
+        y: 2702
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95c5798d6b24dca60800000000000000
+      internalID: 7695880691331325017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butteropen_50
+      rect:
+        serializedVersion: 2
+        x: 1530
+        y: 2660
+        width: 220
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa8e764ead3b03810800000000000000
+      internalID: 1743090808508639407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butteropen_51
+      rect:
+        serializedVersion: 2
+        x: 1554
+        y: 2701
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c9f630984b3a30d0800000000000000
+      internalID: -3442373782328116796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butteropen_52
+      rect:
+        serializedVersion: 2
+        x: 1562
+        y: 2710
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7324d4f22d5f64b80800000000000000
+      internalID: -8410764970982292937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butteropen_53
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 2711
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff5c34d9d07c1db20800000000000000
+      internalID: 3157523675050395135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butteropen_54
+      rect:
+        serializedVersion: 2
+        x: 1569
+        y: 2705
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bee3872c076b77690800000000000000
+      internalID: -7604408850376540437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butteropen_55
+      rect:
+        serializedVersion: 2
+        x: 1578
+        y: 2705
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df3045129e55be1c0800000000000000
+      internalID: -4473387345087560707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butteropen_56
+      rect:
+        serializedVersion: 2
+        x: 1581
+        y: 2706
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9b0982075312dc50800000000000000
+      internalID: 6688429661024226206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butteropen_57
+      rect:
+        serializedVersion: 2
+        x: 1590
+        y: 2705
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a52ff1b821fe0e0d0800000000000000
+      internalID: -3395451256114777510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butteropen_58
+      rect:
+        serializedVersion: 2
+        x: 1591
+        y: 2700
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bb03066e9b0beaf0800000000000000
+      internalID: -366186169756349512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butteropen_59
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 2706
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b55aabf6fe3670a0800000000000000
+      internalID: -6884245749884103241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butteropen_60
+      rect:
+        serializedVersion: 2
+        x: 1604
+        y: 2704
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7bf466c34944e090800000000000000
+      internalID: -8006193682117756035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butteropen_61
+      rect:
+        serializedVersion: 2
+        x: 1617
+        y: 2707
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26cb815c5cce40ea0800000000000000
+      internalID: -5907336477043803038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butteropen_62
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 2705
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46791dc16a93f9cf0800000000000000
+      internalID: -243412469243865244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butteropen_63
+      rect:
+        serializedVersion: 2
+        x: 1629
+        y: 2706
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f785d1623718e760800000000000000
+      internalID: 7487259885660637168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butteropen_64
+      rect:
+        serializedVersion: 2
+        x: 1634
+        y: 2709
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff698ff076d989f80800000000000000
+      internalID: -8099550863850694913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butteropen_65
+      rect:
+        serializedVersion: 2
+        x: 1639
+        y: 2706
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4161fa63e84a4ec40800000000000000
+      internalID: 5540734372282308116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butteropen_66
+      rect:
+        serializedVersion: 2
+        x: 1648
+        y: 2712
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f77a80b7932c68d10800000000000000
+      internalID: 2127601426112227199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butteropen_67
+      rect:
+        serializedVersion: 2
+        x: 1523
+        y: 2678
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c126c4754c0585d0800000000000000
+      internalID: -3061026879276965439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butteropen_68
+      rect:
+        serializedVersion: 2
+        x: 1744
+        y: 2665
+        width: 25
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 366ff3873e4b2a570800000000000000
+      internalID: 8476536337732728419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butteropen_69
+      rect:
+        serializedVersion: 2
+        x: 1768
+        y: 2653
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e9800225fd67e830800000000000000
+      internalID: 4100366885349001697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butteropen_70
+      rect:
+        serializedVersion: 2
+        x: 1698
+        y: 2656
+        width: 44
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8f18ea045f2a2940800000000000000
+      internalID: 5272078351797329805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butteropen_71
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 2654
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcf12929c95ac7790800000000000000
+      internalID: -7530962384977780789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butteropen_72
+      rect:
+        serializedVersion: 2
+        x: 1757
+        y: 2653
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de4ea55d7b43a5950800000000000000
+      internalID: 6438516581442708717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butteropen_73
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 2478
+        width: 33
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb1ace49f87841490800000000000000
+      internalID: -7776441605813395013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butteropen_74
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 2500
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8957198aee08d6220800000000000000
+      internalID: 2480780732269688216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butteropen_75
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 772
+        width: 1316
+        height: 1789
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34edc251b1de601e0800000000000000
+      internalID: -2231835864740340157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butteropen_76
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 2484
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cf852cd69bbbb440800000000000000
+      internalID: 4952758471836929992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butteropen_77
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 2486
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95ad288be5cd182d0800000000000000
+      internalID: -3278096754368390567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butteropen_78
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 2144
+        width: 120
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a44360f922104ef0800000000000000
+      internalID: -126080818230377307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butteropen_79
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 2445
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08c07c6b9209286b0800000000000000
+      internalID: -5295511702999724928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butteropen_80
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 2448
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd2c144b42aa82c10800000000000000
+      internalID: 2029058706750161629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butteropen_81
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 2441
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1a3a2a568376ef50800000000000000
+      internalID: 6910337699122133533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butteropen_82
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 2420
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c6c3b3d263ba7970800000000000000
+      internalID: 8753506062787921604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butteropen_83
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 2429
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e198969ca7b6f8d50800000000000000
+      internalID: 6741725342306240798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butteropen_84
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 2386
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 663968c2be0472010800000000000000
+      internalID: 1163970407507071846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butteropen_85
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 2373
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0da9b1511e6a5e70800000000000000
+      internalID: 9104710617347501324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butteropen_86
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 2374
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3de0aa9330c55a890800000000000000
+      internalID: -7447445239865143597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butteropen_87
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 2366
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f765cacf1c9b14510800000000000000
+      internalID: 1531709591101658751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butteropen_88
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 2321
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb0c3e97eb1e2bca0800000000000000
+      internalID: -6002487145126444868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butteropen_89
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 2361
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af5106de65f164ce0800000000000000
+      internalID: -1421414174178667014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butteropen_90
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 2332
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1abb7264185d5a810800000000000000
+      internalID: 1776060379272035233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butteropen_91
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 2325
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 646d3e1b744d4c710800000000000000
+      internalID: 1712727162699896390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butteropen_92
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 2316
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95add74aff3d30ff0800000000000000
+      internalID: -70980074177963431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butteropen_93
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 2231
+        width: 53
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10fa71a986da5c090800000000000000
+      internalID: -8014809297062482175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butteropen_94
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 2282
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54f32e50d79d07d60800000000000000
+      internalID: 7886042078518591301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butteropen_95
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 2265
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3219111edb0ee030800000000000000
+      internalID: 3525768606675178047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butteropen_96
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 2240
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a58e6416a4afe550800000000000000
+      internalID: 6192349045872035237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butteropen_97
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 2165
+        width: 27
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8953e9f3fc5942a00800000000000000
+      internalID: 730873756898964888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butteropen_98
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 2231
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2d10ae337ba65420800000000000000
+      internalID: 2618468744822791467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butteropen_99
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 2194
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1aec562f37bfb7380800000000000000
+      internalID: -8972301357199012191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butteropen_100
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 2185
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ea9ca8dcc4dd6db0800000000000000
+      internalID: -4796944051806102814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butteropen_101
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 2136
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2aeb17e390d93ea40800000000000000
+      internalID: 5396329441547894434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butteropen_102
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 2162
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2abad7bf4359f070800000000000000
+      internalID: 8140629403300969006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butteropen_103
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 2161
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c3c9f939ba2e5010800000000000000
+      internalID: 1179427127447634880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butteropen_104
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 2149
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd2d57311b66ffee0800000000000000
+      internalID: -1225147662899752228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butteropen_105
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 2114
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b35f392bc360c5a0800000000000000
+      internalID: -6503088137701469255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butteropen_106
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 2129
+        width: 19
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ef48dd46c27282a0800000000000000
+      internalID: -6736695896557727774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butteropen_107
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 2119
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 508df27c3d42c6a80800000000000000
+      internalID: -8472356306992244731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butteropen_108
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 2125
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 410359b4910058d60800000000000000
+      internalID: 7891714030678913044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butteropen_109
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 2112
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c8c1cf5ff6fe7ea0800000000000000
+      internalID: -5872985287360919355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butteropen_110
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 2092
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f895a244eed589220800000000000000
+      internalID: 2492845671676795279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butteropen_111
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 2116
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb812ab5de6dd6860800000000000000
+      internalID: 7524906867338909884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butteropen_112
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 2081
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f6d6ce942b7c7660800000000000000
+      internalID: 7384912886193641204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butteropen_113
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 2096
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de5d3ce4fa8b15ca0800000000000000
+      internalID: -6029835362992138771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butteropen_114
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 2075
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56e5e66769581fb30800000000000000
+      internalID: 4319380398903549541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butteropen_115
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 2078
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f155a4f9330cb000800000000000000
+      internalID: 52920843074097648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butteropen_116
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 2083
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e578166aff3960590800000000000000
+      internalID: -7708310985980672162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butteropen_117
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 2085
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fb9d3e986af9c830800000000000000
+      internalID: 4092077063681186806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butteropen_118
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 1916
+        width: 118
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51b3e8cb09bc77170800000000000000
+      internalID: 8176227471013591829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butteropen_119
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 2062
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f622b416ae5ccc090800000000000000
+      internalID: -8012812026553621905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butteropen_120
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 2049
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d76f5de267cc989b0800000000000000
+      internalID: -5077302296919542147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butteropen_121
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 2066
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68efda48d8a8452b0800000000000000
+      internalID: -5596696096493666682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butteropen_122
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 2070
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3465d962c8419fbd0800000000000000
+      internalID: -2596021118026557885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butteropen_123
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 2029
+        width: 52
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 693876a8203ec95e0800000000000000
+      internalID: -1901395342605712490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butteropen_124
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 2028
+        width: 13
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19fcbf553dfffd110800000000000000
+      internalID: 1288029301596999569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butteropen_125
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 2022
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c7f097d0d8ad4040800000000000000
+      internalID: 4633545206557374401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butteropen_126
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 1999
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 127ce93cbd687f050800000000000000
+      internalID: 5834280120719689505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butteropen_127
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 2027
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10cbc041693501e50800000000000000
+      internalID: 6778009343239175169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butteropen_128
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 1988
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f864a3de93a0e0410800000000000000
+      internalID: 1445103774341940879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butteropen_129
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 1983
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1577d0d898a1c3ca0800000000000000
+      internalID: -6035920222503995567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butteropen_130
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 1969
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73e1314a1cffa4a00800000000000000
+      internalID: 741686295802355255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butteropen_131
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 1962
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a22511522cd9f6a60800000000000000
+      internalID: 7669522147606352426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butteropen_132
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 1815
+        width: 65
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62090b332b0c0c310800000000000000
+      internalID: 1423349353852997670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butteropen_133
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1949
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3028809befb800a10800000000000000
+      internalID: 1873651371128422915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butteropen_134
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 1956
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a7be6911600dfa60800000000000000
+      internalID: 7709318554166671272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butteropen_135
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 1952
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 500c0085bd07e2b50800000000000000
+      internalID: 6570312993756725253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butteropen_136
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 1928
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6dbda3e213131a90800000000000000
+      internalID: -7344505595460993685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butteropen_137
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1891
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4569afb1c5f928d00800000000000000
+      internalID: 973515687420663380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butteropen_138
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 1680
+        width: 87
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c98e286cd59c8de0800000000000000
+      internalID: -1329523016107914813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butteropen_139
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 1808
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8772934a68c13cc0800000000000000
+      internalID: -3732982257387669622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butteropen_140
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 1807
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b633c8ed459128920800000000000000
+      internalID: 2990980954829108075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butteropen_141
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 1808
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e14ffb7775f25f20800000000000000
+      internalID: 3410057761403126243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butteropen_142
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 1807
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99c13b0f67e15f470800000000000000
+      internalID: 8427675773886995609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butteropen_143
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 1801
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fff4dcd2592306020800000000000000
+      internalID: 2332920223277862911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butteropen_144
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1776
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 927634d0277da0f40800000000000000
+      internalID: 5695601563612178217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butteropen_145
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 1772
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a24beb3b9be3ce090800000000000000
+      internalID: -8003953470438722518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butteropen_146
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 1782
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3171799b9d4712700800000000000000
+      internalID: 513820310967359251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butteropen_147
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 1764
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c396fdf27ddcc260800000000000000
+      internalID: 7119308596922717129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butteropen_148
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 1707
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 441607e5d18972980800000000000000
+      internalID: -8563708914515812028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butteropen_149
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 1712
+        width: 52
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71a5d5fa6d46756d0800000000000000
+      internalID: -3001819753391236585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butteropen_150
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 1710
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02d1a1a6bea270970800000000000000
+      internalID: 8720986394012032288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butteropen_151
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 1706
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2bbbed9f9cf2fe10800000000000000
+      internalID: 2230122527981288235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butteropen_152
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 1718
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bafeb1f51ee221030800000000000000
+      internalID: 3463882608899518379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butteropen_153
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 1705
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d977a7c38e2ad54c0800000000000000
+      internalID: -4297099351110813795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butteropen_154
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 1701
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4fc0986b65e03ea0800000000000000
+      internalID: -5894959662749397174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butteropen_155
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 1718
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecaa7a6de380ef220800000000000000
+      internalID: 2521461907356363470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butteropen_156
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 1717
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 592517cf34c630930800000000000000
+      internalID: 4108246324345918101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butteropen_157
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1703
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f60876ac2b2503780800000000000000
+      internalID: -8705367151853731729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butteropen_158
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 1701
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e58c64ee88d7a36c0800000000000000
+      internalID: -4162876878483961762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butteropen_159
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 1662
+        width: 55
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c633525820a2d6b10800000000000000
+      internalID: 1976282001797624684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butteropen_160
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 1692
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0484ce982ac908d0800000000000000
+      internalID: -2879548210915539957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butteropen_161
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 1691
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 830c297a2a992c9d0800000000000000
+      internalID: -2755471098122158024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butteropen_162
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 1656
+        width: 30
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45eefa952934b2980800000000000000
+      internalID: -8562675970665877932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butteropen_163
+      rect:
+        serializedVersion: 2
+        x: 1858
+        y: 1326
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fca11e8095a8dbd60800000000000000
+      internalID: 7907628635738151631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butteropen_164
+      rect:
+        serializedVersion: 2
+        x: 1858
+        y: 1314
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7089cc0bc72113a10800000000000000
+      internalID: 1887310045596391431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butteropen_165
+      rect:
+        serializedVersion: 2
+        x: 1866
+        y: 1321
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7b9889be64c7a220800000000000000
+      internalID: 2497180498238413693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butteropen_166
+      rect:
+        serializedVersion: 2
+        x: 1875
+        y: 1321
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e63c8854e570458c0800000000000000
+      internalID: -4011573266605358226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butteropen_167
+      rect:
+        serializedVersion: 2
+        x: 1900
+        y: 1320
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77fdfdf4d59c77db0800000000000000
+      internalID: -4794141875703390345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butteropen_168
+      rect:
+        serializedVersion: 2
+        x: 1855
+        y: 1316
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 700069378f07b22a0800000000000000
+      internalID: -6761186203173257209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butteropen_169
+      rect:
+        serializedVersion: 2
+        x: 1868
+        y: 1317
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e23a717e04619e840800000000000000
+      internalID: 5253754908315198254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butteropen_170
+      rect:
+        serializedVersion: 2
+        x: 1854
+        y: 1297
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fea72cca67a599a40800000000000000
+      internalID: 5375427095994465007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butteropen_171
+      rect:
+        serializedVersion: 2
+        x: 1857
+        y: 1297
+        width: 27
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60c25a8f6eafb93b0800000000000000
+      internalID: -5504530249609303034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butteropen_172
+      rect:
+        serializedVersion: 2
+        x: 1885
+        y: 1299
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99db2340ed0ef3d50800000000000000
+      internalID: 6719336413217865113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butteropen_173
+      rect:
+        serializedVersion: 2
+        x: 1855
+        y: 1286
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0a3e96c1e63c6df0800000000000000
+      internalID: -185713141301233137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butteropen_174
+      rect:
+        serializedVersion: 2
+        x: 1861
+        y: 1267
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0d0d98a1d8c97120800000000000000
+      internalID: 2412179878236196107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butteropen_175
+      rect:
+        serializedVersion: 2
+        x: 1874
+        y: 1265
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36c6c4f223c60a0d0800000000000000
+      internalID: -3413609554749133725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butteropen_176
+      rect:
+        serializedVersion: 2
+        x: 1879
+        y: 1270
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d7ccb5e3b20f11e0800000000000000
+      internalID: -2225056719220979751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butteropen_177
+      rect:
+        serializedVersion: 2
+        x: 1875
+        y: 1250
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 173a5b05d61fbe9c0800000000000000
+      internalID: -3896755600751221903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butteropen_178
+      rect:
+        serializedVersion: 2
+        x: 1857
+        y: 1231
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50dc4294c3be2d370800000000000000
+      internalID: 8345991703628664069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butteropen_179
+      rect:
+        serializedVersion: 2
+        x: 1865
+        y: 1231
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0cf012d9cd9d9b10800000000000000
+      internalID: 1989920100505943052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butteropen_180
+      rect:
+        serializedVersion: 2
+        x: 1875
+        y: 1234
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2a16662decb3cfc0800000000000000
+      internalID: -3475726760662394322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butteropen_181
+      rect:
+        serializedVersion: 2
+        x: 1896
+        y: 1230
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 290c599fa3add5240800000000000000
+      internalID: 4782218326167634066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butteropen_182
+      rect:
+        serializedVersion: 2
+        x: 1912
+        y: 1236
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b8c322f562357de0800000000000000
+      internalID: -1336106301009966927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butteropen_183
+      rect:
+        serializedVersion: 2
+        x: 1857
+        y: 1225
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c75e6407efc7d4c00800000000000000
+      internalID: 886502133909087612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butteropen_184
+      rect:
+        serializedVersion: 2
+        x: 1875
+        y: 1225
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5592e4a805e23af0800000000000000
+      internalID: -418019990103222946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butteropen_185
+      rect:
+        serializedVersion: 2
+        x: 1857
+        y: 1212
+        width: 22
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec3ce7e02ce115b00800000000000000
+      internalID: 815466826346447822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butteropen_186
+      rect:
+        serializedVersion: 2
+        x: 1897
+        y: 1204
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c987c0234e5aca740800000000000000
+      internalID: 5164685272197920924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butteropen_187
+      rect:
+        serializedVersion: 2
+        x: 1857
+        y: 1200
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5761f8b7047e7320800000000000000
+      internalID: 2557609214909441887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butteropen_188
+      rect:
+        serializedVersion: 2
+        x: 1863
+        y: 1200
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fae9deef4c7a0af0800000000000000
+      internalID: -429394131708941577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butteropen_189
+      rect:
+        serializedVersion: 2
+        x: 1879
+        y: 1200
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cf99291ef98c0ed0800000000000000
+      internalID: -2446428773132165179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butteropen_190
+      rect:
+        serializedVersion: 2
+        x: 1905
+        y: 1204
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6716a3b3ae3e1520800000000000000
+      internalID: 2674644101519251311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butteropen_191
+      rect:
+        serializedVersion: 2
+        x: 1858
+        y: 1187
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20ad8650ae3edda40800000000000000
+      internalID: 5394718522912332290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butteropen_192
+      rect:
+        serializedVersion: 2
+        x: 1850
+        y: 1136
+        width: 33
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76b202a353afe0750800000000000000
+      internalID: 6273226437489077095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butteropen_193
+      rect:
+        serializedVersion: 2
+        x: 1880
+        y: 1157
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8568c40e25b47de10800000000000000
+      internalID: 2222327760453142104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butteropen_194
+      rect:
+        serializedVersion: 2
+        x: 1888
+        y: 1143
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 699e3b41c1f5762d0800000000000000
+      internalID: -3285552828932429418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butteropen_195
+      rect:
+        serializedVersion: 2
+        x: 1882
+        y: 1145
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c62820a7c00732f0800000000000000
+      internalID: -993324335426427197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butteropen_196
+      rect:
+        serializedVersion: 2
+        x: 1906
+        y: 1144
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8935d752efc84d6d0800000000000000
+      internalID: -2966591231351762024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butteropen_197
+      rect:
+        serializedVersion: 2
+        x: 1847
+        y: 1106
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 281da19722f4ebb70800000000000000
+      internalID: 8916651321719443842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butteropen_198
+      rect:
+        serializedVersion: 2
+        x: 1854
+        y: 1112
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e8894d1184657180800000000000000
+      internalID: -9118271364836783897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butteropen_199
+      rect:
+        serializedVersion: 2
+        x: 1848
+        y: 1097
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98cac4fe0f570f4c0800000000000000
+      internalID: -4255771970197738359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butteropen_200
+      rect:
+        serializedVersion: 2
+        x: 1855
+        y: 1099
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2b92c69dd49a3ed0800000000000000
+      internalID: -2433468969202312402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butteropen_201
+      rect:
+        serializedVersion: 2
+        x: 1879
+        y: 1091
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dad223cc8db99990800000000000000
+      internalID: -7378658102202934573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butteropen_202
+      rect:
+        serializedVersion: 2
+        x: 1886
+        y: 1102
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64e291ae7f968d210800000000000000
+      internalID: 1357951801157561926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butteropen_203
+      rect:
+        serializedVersion: 2
+        x: 1893
+        y: 1102
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 499939d34852c9900800000000000000
+      internalID: 692469692607207828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butteropen_204
+      rect:
+        serializedVersion: 2
+        x: 1841
+        y: 1090
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45ef882c6162826e0800000000000000
+      internalID: -1862196566722806188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butteropen_205
+      rect:
+        serializedVersion: 2
+        x: 1849
+        y: 1087
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69e9570232546ac60800000000000000
+      internalID: 7829021019400937110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butteropen_206
+      rect:
+        serializedVersion: 2
+        x: 1864
+        y: 1091
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28d4f9bdc2cf1d7c0800000000000000
+      internalID: -4048177320435954302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butteropen_207
+      rect:
+        serializedVersion: 2
+        x: 1887
+        y: 1088
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a946881f81bd91340800000000000000
+      internalID: 4835136575136883866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butteropen_208
+      rect:
+        serializedVersion: 2
+        x: 1887
+        y: 1078
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08e3cae2f9c3484f0800000000000000
+      internalID: -827469777148821888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butteropen_209
+      rect:
+        serializedVersion: 2
+        x: 1894
+        y: 1090
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b94bec0ea665584e0800000000000000
+      internalID: -1980081444121299813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butteropen_210
+      rect:
+        serializedVersion: 2
+        x: 1899
+        y: 1085
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 063ceb205ecd53780800000000000000
+      internalID: -8703807828671937696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butteropen_211
+      rect:
+        serializedVersion: 2
+        x: 1912
+        y: 1080
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5992508cb2bf87130800000000000000
+      internalID: 3564875270521694613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butteropen_212
+      rect:
+        serializedVersion: 2
+        x: 1842
+        y: 1068
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08dbb3599df9d4810800000000000000
+      internalID: 1751231586977430912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butteropen_213
+      rect:
+        serializedVersion: 2
+        x: 1860
+        y: 1081
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e3526e675bf892e0800000000000000
+      internalID: -2118667271745154076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butteropen_214
+      rect:
+        serializedVersion: 2
+        x: 1871
+        y: 1070
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 354ca08391bb753e0800000000000000
+      internalID: -2064976187137276845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butteropen_215
+      rect:
+        serializedVersion: 2
+        x: 1894
+        y: 1075
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d188351a7005cd00800000000000000
+      internalID: 992199817247097300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butteropen_216
+      rect:
+        serializedVersion: 2
+        x: 1899
+        y: 1077
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb56bf61bf988ae40800000000000000
+      internalID: 5667931842561140155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butteropen_217
+      rect:
+        serializedVersion: 2
+        x: 1846
+        y: 1064
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13d71ed6c63ea1ff0800000000000000
+      internalID: -64489189803983567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butteropen_218
+      rect:
+        serializedVersion: 2
+        x: 1869
+        y: 1071
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81cf43b0f37630c70800000000000000
+      internalID: 8936099606101818392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butteropen_219
+      rect:
+        serializedVersion: 2
+        x: 1889
+        y: 1071
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a908a4c3cd55be90800000000000000
+      internalID: -7010594149532956247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butteropen_220
+      rect:
+        serializedVersion: 2
+        x: 1695
+        y: 779
+        width: 151
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ae1bb1905832af40800000000000000
+      internalID: 5738210793916931748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butteropen_221
+      rect:
+        serializedVersion: 2
+        x: 1781
+        y: 868
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63eb6035a85031ba0800000000000000
+      internalID: -6119541377009795530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butteropen_222
+      rect:
+        serializedVersion: 2
+        x: 1803
+        y: 868
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 648b5456321452bd0800000000000000
+      internalID: -2655644784986310586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butteropen_223
+      rect:
+        serializedVersion: 2
+        x: 1814
+        y: 871
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95853e1ffbc6ef990800000000000000
+      internalID: -7350317970169309095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butteropen_224
+      rect:
+        serializedVersion: 2
+        x: 1818
+        y: 868
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c6ab87017404d1c0800000000000000
+      internalID: -4479950845822392640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butteropen_225
+      rect:
+        serializedVersion: 2
+        x: 1838
+        y: 869
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 313bf1cd359753250800000000000000
+      internalID: 5923774285958066963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butteropen_226
+      rect:
+        serializedVersion: 2
+        x: 1694
+        y: 825
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f608969c79988510800000000000000
+      internalID: 1551658832010675952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butteropen_227
+      rect:
+        serializedVersion: 2
+        x: 1827
+        y: 839
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03d9b5acefcc06a10800000000000000
+      internalID: 1900744437439110448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butteropen_228
+      rect:
+        serializedVersion: 2
+        x: 1642
+        y: 772
+        width: 52
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba910a8ebd42b8dd0800000000000000
+      internalID: -2482850242645452373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butteropen_229
+      rect:
+        serializedVersion: 2
+        x: 1689
+        y: 825
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b27f4ae94ccb7640800000000000000
+      internalID: 5078877622626120370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butteropen_230
+      rect:
+        serializedVersion: 2
+        x: 1610
+        y: 797
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f601f99e09714c620800000000000000
+      internalID: 2793383580038795375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butteropen_231
+      rect:
+        serializedVersion: 2
+        x: 1626
+        y: 796
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcb677e1bd96f2e00800000000000000
+      internalID: 1022152030266289103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butteropen_232
+      rect:
+        serializedVersion: 2
+        x: 1642
+        y: 799
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7eb6a064d3d406910800000000000000
+      internalID: 1828546374275853287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butteropen_233
+      rect:
+        serializedVersion: 2
+        x: 1654
+        y: 804
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a01ac34b5519f690800000000000000
+      internalID: -7567994217095884639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butteropen_234
+      rect:
+        serializedVersion: 2
+        x: 1736
+        y: 807
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4f3fec265752d410800000000000000
+      internalID: 1500357653500477259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butteropen_235
+      rect:
+        serializedVersion: 2
+        x: 1576
+        y: 770
+        width: 53
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44dddfb4e6c0dca40800000000000000
+      internalID: 5389977996893216068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butteropen_236
+      rect:
+        serializedVersion: 2
+        x: 1604
+        y: 795
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b9dca7470adbc350800000000000000
+      internalID: 6038159450222418359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butteropen_237
+      rect:
+        serializedVersion: 2
+        x: 1624
+        y: 781
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dee1ff4212bb26880800000000000000
+      internalID: -8619120985804693779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butteropen_238
+      rect:
+        serializedVersion: 2
+        x: 1638
+        y: 776
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0de6ceb218e3e250800000000000000
+      internalID: 5972872698031172878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butteropen_239
+      rect:
+        serializedVersion: 2
+        x: 1667
+        y: 794
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4254220cc8dc4f8d0800000000000000
+      internalID: -2813397862797130460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butteropen_240
+      rect:
+        serializedVersion: 2
+        x: 1687
+        y: 787
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d807211f3e791530800000000000000
+      internalID: 3826228167763757267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butteropen_241
+      rect:
+        serializedVersion: 2
+        x: 1638
+        y: 786
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a5f3a30c4cb9bd60800000000000000
+      internalID: 7906557655490229664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-butteropen_242
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 772
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cca5cdda23e431a60800000000000000
+      internalID: 7643538972150094540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      1-butteropen_0: -7061654364708746291
+      1-butteropen_1: -7664107344404980099
+      1-butteropen_10: -1366537843049207548
+      1-butteropen_100: -4796944051806102814
+      1-butteropen_101: 5396329441547894434
+      1-butteropen_102: 8140629403300969006
+      1-butteropen_103: 1179427127447634880
+      1-butteropen_104: -1225147662899752228
+      1-butteropen_105: -6503088137701469255
+      1-butteropen_106: -6736695896557727774
+      1-butteropen_107: -8472356306992244731
+      1-butteropen_108: 7891714030678913044
+      1-butteropen_109: -5872985287360919355
+      1-butteropen_11: 5891034456926001034
+      1-butteropen_110: 2492845671676795279
+      1-butteropen_111: 7524906867338909884
+      1-butteropen_112: 7384912886193641204
+      1-butteropen_113: -6029835362992138771
+      1-butteropen_114: 4319380398903549541
+      1-butteropen_115: 52920843074097648
+      1-butteropen_116: -7708310985980672162
+      1-butteropen_117: 4092077063681186806
+      1-butteropen_118: 8176227471013591829
+      1-butteropen_119: -8012812026553621905
+      1-butteropen_12: 796225881682494642
+      1-butteropen_120: -5077302296919542147
+      1-butteropen_121: -5596696096493666682
+      1-butteropen_122: -2596021118026557885
+      1-butteropen_123: -1901395342605712490
+      1-butteropen_124: 1288029301596999569
+      1-butteropen_125: 4633545206557374401
+      1-butteropen_126: 5834280120719689505
+      1-butteropen_127: 6778009343239175169
+      1-butteropen_128: 1445103774341940879
+      1-butteropen_129: -6035920222503995567
+      1-butteropen_13: -4625677982303580058
+      1-butteropen_130: 741686295802355255
+      1-butteropen_131: 7669522147606352426
+      1-butteropen_132: 1423349353852997670
+      1-butteropen_133: 1873651371128422915
+      1-butteropen_134: 7709318554166671272
+      1-butteropen_135: 6570312993756725253
+      1-butteropen_136: -7344505595460993685
+      1-butteropen_137: 973515687420663380
+      1-butteropen_138: -1329523016107914813
+      1-butteropen_139: -3732982257387669622
+      1-butteropen_14: -104039842453718443
+      1-butteropen_140: 2990980954829108075
+      1-butteropen_141: 3410057761403126243
+      1-butteropen_142: 8427675773886995609
+      1-butteropen_143: 2332920223277862911
+      1-butteropen_144: 5695601563612178217
+      1-butteropen_145: -8003953470438722518
+      1-butteropen_146: 513820310967359251
+      1-butteropen_147: 7119308596922717129
+      1-butteropen_148: -8563708914515812028
+      1-butteropen_149: -3001819753391236585
+      1-butteropen_15: 3056414181568737929
+      1-butteropen_150: 8720986394012032288
+      1-butteropen_151: 2230122527981288235
+      1-butteropen_152: 3463882608899518379
+      1-butteropen_153: -4297099351110813795
+      1-butteropen_154: -5894959662749397174
+      1-butteropen_155: 2521461907356363470
+      1-butteropen_156: 4108246324345918101
+      1-butteropen_157: -8705367151853731729
+      1-butteropen_158: -4162876878483961762
+      1-butteropen_159: 1976282001797624684
+      1-butteropen_16: 846535125855463504
+      1-butteropen_160: -2879548210915539957
+      1-butteropen_161: -2755471098122158024
+      1-butteropen_162: -8562675970665877932
+      1-butteropen_163: 7907628635738151631
+      1-butteropen_164: 1887310045596391431
+      1-butteropen_165: 2497180498238413693
+      1-butteropen_166: -4011573266605358226
+      1-butteropen_167: -4794141875703390345
+      1-butteropen_168: -6761186203173257209
+      1-butteropen_169: 5253754908315198254
+      1-butteropen_17: 559363582646836835
+      1-butteropen_170: 5375427095994465007
+      1-butteropen_171: -5504530249609303034
+      1-butteropen_172: 6719336413217865113
+      1-butteropen_173: -185713141301233137
+      1-butteropen_174: 2412179878236196107
+      1-butteropen_175: -3413609554749133725
+      1-butteropen_176: -2225056719220979751
+      1-butteropen_177: -3896755600751221903
+      1-butteropen_178: 8345991703628664069
+      1-butteropen_179: 1989920100505943052
+      1-butteropen_18: -8833914823232933846
+      1-butteropen_180: -3475726760662394322
+      1-butteropen_181: 4782218326167634066
+      1-butteropen_182: -1336106301009966927
+      1-butteropen_183: 886502133909087612
+      1-butteropen_184: -418019990103222946
+      1-butteropen_185: 815466826346447822
+      1-butteropen_186: 5164685272197920924
+      1-butteropen_187: 2557609214909441887
+      1-butteropen_188: -429394131708941577
+      1-butteropen_189: -2446428773132165179
+      1-butteropen_19: 7067968473302119607
+      1-butteropen_190: 2674644101519251311
+      1-butteropen_191: 5394718522912332290
+      1-butteropen_192: 6273226437489077095
+      1-butteropen_193: 2222327760453142104
+      1-butteropen_194: -3285552828932429418
+      1-butteropen_195: -993324335426427197
+      1-butteropen_196: -2966591231351762024
+      1-butteropen_197: 8916651321719443842
+      1-butteropen_198: -9118271364836783897
+      1-butteropen_199: -4255771970197738359
+      1-butteropen_2: -8056879751908289760
+      1-butteropen_20: 7161062742091648898
+      1-butteropen_200: -2433468969202312402
+      1-butteropen_201: -7378658102202934573
+      1-butteropen_202: 1357951801157561926
+      1-butteropen_203: 692469692607207828
+      1-butteropen_204: -1862196566722806188
+      1-butteropen_205: 7829021019400937110
+      1-butteropen_206: -4048177320435954302
+      1-butteropen_207: 4835136575136883866
+      1-butteropen_208: -827469777148821888
+      1-butteropen_209: -1980081444121299813
+      1-butteropen_21: 1280603262316179665
+      1-butteropen_210: -8703807828671937696
+      1-butteropen_211: 3564875270521694613
+      1-butteropen_212: 1751231586977430912
+      1-butteropen_213: -2118667271745154076
+      1-butteropen_214: -2064976187137276845
+      1-butteropen_215: 992199817247097300
+      1-butteropen_216: 5667931842561140155
+      1-butteropen_217: -64489189803983567
+      1-butteropen_218: 8936099606101818392
+      1-butteropen_219: -7010594149532956247
+      1-butteropen_22: 1138072785203973155
+      1-butteropen_220: 5738210793916931748
+      1-butteropen_221: -6119541377009795530
+      1-butteropen_222: -2655644784986310586
+      1-butteropen_223: -7350317970169309095
+      1-butteropen_224: -4479950845822392640
+      1-butteropen_225: 5923774285958066963
+      1-butteropen_226: 1551658832010675952
+      1-butteropen_227: 1900744437439110448
+      1-butteropen_228: -2482850242645452373
+      1-butteropen_229: 5078877622626120370
+      1-butteropen_23: -3317846426854453189
+      1-butteropen_230: 2793383580038795375
+      1-butteropen_231: 1022152030266289103
+      1-butteropen_232: 1828546374275853287
+      1-butteropen_233: -7567994217095884639
+      1-butteropen_234: 1500357653500477259
+      1-butteropen_235: 5389977996893216068
+      1-butteropen_236: 6038159450222418359
+      1-butteropen_237: -8619120985804693779
+      1-butteropen_238: 5972872698031172878
+      1-butteropen_239: -2813397862797130460
+      1-butteropen_24: -7252681826165366961
+      1-butteropen_240: 3826228167763757267
+      1-butteropen_241: 7906557655490229664
+      1-butteropen_242: 7643538972150094540
+      1-butteropen_25: -6975647165822887747
+      1-butteropen_26: 2829134856615804453
+      1-butteropen_27: 7157299517852484826
+      1-butteropen_28: -2272353107216695971
+      1-butteropen_29: -7110702924612800314
+      1-butteropen_3: -276189283033224464
+      1-butteropen_30: 589696331759614966
+      1-butteropen_31: 2145563882385341080
+      1-butteropen_32: -4070415889063711778
+      1-butteropen_33: 7891766582004472897
+      1-butteropen_34: -3323827187849725091
+      1-butteropen_35: 9200123305646189650
+      1-butteropen_36: 8782762932589989598
+      1-butteropen_37: 3920181045046234888
+      1-butteropen_38: -7824105853910887583
+      1-butteropen_39: -60427639791712687
+      1-butteropen_4: 940531484834933601
+      1-butteropen_40: -3855763672565512063
+      1-butteropen_41: 1430085082732612844
+      1-butteropen_42: -528154495351958333
+      1-butteropen_43: -6096804179943065413
+      1-butteropen_44: 5059078506438766531
+      1-butteropen_45: 873038441432196354
+      1-butteropen_46: 1742606132185561727
+      1-butteropen_47: 4538657473879697232
+      1-butteropen_48: 7912038751468065293
+      1-butteropen_49: 7695880691331325017
+      1-butteropen_5: 2738142985122657854
+      1-butteropen_50: 1743090808508639407
+      1-butteropen_51: -3442373782328116796
+      1-butteropen_52: -8410764970982292937
+      1-butteropen_53: 3157523675050395135
+      1-butteropen_54: -7604408850376540437
+      1-butteropen_55: -4473387345087560707
+      1-butteropen_56: 6688429661024226206
+      1-butteropen_57: -3395451256114777510
+      1-butteropen_58: -366186169756349512
+      1-butteropen_59: -6884245749884103241
+      1-butteropen_6: -6709893189087862013
+      1-butteropen_60: -8006193682117756035
+      1-butteropen_61: -5907336477043803038
+      1-butteropen_62: -243412469243865244
+      1-butteropen_63: 7487259885660637168
+      1-butteropen_64: -8099550863850694913
+      1-butteropen_65: 5540734372282308116
+      1-butteropen_66: 2127601426112227199
+      1-butteropen_67: -3061026879276965439
+      1-butteropen_68: 8476536337732728419
+      1-butteropen_69: 4100366885349001697
+      1-butteropen_7: -6086391173278424593
+      1-butteropen_70: 5272078351797329805
+      1-butteropen_71: -7530962384977780789
+      1-butteropen_72: 6438516581442708717
+      1-butteropen_73: -7776441605813395013
+      1-butteropen_74: 2480780732269688216
+      1-butteropen_75: -2231835864740340157
+      1-butteropen_76: 4952758471836929992
+      1-butteropen_77: -3278096754368390567
+      1-butteropen_78: -126080818230377307
+      1-butteropen_79: -5295511702999724928
+      1-butteropen_8: 2984939981384715366
+      1-butteropen_80: 2029058706750161629
+      1-butteropen_81: 6910337699122133533
+      1-butteropen_82: 8753506062787921604
+      1-butteropen_83: 6741725342306240798
+      1-butteropen_84: 1163970407507071846
+      1-butteropen_85: 9104710617347501324
+      1-butteropen_86: -7447445239865143597
+      1-butteropen_87: 1531709591101658751
+      1-butteropen_88: -6002487145126444868
+      1-butteropen_89: -1421414174178667014
+      1-butteropen_9: 4540857517075396628
+      1-butteropen_90: 1776060379272035233
+      1-butteropen_91: 1712727162699896390
+      1-butteropen_92: -70980074177963431
+      1-butteropen_93: -8014809297062482175
+      1-butteropen_94: 7886042078518591301
+      1-butteropen_95: 3525768606675178047
+      1-butteropen_96: 6192349045872035237
+      1-butteropen_97: 730873756898964888
+      1-butteropen_98: 2618468744822791467
+      1-butteropen_99: -8972301357199012191
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

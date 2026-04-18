@@ -1,0 +1,2977 @@
+fileFormatVersion: 2
+guid: 0e1a118757e008343a33eb75a915d385
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3823936364904275511
+    second: 1-scrambledegg_0
+  - first:
+      213: -7741022682116825694
+    second: 1-scrambledegg_1
+  - first:
+      213: -6478483039651185876
+    second: 1-scrambledegg_2
+  - first:
+      213: -4679019987347608562
+    second: 1-scrambledegg_3
+  - first:
+      213: 3986209284285540660
+    second: 1-scrambledegg_4
+  - first:
+      213: -4007637633334094863
+    second: 1-scrambledegg_5
+  - first:
+      213: 7465450175680841247
+    second: 1-scrambledegg_6
+  - first:
+      213: 3646160137420702380
+    second: 1-scrambledegg_7
+  - first:
+      213: 7707395969770782292
+    second: 1-scrambledegg_8
+  - first:
+      213: 7296237738457993401
+    second: 1-scrambledegg_9
+  - first:
+      213: 8352635227394475004
+    second: 1-scrambledegg_10
+  - first:
+      213: 2030284394111328057
+    second: 1-scrambledegg_11
+  - first:
+      213: -3134929090416667603
+    second: 1-scrambledegg_12
+  - first:
+      213: -4345393832148989758
+    second: 1-scrambledegg_13
+  - first:
+      213: -2357649148033171835
+    second: 1-scrambledegg_14
+  - first:
+      213: -440412269246020396
+    second: 1-scrambledegg_15
+  - first:
+      213: -7381006749440530760
+    second: 1-scrambledegg_16
+  - first:
+      213: 5238347936914750647
+    second: 1-scrambledegg_17
+  - first:
+      213: -748729794550135038
+    second: 1-scrambledegg_18
+  - first:
+      213: 8927207822183021892
+    second: 1-scrambledegg_19
+  - first:
+      213: 5990795565473020169
+    second: 1-scrambledegg_20
+  - first:
+      213: 4326617178777890224
+    second: 1-scrambledegg_21
+  - first:
+      213: -397643767188170016
+    second: 1-scrambledegg_22
+  - first:
+      213: -2042139291775996808
+    second: 1-scrambledegg_23
+  - first:
+      213: -1999753610387501518
+    second: 1-scrambledegg_24
+  - first:
+      213: -3643486530033059006
+    second: 1-scrambledegg_25
+  - first:
+      213: 1612312622980533727
+    second: 1-scrambledegg_26
+  - first:
+      213: -2589467367672609373
+    second: 1-scrambledegg_27
+  - first:
+      213: 2314148756335745779
+    second: 1-scrambledegg_28
+  - first:
+      213: 5151645434283479857
+    second: 1-scrambledegg_29
+  - first:
+      213: -460801780885531699
+    second: 1-scrambledegg_30
+  - first:
+      213: 1189780198222175135
+    second: 1-scrambledegg_31
+  - first:
+      213: 8967944781951914980
+    second: 1-scrambledegg_32
+  - first:
+      213: -4296690865008477911
+    second: 1-scrambledegg_33
+  - first:
+      213: 1863864005601584330
+    second: 1-scrambledegg_34
+  - first:
+      213: -6393985315006984416
+    second: 1-scrambledegg_35
+  - first:
+      213: -3706549418311121730
+    second: 1-scrambledegg_36
+  - first:
+      213: 4261894123741291947
+    second: 1-scrambledegg_37
+  - first:
+      213: 1308033883285022192
+    second: 1-scrambledegg_38
+  - first:
+      213: -3979714431426708202
+    second: 1-scrambledegg_39
+  - first:
+      213: 7078168316159375822
+    second: 1-scrambledegg_40
+  - first:
+      213: -3963813819084164600
+    second: 1-scrambledegg_41
+  - first:
+      213: -806537448814765116
+    second: 1-scrambledegg_42
+  - first:
+      213: -1073232264756672618
+    second: 1-scrambledegg_43
+  - first:
+      213: -4730532965992080574
+    second: 1-scrambledegg_44
+  - first:
+      213: -7103342663785010574
+    second: 1-scrambledegg_45
+  - first:
+      213: 4452318214910726991
+    second: 1-scrambledegg_46
+  - first:
+      213: 2143698377249322423
+    second: 1-scrambledegg_47
+  - first:
+      213: -574694853860168086
+    second: 1-scrambledegg_48
+  - first:
+      213: -6676900677771947020
+    second: 1-scrambledegg_49
+  - first:
+      213: 5570568766503456488
+    second: 1-scrambledegg_50
+  - first:
+      213: 3290295949093747463
+    second: 1-scrambledegg_51
+  - first:
+      213: 3324205655105179844
+    second: 1-scrambledegg_52
+  - first:
+      213: 1629816939785443483
+    second: 1-scrambledegg_53
+  - first:
+      213: 5294965049781560804
+    second: 1-scrambledegg_54
+  - first:
+      213: -3779196194775786247
+    second: 1-scrambledegg_55
+  - first:
+      213: 3657300290638086664
+    second: 1-scrambledegg_56
+  - first:
+      213: -6531176022395478335
+    second: 1-scrambledegg_57
+  - first:
+      213: 7974977514808061260
+    second: 1-scrambledegg_58
+  - first:
+      213: -7549925268398487684
+    second: 1-scrambledegg_59
+  - first:
+      213: -419995504940879338
+    second: 1-scrambledegg_60
+  - first:
+      213: 2566865384093033429
+    second: 1-scrambledegg_61
+  - first:
+      213: 3589191055875793565
+    second: 1-scrambledegg_62
+  - first:
+      213: 2364142673435037331
+    second: 1-scrambledegg_63
+  - first:
+      213: 9154942712753991099
+    second: 1-scrambledegg_64
+  - first:
+      213: -5982279230304464866
+    second: 1-scrambledegg_65
+  - first:
+      213: 7247951986365420996
+    second: 1-scrambledegg_66
+  - first:
+      213: 3044736101813678869
+    second: 1-scrambledegg_67
+  - first:
+      213: 1787937995969351399
+    second: 1-scrambledegg_68
+  - first:
+      213: 7974518814093177202
+    second: 1-scrambledegg_69
+  - first:
+      213: -7723666395976917394
+    second: 1-scrambledegg_70
+  - first:
+      213: -113487302667885391
+    second: 1-scrambledegg_71
+  - first:
+      213: 1800299973352014014
+    second: 1-scrambledegg_72
+  - first:
+      213: 8756501118942613616
+    second: 1-scrambledegg_73
+  - first:
+      213: 2566406753316259487
+    second: 1-scrambledegg_74
+  - first:
+      213: -7789186816017169402
+    second: 1-scrambledegg_75
+  - first:
+      213: -8879431239199521101
+    second: 1-scrambledegg_76
+  - first:
+      213: -5464795793832102502
+    second: 1-scrambledegg_77
+  - first:
+      213: 9030357378890673569
+    second: 1-scrambledegg_78
+  - first:
+      213: -7530246250677033241
+    second: 1-scrambledegg_79
+  - first:
+      213: -5092129130301215400
+    second: 1-scrambledegg_80
+  - first:
+      213: 1349303888420617273
+    second: 1-scrambledegg_81
+  - first:
+      213: -1252531977448828732
+    second: 1-scrambledegg_82
+  - first:
+      213: -6615484516899964939
+    second: 1-scrambledegg_83
+  - first:
+      213: 5533658794472702054
+    second: 1-scrambledegg_84
+  - first:
+      213: 3790911464516275457
+    second: 1-scrambledegg_85
+  - first:
+      213: -7011598509791187974
+    second: 1-scrambledegg_86
+  - first:
+      213: -6441170772752248669
+    second: 1-scrambledegg_87
+  - first:
+      213: -8865718599351322266
+    second: 1-scrambledegg_88
+  - first:
+      213: 6964762838041402965
+    second: 1-scrambledegg_89
+  - first:
+      213: 8187259278031200609
+    second: 1-scrambledegg_90
+  - first:
+      213: 5573476427678831684
+    second: 1-scrambledegg_91
+  - first:
+      213: 7995376790463583435
+    second: 1-scrambledegg_92
+  - first:
+      213: -3108753968494554758
+    second: 1-scrambledegg_93
+  - first:
+      213: 2539647930440752186
+    second: 1-scrambledegg_94
+  - first:
+      213: 2659533950815408466
+    second: 1-scrambledegg_95
+  - first:
+      213: -2011463959418423111
+    second: 1-scrambledegg_96
+  - first:
+      213: 7878626518770774530
+    second: 1-scrambledegg_97
+  - first:
+      213: 8957501516356741718
+    second: 1-scrambledegg_98
+  - first:
+      213: 3664157604837924160
+    second: 1-scrambledegg_99
+  - first:
+      213: -179071981876174617
+    second: 1-scrambledegg_100
+  - first:
+      213: -3439437508233166873
+    second: 1-scrambledegg_101
+  - first:
+      213: -4055179718372195515
+    second: 1-scrambledegg_102
+  - first:
+      213: -1564314734980184689
+    second: 1-scrambledegg_103
+  - first:
+      213: 1223658504687787653
+    second: 1-scrambledegg_104
+  - first:
+      213: -5916113160048785189
+    second: 1-scrambledegg_105
+  - first:
+      213: -6694209316543908900
+    second: 1-scrambledegg_106
+  - first:
+      213: -6246187565549832674
+    second: 1-scrambledegg_107
+  - first:
+      213: -7855129748452146793
+    second: 1-scrambledegg_108
+  - first:
+      213: -109622102221121497
+    second: 1-scrambledegg_109
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 1-scrambledegg_0
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 283
+        width: 2138
+        height: 2783
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73e51d12dd9511530800000000000000
+      internalID: 3823936364904275511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-scrambledegg_1
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 3061
+        width: 86
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ad5f2262ec529490800000000000000
+      internalID: -7741022682116825694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-scrambledegg_2
+      rect:
+        serializedVersion: 2
+        x: 1515
+        y: 3061
+        width: 50
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2bb23afffdc716a0800000000000000
+      internalID: -6478483039651185876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-scrambledegg_3
+      rect:
+        serializedVersion: 2
+        x: 1564
+        y: 3063
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0c613dac18c01fb0800000000000000
+      internalID: -4679019987347608562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-scrambledegg_4
+      rect:
+        serializedVersion: 2
+        x: 1569
+        y: 3061
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4392436693cd15730800000000000000
+      internalID: 3986209284285540660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-scrambledegg_5
+      rect:
+        serializedVersion: 2
+        x: 1580
+        y: 3061
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f352ac4ec20268c0800000000000000
+      internalID: -4007637633334094863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-scrambledegg_6
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 3063
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1685d1916b9a9760800000000000000
+      internalID: 7465450175680841247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-scrambledegg_7
+      rect:
+        serializedVersion: 2
+        x: 1609
+        y: 3062
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca28629a353c99230800000000000000
+      internalID: 3646160137420702380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-scrambledegg_8
+      rect:
+        serializedVersion: 2
+        x: 1615
+        y: 3062
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45ef6798ccb26fa60800000000000000
+      internalID: 7707395969770782292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-scrambledegg_9
+      rect:
+        serializedVersion: 2
+        x: 1629
+        y: 3063
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b09695e091714560800000000000000
+      internalID: 7296237738457993401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-scrambledegg_10
+      rect:
+        serializedVersion: 2
+        x: 1641
+        y: 3063
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf303433c758ae370800000000000000
+      internalID: 8352635227394475004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-scrambledegg_11
+      rect:
+        serializedVersion: 2
+        x: 1649
+        y: 3062
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93f560846e40d2c10800000000000000
+      internalID: 2030284394111328057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-scrambledegg_12
+      rect:
+        serializedVersion: 2
+        x: 1665
+        y: 3061
+        width: 26
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d241da11a9e7e74d0800000000000000
+      internalID: -3134929090416667603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-scrambledegg_13
+      rect:
+        serializedVersion: 2
+        x: 1690
+        y: 3064
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c80691255f02b3c0800000000000000
+      internalID: -4345393832148989758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-scrambledegg_14
+      rect:
+        serializedVersion: 2
+        x: 1699
+        y: 3036
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58efa7a5792f74fd0800000000000000
+      internalID: -2357649148033171835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-scrambledegg_15
+      rect:
+        serializedVersion: 2
+        x: 1704
+        y: 3065
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d40ed0ef5753e9f0800000000000000
+      internalID: -440412269246020396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-scrambledegg_16
+      rect:
+        serializedVersion: 2
+        x: 1711
+        y: 3067
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b626d6b775619990800000000000000
+      internalID: -7381006749440530760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-scrambledegg_17
+      rect:
+        serializedVersion: 2
+        x: 1727
+        y: 3067
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bc34b5d1b952b840800000000000000
+      internalID: 5238347936914750647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-scrambledegg_18
+      rect:
+        serializedVersion: 2
+        x: 1730
+        y: 3038
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2078613083afb95f0800000000000000
+      internalID: -748729794550135038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-scrambledegg_19
+      rect:
+        serializedVersion: 2
+        x: 1733
+        y: 3065
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44dbe454730d3eb70800000000000000
+      internalID: 8927207822183021892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-scrambledegg_20
+      rect:
+        serializedVersion: 2
+        x: 1746
+        y: 3058
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 909310283d4932350800000000000000
+      internalID: 5990795565473020169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-scrambledegg_21
+      rect:
+        serializedVersion: 2
+        x: 1751
+        y: 3067
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bda824966b3b0c30800000000000000
+      internalID: 4326617178777890224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-scrambledegg_22
+      rect:
+        serializedVersion: 2
+        x: 1766
+        y: 3071
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ead99db9194b7af0800000000000000
+      internalID: -397643767188170016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-scrambledegg_23
+      rect:
+        serializedVersion: 2
+        x: 1766
+        y: 3065
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87ce2d3422dd8a3e0800000000000000
+      internalID: -2042139291775996808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-scrambledegg_24
+      rect:
+        serializedVersion: 2
+        x: 1778
+        y: 3064
+        width: 26
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23e4c8ebfa27f34e0800000000000000
+      internalID: -1999753610387501518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-scrambledegg_25
+      rect:
+        serializedVersion: 2
+        x: 1790
+        y: 3039
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24b75711e4cbf6dc0800000000000000
+      internalID: -3643486530033059006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-scrambledegg_26
+      rect:
+        serializedVersion: 2
+        x: 1799
+        y: 3064
+        width: 25
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdd02a7c9c5106610800000000000000
+      internalID: 1612312622980533727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-scrambledegg_27
+      rect:
+        serializedVersion: 2
+        x: 1805
+        y: 3046
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a58860162d501cd0800000000000000
+      internalID: -2589467367672609373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-scrambledegg_28
+      rect:
+        serializedVersion: 2
+        x: 1817
+        y: 3052
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3faddc278028d1020800000000000000
+      internalID: 2314148756335745779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-scrambledegg_29
+      rect:
+        serializedVersion: 2
+        x: 1822
+        y: 3071
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 133da375a325e7740800000000000000
+      internalID: 5151645434283479857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-scrambledegg_30
+      rect:
+        serializedVersion: 2
+        x: 1825
+        y: 3051
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc35372c837ea99f0800000000000000
+      internalID: -460801780885531699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-scrambledegg_31
+      rect:
+        serializedVersion: 2
+        x: 1828
+        y: 3057
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9b93db59c2f28010800000000000000
+      internalID: 1189780198222175135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-scrambledegg_32
+      rect:
+        serializedVersion: 2
+        x: 1831
+        y: 3062
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e3df85d34a847c70800000000000000
+      internalID: 8967944781951914980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-scrambledegg_33
+      rect:
+        serializedVersion: 2
+        x: 1846
+        y: 3052
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 929f0815c661f54c0800000000000000
+      internalID: -4296690865008477911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-scrambledegg_34
+      rect:
+        serializedVersion: 2
+        x: 1852
+        y: 3061
+        width: 68
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac4e48b1076cdd910800000000000000
+      internalID: 1863864005601584330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-scrambledegg_35
+      rect:
+        serializedVersion: 2
+        x: 1505
+        y: 3047
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02fc1f79b300447a0800000000000000
+      internalID: -6393985315006984416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-scrambledegg_36
+      rect:
+        serializedVersion: 2
+        x: 1534
+        y: 3045
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb4822331f0bf8cc0800000000000000
+      internalID: -3706549418311121730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-scrambledegg_37
+      rect:
+        serializedVersion: 2
+        x: 1548
+        y: 3043
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba5ace3002a452b30800000000000000
+      internalID: 4261894123741291947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-scrambledegg_38
+      rect:
+        serializedVersion: 2
+        x: 1559
+        y: 3047
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f5e067f2e1172210800000000000000
+      internalID: 1308033883285022192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-scrambledegg_39
+      rect:
+        serializedVersion: 2
+        x: 1565
+        y: 3039
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61db05f5fc635c8c0800000000000000
+      internalID: -3979714431426708202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-scrambledegg_40
+      rect:
+        serializedVersion: 2
+        x: 1567
+        y: 3048
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec9ba11f494ba3260800000000000000
+      internalID: 7078168316159375822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-scrambledegg_41
+      rect:
+        serializedVersion: 2
+        x: 1574
+        y: 3046
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80234bd2554bdf8c0800000000000000
+      internalID: -3963813819084164600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-scrambledegg_42
+      rect:
+        serializedVersion: 2
+        x: 1581
+        y: 3051
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cb9859a67a9ec4f0800000000000000
+      internalID: -806537448814765116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-scrambledegg_43
+      rect:
+        serializedVersion: 2
+        x: 1585
+        y: 3034
+        width: 32
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 697c0b101fc1b11f0800000000000000
+      internalID: -1073232264756672618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-scrambledegg_44
+      rect:
+        serializedVersion: 2
+        x: 1610
+        y: 3033
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24b54c3b455c95eb0800000000000000
+      internalID: -4730532965992080574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-scrambledegg_45
+      rect:
+        serializedVersion: 2
+        x: 1628
+        y: 3036
+        width: 33
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27aa73f7b7bdb6d90800000000000000
+      internalID: -7103342663785010574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-scrambledegg_46
+      rect:
+        serializedVersion: 2
+        x: 1655
+        y: 3050
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4351cab3dfc9cd30800000000000000
+      internalID: 4452318214910726991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-scrambledegg_47
+      rect:
+        serializedVersion: 2
+        x: 1659
+        y: 3040
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b5f689f052ffbd10800000000000000
+      internalID: 2143698377249322423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-scrambledegg_48
+      rect:
+        serializedVersion: 2
+        x: 1660
+        y: 3049
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6e6b6543164608f0800000000000000
+      internalID: -574694853860168086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-scrambledegg_49
+      rect:
+        serializedVersion: 2
+        x: 1660
+        y: 3036
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f396d49532e653a0800000000000000
+      internalID: -6676900677771947020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-scrambledegg_50
+      rect:
+        serializedVersion: 2
+        x: 1675
+        y: 3042
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ee035c67c2ae4d40800000000000000
+      internalID: 5570568766503456488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-scrambledegg_51
+      rect:
+        serializedVersion: 2
+        x: 1675
+        y: 3035
+        width: 30
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70bb3a3abba79ad20800000000000000
+      internalID: 3290295949093747463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-scrambledegg_52
+      rect:
+        serializedVersion: 2
+        x: 1679
+        y: 3043
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c093e05e63f12e20800000000000000
+      internalID: 3324205655105179844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-scrambledegg_53
+      rect:
+        serializedVersion: 2
+        x: 1718
+        y: 3042
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9853d02fd54e9610800000000000000
+      internalID: 1629816939785443483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-scrambledegg_54
+      rect:
+        serializedVersion: 2
+        x: 1747
+        y: 3044
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e5a65aa8ae7b7940800000000000000
+      internalID: 5294965049781560804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-scrambledegg_55
+      rect:
+        serializedVersion: 2
+        x: 1754
+        y: 3051
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fc91e975199d8bc0800000000000000
+      internalID: -3779196194775786247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-scrambledegg_56
+      rect:
+        serializedVersion: 2
+        x: 1757
+        y: 3039
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8028a64bc3751c230800000000000000
+      internalID: 3657300290638086664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-scrambledegg_57
+      rect:
+        serializedVersion: 2
+        x: 1762
+        y: 3044
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ce9193e20a9c55a0800000000000000
+      internalID: -6531176022395478335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-scrambledegg_58
+      rect:
+        serializedVersion: 2
+        x: 1767
+        y: 3050
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4dacd5ebcfccae60800000000000000
+      internalID: 7974977514808061260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-scrambledegg_59
+      rect:
+        serializedVersion: 2
+        x: 1774
+        y: 3049
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c77cc5838f6493790800000000000000
+      internalID: -7549925268398487684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-scrambledegg_60
+      rect:
+        serializedVersion: 2
+        x: 1787
+        y: 3050
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 612fcb04050eb2af0800000000000000
+      internalID: -419995504940879338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-scrambledegg_61
+      rect:
+        serializedVersion: 2
+        x: 1808
+        y: 3037
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d3ac1d87765f9320800000000000000
+      internalID: 2566865384093033429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-scrambledegg_62
+      rect:
+        serializedVersion: 2
+        x: 1822
+        y: 3041
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d926c7cbf3e5fc130800000000000000
+      internalID: 3589191055875793565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-scrambledegg_63
+      rect:
+        serializedVersion: 2
+        x: 1829
+        y: 3044
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39e00785c3f1fc020800000000000000
+      internalID: 2364142673435037331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-scrambledegg_64
+      rect:
+        serializedVersion: 2
+        x: 1842
+        y: 3043
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbda0cc64e3ec0f70800000000000000
+      internalID: 9154942712753991099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-scrambledegg_65
+      rect:
+        serializedVersion: 2
+        x: 1849
+        y: 3041
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e10518a4cbcaafca0800000000000000
+      internalID: -5982279230304464866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-scrambledegg_66
+      rect:
+        serializedVersion: 2
+        x: 1854
+        y: 3041
+        width: 7
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c5d5682ee5e59460800000000000000
+      internalID: 7247951986365420996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-scrambledegg_67
+      rect:
+        serializedVersion: 2
+        x: 1862
+        y: 3046
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51379675a53114a20800000000000000
+      internalID: 3044736101813678869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-scrambledegg_68
+      rect:
+        serializedVersion: 2
+        x: 1868
+        y: 3043
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ee4d2a622800d810800000000000000
+      internalID: 1787937995969351399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-scrambledegg_69
+      rect:
+        serializedVersion: 2
+        x: 1875
+        y: 3042
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27171b05c9e2bae60800000000000000
+      internalID: 7974518814093177202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-scrambledegg_70
+      rect:
+        serializedVersion: 2
+        x: 1886
+        y: 3047
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6e9c28a55600d490800000000000000
+      internalID: -7723666395976917394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-scrambledegg_71
+      rect:
+        serializedVersion: 2
+        x: 1892
+        y: 3045
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b4a6f546efcc6ef0800000000000000
+      internalID: -113487302667885391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-scrambledegg_72
+      rect:
+        serializedVersion: 2
+        x: 1496
+        y: 3036
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb0cac09943fbf810800000000000000
+      internalID: 1800299973352014014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-scrambledegg_73
+      rect:
+        serializedVersion: 2
+        x: 1504
+        y: 3035
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07092edaf57558970800000000000000
+      internalID: 8756501118942613616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-scrambledegg_74
+      rect:
+        serializedVersion: 2
+        x: 1509
+        y: 3044
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9644904855bd9320800000000000000
+      internalID: 2566406753316259487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-scrambledegg_75
+      rect:
+        serializedVersion: 2
+        x: 1516
+        y: 3041
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60404261cdf37e390800000000000000
+      internalID: -7789186816017169402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-scrambledegg_76
+      rect:
+        serializedVersion: 2
+        x: 1519
+        y: 3035
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b6810c455ce5c480800000000000000
+      internalID: -8879431239199521101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-scrambledegg_77
+      rect:
+        serializedVersion: 2
+        x: 1530
+        y: 3038
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a95b692ed252924b0800000000000000
+      internalID: -5464795793832102502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-scrambledegg_78
+      rect:
+        serializedVersion: 2
+        x: 1548
+        y: 3031
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ad2b93f036425d70800000000000000
+      internalID: 9030357378890673569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-scrambledegg_79
+      rect:
+        serializedVersion: 2
+        x: 1569
+        y: 3035
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e6ad259ee03f7790800000000000000
+      internalID: -7530246250677033241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-scrambledegg_80
+      rect:
+        serializedVersion: 2
+        x: 1580
+        y: 3034
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85d2af5098f1559b0800000000000000
+      internalID: -5092129130301215400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-scrambledegg_81
+      rect:
+        serializedVersion: 2
+        x: 1744
+        y: 3039
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93c3d53dcb0b9b210800000000000000
+      internalID: 1349303888420617273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-scrambledegg_82
+      rect:
+        serializedVersion: 2
+        x: 1776
+        y: 3039
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c0585e7dcc1e9ee0800000000000000
+      internalID: -1252531977448828732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-scrambledegg_83
+      rect:
+        serializedVersion: 2
+        x: 1781
+        y: 3041
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f7b419d1e31134a0800000000000000
+      internalID: -6615484516899964939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-scrambledegg_84
+      rect:
+        serializedVersion: 2
+        x: 1890
+        y: 3040
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66003c0ea518bcc40800000000000000
+      internalID: 5533658794472702054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-scrambledegg_85
+      rect:
+        serializedVersion: 2
+        x: 1461
+        y: 3032
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10dc27154e50c9430800000000000000
+      internalID: 3790911464516275457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-scrambledegg_86
+      rect:
+        serializedVersion: 2
+        x: 1487
+        y: 3033
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afbec3ced4cc1be90800000000000000
+      internalID: -7011598509791187974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-scrambledegg_87
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 3035
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a059781f4d5c96a0800000000000000
+      internalID: -6441170772752248669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-scrambledegg_88
+      rect:
+        serializedVersion: 2
+        x: 1523
+        y: 3032
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 669371f08e3a6f480800000000000000
+      internalID: -8865718599351322266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-scrambledegg_89
+      rect:
+        serializedVersion: 2
+        x: 1533
+        y: 3029
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55e9c4a76eec7a060800000000000000
+      internalID: 6964762838041402965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-scrambledegg_90
+      rect:
+        serializedVersion: 2
+        x: 1640
+        y: 3034
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16122177fecfe9170800000000000000
+      internalID: 8187259278031200609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-scrambledegg_91
+      rect:
+        serializedVersion: 2
+        x: 1695
+        y: 3007
+        width: 192
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4445fcb0847f85d40800000000000000
+      internalID: 5573476427678831684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-scrambledegg_92
+      rect:
+        serializedVersion: 2
+        x: 1896
+        y: 3026
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc41cf064d845fe60800000000000000
+      internalID: 7995376790463583435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-scrambledegg_93
+      rect:
+        serializedVersion: 2
+        x: 1489
+        y: 3012
+        width: 34
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a71dbcd8cbc7bd4d0800000000000000
+      internalID: -3108753968494554758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-scrambledegg_94
+      rect:
+        serializedVersion: 2
+        x: 1522
+        y: 3017
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3c1a7c4654ae3320800000000000000
+      internalID: 2539647930440752186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-scrambledegg_95
+      rect:
+        serializedVersion: 2
+        x: 1532
+        y: 3017
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2519176990098e420800000000000000
+      internalID: 2659533950815408466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-scrambledegg_96
+      rect:
+        serializedVersion: 2
+        x: 1540
+        y: 3015
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b83d54af28d514e0800000000000000
+      internalID: -2011463959418423111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-scrambledegg_97
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 3016
+        width: 38
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 202fd497311865d60800000000000000
+      internalID: 7878626518770774530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-scrambledegg_98
+      rect:
+        serializedVersion: 2
+        x: 1594
+        y: 3017
+        width: 107
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65a67759b207f4c70800000000000000
+      internalID: 8957501516356741718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-scrambledegg_99
+      rect:
+        serializedVersion: 2
+        x: 1886
+        y: 3024
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04d19659de3b9d230800000000000000
+      internalID: 3664157604837924160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-scrambledegg_100
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 3011
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e0ab033bfec38df0800000000000000
+      internalID: -179071981876174617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-scrambledegg_101
+      rect:
+        serializedVersion: 2
+        x: 1484
+        y: 3016
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ef7b962fc9a440d0800000000000000
+      internalID: -3439437508233166873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-scrambledegg_102
+      rect:
+        serializedVersion: 2
+        x: 1657
+        y: 3007
+        width: 44
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5438e0a088b19b7c0800000000000000
+      internalID: -4055179718372195515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-scrambledegg_103
+      rect:
+        serializedVersion: 2
+        x: 1885
+        y: 3015
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f85c89069007a4ae0800000000000000
+      internalID: -1564314734980184689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-scrambledegg_104
+      rect:
+        serializedVersion: 2
+        x: 1906
+        y: 3015
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58e1d424dee4bf010800000000000000
+      internalID: 1223658504687787653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-scrambledegg_105
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 1288
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd847440d6eb5eda0800000000000000
+      internalID: -5916113160048785189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-scrambledegg_106
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1255
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd33a4318146913a0800000000000000
+      internalID: -6694209316543908900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-scrambledegg_107
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 1237
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e16b0fab0851159a0800000000000000
+      internalID: -6246187565549832674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-scrambledegg_108
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 286
+        width: 86
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79108eeac19fcf290800000000000000
+      internalID: -7855129748452146793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-scrambledegg_109
+      rect:
+        serializedVersion: 2
+        x: 1606
+        y: 293
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7281491674b8a7ef0800000000000000
+      internalID: -109622102221121497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      1-scrambledegg_0: 3823936364904275511
+      1-scrambledegg_1: -7741022682116825694
+      1-scrambledegg_10: 8352635227394475004
+      1-scrambledegg_100: -179071981876174617
+      1-scrambledegg_101: -3439437508233166873
+      1-scrambledegg_102: -4055179718372195515
+      1-scrambledegg_103: -1564314734980184689
+      1-scrambledegg_104: 1223658504687787653
+      1-scrambledegg_105: -5916113160048785189
+      1-scrambledegg_106: -6694209316543908900
+      1-scrambledegg_107: -6246187565549832674
+      1-scrambledegg_108: -7855129748452146793
+      1-scrambledegg_109: -109622102221121497
+      1-scrambledegg_11: 2030284394111328057
+      1-scrambledegg_12: -3134929090416667603
+      1-scrambledegg_13: -4345393832148989758
+      1-scrambledegg_14: -2357649148033171835
+      1-scrambledegg_15: -440412269246020396
+      1-scrambledegg_16: -7381006749440530760
+      1-scrambledegg_17: 5238347936914750647
+      1-scrambledegg_18: -748729794550135038
+      1-scrambledegg_19: 8927207822183021892
+      1-scrambledegg_2: -6478483039651185876
+      1-scrambledegg_20: 5990795565473020169
+      1-scrambledegg_21: 4326617178777890224
+      1-scrambledegg_22: -397643767188170016
+      1-scrambledegg_23: -2042139291775996808
+      1-scrambledegg_24: -1999753610387501518
+      1-scrambledegg_25: -3643486530033059006
+      1-scrambledegg_26: 1612312622980533727
+      1-scrambledegg_27: -2589467367672609373
+      1-scrambledegg_28: 2314148756335745779
+      1-scrambledegg_29: 5151645434283479857
+      1-scrambledegg_3: -4679019987347608562
+      1-scrambledegg_30: -460801780885531699
+      1-scrambledegg_31: 1189780198222175135
+      1-scrambledegg_32: 8967944781951914980
+      1-scrambledegg_33: -4296690865008477911
+      1-scrambledegg_34: 1863864005601584330
+      1-scrambledegg_35: -6393985315006984416
+      1-scrambledegg_36: -3706549418311121730
+      1-scrambledegg_37: 4261894123741291947
+      1-scrambledegg_38: 1308033883285022192
+      1-scrambledegg_39: -3979714431426708202
+      1-scrambledegg_4: 3986209284285540660
+      1-scrambledegg_40: 7078168316159375822
+      1-scrambledegg_41: -3963813819084164600
+      1-scrambledegg_42: -806537448814765116
+      1-scrambledegg_43: -1073232264756672618
+      1-scrambledegg_44: -4730532965992080574
+      1-scrambledegg_45: -7103342663785010574
+      1-scrambledegg_46: 4452318214910726991
+      1-scrambledegg_47: 2143698377249322423
+      1-scrambledegg_48: -574694853860168086
+      1-scrambledegg_49: -6676900677771947020
+      1-scrambledegg_5: -4007637633334094863
+      1-scrambledegg_50: 5570568766503456488
+      1-scrambledegg_51: 3290295949093747463
+      1-scrambledegg_52: 3324205655105179844
+      1-scrambledegg_53: 1629816939785443483
+      1-scrambledegg_54: 5294965049781560804
+      1-scrambledegg_55: -3779196194775786247
+      1-scrambledegg_56: 3657300290638086664
+      1-scrambledegg_57: -6531176022395478335
+      1-scrambledegg_58: 7974977514808061260
+      1-scrambledegg_59: -7549925268398487684
+      1-scrambledegg_6: 7465450175680841247
+      1-scrambledegg_60: -419995504940879338
+      1-scrambledegg_61: 2566865384093033429
+      1-scrambledegg_62: 3589191055875793565
+      1-scrambledegg_63: 2364142673435037331
+      1-scrambledegg_64: 9154942712753991099
+      1-scrambledegg_65: -5982279230304464866
+      1-scrambledegg_66: 7247951986365420996
+      1-scrambledegg_67: 3044736101813678869
+      1-scrambledegg_68: 1787937995969351399
+      1-scrambledegg_69: 7974518814093177202
+      1-scrambledegg_7: 3646160137420702380
+      1-scrambledegg_70: -7723666395976917394
+      1-scrambledegg_71: -113487302667885391
+      1-scrambledegg_72: 1800299973352014014
+      1-scrambledegg_73: 8756501118942613616
+      1-scrambledegg_74: 2566406753316259487
+      1-scrambledegg_75: -7789186816017169402
+      1-scrambledegg_76: -8879431239199521101
+      1-scrambledegg_77: -5464795793832102502
+      1-scrambledegg_78: 9030357378890673569
+      1-scrambledegg_79: -7530246250677033241
+      1-scrambledegg_8: 7707395969770782292
+      1-scrambledegg_80: -5092129130301215400
+      1-scrambledegg_81: 1349303888420617273
+      1-scrambledegg_82: -1252531977448828732
+      1-scrambledegg_83: -6615484516899964939
+      1-scrambledegg_84: 5533658794472702054
+      1-scrambledegg_85: 3790911464516275457
+      1-scrambledegg_86: -7011598509791187974
+      1-scrambledegg_87: -6441170772752248669
+      1-scrambledegg_88: -8865718599351322266
+      1-scrambledegg_89: 6964762838041402965
+      1-scrambledegg_9: 7296237738457993401
+      1-scrambledegg_90: 8187259278031200609
+      1-scrambledegg_91: 5573476427678831684
+      1-scrambledegg_92: 7995376790463583435
+      1-scrambledegg_93: -3108753968494554758
+      1-scrambledegg_94: 2539647930440752186
+      1-scrambledegg_95: 2659533950815408466
+      1-scrambledegg_96: -2011463959418423111
+      1-scrambledegg_97: 7878626518770774530
+      1-scrambledegg_98: 8957501516356741718
+      1-scrambledegg_99: 3664157604837924160
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

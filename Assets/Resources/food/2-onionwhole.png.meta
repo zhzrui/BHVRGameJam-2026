@@ -1,0 +1,1001 @@
+fileFormatVersion: 2
+guid: 4e906f72a69c60b44ae685e6ccb8f5d0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -437184546187765492
+    second: 2-onionwhole_0
+  - first:
+      213: -8866106572030924460
+    second: 2-onionwhole_1
+  - first:
+      213: -4826405160393390892
+    second: 2-onionwhole_2
+  - first:
+      213: -5406910789465188305
+    second: 2-onionwhole_3
+  - first:
+      213: 5244978708688709174
+    second: 2-onionwhole_4
+  - first:
+      213: 2770751946172883257
+    second: 2-onionwhole_5
+  - first:
+      213: 7921339508332380392
+    second: 2-onionwhole_6
+  - first:
+      213: -4522795562815323344
+    second: 2-onionwhole_7
+  - first:
+      213: 6244246111044875128
+    second: 2-onionwhole_8
+  - first:
+      213: -2539173917322513717
+    second: 2-onionwhole_9
+  - first:
+      213: 3931574512693857758
+    second: 2-onionwhole_10
+  - first:
+      213: 5378367893111031554
+    second: 2-onionwhole_11
+  - first:
+      213: -3645752042704478554
+    second: 2-onionwhole_12
+  - first:
+      213: -1683124060686824503
+    second: 2-onionwhole_13
+  - first:
+      213: 8456056028851119576
+    second: 2-onionwhole_14
+  - first:
+      213: -2462276733216037123
+    second: 2-onionwhole_15
+  - first:
+      213: 4484327565181139435
+    second: 2-onionwhole_16
+  - first:
+      213: 2084255584854766178
+    second: 2-onionwhole_17
+  - first:
+      213: -8026984848670341069
+    second: 2-onionwhole_18
+  - first:
+      213: -6535614908185322566
+    second: 2-onionwhole_19
+  - first:
+      213: 4688841398784108260
+    second: 2-onionwhole_20
+  - first:
+      213: 610035463842094337
+    second: 2-onionwhole_21
+  - first:
+      213: -2167321982559693570
+    second: 2-onionwhole_22
+  - first:
+      213: 7945160622808809164
+    second: 2-onionwhole_23
+  - first:
+      213: 2077287704587133508
+    second: 2-onionwhole_24
+  - first:
+      213: -699587028185109909
+    second: 2-onionwhole_25
+  - first:
+      213: 7058074430960954705
+    second: 2-onionwhole_26
+  - first:
+      213: -6571521879949031426
+    second: 2-onionwhole_27
+  - first:
+      213: 1448270220694494112
+    second: 2-onionwhole_28
+  - first:
+      213: 7167648969808097795
+    second: 2-onionwhole_29
+  - first:
+      213: -1217201049573083395
+    second: 2-onionwhole_30
+  - first:
+      213: -5574459644993050971
+    second: 2-onionwhole_31
+  - first:
+      213: 1397747269869744926
+    second: 2-onionwhole_32
+  - first:
+      213: 5454431323546511888
+    second: 2-onionwhole_33
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 2-onionwhole_0
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 892
+        width: 2038
+        height: 1742
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c091037b8fecee9f0800000000000000
+      internalID: -437184546187765492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-onionwhole_1
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 2623
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45927512c0345f480800000000000000
+      internalID: -8866106572030924460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-onionwhole_2
+      rect:
+        serializedVersion: 2
+        x: 2061
+        y: 2177
+        width: 34
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d4c3a8f31a250db0800000000000000
+      internalID: -4826405160393390892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-onionwhole_3
+      rect:
+        serializedVersion: 2
+        x: 2091
+        y: 2190
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2853b5b84bc6f4b0800000000000000
+      internalID: -5406910789465188305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-onionwhole_4
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 2160
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 636a0e1b858e9c840800000000000000
+      internalID: 5244978708688709174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-onionwhole_5
+      rect:
+        serializedVersion: 2
+        x: 2069
+        y: 2156
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9316b580730b37620800000000000000
+      internalID: 2770751946172883257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-onionwhole_6
+      rect:
+        serializedVersion: 2
+        x: 2092
+        y: 2137
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e04b6350504eed60800000000000000
+      internalID: 7921339508332380392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-onionwhole_7
+      rect:
+        serializedVersion: 2
+        x: 2078
+        y: 2144
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0330eaef56dcb31c0800000000000000
+      internalID: -4522795562815323344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-onionwhole_8
+      rect:
+        serializedVersion: 2
+        x: 2079
+        y: 2146
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 873b1fa21c408a650800000000000000
+      internalID: 6244246111044875128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-onionwhole_9
+      rect:
+        serializedVersion: 2
+        x: 2076
+        y: 2133
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc2fd0b76ca03ccd0800000000000000
+      internalID: -2539173917322513717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-onionwhole_10
+      rect:
+        serializedVersion: 2
+        x: 2090
+        y: 2130
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eddc81d5032cf8630800000000000000
+      internalID: 3931574512693857758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-onionwhole_11
+      rect:
+        serializedVersion: 2
+        x: 2075
+        y: 2120
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 207cf3c5a1dc3aa40800000000000000
+      internalID: 5378367893111031554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-onionwhole_12
+      rect:
+        serializedVersion: 2
+        x: 2080
+        y: 2090
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6aed17b45dfa76dc0800000000000000
+      internalID: -3645752042704478554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-onionwhole_13
+      rect:
+        serializedVersion: 2
+        x: 2085
+        y: 2051
+        width: 36
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cb49d9959754a8e0800000000000000
+      internalID: -1683124060686824503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-onionwhole_14
+      rect:
+        serializedVersion: 2
+        x: 2113
+        y: 2061
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d5a878f722f95570800000000000000
+      internalID: 8456056028851119576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-onionwhole_15
+      rect:
+        serializedVersion: 2
+        x: 2095
+        y: 2000
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df6e2f95b5c34ddd0800000000000000
+      internalID: -2462276733216037123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-onionwhole_16
+      rect:
+        serializedVersion: 2
+        x: 2099
+        y: 1981
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be93d1b59288b3e30800000000000000
+      internalID: 4484327565181139435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-onionwhole_17
+      rect:
+        serializedVersion: 2
+        x: 2108
+        y: 1977
+        width: 31
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 262746c5963ccec10800000000000000
+      internalID: 2084255584854766178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-onionwhole_18
+      rect:
+        serializedVersion: 2
+        x: 2124
+        y: 1969
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 338cf851fcb6a9090800000000000000
+      internalID: -8026984848670341069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-onionwhole_19
+      rect:
+        serializedVersion: 2
+        x: 2065
+        y: 1748
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abbddd04ed4dc45a0800000000000000
+      internalID: -6535614908185322566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-onionwhole_20
+      rect:
+        serializedVersion: 2
+        x: 2069
+        y: 1734
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e62caed86c121140800000000000000
+      internalID: 4688841398784108260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-onionwhole_21
+      rect:
+        serializedVersion: 2
+        x: 2073
+        y: 1735
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10dd2b2b508477800800000000000000
+      internalID: 610035463842094337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-onionwhole_22
+      rect:
+        serializedVersion: 2
+        x: 2079
+        y: 1728
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef452abc3202ce1e0800000000000000
+      internalID: -2167321982559693570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-onionwhole_23
+      rect:
+        serializedVersion: 2
+        x: 2093
+        y: 1732
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cceb0fdbd71e24e60800000000000000
+      internalID: 7945160622808809164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-onionwhole_24
+      rect:
+        serializedVersion: 2
+        x: 2027
+        y: 1712
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 442e330592204dc10800000000000000
+      internalID: 2077287704587133508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-onionwhole_25
+      rect:
+        serializedVersion: 2
+        x: 2030
+        y: 1717
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6a2e8fed419a46f0800000000000000
+      internalID: -699587028185109909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-onionwhole_26
+      rect:
+        serializedVersion: 2
+        x: 2010
+        y: 1700
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15de1b7bc4153f160800000000000000
+      internalID: 7058074430960954705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-onionwhole_27
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 1696
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef74ee7eaa34dc4a0800000000000000
+      internalID: -6571521879949031426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-onionwhole_28
+      rect:
+        serializedVersion: 2
+        x: 2050
+        y: 1695
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ab954ba71a491410800000000000000
+      internalID: 1448270220694494112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-onionwhole_29
+      rect:
+        serializedVersion: 2
+        x: 2024
+        y: 1687
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3023b1023ca987360800000000000000
+      internalID: 7167648969808097795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-onionwhole_30
+      rect:
+        serializedVersion: 2
+        x: 2027
+        y: 1676
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df6b6fb2812ab1fe0800000000000000
+      internalID: -1217201049573083395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-onionwhole_31
+      rect:
+        serializedVersion: 2
+        x: 2058
+        y: 1678
+        width: 39
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a66075dc7a83a2b0800000000000000
+      internalID: -5574459644993050971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-onionwhole_32
+      rect:
+        serializedVersion: 2
+        x: 2036
+        y: 1674
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e13bb528cbbc56310800000000000000
+      internalID: 1397747269869744926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-onionwhole_33
+      rect:
+        serializedVersion: 2
+        x: 2046
+        y: 1670
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01ae0c3d36802bb40800000000000000
+      internalID: 5454431323546511888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      2-onionwhole_0: -437184546187765492
+      2-onionwhole_1: -8866106572030924460
+      2-onionwhole_10: 3931574512693857758
+      2-onionwhole_11: 5378367893111031554
+      2-onionwhole_12: -3645752042704478554
+      2-onionwhole_13: -1683124060686824503
+      2-onionwhole_14: 8456056028851119576
+      2-onionwhole_15: -2462276733216037123
+      2-onionwhole_16: 4484327565181139435
+      2-onionwhole_17: 2084255584854766178
+      2-onionwhole_18: -8026984848670341069
+      2-onionwhole_19: -6535614908185322566
+      2-onionwhole_2: -4826405160393390892
+      2-onionwhole_20: 4688841398784108260
+      2-onionwhole_21: 610035463842094337
+      2-onionwhole_22: -2167321982559693570
+      2-onionwhole_23: 7945160622808809164
+      2-onionwhole_24: 2077287704587133508
+      2-onionwhole_25: -699587028185109909
+      2-onionwhole_26: 7058074430960954705
+      2-onionwhole_27: -6571521879949031426
+      2-onionwhole_28: 1448270220694494112
+      2-onionwhole_29: 7167648969808097795
+      2-onionwhole_3: -5406910789465188305
+      2-onionwhole_30: -1217201049573083395
+      2-onionwhole_31: -5574459644993050971
+      2-onionwhole_32: 1397747269869744926
+      2-onionwhole_33: 5454431323546511888
+      2-onionwhole_4: 5244978708688709174
+      2-onionwhole_5: 2770751946172883257
+      2-onionwhole_6: 7921339508332380392
+      2-onionwhole_7: -4522795562815323344
+      2-onionwhole_8: 6244246111044875128
+      2-onionwhole_9: -2539173917322513717
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
