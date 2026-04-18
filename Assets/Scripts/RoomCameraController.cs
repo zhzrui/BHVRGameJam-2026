@@ -17,7 +17,9 @@ public class RoomCameraController : MonoBehaviour
     public float roomOrthoSize = 6f;
 
     [Header("Transition")]
-    public float transitionDuration = 0.45f;
+    public float fadeDuration = 0.25f;
+    [Tooltip("CanvasGroup on a full-screen black Image used for the fade")]
+    public CanvasGroup fadeOverlay;
 
     [Header("Counter-Only Objects")]
     [Tooltip("GameObjects to hide when leaving the counter (e.g. the cooking Canvas)")]
@@ -74,30 +76,36 @@ public class RoomCameraController : MonoBehaviour
     IEnumerator TransitionTo(CameraState next)
     {
         transitioning = true;
+
+        yield return StartCoroutine(Fade(0f, 1f));
+
         state = next;
-
-        Vector3 startPos = transform.position;
-        float startSize  = cam.orthographicSize;
-        Vector3 endPos   = PositionFor(next);
-        float endSize    = next == CameraState.Counter ? counterOrthoSize : roomOrthoSize;
-
-        float elapsed = 0f;
-        while (elapsed < transitionDuration)
-        {
-            elapsed += Time.deltaTime;
-            float t = Mathf.SmoothStep(0f, 1f, elapsed / transitionDuration);
-            transform.position   = Vector3.Lerp(startPos, endPos, t);
-            cam.orthographicSize = Mathf.Lerp(startSize, endSize, t);
-            yield return null;
-        }
-
-        transform.position   = endPos;
-        cam.orthographicSize = endSize;
-        transitioning = false;
+        transform.position   = PositionFor(next);
+        cam.orthographicSize = next == CameraState.Counter ? counterOrthoSize : roomOrthoSize;
 
         bool atCounter = next == CameraState.Counter;
         foreach (var obj in counterObjects)
             obj?.SetActive(atCounter);
+
+        yield return StartCoroutine(Fade(1f, 0f));
+
+        transitioning = false;
+    }
+
+    IEnumerator Fade(float from, float to)
+    {
+        if (fadeOverlay == null) yield break;
+
+        fadeOverlay.gameObject.SetActive(true);
+        float elapsed = 0f;
+        while (elapsed < fadeDuration)
+        {
+            elapsed += Time.deltaTime;
+            fadeOverlay.alpha = Mathf.Lerp(from, to, elapsed / fadeDuration);
+            yield return null;
+        }
+        fadeOverlay.alpha = to;
+        if (to == 0f) fadeOverlay.gameObject.SetActive(false);
     }
 
     Vector3 PositionFor(CameraState s) => s switch
