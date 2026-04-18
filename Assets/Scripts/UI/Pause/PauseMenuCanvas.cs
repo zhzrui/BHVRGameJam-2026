@@ -67,7 +67,9 @@ public class PauseMenu : MonoBehaviour
 
     public void Menu()
     {
-        throw new System.NotImplementedException("meow");
+        cancel.performed -= Cancel;
+        DOTween.Kill(canvasGroup);
+        SceneManager.LoadScene("MainMenu");
     }
     
     void OnDestroy()

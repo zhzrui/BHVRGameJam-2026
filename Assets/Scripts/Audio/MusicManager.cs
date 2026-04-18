@@ -5,16 +5,17 @@ using UnityEngine;
 public class MusicManager : MonoBehaviour
 {
     // force singleton behaviour
-    public static MusicManager instance;
+    public static MusicManager Instance;
     [SerializeField] List<AudioSource> musicPlayers;
     [SerializeField] float fadeTime = 5.0f;
     int currentMusicPlayer = 0;
 
     void Awake()
     {
-        if (instance == null)
+        if (Instance == null)
         {
-            instance = this;
+            Instance = this;
+            DontDestroyOnLoad(gameObject);
         } else
         {
             Destroy(this.gameObject);
