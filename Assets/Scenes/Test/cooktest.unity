@@ -304,13 +304,13 @@ RectTransform:
   m_LocalScale: {x: 0, y: 0, z: 0}
   m_ConstrainProportionsScale: 0
   m_Children:
-  - {fileID: 1562943727}
   - {fileID: 1167456647}
   - {fileID: 1525943185}
   - {fileID: 1375177178}
   - {fileID: 2069804477}
   - {fileID: 1405921846}
   - {fileID: 1072598070}
+  - {fileID: 1562943727}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
@@ -427,6 +427,7 @@ GameObject:
   - component: {fileID: 809152422}
   - component: {fileID: 809152421}
   - component: {fileID: 809152420}
+  - component: {fileID: 809152423}
   m_Layer: 0
   m_Name: Main Camera
   m_TagString: MainCamera
@@ -508,6 +509,50 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &809152423
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 809152419}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a79441f348de89743a2939f4d699eac1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Unity.RenderPipelines.Universal.Runtime::UnityEngine.Rendering.Universal.UniversalAdditionalCameraData
+  m_RenderShadows: 1
+  m_RequiresDepthTextureOption: 2
+  m_RequiresOpaqueTextureOption: 2
+  m_CameraType: 0
+  m_Cameras: []
+  m_RendererIndex: -1
+  m_VolumeLayerMask:
+    serializedVersion: 2
+    m_Bits: 1
+  m_VolumeTrigger: {fileID: 0}
+  m_VolumeFrameworkUpdateModeOption: 2
+  m_RenderPostProcessing: 0
+  m_Antialiasing: 0
+  m_AntialiasingQuality: 2
+  m_StopNaN: 0
+  m_Dithering: 0
+  m_ClearDepth: 1
+  m_AllowXRRendering: 1
+  m_AllowHDROutput: 1
+  m_UseScreenCoordOverride: 0
+  m_ScreenSizeOverride: {x: 0, y: 0, z: 0, w: 0}
+  m_ScreenCoordScaleBias: {x: 0, y: 0, z: 0, w: 0}
+  m_RequiresDepthTexture: 0
+  m_RequiresColorTexture: 0
+  m_TaaSettings:
+    m_Quality: 3
+    m_FrameInfluence: 0.1
+    m_JitterScale: 1
+    m_MipBias: 0
+    m_VarianceClampScale: 0.9
+    m_ContrastAdaptiveSharpening: 0
+  m_Version: 2
 --- !u!1 &819824827
 GameObject:
   m_ObjectHideFlags: 0
@@ -894,6 +939,7 @@ MonoBehaviour:
   greenZoneCenter: 0.5
   greenZoneWidth: 0.34
   minigamePanel: {fileID: 1072598066}
+  objectiveKey: cooking
 --- !u!114 &1072598068
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1086,6 +1132,7 @@ MonoBehaviour:
   - {fileID: 2069804478}
   bowlSlotParent: {fileID: 694823765}
   minigamePanel: {fileID: 1562943724}
+  objectiveKey: cooking
 --- !u!114 &1167456649
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1719,6 +1766,7 @@ GameObject:
   - component: {fileID: 1562943727}
   - component: {fileID: 1562943726}
   - component: {fileID: 1562943725}
+  - component: {fileID: 1562943728}
   m_Layer: 5
   m_Name: mixingPanel
   m_TagString: Untagged
@@ -1776,6 +1824,7 @@ RectTransform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
+  - {fileID: 1576295714}
   - {fileID: 1795137818}
   - {fileID: 916195115}
   m_Father: {fileID: 592274661}
@@ -1785,6 +1834,25 @@ RectTransform:
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &1562943728
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1562943724}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dfcdf82c1be23a94b82e0d278c29b379, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::MixingMinigame
+  maxMeter: 100
+  clickFillAmount: 8
+  decayRate: 10
+  successThreshold: 95
+  objectiveKey: cooking
+  meterSlider: {fileID: 0}
+  minigamePanel: {fileID: 0}
 --- !u!1 &1576295712
 GameObject:
   m_ObjectHideFlags: 0
@@ -1818,6 +1886,7 @@ MonoBehaviour:
   clickFillAmount: 8
   decayRate: 18
   successThreshold: 95
+  objectiveKey: cooking
   meterSlider: {fileID: 1795137819}
   minigamePanel: {fileID: 1562943724}
 --- !u!4 &1576295714
@@ -1828,12 +1897,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1576295712}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 545, y: 306.625, z: 0}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 1.5, y: 1, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 1562943727}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1662921642
 GameObject:
@@ -2546,4 +2615,3 @@ SceneRoots:
   - {fileID: 809152422}
   - {fileID: 592274661}
   - {fileID: 282976984}
-  - {fileID: 1576295714}

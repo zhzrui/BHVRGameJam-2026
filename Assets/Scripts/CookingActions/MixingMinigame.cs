@@ -1,28 +1,25 @@
 using UnityEngine;
 using UnityEngine.UI;
-using System;
 
-public class MixingMinigame : MonoBehaviour
+public class MixingMinigame : CookingMinigameBase
 {
-    //private void Start() => StartMinigame();
+    private void Start() => StartMinigame();
 
     [Header("Meter Settings")]
     [SerializeField] private float maxMeter = 100f;
     [SerializeField] private float clickFillAmount = 8f;
-    [SerializeField] private float decayRate = 10f;       // units per second lost passively
-    [SerializeField] private float successThreshold = 95f; // fill required to complete
+    [SerializeField] private float decayRate = 10f;
+    [SerializeField] private float successThreshold = 95f;
+
+    [SerializeField] private string objectiveKey = "cooking";
 
     [Header("UI")]
     [SerializeField] private Slider meterSlider;
-    [SerializeField] private GameObject minigamePanel;
-
-    public event Action OnSuccess;
-    public event Action OnFail;
 
     private float currentMeter;
     private bool isActive;
 
-    public void StartMinigame()
+    public override void StartMinigame()
     {
         currentMeter = 0f;
         isActive = true;
@@ -30,16 +27,6 @@ public class MixingMinigame : MonoBehaviour
         UpdateUI();
     }
 
-    private void Update()
-    {
-        if (!isActive) return;
-
-        // Passive decay
-        currentMeter = Mathf.Max(0f, currentMeter - decayRate * Time.deltaTime);
-        UpdateUI();
-    }
-
-    // Call this from a UI Button's OnClick or an input handler
     public void OnClick()
     {
         if (!isActive) return;
@@ -51,13 +38,24 @@ public class MixingMinigame : MonoBehaviour
             Complete(true);
     }
 
+    private void Update()
+    {
+        if (!isActive) return;
+        currentMeter = Mathf.Max(0f, currentMeter - decayRate * Time.deltaTime);
+        UpdateUI();
+    }
+
     private void Complete(bool success)
     {
         isActive = false;
         minigamePanel.SetActive(false);
 
-        if (success) OnSuccess?.Invoke();
-        else OnFail?.Invoke();
+        if (success)
+        {
+            ObjectiveManager.Instance?.CompleteObjective(objectiveKey);
+            RaiseSuccess();
+        }
+        else RaiseFail();
     }
 
     private void UpdateUI()

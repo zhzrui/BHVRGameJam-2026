@@ -1,31 +1,27 @@
 using UnityEngine;
 using UnityEngine.UI;
-using System;
 
-public class TimingMinigame : MonoBehaviour
+public class TimingMinigame : CookingMinigameBase
 {
-    private void Start() => StartMinigame();
+    //private void Start() => StartMinigame();
+
     [Header("Meter")]
-    [SerializeField] private RectTransform meterBar;       // the full bar rect
-    [SerializeField] private RectTransform arrowIndicator; // arrow that slides across
-    [SerializeField] private float arrowSpeed = 0.4f;      // normalized units per second (0-1)
+    [SerializeField] private RectTransform meterBar;
+    [SerializeField] private RectTransform arrowIndicator;
+    [SerializeField] private float arrowSpeed = 0.4f;
 
     [Header("Green Zone")]
-    [SerializeField] private RectTransform greenZone;       // green Image child of meterBar
-    [SerializeField] private float greenZoneCenter = 0.5f;  // normalized position (0=left, 1=right)
-    [SerializeField] private float greenZoneWidth = 0.25f;  // normalized width of the green zone
+    [SerializeField] private RectTransform greenZone;
+    [SerializeField] private float greenZoneCenter = 0.5f;
+    [SerializeField] private float greenZoneWidth = 0.25f;
 
-    [Header("UI")]
-    [SerializeField] private GameObject minigamePanel;
+    [SerializeField] private string objectiveKey = "cooking";
 
-    public event Action OnSuccess;
-    public event Action OnFail;
-
-    private float arrowPosition; // normalized 0-1
+    private float arrowPosition;
     private float arrowDirection = 1f;
     private bool isActive;
 
-    public void StartMinigame()
+    public override void StartMinigame()
     {
         arrowPosition = 0f;
         arrowDirection = 1f;
@@ -40,21 +36,12 @@ public class TimingMinigame : MonoBehaviour
 
         arrowPosition += arrowDirection * arrowSpeed * Time.deltaTime;
 
-        if (arrowPosition >= 1f)
-        {
-            arrowPosition = 1f;
-            arrowDirection = -1f;
-        }
-        else if (arrowPosition <= 0f)
-        {
-            arrowPosition = 0f;
-            arrowDirection = 1f;
-        }
+        if (arrowPosition >= 1f) { arrowPosition = 1f; arrowDirection = -1f; }
+        else if (arrowPosition <= 0f) { arrowPosition = 0f; arrowDirection = 1f; }
 
         PositionArrow();
     }
 
-    // Wire this to the button's OnClick
     public void OnButtonClick()
     {
         if (!isActive) return;
@@ -68,12 +55,13 @@ public class TimingMinigame : MonoBehaviour
         if (inGreen)
         {
             Debug.Log("Successful cooking");
-            OnSuccess?.Invoke();
+            ObjectiveManager.Instance?.CompleteObjective(objectiveKey);
+            RaiseSuccess();
         }
         else
         {
             Debug.Log("Cooking Failed");
-            OnFail?.Invoke();
+            RaiseFail();
         }
     }
 
@@ -91,7 +79,6 @@ public class TimingMinigame : MonoBehaviour
 
         Vector3[] corners = new Vector3[4];
         meterBar.GetWorldCorners(corners);
-        // corners: 0=bottom-left, 1=top-left, 2=top-right, 3=bottom-right
 
         float barWorldWidth = corners[2].x - corners[0].x;
         float greenMin = greenZoneCenter - greenZoneWidth * 0.5f;

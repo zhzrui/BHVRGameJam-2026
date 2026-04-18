@@ -1,23 +1,22 @@
 using UnityEngine;
 using UnityEngine.EventSystems;
-using System;
 using System.Collections.Generic;
 
-public class AssemblingMinigame : MonoBehaviour, IDropHandler
+public class AssemblingMinigame : CookingMinigameBase, IDropHandler
 {
     //private void Start() => StartMinigame();
 
     [Header("Setup")]
-    [SerializeField] private List<DraggableIngredient> ingredientsInOrder; // assign in Inspector, top-to-bottom = correct order
-    [SerializeField] private Transform bowlSlotParent; // where placed ingredients visually stack
-    [SerializeField] private GameObject minigamePanel;
+    [SerializeField] private List<DraggableIngredient> ingredientsInOrder;
+    [SerializeField] private Transform bowlSlotParent;
 
-    public event Action OnSuccess;
-    public event Action OnWrongOrder; // optional: hook up a shake/sound effect
+    [SerializeField] private string objectiveKey = "cooking";
+
+    public event System.Action OnWrongOrder;
 
     private int currentStep = 0;
 
-    public void StartMinigame()
+    public override void StartMinigame()
     {
         currentStep = 0;
         minigamePanel.SetActive(true);
@@ -26,11 +25,12 @@ public class AssemblingMinigame : MonoBehaviour, IDropHandler
             ingredient.gameObject.SetActive(true);
     }
 
-    // Called by Unity's event system when something is dropped onto this GameObject
     public void OnDrop(PointerEventData eventData)
     {
         DraggableIngredient dropped = eventData.pointerDrag?.GetComponent<DraggableIngredient>();
-        if (dropped == null) return;
+        if (dropped == null) { Debug.Log("[Assembling] Drop rejected: no DraggableIngredient found"); return; }
+
+        Debug.Log($"[Assembling] Dropped orderIndex={dropped.orderIndex}, expecting step={currentStep}, total={ingredientsInOrder.Count}");
 
         if (dropped.orderIndex == currentStep)
         {
@@ -42,14 +42,17 @@ public class AssemblingMinigame : MonoBehaviour, IDropHandler
         }
         else
         {
-            // Wrong order — ingredient's OnEndDrag will snap it back
+            Debug.Log($"[Assembling] Wrong order — snapping back");
             OnWrongOrder?.Invoke();
         }
     }
 
     private void Complete()
     {
-        minigamePanel.SetActive(false);
-        OnSuccess?.Invoke();
+        Debug.Log("[Assembling] Complete! Hiding panel and raising success.");
+        if (minigamePanel != null) minigamePanel.SetActive(false);
+        else Debug.LogWarning("[Assembling] minigamePanel is not assigned!");
+        ObjectiveManager.Instance?.CompleteObjective(objectiveKey);
+        RaiseSuccess();
     }
 }
