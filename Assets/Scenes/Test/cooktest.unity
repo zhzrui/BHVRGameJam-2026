@@ -305,9 +305,6 @@ RectTransform:
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 1167456647}
-  - {fileID: 1525943185}
-  - {fileID: 1375177178}
-  - {fileID: 2069804477}
   - {fileID: 1405921846}
   - {fileID: 1072598070}
   - {fileID: 1562943727}
@@ -914,7 +911,7 @@ GameObject:
   - component: {fileID: 1072598068}
   - component: {fileID: 1072598067}
   m_Layer: 5
-  m_Name: MeterBarPanel
+  m_Name: timercook
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -932,13 +929,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 895d8572876d19c4d84ed7fafedeb5a7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::TimingMinigame
+  minigamePanel: {fileID: 1072598066}
   meterBar: {fileID: 819824828}
   arrowIndicator: {fileID: 2118774692}
   arrowSpeed: 0.4
   greenZone: {fileID: 1085842516}
   greenZoneCenter: 0.5
   greenZoneWidth: 0.34
-  minigamePanel: {fileID: 1072598066}
   objectiveKey: cooking
 --- !u!114 &1072598068
 MonoBehaviour:
@@ -1088,7 +1085,7 @@ GameObject:
   - component: {fileID: 1167456649}
   - component: {fileID: 1167456648}
   m_Layer: 5
-  m_Name: bowl
+  m_Name: assembly
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1107,6 +1104,8 @@ RectTransform:
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 694823765}
+  - {fileID: 1525943185}
+  - {fileID: 1375177178}
   m_Father: {fileID: 592274661}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
@@ -1126,12 +1125,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3157a2957458bcb47bf04bf60e3f3db2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::AssemblingMinigame
+  minigamePanel: {fileID: 1562943724}
   ingredientsInOrder:
   - {fileID: 1525943186}
   - {fileID: 1375177179}
   - {fileID: 2069804478}
   bowlSlotParent: {fileID: 694823765}
-  minigamePanel: {fileID: 1562943724}
   objectiveKey: cooking
 --- !u!114 &1167456649
 MonoBehaviour:
@@ -1478,16 +1477,16 @@ RectTransform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1375177177}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 592274661}
+  m_Father: {fileID: 1167456647}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 9.204224, y: -133}
+  m_AnchoredPosition: {x: 9.204224, y: -177}
   m_SizeDelta: {x: 100, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1375177179
@@ -1566,7 +1565,7 @@ GameObject:
   - component: {fileID: 1405921848}
   - component: {fileID: 1405921847}
   m_Layer: 5
-  m_Name: ingrediantContainer
+  m_Name: cutting
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1585,6 +1584,7 @@ RectTransform:
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 1662921643}
+  - {fileID: 2069804477}
   m_Father: {fileID: 592274661}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
@@ -1680,16 +1680,16 @@ RectTransform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1525943184}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 592274661}
+  m_Father: {fileID: 1167456647}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -203, y: -133}
+  m_AnchoredPosition: {x: -203, y: -177}
   m_SizeDelta: {x: 100, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1525943186
@@ -1768,7 +1768,7 @@ GameObject:
   - component: {fileID: 1562943725}
   - component: {fileID: 1562943728}
   m_Layer: 5
-  m_Name: mixingPanel
+  m_Name: mixing/mash
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1846,13 +1846,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: dfcdf82c1be23a94b82e0d278c29b379, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::MixingMinigame
+  minigamePanel: {fileID: 0}
   maxMeter: 100
   clickFillAmount: 8
   decayRate: 10
   successThreshold: 95
   objectiveKey: cooking
   meterSlider: {fileID: 0}
-  minigamePanel: {fileID: 0}
 --- !u!1 &1576295712
 GameObject:
   m_ObjectHideFlags: 0
@@ -1882,13 +1882,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: dfcdf82c1be23a94b82e0d278c29b379, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::MixingMinigame
+  minigamePanel: {fileID: 1562943724}
   maxMeter: 100
   clickFillAmount: 8
   decayRate: 18
   successThreshold: 95
   objectiveKey: cooking
   meterSlider: {fileID: 1795137819}
-  minigamePanel: {fileID: 1562943724}
 --- !u!4 &1576295714
 Transform:
   m_ObjectHideFlags: 0
@@ -2383,16 +2383,16 @@ RectTransform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2069804476}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 592274661}
+  m_Father: {fileID: 1405921846}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 213, y: -133}
+  m_AnchoredPosition: {x: 117, y: -126}
   m_SizeDelta: {x: 100, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &2069804478
