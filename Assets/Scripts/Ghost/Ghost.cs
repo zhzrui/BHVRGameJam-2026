@@ -7,10 +7,16 @@ public class Ghost : MonoBehaviour, IPointerDownHandler, IPointerUpHandler, IPoi
     [Header("Variables")]
     [SerializeField] float clickTime = 3.0f;
     [SerializeField] float explodeTime = 2.0f;
+    [Header("Fear")]
+    [SerializeField] AnimationCurve fearCurve;
+    [SerializeField] float minFearTime = 10.0f;
+    [SerializeField] float maxFearTime = 40.0f;
     private float timeLeft;
     private float explodeTimeLeft;
     private bool clicked = false;
     private Renderer rend;
+    private float spawnTime;
+    [Header("Assignables")]
     [SerializeField] new private ParticleSystem particleSystem;
     [SerializeField] private ParticleSystem explodeParticles;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
@@ -19,6 +25,7 @@ public class Ghost : MonoBehaviour, IPointerDownHandler, IPointerUpHandler, IPoi
         rend = GetComponent<Renderer>();
         timeLeft = clickTime;
         explodeTimeLeft = explodeTime;
+        spawnTime = Time.time;
     }
 
     void Update()
@@ -56,26 +63,39 @@ public class Ghost : MonoBehaviour, IPointerDownHandler, IPointerUpHandler, IPoi
     public void OnPointerDown(PointerEventData eventData)
     {
         clicked = true;
-        Debug.Log("clicked");
         explodeParticles.Play();
     }
 
     public void OnPointerUp(PointerEventData eventData)
     {
-        clicked = false;
-        timeLeft = clickTime;
-        Debug.Log("unclicked");
-        explodeParticles.Stop();
+        if (timeLeft > 0)
+        {
+            clicked = false;
+            timeLeft = clickTime;
+            explodeParticles.Stop();
+        }
     }
 
     public void OnPointerExit(PointerEventData eventData)
     {
-        if (clicked)
+        if (clicked && timeLeft > 0)
         {
             clicked = false;
             timeLeft = clickTime;
-            Debug.Log("unclicked");
             explodeParticles.Stop();
+        }
+    }
+
+    public float GetGhostFearContribution()
+    {
+        float lifespan = Time.time - spawnTime;
+        // no fear until minFearTime in and no fear after it's popped
+        if (lifespan < minFearTime || timeLeft <= 0)
+        {
+            return 0;
+        } else
+        {
+            return fearCurve.Evaluate((lifespan - minFearTime) / (maxFearTime - minFearTime)) * timeLeft / clickTime;
         }
     }
 }
