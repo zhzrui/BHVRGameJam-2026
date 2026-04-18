@@ -325,8 +325,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0.98, y: 1}
-  m_AnchoredPosition: {x: 5.5, y: 0}
-  m_SizeDelta: {x: -25.256012, y: -33.409}
+  m_AnchoredPosition: {x: 17, y: 0}
+  m_SizeDelta: {x: -1.5079956, y: -25.516006}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1112481456
 MonoBehaviour:
@@ -343,53 +343,42 @@ MonoBehaviour:
   dialogueText: {fileID: 1112481457}
   continueIndicator: {fileID: 0}
   lines:
-  - text: Hi my lovelies, welcome back to my cooking show!
+  - text: Hi my lovelies. Welcome back to my cooking show.
     flagToSet: 
     pauseForObjective: 0
     objectiveId: 
-  - text: "I\u2019m your super-duper-awesome-cutie host, Candy\u2606!"
+  - text: "I\u2019m Candy\u2606."
     flagToSet: 
     pauseForObjective: 0
     objectiveId: 
-  - text: "Today, I\u2019ll teach you how to make scrambled eggs, just like how my
-      mother made it."
+  - text: "Today, I\u2019ll teach you all how to make tiramisu. It\u2019s very delicious
+      and easy to make."
     flagToSet: 
     pauseForObjective: 0
     objectiveId: 
-  - text: "It\u2019s warm and comforting. Perfect for a quick meal!"
+  - text: "In your CookingCandyBox\u2606, you will find a few ladyfingers, an egg
+      based biscuit. Soak them in the coffee mixture and put them in the pan."
     flagToSet: 
     pauseForObjective: 0
     objectiveId: 
-  - text: "Let\u2019s get cooking!"
+  - text: Layer the mascarpone cream on top of the ladyfingers.
     flagToSet: 
     pauseForObjective: 0
     objectiveId: 
-  - text: "First, make sure you have your CookingCandyBox\u2606. It contains all
-      of the ingredients you\u2019ll need for today\u2019s recipe."
+  - text: Finally, add a thin layer of the cocoa powder and a little cherry on top.
     flagToSet: 
     pauseForObjective: 0
     objectiveId: 
-  - text: Crack the eggs and pour the milk into the bowl. Then, add some salt and
-      pepper to taste.
+  - text: Unconventional, I know.
     flagToSet: 
     pauseForObjective: 0
     objectiveId: 
-  - text: Beat the mixture until thoroughly combined.
+  - text: There we go, a nice tiramisu. Ready to serve!
     flagToSet: 
     pauseForObjective: 0
     objectiveId: 
-  - text: While you're waiting for the pan to heat up, butter it properly, then add
-      the egg mixture. Now, scramble it!
-    flagToSet: 
-    pauseForObjective: 0
-    objectiveId: 
-  - text: "And there we have it. Fluffy scrambled egg that Mama Candy\u2606 used
-      to feed me."
-    flagToSet: 
-    pauseForObjective: 0
-    objectiveId: 
-  - text: Have a taste! And remember, whenever you eat my cooking, I become a part
-      of you.
+  - text: "I hope you all enjoy this nice dessert. Whenever you eat my cooking, I
+      become\u2026 a part of you."
     flagToSet: 
     pauseForObjective: 0
     objectiveId: 
@@ -538,8 +527,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1.333333, y: 1}
-  m_AnchoredPosition: {x: -88, y: 0}
-  m_SizeDelta: {x: 0, y: 0}
+  m_AnchoredPosition: {x: -84, y: 0}
+  m_SizeDelta: {x: 8, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1552095397
 MonoBehaviour:
@@ -717,8 +706,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0.98, y: 1}
-  m_AnchoredPosition: {x: 7.03, y: -385}
-  m_SizeDelta: {x: -22.911, y: -874.907}
+  m_AnchoredPosition: {x: 5.320984, y: -385}
+  m_SizeDelta: {x: -8.328003, y: -902.907}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &2021739497
 MonoBehaviour:
