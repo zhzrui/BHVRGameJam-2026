@@ -1,0 +1,559 @@
+fileFormatVersion: 2
+guid: 8c8098998245e4444bd022f742fc8335
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4918692573818924380
+    second: candy_hands_cutlery_0
+  - first:
+      213: -8735177982056581188
+    second: candy_hands_cutlery_1
+  - first:
+      213: 4597886680671272645
+    second: candy_hands_cutlery_2
+  - first:
+      213: -6348460987194431114
+    second: candy_hands_cutlery_3
+  - first:
+      213: -850354283807584999
+    second: candy_hands_cutlery_4
+  - first:
+      213: 3966139952793526252
+    second: candy_hands_cutlery_5
+  - first:
+      213: 214880430889273165
+    second: candy_hands_cutlery_6
+  - first:
+      213: -4839455547129986172
+    second: candy_hands_cutlery_7
+  - first:
+      213: -2554289558195582141
+    second: candy_hands_cutlery_8
+  - first:
+      213: -4472448913114435961
+    second: candy_hands_cutlery_9
+  - first:
+      213: 4966967901638514034
+    second: candy_hands_cutlery_10
+  - first:
+      213: 3376012958684712562
+    second: candy_hands_cutlery_11
+  - first:
+      213: 3276463212739422881
+    second: candy_hands_cutlery_12
+  - first:
+      213: -5545018605406314130
+    second: candy_hands_cutlery_13
+  - first:
+      213: 9121155238252433917
+    second: candy_hands_cutlery_14
+  - first:
+      213: -2929303335463566819
+    second: candy_hands_cutlery_15
+  - first:
+      213: -663019023417851615
+    second: candy_hands_cutlery_16
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: candy_hands_cutlery_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 978
+        height: 1821
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a2db2a1a2b4dbbb0800000000000000
+      internalID: -4918692573818924380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy_hands_cutlery_1
+      rect:
+        serializedVersion: 2
+        x: 1388
+        y: 0
+        width: 946
+        height: 1776
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb734b108e966c680800000000000000
+      internalID: -8735177982056581188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy_hands_cutlery_2
+      rect:
+        serializedVersion: 2
+        x: 2235
+        y: 1762
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ce39ee4399fecf30800000000000000
+      internalID: 4597886680671272645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy_hands_cutlery_3
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 379
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 679a9d32e5cb5e7a0800000000000000
+      internalID: -6348460987194431114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy_hands_cutlery_4
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 369
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91dca64c84fe234f0800000000000000
+      internalID: -850354283807584999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy_hands_cutlery_5
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 342
+        width: 11
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cef1eb7064f8a0730800000000000000
+      internalID: 3966139952793526252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy_hands_cutlery_6
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 307
+        width: 10
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4786580d986bf200800000000000000
+      internalID: 214880430889273165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy_hands_cutlery_7
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 294
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 483060702dcc6dcb0800000000000000
+      internalID: -4839455547129986172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy_hands_cutlery_8
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 289
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34b43461e275d8cd0800000000000000
+      internalID: -2554289558195582141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy_hands_cutlery_9
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 208
+        width: 23
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78e6bb9d86baee1c0800000000000000
+      internalID: -4472448913114435961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy_hands_cutlery_10
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 262
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2755eeb8df63ee440800000000000000
+      internalID: 4966967901638514034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy_hands_cutlery_11
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 257
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27e848726e10ade20800000000000000
+      internalID: 3376012958684712562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy_hands_cutlery_12
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 247
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1aae7fabee5587d20800000000000000
+      internalID: 3276463212739422881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy_hands_cutlery_13
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 238
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6123d705f22c03b0800000000000000
+      internalID: -5545018605406314130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy_hands_cutlery_14
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 237
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df1da3dfc5ad49e70800000000000000
+      internalID: 9121155238252433917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy_hands_cutlery_15
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 226
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d12c352f2260957d0800000000000000
+      internalID: -2929303335463566819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy_hands_cutlery_16
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 0
+        width: 139
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1214ad506bb7cc6f0800000000000000
+      internalID: -663019023417851615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      candy_hands_cutlery_0: -4918692573818924380
+      candy_hands_cutlery_1: -8735177982056581188
+      candy_hands_cutlery_10: 4966967901638514034
+      candy_hands_cutlery_11: 3376012958684712562
+      candy_hands_cutlery_12: 3276463212739422881
+      candy_hands_cutlery_13: -5545018605406314130
+      candy_hands_cutlery_14: 9121155238252433917
+      candy_hands_cutlery_15: -2929303335463566819
+      candy_hands_cutlery_16: -663019023417851615
+      candy_hands_cutlery_2: 4597886680671272645
+      candy_hands_cutlery_3: -6348460987194431114
+      candy_hands_cutlery_4: -850354283807584999
+      candy_hands_cutlery_5: 3966139952793526252
+      candy_hands_cutlery_6: 214880430889273165
+      candy_hands_cutlery_7: -4839455547129986172
+      candy_hands_cutlery_8: -2554289558195582141
+      candy_hands_cutlery_9: -4472448913114435961
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
