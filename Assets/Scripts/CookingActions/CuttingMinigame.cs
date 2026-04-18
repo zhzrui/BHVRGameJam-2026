@@ -1,37 +1,35 @@
 using UnityEngine;
 using UnityEngine.UI;
 using UnityEngine.EventSystems;
-using System;
 using System.Collections.Generic;
 
-public class CuttingMinigame : MonoBehaviour, IPointerDownHandler, IDragHandler, IPointerUpHandler
+public class CuttingMinigame : CookingMinigameBase, IPointerDownHandler, IDragHandler, IPointerUpHandler
 {
     //private void Start() => StartMinigame();
 
     [Header("Ingredient")]
     [SerializeField] private Texture2D ingredientTexture;
-    [SerializeField] private RectTransform ingredientContainer; // fixed rect representing the full ingredient bounds
+    [SerializeField] private RectTransform ingredientContainer;
 
     [Header("Cut Settings")]
-    [SerializeField] private float[] cutPositions = { 0.33f, 0.66f }; // normalized X positions (0 = left edge, 1 = right edge)
-    [SerializeField] private float cutLineTolerance = 20f;             // pixels either side of the line that accept input
-    [SerializeField] private float requiredCutDistance = 80f;          // vertical pixels to drag to complete a cut
+    [SerializeField] private float[] cutPositions = { 0.33f, 0.66f };
+    [SerializeField] private float cutLineTolerance = 20f;
+    [SerializeField] private float requiredCutDistance = 80f;
 
     [Header("Visuals")]
-    [SerializeField] private RectTransform cutLineIndicator;  // thin Image child of ingredientContainer
-    [SerializeField] private float sliceSeparation = 8f;     // pixels each completed slice drifts left
-    [SerializeField] private GameObject minigamePanel;
+    [SerializeField] private RectTransform cutLineIndicator;
+    [SerializeField] private float sliceSeparation = 8f;
 
-    public event Action OnSuccess;
+    [SerializeField] private string objectiveKey = "cooking";
 
     private int currentCutIndex;
     private bool isCutting;
     private float cuttingProgress;
-    private float currentRightStart; // normalized X where the still-uncut portion begins
+    private float currentRightStart;
     private RawImage mainDisplay;
     private List<RawImage> completedSlices = new();
 
-    public void StartMinigame()
+    public override void StartMinigame()
     {
         currentCutIndex = 0;
         currentRightStart = 0f;
@@ -92,7 +90,6 @@ public class CuttingMinigame : MonoBehaviour, IPointerDownHandler, IDragHandler,
         float cutX = cutPositions[currentCutIndex];
         int sliceNumber = completedSlices.Count + 1;
 
-        // Freeze the left portion as a separated slice that drifts left
         RawImage slice = new GameObject($"Slice_{sliceNumber}").AddComponent<RawImage>();
         slice.transform.SetParent(ingredientContainer, false);
         slice.texture = ingredientTexture;
@@ -100,14 +97,12 @@ public class CuttingMinigame : MonoBehaviour, IPointerDownHandler, IDragHandler,
         SetAnchoredSlice(slice.rectTransform, currentRightStart, cutX, 0f);
         completedSlices.Add(slice);
 
-        // Shift all slices (including the new one) one step further left
         for (int i = 0; i < completedSlices.Count; i++)
             SetAnchoredSlice(completedSlices[i].rectTransform,
                 completedSlices[i].uvRect.x,
                 completedSlices[i].uvRect.x + completedSlices[i].uvRect.width,
                 -sliceSeparation * (completedSlices.Count - i));
 
-        // Shift main display to start at the new cut
         currentRightStart = cutX;
         mainDisplay.uvRect = new Rect(cutX, 0, 1f - cutX, 1);
         SetAnchoredSlice(mainDisplay.rectTransform, cutX, 1f, 0f);
@@ -120,7 +115,6 @@ public class CuttingMinigame : MonoBehaviour, IPointerDownHandler, IDragHandler,
             RefreshCutLine();
     }
 
-    // Places a RectTransform as a horizontal band between fromNorm and toNorm, offset by xPixels
     private void SetAnchoredSlice(RectTransform rt, float fromNorm, float toNorm, float xPixels)
     {
         rt.anchorMin = new Vector2(fromNorm, 0f);
@@ -150,7 +144,7 @@ public class CuttingMinigame : MonoBehaviour, IPointerDownHandler, IDragHandler,
         float cutX = cutPositions[currentCutIndex];
         cutLineIndicator.anchorMin = new Vector2(cutX, 0f);
         cutLineIndicator.anchorMax = new Vector2(cutX, 1f);
-        cutLineIndicator.sizeDelta = new Vector2(4f, 0f); // 4px wide dashed line
+        cutLineIndicator.sizeDelta = new Vector2(4f, 0f);
         cutLineIndicator.anchoredPosition = Vector2.zero;
         cutLineIndicator.SetAsLastSibling();
         cutLineIndicator.gameObject.SetActive(true);
@@ -159,6 +153,7 @@ public class CuttingMinigame : MonoBehaviour, IPointerDownHandler, IDragHandler,
     private void Complete()
     {
         cutLineIndicator?.gameObject.SetActive(false);
-        OnSuccess?.Invoke();
+        ObjectiveManager.Instance?.CompleteObjective(objectiveKey);
+        RaiseSuccess();
     }
 }
