@@ -51,6 +51,7 @@ public class TimingMinigame : CookingMinigameBase
         bool inGreen = arrowPosition >= greenMin && arrowPosition <= greenMax;
 
         isActive = false;
+        minigamePanel.SetActive(false);
 
         if (inGreen)
         {
