@@ -325,8 +325,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0.98, y: 1}
-  m_AnchoredPosition: {x: 5.5, y: 0}
-  m_SizeDelta: {x: -25.256012, y: -33.409}
+  m_AnchoredPosition: {x: 17, y: 0}
+  m_SizeDelta: {x: -1.5079956, y: -25.516006}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1112481456
 MonoBehaviour:
@@ -347,16 +347,15 @@ MonoBehaviour:
     flagToSet: 
     pauseForObjective: 0
     objectiveId: 
-  - text: "I\u2019m your super-duper-awesome-cutie host, Candy\u2606!"
+  - text: "I\u2019m your cutieful host, Candy\u2606."
     flagToSet: 
     pauseForObjective: 0
     objectiveId: 
-  - text: "Today, I\u2019ll teach you how to make scrambled eggs, just like how my
-      mother made it."
+  - text: Today, we will be making spicy stir-fried cartilage.
     flagToSet: 
     pauseForObjective: 0
     objectiveId: 
-  - text: "It\u2019s warm and comforting. Perfect for a quick meal!"
+  - text: "It\u2019s a dish that is very amusing to eat: crunchy and bouncy."
     flagToSet: 
     pauseForObjective: 0
     objectiveId: 
@@ -364,32 +363,27 @@ MonoBehaviour:
     flagToSet: 
     pauseForObjective: 0
     objectiveId: 
-  - text: "First, make sure you have your CookingCandyBox\u2606. It contains all
-      of the ingredients you\u2019ll need for today\u2019s recipe."
+  - text: "Get the vegetables from your CookingCandyBox\u2606. Chop them into medium-thin
+      slices and add them to your bowl."
     flagToSet: 
     pauseForObjective: 0
     objectiveId: 
-  - text: Crack the eggs and pour the milk into the bowl. Then, add some salt and
-      pepper to taste.
+  - text: "Now, add the cartilage into the bowl too! It might look a little strange
+      for people who have never tried it before, but it\u2019s veeeeery yummy!"
     flagToSet: 
     pauseForObjective: 0
     objectiveId: 
-  - text: Beat the mixture until thoroughly combined.
+  - text: "Mix, mix, mix~ And now to the pan we go! Stir it until it\u2019s thoroughly
+      cooked, then place it into a plate."
     flagToSet: 
     pauseForObjective: 0
     objectiveId: 
-  - text: While you're waiting for the pan to heat up, butter it properly, then add
-      the egg mixture. Now, scramble it!
+  - text: Now you have yourself a delicious, chewy stir fry with unconventional ingredients!
     flagToSet: 
     pauseForObjective: 0
     objectiveId: 
-  - text: "And there we have it. Fluffy scrambled egg that Mama Candy\u2606 used
-      to feed me."
-    flagToSet: 
-    pauseForObjective: 0
-    objectiveId: 
-  - text: Have a taste! And remember, whenever you eat my cooking, I become a part
-      of you.
+  - text: "Try it out! Don\u2019t forget: whenever you eat my cooking, I become a
+      part of you!"
     flagToSet: 
     pauseForObjective: 0
     objectiveId: 
@@ -538,8 +532,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1.333333, y: 1}
-  m_AnchoredPosition: {x: -88, y: 0}
-  m_SizeDelta: {x: 0, y: 0}
+  m_AnchoredPosition: {x: -84, y: 0}
+  m_SizeDelta: {x: 8, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1552095397
 MonoBehaviour:
@@ -717,8 +711,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0.98, y: 1}
-  m_AnchoredPosition: {x: 7.03, y: -385}
-  m_SizeDelta: {x: -22.911, y: -874.907}
+  m_AnchoredPosition: {x: 5.320984, y: -385}
+  m_SizeDelta: {x: -8.328003, y: -902.907}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &2021739497
 MonoBehaviour:
