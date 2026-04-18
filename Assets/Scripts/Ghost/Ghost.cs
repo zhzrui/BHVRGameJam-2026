@@ -11,6 +11,8 @@ public class Ghost : MonoBehaviour, IPointerDownHandler, IPointerUpHandler, IPoi
     private float explodeTimeLeft;
     private bool clicked = false;
     private Renderer rend;
+    [SerializeField] new private ParticleSystem particleSystem;
+    [SerializeField] private ParticleSystem explodeParticles;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Awake()
     {
@@ -29,7 +31,6 @@ public class Ghost : MonoBehaviour, IPointerDownHandler, IPointerUpHandler, IPoi
             if (timeLeft <= 0.0f)
             {
                 // explode. only occurs once because afterwards this is inaccessible.
-                // TODO: need to update ghost array or counter or something here
                 StartCoroutine(Explode());
             }
         }
@@ -39,6 +40,9 @@ public class Ghost : MonoBehaviour, IPointerDownHandler, IPointerUpHandler, IPoi
     {
         rend.material.SetInt("_isExploding", 1);
         rend.material.SetInt("_isClicking", 0);
+        particleSystem.Stop();
+        explodeParticles.Stop();
+        // TODO: need to update ghost array or counter or something here
         while (explodeTimeLeft > 0)
         {
             yield return new WaitForEndOfFrame();
@@ -53,6 +57,7 @@ public class Ghost : MonoBehaviour, IPointerDownHandler, IPointerUpHandler, IPoi
     {
         clicked = true;
         Debug.Log("clicked");
+        explodeParticles.Play();
     }
 
     public void OnPointerUp(PointerEventData eventData)
@@ -60,6 +65,7 @@ public class Ghost : MonoBehaviour, IPointerDownHandler, IPointerUpHandler, IPoi
         clicked = false;
         timeLeft = clickTime;
         Debug.Log("unclicked");
+        explodeParticles.Stop();
     }
 
     public void OnPointerExit(PointerEventData eventData)
@@ -69,6 +75,7 @@ public class Ghost : MonoBehaviour, IPointerDownHandler, IPointerUpHandler, IPoi
             clicked = false;
             timeLeft = clickTime;
             Debug.Log("unclicked");
+            explodeParticles.Stop();
         }
     }
 }
