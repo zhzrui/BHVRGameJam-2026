@@ -3,7 +3,8 @@ using UnityEngine.EventSystems;
 
 public class DraggableIngredient : MonoBehaviour, IBeginDragHandler, IDragHandler, IEndDragHandler
 {
-    [SerializeField] public int orderIndex; // position in the required sequence (0-based)
+    [SerializeField] public int orderIndex;    // position in the required sequence (0-based)
+    [SerializeField] public Sprite bowlSprite; // image to spawn in the bowl on correct drop
 
     private RectTransform rectTransform;
     private CanvasGroup canvasGroup;

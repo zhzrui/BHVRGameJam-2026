@@ -1,4 +1,5 @@
 using UnityEngine;
+using UnityEngine.UI;
 using UnityEngine.EventSystems;
 using System.Collections.Generic;
 
@@ -35,6 +36,7 @@ public class AssemblingMinigame : CookingMinigameBase, IDropHandler
         if (dropped.orderIndex == currentStep)
         {
             dropped.gameObject.SetActive(false);
+            SpawnInBowl(dropped);
             currentStep++;
 
             if (currentStep >= ingredientsInOrder.Count)
@@ -45,6 +47,17 @@ public class AssemblingMinigame : CookingMinigameBase, IDropHandler
             Debug.Log($"[Assembling] Wrong order — snapping back");
             OnWrongOrder?.Invoke();
         }
+    }
+
+    private void SpawnInBowl(DraggableIngredient dropped)
+    {
+        if (bowlSlotParent == null || dropped.bowlSprite == null) return;
+
+        GameObject icon = new GameObject(dropped.bowlSprite.name);
+        icon.transform.SetParent(bowlSlotParent, false);
+        Image img = icon.AddComponent<Image>();
+        img.sprite = dropped.bowlSprite;
+        img.SetNativeSize();
     }
 
     private void Complete()
