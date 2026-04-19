@@ -11,7 +11,9 @@ public class ScreenSprite : MonoBehaviour
     static Dictionary<string, string[]> shortcuts = new Dictionary<string, string[]>() {
         ["stare"] = new string[] {"hands hide", "mouth kind", "eyes normal"},
         ["hungry"] = new string[] {"hands cutlery", "mouth drool", "eyes squint"},
-        ["speak"] = new string[] {"hands elegant", "mouth speak", "eyes normal"},
+        ["speak"] = new string[] {"mouth speak", "eyes normal"},
+        ["annoyed"] = new string[] {"hands clasped", "mouth pout", "eyes normal"},
+        ["outtro"] = new string[] {"hands hide", "mouth tongueout", "eyes squint"},
     };
 
     void SetVisible(bool visible)
