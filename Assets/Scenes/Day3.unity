@@ -3863,6 +3863,7 @@ MonoBehaviour:
     spriteUpdates:
     - shortcut speak
     - hands hide
+    - hair short
     pauseForObjective: 0
     objectiveId: 
   - text: "I\u2019m Candy\u2606."
@@ -3876,6 +3877,7 @@ MonoBehaviour:
     spriteUpdates:
     - shortcut hungry
     - eyes shut
+    - hands hide
     pauseForObjective: 0
     objectiveId: 
   - text: "Take a look at your In your CookingCandyBox\u2606. You can put some mascarpone
@@ -3915,6 +3917,7 @@ MonoBehaviour:
     flagToSet: 
     spriteUpdates:
     - shortcut outtro
+    - hands hide
     pauseForObjective: 0
     objectiveId: 
   - text: "I hope you all enjoy this nice dessert. Whenever you eat my cooking, I
