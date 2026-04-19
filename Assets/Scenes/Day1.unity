@@ -1721,7 +1721,7 @@ MonoBehaviour:
   - text: "It\u2019s warm and comforting. Perfect for a quick meal!"
     flagToSet: 
     spriteUpdates:
-    - speak
+    - shortcut speak
     - eyes shut
     - hands hide
     pauseForObjective: 0
