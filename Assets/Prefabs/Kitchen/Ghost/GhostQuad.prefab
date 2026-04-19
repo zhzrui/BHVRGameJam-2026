@@ -9976,7 +9976,7 @@ MonoBehaviour:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
-  minFearTime: 5
+  minFearTime: 0.5
   maxFearTime: 40
   particleSystem: {fileID: 2461442548598688483}
   explodeParticles: {fileID: 4300117937621649211}

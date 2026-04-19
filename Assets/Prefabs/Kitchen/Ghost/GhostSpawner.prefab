@@ -287,7 +287,7 @@ MonoBehaviour:
     m_PostInfinity: 2
     m_RotationOrder: 4
   vignetteMin: 0
-  vignetteMax: 0.5
+  vignetteMax: 2
   abberationCurve:
     serializedVersion: 2
     m_Curve:
@@ -313,4 +313,4 @@ MonoBehaviour:
     m_PostInfinity: 2
     m_RotationOrder: 4
   abberationMin: 0
-  abberationMax: 1
+  abberationMax: 4
