@@ -2271,7 +2271,10 @@ MonoBehaviour:
     objectiveId: 
   - text: "It\u2019s warm and comforting. Perfect for a quick meal!"
     flagToSet: 
-    spriteUpdates: []
+    spriteUpdates:
+    - shortcut speak
+    - eyes shut
+    - hands hide
     pauseForObjective: 0
     objectiveId: 
   - text: "Let\u2019s get cooking!"
