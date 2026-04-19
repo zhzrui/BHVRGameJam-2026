@@ -1,34 +1,25 @@
 fileFormatVersion: 2
-guid: 041c2ed90322447d99b5c17c9718c557
+guid: 9e33bb6fa88eb4bccae44dda5963f08b
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 3120482627335962618
-    second: 3-hair_0
+      213: 4724553697317958491
+    second: 3-blood2_0
   - first:
-      213: -3545686340985215497
-    second: 3-hair_1
+      213: 4732520445792734951
+    second: 3-blood2_1
   - first:
-      213: -159825972751327964
-    second: 3-hair_2
+      213: 6133717676414372925
+    second: 3-blood2_2
   - first:
-      213: -8534720974905358277
-    second: 3-hair_3
+      213: 3220112314047426710
+    second: 3-blood2_3
   - first:
-      213: -6460318290475945740
-    second: 3-hair_4
+      213: -7193013114980506455
+    second: 3-blood2_4
   - first:
-      213: 6750972395723922012
-    second: 3-hair_5
-  - first:
-      213: -2783864443597896388
-    second: 3-hair_6
-  - first:
-      213: 3560330614995472789
-    second: 3-hair_7
-  - first:
-      213: 8738984118466233016
-    second: 3-hair_8
+      213: -3163338582260196362
+    second: 3-blood2_5
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -137,13 +128,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: 3-hair_0
+      name: 3-blood2_0
       rect:
         serializedVersion: 2
-        x: 557
-        y: 451
-        width: 1010
-        height: 353
+        x: 208
+        y: 257
+        width: 1727
+        height: 1778
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -152,20 +143,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: aff3322aa6e2e4b20800000000000000
-      internalID: 3120482627335962618
+      spriteID: b5335e25e8cf09140800000000000000
+      internalID: 4724553697317958491
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 3-hair_1
+      name: 3-blood2_1
       rect:
         serializedVersion: 2
-        x: 643
-        y: 647
-        width: 466
-        height: 157
+        x: 947
+        y: 2022
+        width: 17
+        height: 13
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -174,20 +165,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 7f52f980f013bcec0800000000000000
-      internalID: -3545686340985215497
+      spriteID: 7eecfbf754a4da140800000000000000
+      internalID: 4732520445792734951
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 3-hair_2
+      name: 3-blood2_2
       rect:
         serializedVersion: 2
-        x: 1090
-        y: 788
-        width: 22
-        height: 16
+        x: 987
+        y: 2024
+        width: 21
+        height: 11
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -196,20 +187,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 42d9644ef1f28cdf0800000000000000
-      internalID: -159825972751327964
+      spriteID: d3c86379ab75f1550800000000000000
+      internalID: 6133717676414372925
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 3-hair_3
+      name: 3-blood2_3
       rect:
         serializedVersion: 2
-        x: 1160
-        y: 785
-        width: 15
-        height: 12
+        x: 1007
+        y: 2024
+        width: 21
+        height: 13
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -218,18 +209,40 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b38c0b10e749e8980800000000000000
-      internalID: -8534720974905358277
+      spriteID: 69078a7b61320bc20800000000000000
+      internalID: 3220112314047426710
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 3-hair_4
+      name: 3-blood2_4
       rect:
         serializedVersion: 2
-        x: 1112
-        y: 776
+        x: 1026
+        y: 2022
+        width: 36
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a46cd0aea84d2c90800000000000000
+      internalID: -7193013114980506455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3-blood2_5
+      rect:
+        serializedVersion: 2
+        x: 1317
+        y: 263
         width: 7
         height: 6
       alignment: 0
@@ -240,96 +253,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 4f0f8383eb65856a0800000000000000
-      internalID: -6460318290475945740
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 3-hair_5
-      rect:
-        serializedVersion: 2
-        x: 1196
-        y: 764
-        width: 6
-        height: 12
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: c5a979f20a540bd50800000000000000
-      internalID: 6750972395723922012
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 3-hair_6
-      rect:
-        serializedVersion: 2
-        x: 1116
-        y: 767
-        width: 6
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: c35c180c90abd59d0800000000000000
-      internalID: -2783864443597896388
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 3-hair_7
-      rect:
-        serializedVersion: 2
-        x: 1151
-        y: 767
-        width: 6
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 591d0c5b4d5d86130800000000000000
-      internalID: 3560330614995472789
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 3-hair_8
-      rect:
-        serializedVersion: 2
-        x: 643
-        y: 274
-        width: 9
-        height: 9
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 8b2c5fe21cb174970800000000000000
-      internalID: 8738984118466233016
+      spriteID: 6fbd71cc1509914d0800000000000000
+      internalID: -3163338582260196362
       vertices: []
       indices: 
       edges: []
@@ -348,15 +273,12 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      3-hair_0: 3120482627335962618
-      3-hair_1: -3545686340985215497
-      3-hair_2: -159825972751327964
-      3-hair_3: -8534720974905358277
-      3-hair_4: -6460318290475945740
-      3-hair_5: 6750972395723922012
-      3-hair_6: -2783864443597896388
-      3-hair_7: 3560330614995472789
-      3-hair_8: 8738984118466233016
+      3-blood2_0: 4724553697317958491
+      3-blood2_1: 4732520445792734951
+      3-blood2_2: 6133717676414372925
+      3-blood2_3: 3220112314047426710
+      3-blood2_4: -7193013114980506455
+      3-blood2_5: -3163338582260196362
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
