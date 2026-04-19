@@ -262,18 +262,19 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::Day5Cycle
   displayImage: {fileID: 350832393}
   staticImages:
-  - {fileID: -7496201852247515732, guid: 969795cd28a934dc98a62c1661f3d6c7, type: 3}
-  - {fileID: -3335594083524640538, guid: 29a03a3ee6152074c8969306c632a05a, type: 3}
-  - {fileID: -6636823625981438756, guid: 6218960ac5d6f3d42a51d7f070fa9c7e, type: 3}
-  - {fileID: -6848031806446540474, guid: d811777e8c21fc04d971477bb940a0d7, type: 3}
-  - {fileID: -7496201852247515732, guid: 969795cd28a934dc98a62c1661f3d6c7, type: 3}
+  - {fileID: 21300000, guid: 3a1f5319b09db4b6b93d4fd07d1f6e63, type: 3}
+  - {fileID: 21300000, guid: 98be07e7c64934666897f7249e0aaaa8, type: 3}
+  - {fileID: 21300000, guid: 462c030f3bdf3448b9ecff2a37b81b9d, type: 3}
+  - {fileID: 21300000, guid: 4847f3579dc74440798bfca92b86d924, type: 3}
+  - {fileID: 21300000, guid: 773fcd6fa691d4ba0bdcd6e0d5b26c78, type: 3}
+  - {fileID: 21300000, guid: cc207de0a2aac4a5dae121386e4760bc, type: 3}
   ePrompt: {fileID: 1115876301}
   finalPrompt: {fileID: 1026677132}
   promptParent: {fileID: 2134091405}
   fadeCanvasGroup: {fileID: 1651674606}
   fadeDuration: 1.5
   waitBeforeQuit: 1
-  spriteFadeDuration: 0.15
+  spriteFadeDuration: 0.3
 --- !u!114 &350832393
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -708,6 +709,14 @@ PrefabInstance:
     - target: {fileID: 6707645993995951799, guid: a8d9969a577229048b6b5eecdad69779, type: 3}
       propertyPath: m_Name
       value: EkeyOnly
+      objectReference: {fileID: 0}
+    - target: {fileID: 8479490729174310202, guid: a8d9969a577229048b6b5eecdad69779, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 450.7229
+      objectReference: {fileID: 0}
+    - target: {fileID: 8479490729174310202, guid: a8d9969a577229048b6b5eecdad69779, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -0.1698
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
