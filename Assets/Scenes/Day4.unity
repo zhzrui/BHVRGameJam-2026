@@ -1842,7 +1842,7 @@ MonoBehaviour:
     - eyes shut
     - hands hide
     - mouth kind
-    pauseForObjective: 0
+    pauseForObjective: 1
     objectiveId: 
     showFoodDisplay: 0
   - text: Cut the vegetables into pieces. I like to make mine into little finger
@@ -1957,6 +1957,21 @@ MonoBehaviour:
   onDialogueComplete:
     m_PersistentCalls:
       m_Calls: []
+  onPausedForObjective:
+    m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 1924557679}
+        m_TargetAssemblyTypeName: Day1CookingSequence, Assembly-CSharp
+        m_MethodName: StartSequence
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
   scenePrompt: {fileID: 857044500}
   eKeyPrompt: {fileID: 857044500}
   eKeyDelay: 0.8
