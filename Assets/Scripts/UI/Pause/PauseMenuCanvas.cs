@@ -2,8 +2,8 @@ using UnityEngine;
 using UnityEngine.InputSystem;
 using DG.Tweening;
 using UnityEngine.SceneManagement;
-using System.Collections;
 using UnityEngine.Rendering;
+using UnityEngine.UI;
 
 public class PauseMenu : MonoBehaviour
 {
@@ -13,6 +13,8 @@ public class PauseMenu : MonoBehaviour
 
     InputAction cancel;
     [SerializeField] Volume volume;
+    [SerializeField] Slider musicSlider;
+    [SerializeField] Slider sfxSlider;
     bool menuShown = false;
 
     void Awake()
@@ -20,6 +22,7 @@ public class PauseMenu : MonoBehaviour
         cancel = InputSystem.actions.FindAction("Cancel");
         cancel.performed += Cancel;
         canvasGroup = GetComponent<CanvasGroup>();
+        UpdateSliders();
     }
 
     void Cancel(InputAction.CallbackContext ctx)
@@ -66,21 +69,51 @@ public class PauseMenu : MonoBehaviour
 
     public void Restart()
     {
+        DOTween.Complete(canvasGroup);
         cancel.performed -= Cancel;
-        DOTween.Kill(canvasGroup);
+        Time.timeScale = 1f;
         SceneManager.LoadScene(SceneManager.GetActiveScene().name);
     }
 
     public void Menu()
     {
+        DOTween.Complete(canvasGroup);
         cancel.performed -= Cancel;
-        DOTween.Kill(canvasGroup);
+        Time.timeScale = 1f;
         SceneManager.LoadScene("MainMenu");
     }
     
     void OnDestroy()
     {
-        DOTween.Kill(canvasGroup);
+        DOTween.Complete(canvasGroup);
         cancel.performed -= Cancel;
+        Time.timeScale = 1f;
+    }
+
+    public void OnMusicSliderChanged()
+    {
+        // update playerprefs
+        PlayerPrefs.SetFloat("MusicVolume",musicSlider.value);
+        PlayerPrefs.Save();
+        MusicManager.Instance?.ChangedVolume();
+    }
+
+    public void OnSFXSliderChanged()
+    {
+        // update playerprefs
+        PlayerPrefs.SetFloat("SFXVolume",sfxSlider.value);
+        PlayerPrefs.Save();
+    }
+
+    public void UpdateSliders()
+    {
+        if (PlayerPrefs.HasKey("MusicVolume"))
+        {
+            musicSlider.SetValueWithoutNotify(PlayerPrefs.GetFloat("MusicVolume"));
+        }
+        if (PlayerPrefs.HasKey("SFXVolume"))
+        {
+            sfxSlider.SetValueWithoutNotify(PlayerPrefs.GetFloat("SFXVolume"));
+        }
     }
 }

@@ -19,6 +19,7 @@ public class MusicManager : MonoBehaviour
     [Header("Audio")]
     [SerializeField] private List<AudioSource> musicSources;
     private int playingMusicSourceIndex;
+    private float clipVolume = 1.0f;
 
     [Header("Per-scene tracks")]
     [SerializeField] private SceneTrack[] tracks;
@@ -141,9 +142,27 @@ public class MusicManager : MonoBehaviour
         if (playingMusicSourceIndex >= musicSources.Count) playingMusicSourceIndex = 0;
     }
 
+    private float GetPlayerVolume()
+    {
+        if (PlayerPrefs.HasKey("MusicVolume"))
+        {
+            return PlayerPrefs.GetFloat("MusicVolume");
+        }
+        else return 1.0f;
+    }
+
+    public void ChangedVolume()
+    {
+        AudioSource musicSource = GetActiveSource();
+        musicSource.volume = clipVolume * GetPlayerVolume();
+    }
+
 
     public void Play(AudioClip clip, float volume = 1f)
     {
+        clipVolume = volume;
+        volume *= GetPlayerVolume();
+
         AudioSource musicSource = GetActiveSource();
         if (clip == null) return;
         if (musicSource.clip == clip && musicSource.isPlaying)
