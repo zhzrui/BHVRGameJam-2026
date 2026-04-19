@@ -1,28 +1,16 @@
 fileFormatVersion: 2
-guid: 99fad308815614246a06191dd0b27b74
+guid: d5192221e3a274b55aba8b4ac330d1ed
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 1839885258118984987
-    second: 1-pepper_0
+      213: -3896406727181130952
+    second: 1-salt_0
   - first:
-      213: 6962327944257716983
-    second: 1-pepper_1
+      213: -8980965806559567837
+    second: 1-salt_1
   - first:
-      213: 7647028551089623520
-    second: 1-pepper_2
-  - first:
-      213: 8822252955959644374
-    second: 1-pepper_3
-  - first:
-      213: -7364642868677830996
-    second: 1-pepper_4
-  - first:
-      213: -6095208284197487784
-    second: 1-pepper_5
-  - first:
-      213: 6256169543647851981
-    second: 1-pepper_6
+      213: -3593016458568552748
+    second: 1-salt_2
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -114,17 +102,30 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: 1-pepper_0
+      name: 1-salt_0
       rect:
         serializedVersion: 2
-        x: 130
-        y: 255
-        width: 2018
-        height: 2315
+        x: 517
+        y: 442
+        width: 208
+        height: 206
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -133,19 +134,41 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b15f8a5e4e5988910800000000000000
-      internalID: 1839885258118984987
+      spriteID: 8332de5c9be2de9c0800000000000000
+      internalID: -3896406727181130952
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 1-pepper_1
+      name: 1-salt_1
       rect:
         serializedVersion: 2
-        x: 2149
-        y: 1851
-        width: 10
+        x: 568
+        y: 424
+        width: 25
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3206610ae233d5380800000000000000
+      internalID: -8980965806559567837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-salt_2
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 427
+        width: 13
         height: 6
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -155,118 +178,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 7f2c14790682f9060800000000000000
-      internalID: 6962327944257716983
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 1-pepper_2
-      rect:
-        serializedVersion: 2
-        x: 2159
-        y: 1844
-        width: 6
-        height: 12
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 0e197f693f3bf1a60800000000000000
-      internalID: 7647028551089623520
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 1-pepper_3
-      rect:
-        serializedVersion: 2
-        x: 2162
-        y: 1846
-        width: 26
-        height: 15
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 6d05d963250fe6a70800000000000000
-      internalID: 8822252955959644374
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 1-pepper_4
-      rect:
-        serializedVersion: 2
-        x: 2143
-        y: 1588
-        width: 31
-        height: 55
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: ca618da94588bc990800000000000000
-      internalID: -7364642868677830996
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 1-pepper_5
-      rect:
-        serializedVersion: 2
-        x: 46
-        y: 1512
-        width: 8
-        height: 14
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 85bf36cfb58796ba0800000000000000
-      internalID: -6095208284197487784
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 1-pepper_6
-      rect:
-        serializedVersion: 2
-        x: 43
-        y: 1462
-        width: 14
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: dc57fb7ad0162d650800000000000000
-      internalID: 6256169543647851981
+      spriteID: 4dea3ea419a032ec0800000000000000
+      internalID: -3593016458568552748
       vertices: []
       indices: 
       edges: []
@@ -285,13 +198,9 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      1-pepper_0: 1839885258118984987
-      1-pepper_1: 6962327944257716983
-      1-pepper_2: 7647028551089623520
-      1-pepper_3: 8822252955959644374
-      1-pepper_4: -7364642868677830996
-      1-pepper_5: -6095208284197487784
-      1-pepper_6: 6256169543647851981
+      1-salt_0: -3896406727181130952
+      1-salt_1: -8980965806559567837
+      1-salt_2: -3593016458568552748
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

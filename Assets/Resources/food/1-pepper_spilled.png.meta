@@ -1,0 +1,4446 @@
+fileFormatVersion: 2
+guid: 2d2ee6868ebe441d3bd8ea7be2a6a231
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7986072831907675702
+    second: 1-pepper_spilled_0
+  - first:
+      213: -4928655929532245378
+    second: 1-pepper_spilled_1
+  - first:
+      213: 7443129474287577070
+    second: 1-pepper_spilled_2
+  - first:
+      213: -3387795257059718623
+    second: 1-pepper_spilled_3
+  - first:
+      213: 6749329469567152611
+    second: 1-pepper_spilled_4
+  - first:
+      213: -5845712504318835667
+    second: 1-pepper_spilled_5
+  - first:
+      213: -5709187049228869651
+    second: 1-pepper_spilled_6
+  - first:
+      213: 5050700805493164172
+    second: 1-pepper_spilled_7
+  - first:
+      213: -6466607704464534465
+    second: 1-pepper_spilled_8
+  - first:
+      213: -3278220984017463360
+    second: 1-pepper_spilled_9
+  - first:
+      213: 6010964666390286703
+    second: 1-pepper_spilled_10
+  - first:
+      213: -8342702102675037676
+    second: 1-pepper_spilled_11
+  - first:
+      213: 7859939018866438865
+    second: 1-pepper_spilled_12
+  - first:
+      213: -7825850567648803764
+    second: 1-pepper_spilled_13
+  - first:
+      213: -1301539563029853527
+    second: 1-pepper_spilled_14
+  - first:
+      213: 6811834380305611593
+    second: 1-pepper_spilled_15
+  - first:
+      213: -6544939035878216029
+    second: 1-pepper_spilled_16
+  - first:
+      213: -5999685438790514410
+    second: 1-pepper_spilled_17
+  - first:
+      213: -612831431835203594
+    second: 1-pepper_spilled_18
+  - first:
+      213: -7630694586777887755
+    second: 1-pepper_spilled_19
+  - first:
+      213: 1818446537589988219
+    second: 1-pepper_spilled_20
+  - first:
+      213: -8102567114822549556
+    second: 1-pepper_spilled_21
+  - first:
+      213: 5983847027085915938
+    second: 1-pepper_spilled_22
+  - first:
+      213: -1336211348608097972
+    second: 1-pepper_spilled_23
+  - first:
+      213: -109189162096682691
+    second: 1-pepper_spilled_24
+  - first:
+      213: 2323320986738576201
+    second: 1-pepper_spilled_25
+  - first:
+      213: 8622985761781408943
+    second: 1-pepper_spilled_26
+  - first:
+      213: -4813998123367154849
+    second: 1-pepper_spilled_27
+  - first:
+      213: -4416555125771595546
+    second: 1-pepper_spilled_28
+  - first:
+      213: -7039858355601393657
+    second: 1-pepper_spilled_29
+  - first:
+      213: 6538010010827075991
+    second: 1-pepper_spilled_30
+  - first:
+      213: 7471473313984200141
+    second: 1-pepper_spilled_31
+  - first:
+      213: -2462360949887664184
+    second: 1-pepper_spilled_32
+  - first:
+      213: 9145845419185123197
+    second: 1-pepper_spilled_33
+  - first:
+      213: 4005889869925927081
+    second: 1-pepper_spilled_34
+  - first:
+      213: 1807779851877835650
+    second: 1-pepper_spilled_35
+  - first:
+      213: -1494335070710611522
+    second: 1-pepper_spilled_36
+  - first:
+      213: 8710173551351044615
+    second: 1-pepper_spilled_37
+  - first:
+      213: 1342385055631320438
+    second: 1-pepper_spilled_38
+  - first:
+      213: 6536009184439116273
+    second: 1-pepper_spilled_39
+  - first:
+      213: -744350838400768910
+    second: 1-pepper_spilled_40
+  - first:
+      213: -189233049208113153
+    second: 1-pepper_spilled_41
+  - first:
+      213: 7294360228848360830
+    second: 1-pepper_spilled_42
+  - first:
+      213: 5008768198359113766
+    second: 1-pepper_spilled_43
+  - first:
+      213: -2486306758146888186
+    second: 1-pepper_spilled_44
+  - first:
+      213: -561277127651126096
+    second: 1-pepper_spilled_45
+  - first:
+      213: -4047978608863757344
+    second: 1-pepper_spilled_46
+  - first:
+      213: -3456248006637745953
+    second: 1-pepper_spilled_47
+  - first:
+      213: 8828475716815938867
+    second: 1-pepper_spilled_48
+  - first:
+      213: -1620209402703925682
+    second: 1-pepper_spilled_49
+  - first:
+      213: -2354524274143752137
+    second: 1-pepper_spilled_50
+  - first:
+      213: -8140929567229850296
+    second: 1-pepper_spilled_51
+  - first:
+      213: -4145803523721668741
+    second: 1-pepper_spilled_52
+  - first:
+      213: 1527666570696004340
+    second: 1-pepper_spilled_53
+  - first:
+      213: 4377738767838610089
+    second: 1-pepper_spilled_54
+  - first:
+      213: 3302285834877674297
+    second: 1-pepper_spilled_55
+  - first:
+      213: 7901385990774402348
+    second: 1-pepper_spilled_56
+  - first:
+      213: -8254243281116503475
+    second: 1-pepper_spilled_57
+  - first:
+      213: 4325014307554275842
+    second: 1-pepper_spilled_58
+  - first:
+      213: 6349823081680691399
+    second: 1-pepper_spilled_59
+  - first:
+      213: 6642408390993134001
+    second: 1-pepper_spilled_60
+  - first:
+      213: -2060260521881389225
+    second: 1-pepper_spilled_61
+  - first:
+      213: -8691137855218769089
+    second: 1-pepper_spilled_62
+  - first:
+      213: 5879959374625687254
+    second: 1-pepper_spilled_63
+  - first:
+      213: 2796783206107836856
+    second: 1-pepper_spilled_64
+  - first:
+      213: -4697690530524403608
+    second: 1-pepper_spilled_65
+  - first:
+      213: -7191197584384861835
+    second: 1-pepper_spilled_66
+  - first:
+      213: 5647974307057355044
+    second: 1-pepper_spilled_67
+  - first:
+      213: 8657518278259404811
+    second: 1-pepper_spilled_68
+  - first:
+      213: -7415624326913943247
+    second: 1-pepper_spilled_69
+  - first:
+      213: 7302174510538818664
+    second: 1-pepper_spilled_70
+  - first:
+      213: -2418727376740080740
+    second: 1-pepper_spilled_71
+  - first:
+      213: -8101104972448624374
+    second: 1-pepper_spilled_72
+  - first:
+      213: -416049714876191233
+    second: 1-pepper_spilled_73
+  - first:
+      213: -689407686817325606
+    second: 1-pepper_spilled_74
+  - first:
+      213: -6950418314110720036
+    second: 1-pepper_spilled_75
+  - first:
+      213: 6197178238128321538
+    second: 1-pepper_spilled_76
+  - first:
+      213: 3133793251582889608
+    second: 1-pepper_spilled_77
+  - first:
+      213: -1160758153954166994
+    second: 1-pepper_spilled_78
+  - first:
+      213: -684293327812680470
+    second: 1-pepper_spilled_79
+  - first:
+      213: -4545718740336202072
+    second: 1-pepper_spilled_80
+  - first:
+      213: -331275654328741267
+    second: 1-pepper_spilled_81
+  - first:
+      213: 3026764000180435541
+    second: 1-pepper_spilled_82
+  - first:
+      213: -8556369130298491967
+    second: 1-pepper_spilled_83
+  - first:
+      213: -4698390634263044499
+    second: 1-pepper_spilled_84
+  - first:
+      213: 8404832267662283251
+    second: 1-pepper_spilled_85
+  - first:
+      213: -5720113579341791268
+    second: 1-pepper_spilled_86
+  - first:
+      213: 5949332237544996463
+    second: 1-pepper_spilled_87
+  - first:
+      213: -2389042997666470298
+    second: 1-pepper_spilled_88
+  - first:
+      213: -3438869822054442802
+    second: 1-pepper_spilled_89
+  - first:
+      213: -1972638825642160412
+    second: 1-pepper_spilled_90
+  - first:
+      213: 8441850476605267570
+    second: 1-pepper_spilled_91
+  - first:
+      213: -405322628391370178
+    second: 1-pepper_spilled_92
+  - first:
+      213: -8437282271547675808
+    second: 1-pepper_spilled_93
+  - first:
+      213: 3839132987227874237
+    second: 1-pepper_spilled_94
+  - first:
+      213: 4956205750823106336
+    second: 1-pepper_spilled_95
+  - first:
+      213: -7189850866950583057
+    second: 1-pepper_spilled_96
+  - first:
+      213: -1449951756059157217
+    second: 1-pepper_spilled_97
+  - first:
+      213: 414907023794453594
+    second: 1-pepper_spilled_98
+  - first:
+      213: 6887850453962602861
+    second: 1-pepper_spilled_99
+  - first:
+      213: -7321506633624135857
+    second: 1-pepper_spilled_100
+  - first:
+      213: 2908791116983776672
+    second: 1-pepper_spilled_101
+  - first:
+      213: 7355827848957731027
+    second: 1-pepper_spilled_102
+  - first:
+      213: -3144310008996886460
+    second: 1-pepper_spilled_103
+  - first:
+      213: -7504497612619689359
+    second: 1-pepper_spilled_104
+  - first:
+      213: 7249376688923381909
+    second: 1-pepper_spilled_105
+  - first:
+      213: -2656884304677549203
+    second: 1-pepper_spilled_106
+  - first:
+      213: 1900299448057402001
+    second: 1-pepper_spilled_107
+  - first:
+      213: -2752714052956982436
+    second: 1-pepper_spilled_108
+  - first:
+      213: 6490233502804345141
+    second: 1-pepper_spilled_109
+  - first:
+      213: -1628416726243553
+    second: 1-pepper_spilled_110
+  - first:
+      213: 6174221225626936946
+    second: 1-pepper_spilled_111
+  - first:
+      213: 218432048437145319
+    second: 1-pepper_spilled_112
+  - first:
+      213: 5065556221398001997
+    second: 1-pepper_spilled_113
+  - first:
+      213: -5222719835746679883
+    second: 1-pepper_spilled_114
+  - first:
+      213: -4829578658043925537
+    second: 1-pepper_spilled_115
+  - first:
+      213: 2426215368557905192
+    second: 1-pepper_spilled_116
+  - first:
+      213: 3327572055524542496
+    second: 1-pepper_spilled_117
+  - first:
+      213: 2827217115919729531
+    second: 1-pepper_spilled_118
+  - first:
+      213: 4457253825464305918
+    second: 1-pepper_spilled_119
+  - first:
+      213: -3239842000234069849
+    second: 1-pepper_spilled_120
+  - first:
+      213: 3882771418803779481
+    second: 1-pepper_spilled_121
+  - first:
+      213: -6939171748623472044
+    second: 1-pepper_spilled_122
+  - first:
+      213: 67656440225505105
+    second: 1-pepper_spilled_123
+  - first:
+      213: -8455151153065466455
+    second: 1-pepper_spilled_124
+  - first:
+      213: 8859237790149426812
+    second: 1-pepper_spilled_125
+  - first:
+      213: 6554372973760712171
+    second: 1-pepper_spilled_126
+  - first:
+      213: -8463187490310628049
+    second: 1-pepper_spilled_127
+  - first:
+      213: -1802942628364387909
+    second: 1-pepper_spilled_128
+  - first:
+      213: -5244741430809708938
+    second: 1-pepper_spilled_129
+  - first:
+      213: -4186249856264538405
+    second: 1-pepper_spilled_130
+  - first:
+      213: 5084000226643473504
+    second: 1-pepper_spilled_131
+  - first:
+      213: 3287712568800140632
+    second: 1-pepper_spilled_132
+  - first:
+      213: 8106619467744295760
+    second: 1-pepper_spilled_133
+  - first:
+      213: -1532724621548076437
+    second: 1-pepper_spilled_134
+  - first:
+      213: -2096695347391029183
+    second: 1-pepper_spilled_135
+  - first:
+      213: 9123399638927857077
+    second: 1-pepper_spilled_136
+  - first:
+      213: 4288604121982373981
+    second: 1-pepper_spilled_137
+  - first:
+      213: -6954060557041322344
+    second: 1-pepper_spilled_138
+  - first:
+      213: 5699290593734086475
+    second: 1-pepper_spilled_139
+  - first:
+      213: -7349577981280107878
+    second: 1-pepper_spilled_140
+  - first:
+      213: -4655104690039624045
+    second: 1-pepper_spilled_141
+  - first:
+      213: -5517293365074408316
+    second: 1-pepper_spilled_142
+  - first:
+      213: -500787158355996839
+    second: 1-pepper_spilled_143
+  - first:
+      213: -4204401674392419133
+    second: 1-pepper_spilled_144
+  - first:
+      213: -8671865582241806465
+    second: 1-pepper_spilled_145
+  - first:
+      213: -8183230198878017340
+    second: 1-pepper_spilled_146
+  - first:
+      213: 6091276748260369524
+    second: 1-pepper_spilled_147
+  - first:
+      213: 5936300966106079977
+    second: 1-pepper_spilled_148
+  - first:
+      213: 2362071618299715962
+    second: 1-pepper_spilled_149
+  - first:
+      213: 865964626563254700
+    second: 1-pepper_spilled_150
+  - first:
+      213: 2601127189497853677
+    second: 1-pepper_spilled_151
+  - first:
+      213: -5809769095202516092
+    second: 1-pepper_spilled_152
+  - first:
+      213: -3572833488702292019
+    second: 1-pepper_spilled_153
+  - first:
+      213: 1635687534758736789
+    second: 1-pepper_spilled_154
+  - first:
+      213: -6499246791466230066
+    second: 1-pepper_spilled_155
+  - first:
+      213: -8223958701181731738
+    second: 1-pepper_spilled_156
+  - first:
+      213: 8178582580899183484
+    second: 1-pepper_spilled_157
+  - first:
+      213: 1059643594888087678
+    second: 1-pepper_spilled_158
+  - first:
+      213: 2969217020099800562
+    second: 1-pepper_spilled_159
+  - first:
+      213: -6649674138446543283
+    second: 1-pepper_spilled_160
+  - first:
+      213: 4886881902546759709
+    second: 1-pepper_spilled_161
+  - first:
+      213: -1125857688288191454
+    second: 1-pepper_spilled_162
+  - first:
+      213: -2856388805826969521
+    second: 1-pepper_spilled_163
+  - first:
+      213: 5255637498944731500
+    second: 1-pepper_spilled_164
+  - first:
+      213: 6936967665474914536
+    second: 1-pepper_spilled_165
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 1-pepper_spilled_0
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 255
+        width: 145
+        height: 335
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac1ceb74215cb2190800000000000000
+      internalID: -7986072831907675702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-pepper_spilled_1
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 370
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7a9b149b85e99bb0800000000000000
+      internalID: -4928655929532245378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-pepper_spilled_2
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 413
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee7a62c42de4b4760800000000000000
+      internalID: 7443129474287577070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-pepper_spilled_3
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 379
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12ac33bb9222cf0d0800000000000000
+      internalID: -3387795257059718623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-pepper_spilled_4
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 364
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e130a1a46f6aad50800000000000000
+      internalID: 6749329469567152611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-pepper_spilled_5
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 435
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d244401037bdfdea0800000000000000
+      internalID: -5845712504318835667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-pepper_spilled_6
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 408
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: defd37690a4e4c0b0800000000000000
+      internalID: -5709187049228869651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-pepper_spilled_7
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 370
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8803327f91b71640800000000000000
+      internalID: 5050700805493164172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-pepper_spilled_8
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 378
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f345699ed8ef146a0800000000000000
+      internalID: -6466607704464534465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-pepper_spilled_9
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 439
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c75860426b6182d0800000000000000
+      internalID: -3278220984017463360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-pepper_spilled_10
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 330
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f611e91448c3b6350800000000000000
+      internalID: 6010964666390286703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-pepper_spilled_11
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 346
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 412662f93a4c83c80800000000000000
+      internalID: -8342702102675037676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-pepper_spilled_12
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 487
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d234c7d4ec141d60800000000000000
+      internalID: 7859939018866438865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-pepper_spilled_13
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 481
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4401023f5ef46390800000000000000
+      internalID: -7825850567648803764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-pepper_spilled_14
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 336
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aa0d7cc9a000fde0800000000000000
+      internalID: -1301539563029853527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-pepper_spilled_15
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 452
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94bb8ea374f788e50800000000000000
+      internalID: 6811834380305611593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-pepper_spilled_16
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 526
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ae24e99f94bb25a0800000000000000
+      internalID: -6544939035878216029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-pepper_spilled_17
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 469
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 619cec091e5dcbca0800000000000000
+      internalID: -5999685438790514410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-pepper_spilled_18
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 504
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f7c4464f09ce77f0800000000000000
+      internalID: -612831431835203594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-pepper_spilled_19
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 530
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fb9b95d3b35a1690800000000000000
+      internalID: -7630694586777887755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-pepper_spilled_20
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 420
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7b171ccd7b6c3910800000000000000
+      internalID: 1818446537589988219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-pepper_spilled_21
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 359
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccf7d386326ed8f80800000000000000
+      internalID: -8102567114822549556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-pepper_spilled_22
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 319
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 227bbb7da25ea0350800000000000000
+      internalID: 5983847027085915938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-pepper_spilled_23
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 327
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c416e55abd2d47de0800000000000000
+      internalID: -1336211348608097972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-pepper_spilled_24
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 338
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3997eb19051c7ef0800000000000000
+      internalID: -109189162096682691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-pepper_spilled_25
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 504
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94b43c1c0281e3020800000000000000
+      internalID: 2323320986738576201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-pepper_spilled_26
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 527
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa46b322ddffaa770800000000000000
+      internalID: 8622985761781408943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-pepper_spilled_27
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 320
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5bbd43663e313db0800000000000000
+      internalID: -4813998123367154849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-pepper_spilled_28
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 356
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e01475538e35b2c0800000000000000
+      internalID: -4416555125771595546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-pepper_spilled_29
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 327
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7083055df166d4e90800000000000000
+      internalID: -7039858355601393657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-pepper_spilled_30
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 479
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 791bb49077dabba50800000000000000
+      internalID: 6538010010827075991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-pepper_spilled_31
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 371
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcdb6dcb46100b760800000000000000
+      internalID: 7471473313984200141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-pepper_spilled_32
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 313
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cff62123cfe3ddd0800000000000000
+      internalID: -2462360949887664184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-pepper_spilled_33
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 549
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7fa925b3f19cee70800000000000000
+      internalID: 9145845419185123197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-pepper_spilled_34
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 345
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a84542dc97c79730800000000000000
+      internalID: 4005889869925927081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-pepper_spilled_35
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 333
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 283694f7236861910800000000000000
+      internalID: 1807779851877835650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-pepper_spilled_36
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 300
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb1c2e6ab2e034be0800000000000000
+      internalID: -1494335070710611522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-pepper_spilled_37
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 371
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70a184c42b0c0e870800000000000000
+      internalID: 8710173551351044615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-pepper_spilled_38
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 330
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 675a2b8881c11a210800000000000000
+      internalID: 1342385055631320438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-pepper_spilled_39
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 317
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f12f2759b194ba50800000000000000
+      internalID: 6536009184439116273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-pepper_spilled_40
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 379
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 274abd03bd88ba5f0800000000000000
+      internalID: -744350838400768910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-pepper_spilled_41
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 402
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff7bf2a5b85bf5df0800000000000000
+      internalID: -189233049208113153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-pepper_spilled_42
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 341
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7d5e302bf5ca3560800000000000000
+      internalID: 7294360228848360830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-pepper_spilled_43
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 334
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 620e7798328b28540800000000000000
+      internalID: 5008768198359113766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-pepper_spilled_44
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 392
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60e600e2d2dde7dd0800000000000000
+      internalID: -2486306758146888186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-pepper_spilled_45
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 370
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b49dc91d61f538f0800000000000000
+      internalID: -561277127651126096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-pepper_spilled_46
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 322
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ebbb4007e0b2d7c0800000000000000
+      internalID: -4047978608863757344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-pepper_spilled_47
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 295
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd884bcffb0f800d0800000000000000
+      internalID: -3456248006637745953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-pepper_spilled_48
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 553
+        width: 25
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 335e9f0a3eb058a70800000000000000
+      internalID: 8828475716815938867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-pepper_spilled_49
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 290
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4ea51ae12cd389e0800000000000000
+      internalID: -1620209402703925682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-pepper_spilled_50
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 314
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73090a0c5ac035fd0800000000000000
+      internalID: -2354524274143752137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-pepper_spilled_51
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 499
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84d4acbe0bb950f80800000000000000
+      internalID: -8140929567229850296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-pepper_spilled_52
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 434
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b77d10c19a52776c0800000000000000
+      internalID: -4145803523721668741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-pepper_spilled_53
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 327
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f21391f6ac533510800000000000000
+      internalID: 1527666570696004340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-pepper_spilled_54
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 336
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a20a70173ad0cc30800000000000000
+      internalID: 4377738767838610089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-pepper_spilled_55
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 285
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93320b6787314dd20800000000000000
+      internalID: 3302285834877674297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-pepper_spilled_56
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 450
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2d2b5df1bc57ad60800000000000000
+      internalID: 7901385990774402348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-pepper_spilled_57
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 529
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d42656bf779037d80800000000000000
+      internalID: -8254243281116503475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-pepper_spilled_58
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 515
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 202314a0999850c30800000000000000
+      internalID: 4325014307554275842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-pepper_spilled_59
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 297
+        width: 20
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c06722337a1f1850800000000000000
+      internalID: 6349823081680691399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-pepper_spilled_60
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 544
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b148361d339e2c50800000000000000
+      internalID: 6642408390993134001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-pepper_spilled_61
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 475
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 757bf7898fb7863e0800000000000000
+      internalID: -2060260521881389225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-pepper_spilled_62
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 443
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f332cb51b20e26780800000000000000
+      internalID: -8691137855218769089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-pepper_spilled_63
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 407
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d6ca4ad5efc99150800000000000000
+      internalID: 5879959374625687254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-pepper_spilled_64
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 432
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b1f5d9028b20d620800000000000000
+      internalID: 2796783206107836856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-pepper_spilled_65
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 284
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86860671a537eceb0800000000000000
+      internalID: -4697690530524403608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-pepper_spilled_66
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 533
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 579d719c5ebb33c90800000000000000
+      internalID: -7191197584384861835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-pepper_spilled_67
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 493
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 429cfa045b2a16e40800000000000000
+      internalID: 5647974307057355044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-pepper_spilled_68
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 480
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b007a1c210fa52870800000000000000
+      internalID: 8657518278259404811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-pepper_spilled_69
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 351
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1399c8ed6f8661990800000000000000
+      internalID: -7415624326913943247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-pepper_spilled_70
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 449
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 864049c5709865560800000000000000
+      internalID: 7302174510538818664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-pepper_spilled_71
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 392
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9325ec0444fe6ed0800000000000000
+      internalID: -2418727376740080740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-pepper_spilled_72
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 293
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a019c05f2f7139f80800000000000000
+      internalID: -8101104972448624374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-pepper_spilled_73
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 426
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffde6e71df4e93af0800000000000000
+      internalID: -416049714876191233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-pepper_spilled_74
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 423
+        width: 81
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: add54d98c5bbe66f0800000000000000
+      internalID: -689407686817325606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-pepper_spilled_75
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 542
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd7af034e572b8f90800000000000000
+      internalID: -6950418314110720036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-pepper_spilled_76
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 327
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2047b6506ccc00650800000000000000
+      internalID: 6197178238128321538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-pepper_spilled_77
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 509
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88e4d18db587d7b20800000000000000
+      internalID: 3133793251582889608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-pepper_spilled_78
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 317
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e277c63eb9824efe0800000000000000
+      internalID: -1160758153954166994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-pepper_spilled_79
+      rect:
+        serializedVersion: 2
+        x: 997
+        y: 548
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae42e8908d6e086f0800000000000000
+      internalID: -684293327812680470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-pepper_spilled_80
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 246
+        width: 78
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8aeac61d3ec5ae0c0800000000000000
+      internalID: -4545718740336202072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-pepper_spilled_81
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 306
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d62100d2c82176bf0800000000000000
+      internalID: -331275654328741267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-pepper_spilled_82
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 284
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55af1b952d9310a20800000000000000
+      internalID: 3026764000180435541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-pepper_spilled_83
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 548
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cbb07d0c9ba14980800000000000000
+      internalID: -8556369130298491967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-pepper_spilled_84
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 283
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6e9abc7c96fbceb0800000000000000
+      internalID: -4698390634263044499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-pepper_spilled_85
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 295
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f150ceaa66f3a470800000000000000
+      internalID: 8404832267662283251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-pepper_spilled_86
+      rect:
+        serializedVersion: 2
+        x: 1017
+        y: 309
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdfb17c81031e90b0800000000000000
+      internalID: -5720113579341791268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-pepper_spilled_87
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 559
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6e36ad2626409250800000000000000
+      internalID: 5949332237544996463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-pepper_spilled_88
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 530
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 666a4f22d0a68ded0800000000000000
+      internalID: -2389042997666470298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-pepper_spilled_89
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 305
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec852a3ed1ea640d0800000000000000
+      internalID: -3438869822054442802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-pepper_spilled_90
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 292
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ee84778077cf94e0800000000000000
+      internalID: -1972638825642160412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-pepper_spilled_91
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 544
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27ed409184a772570800000000000000
+      internalID: 8441850476605267570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-pepper_spilled_92
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 324
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e320e4b8731006af0800000000000000
+      internalID: -405322628391370178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-pepper_spilled_93
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 300
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06b23b60a70c8ea80800000000000000
+      internalID: -8437282271547675808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-pepper_spilled_94
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 277
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db3a33d7c17574530800000000000000
+      internalID: 3839132987227874237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-pepper_spilled_95
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 538
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0273f8b0fdaf7c440800000000000000
+      internalID: 4956205750823106336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-pepper_spilled_96
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 552
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fec406fdab4883c90800000000000000
+      internalID: -7189850866950583057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-pepper_spilled_97
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 325
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1dd3ae5f8cb0ebe0800000000000000
+      internalID: -1449951756059157217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-pepper_spilled_98
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 560
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5c35186dbb02c500800000000000000
+      internalID: 414907023794453594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-pepper_spilled_99
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 274
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6934769e7f869f50800000000000000
+      internalID: 6887850453962602861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-pepper_spilled_100
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 345
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f47da2af188c46a90800000000000000
+      internalID: -7321506633624135857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-pepper_spilled_101
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 277
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a531a50c1a1e5820800000000000000
+      internalID: 2908791116983776672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-pepper_spilled_102
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 552
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d02d0ea476251660800000000000000
+      internalID: 7355827848957731027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-pepper_spilled_103
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 253
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4480902c4ba2d54d0800000000000000
+      internalID: -3144310008996886460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-pepper_spilled_104
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 558
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 172590e8e2baad790800000000000000
+      internalID: -7504497612619689359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-pepper_spilled_105
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 519
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 590964290b5fa9460800000000000000
+      internalID: 7249376688923381909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-pepper_spilled_106
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 544
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6b426a3dc9d02bd0800000000000000
+      internalID: -2656884304677549203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-pepper_spilled_107
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 534
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1921550a7483f5a10800000000000000
+      internalID: 1900299448057402001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-pepper_spilled_108
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 546
+        width: 29
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c53f54147256cc9d0800000000000000
+      internalID: -2752714052956982436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-pepper_spilled_109
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 340
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5310efbebf0f11a50800000000000000
+      internalID: 6490233502804345141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-pepper_spilled_110
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 350
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f176c7fa6f63afff0800000000000000
+      internalID: -1628416726243553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-pepper_spilled_111
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 276
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 276ab260e7d3fa550800000000000000
+      internalID: 6174221225626936946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-pepper_spilled_112
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 511
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ee28ae6ac6080300800000000000000
+      internalID: 218432048437145319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-pepper_spilled_113
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 360
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d49a23e7b887c4640800000000000000
+      internalID: 5065556221398001997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-pepper_spilled_114
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 551
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b3cee40bfb2587b0800000000000000
+      internalID: -5222719835746679883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-pepper_spilled_115
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 284
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdbeb787cc3e9fcb0800000000000000
+      internalID: -4829578658043925537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-pepper_spilled_116
+      rect:
+        serializedVersion: 2
+        x: 1077
+        y: 291
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 825cc77e506aba120800000000000000
+      internalID: 2426215368557905192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-pepper_spilled_117
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 257
+        width: 119
+        height: 312
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0288e0e7729ed2e20800000000000000
+      internalID: 3327572055524542496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-pepper_spilled_118
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 369
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b73cc49dcfa4c3720800000000000000
+      internalID: 2827217115919729531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-pepper_spilled_119
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 277
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef80d8c1db85bdd30800000000000000
+      internalID: 4457253825464305918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-pepper_spilled_120
+      rect:
+        serializedVersion: 2
+        x: 1083
+        y: 536
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a048afbdd4c903d0800000000000000
+      internalID: -3239842000234069849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-pepper_spilled_121
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 514
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 997b6d9980062e530800000000000000
+      internalID: 3882771418803779481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-pepper_spilled_122
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 509
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45a2fd75f0c13bf90800000000000000
+      internalID: -6939171748623472044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-pepper_spilled_123
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 279
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15f98668c2d50f000800000000000000
+      internalID: 67656440225505105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-pepper_spilled_124
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 500
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a56c47d2d449aa80800000000000000
+      internalID: -8455151153065466455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-pepper_spilled_125
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 390
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7eb296f4d552fa70800000000000000
+      internalID: 8859237790149426812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-pepper_spilled_126
+      rect:
+        serializedVersion: 2
+        x: 1099
+        y: 398
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bed8d6a3e7fc5fa50800000000000000
+      internalID: 6554372973760712171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-pepper_spilled_127
+      rect:
+        serializedVersion: 2
+        x: 1101
+        y: 308
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2d518441d7bc8a80800000000000000
+      internalID: -8463187490310628049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-pepper_spilled_128
+      rect:
+        serializedVersion: 2
+        x: 1106
+        y: 432
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb97eed5b39aaf6e0800000000000000
+      internalID: -1802942628364387909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-pepper_spilled_129
+      rect:
+        serializedVersion: 2
+        x: 1106
+        y: 337
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67630ddd47fe637b0800000000000000
+      internalID: -5244741430809708938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-pepper_spilled_130
+      rect:
+        serializedVersion: 2
+        x: 1106
+        y: 301
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd672587fe377e5c0800000000000000
+      internalID: -4186249856264538405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-pepper_spilled_131
+      rect:
+        serializedVersion: 2
+        x: 1107
+        y: 409
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 064f61b154ffd8640800000000000000
+      internalID: 5084000226643473504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-pepper_spilled_132
+      rect:
+        serializedVersion: 2
+        x: 1108
+        y: 388
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85d5bea892d40ad20800000000000000
+      internalID: 3287712568800140632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-pepper_spilled_133
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 392
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05b3a28847f708070800000000000000
+      internalID: 8106619467744295760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-pepper_spilled_134
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 377
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b62c122d31baabae0800000000000000
+      internalID: -1532724621548076437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-pepper_spilled_135
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 509
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1402b88b0ba07e2e0800000000000000
+      internalID: -2096695347391029183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-pepper_spilled_136
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 504
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b5d83e32a3dc9e70800000000000000
+      internalID: 9123399638927857077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-pepper_spilled_137
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 427
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5019091abe248b30800000000000000
+      internalID: 4288604121982373981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-pepper_spilled_138
+      rect:
+        serializedVersion: 2
+        x: 1122
+        y: 407
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8963ffe74c63e7f90800000000000000
+      internalID: -6954060557041322344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-pepper_spilled_139
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 493
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4fce3f4992f71f40800000000000000
+      internalID: 5699290593734086475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-pepper_spilled_140
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 295
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9244c804cd010a90800000000000000
+      internalID: -7349577981280107878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-pepper_spilled_141
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 456
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39eeeedb2feb56fb0800000000000000
+      internalID: -4655104690039624045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-pepper_spilled_142
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 435
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48cce159ae2ae63b0800000000000000
+      internalID: -5517293365074408316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-pepper_spilled_143
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 483
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95f0d169bb8dc09f0800000000000000
+      internalID: -500787158355996839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-pepper_spilled_144
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 441
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c448c8f3f6f6a5c0800000000000000
+      internalID: -4204401674392419133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-pepper_spilled_145
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 385
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f778a8ec23857a780800000000000000
+      internalID: -8671865582241806465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-pepper_spilled_146
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 448
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c860a0ad735f6e80800000000000000
+      internalID: -8183230198878017340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-pepper_spilled_147
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 296
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 474e7a8fdef888450800000000000000
+      internalID: 6091276748260369524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-pepper_spilled_148
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 308
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e2af8cd64af16250800000000000000
+      internalID: 5936300966106079977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-pepper_spilled_149
+      rect:
+        serializedVersion: 2
+        x: 1141
+        y: 314
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7169ce3f93c7c020800000000000000
+      internalID: 2362071618299715962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-pepper_spilled_150
+      rect:
+        serializedVersion: 2
+        x: 1147
+        y: 351
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca94b526d36840c00800000000000000
+      internalID: 865964626563254700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-pepper_spilled_151
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 327
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de631a1c56f091420800000000000000
+      internalID: 2601127189497853677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-pepper_spilled_152
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 323
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48359651acd8f5fa0800000000000000
+      internalID: -5809769095202516092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-pepper_spilled_153
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 316
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcfb7482fdeba6ec0800000000000000
+      internalID: -3572833488702292019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-pepper_spilled_154
+      rect:
+        serializedVersion: 2
+        x: 1154
+        y: 297
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59334d8852123b610800000000000000
+      internalID: 1635687534758736789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-pepper_spilled_155
+      rect:
+        serializedVersion: 2
+        x: 1158
+        y: 321
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecede074a790ec5a0800000000000000
+      internalID: -6499246791466230066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-pepper_spilled_156
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 350
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66c74983221aedd80800000000000000
+      internalID: -8223958701181731738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-pepper_spilled_157
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 402
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7b71bc7689208170800000000000000
+      internalID: 8178582580899183484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-pepper_spilled_158
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 361
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7882dd3c3c94be00800000000000000
+      internalID: 1059643594888087678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-pepper_spilled_159
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 382
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fda710f527c43920800000000000000
+      internalID: 2969217020099800562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-pepper_spilled_160
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 429
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d46cac14a9c97b3a0800000000000000
+      internalID: -6649674138446543283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-pepper_spilled_161
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 438
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d10b594d231b1d340800000000000000
+      internalID: 4886881902546759709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-pepper_spilled_162
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 357
+        width: 56
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22c90f5c5662060f0800000000000000
+      internalID: -1125857688288191454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-pepper_spilled_163
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 331
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f400840d3811c58d0800000000000000
+      internalID: -2856388805826969521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-pepper_spilled_164
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 373
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c69b2d0b576cfe840800000000000000
+      internalID: 5255637498944731500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-pepper_spilled_165
+      rect:
+        serializedVersion: 2
+        x: 1191
+        y: 424
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e8c00f865f054060800000000000000
+      internalID: 6936967665474914536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      1-pepper_spilled_0: -7986072831907675702
+      1-pepper_spilled_1: -4928655929532245378
+      1-pepper_spilled_10: 6010964666390286703
+      1-pepper_spilled_100: -7321506633624135857
+      1-pepper_spilled_101: 2908791116983776672
+      1-pepper_spilled_102: 7355827848957731027
+      1-pepper_spilled_103: -3144310008996886460
+      1-pepper_spilled_104: -7504497612619689359
+      1-pepper_spilled_105: 7249376688923381909
+      1-pepper_spilled_106: -2656884304677549203
+      1-pepper_spilled_107: 1900299448057402001
+      1-pepper_spilled_108: -2752714052956982436
+      1-pepper_spilled_109: 6490233502804345141
+      1-pepper_spilled_11: -8342702102675037676
+      1-pepper_spilled_110: -1628416726243553
+      1-pepper_spilled_111: 6174221225626936946
+      1-pepper_spilled_112: 218432048437145319
+      1-pepper_spilled_113: 5065556221398001997
+      1-pepper_spilled_114: -5222719835746679883
+      1-pepper_spilled_115: -4829578658043925537
+      1-pepper_spilled_116: 2426215368557905192
+      1-pepper_spilled_117: 3327572055524542496
+      1-pepper_spilled_118: 2827217115919729531
+      1-pepper_spilled_119: 4457253825464305918
+      1-pepper_spilled_12: 7859939018866438865
+      1-pepper_spilled_120: -3239842000234069849
+      1-pepper_spilled_121: 3882771418803779481
+      1-pepper_spilled_122: -6939171748623472044
+      1-pepper_spilled_123: 67656440225505105
+      1-pepper_spilled_124: -8455151153065466455
+      1-pepper_spilled_125: 8859237790149426812
+      1-pepper_spilled_126: 6554372973760712171
+      1-pepper_spilled_127: -8463187490310628049
+      1-pepper_spilled_128: -1802942628364387909
+      1-pepper_spilled_129: -5244741430809708938
+      1-pepper_spilled_13: -7825850567648803764
+      1-pepper_spilled_130: -4186249856264538405
+      1-pepper_spilled_131: 5084000226643473504
+      1-pepper_spilled_132: 3287712568800140632
+      1-pepper_spilled_133: 8106619467744295760
+      1-pepper_spilled_134: -1532724621548076437
+      1-pepper_spilled_135: -2096695347391029183
+      1-pepper_spilled_136: 9123399638927857077
+      1-pepper_spilled_137: 4288604121982373981
+      1-pepper_spilled_138: -6954060557041322344
+      1-pepper_spilled_139: 5699290593734086475
+      1-pepper_spilled_14: -1301539563029853527
+      1-pepper_spilled_140: -7349577981280107878
+      1-pepper_spilled_141: -4655104690039624045
+      1-pepper_spilled_142: -5517293365074408316
+      1-pepper_spilled_143: -500787158355996839
+      1-pepper_spilled_144: -4204401674392419133
+      1-pepper_spilled_145: -8671865582241806465
+      1-pepper_spilled_146: -8183230198878017340
+      1-pepper_spilled_147: 6091276748260369524
+      1-pepper_spilled_148: 5936300966106079977
+      1-pepper_spilled_149: 2362071618299715962
+      1-pepper_spilled_15: 6811834380305611593
+      1-pepper_spilled_150: 865964626563254700
+      1-pepper_spilled_151: 2601127189497853677
+      1-pepper_spilled_152: -5809769095202516092
+      1-pepper_spilled_153: -3572833488702292019
+      1-pepper_spilled_154: 1635687534758736789
+      1-pepper_spilled_155: -6499246791466230066
+      1-pepper_spilled_156: -8223958701181731738
+      1-pepper_spilled_157: 8178582580899183484
+      1-pepper_spilled_158: 1059643594888087678
+      1-pepper_spilled_159: 2969217020099800562
+      1-pepper_spilled_16: -6544939035878216029
+      1-pepper_spilled_160: -6649674138446543283
+      1-pepper_spilled_161: 4886881902546759709
+      1-pepper_spilled_162: -1125857688288191454
+      1-pepper_spilled_163: -2856388805826969521
+      1-pepper_spilled_164: 5255637498944731500
+      1-pepper_spilled_165: 6936967665474914536
+      1-pepper_spilled_17: -5999685438790514410
+      1-pepper_spilled_18: -612831431835203594
+      1-pepper_spilled_19: -7630694586777887755
+      1-pepper_spilled_2: 7443129474287577070
+      1-pepper_spilled_20: 1818446537589988219
+      1-pepper_spilled_21: -8102567114822549556
+      1-pepper_spilled_22: 5983847027085915938
+      1-pepper_spilled_23: -1336211348608097972
+      1-pepper_spilled_24: -109189162096682691
+      1-pepper_spilled_25: 2323320986738576201
+      1-pepper_spilled_26: 8622985761781408943
+      1-pepper_spilled_27: -4813998123367154849
+      1-pepper_spilled_28: -4416555125771595546
+      1-pepper_spilled_29: -7039858355601393657
+      1-pepper_spilled_3: -3387795257059718623
+      1-pepper_spilled_30: 6538010010827075991
+      1-pepper_spilled_31: 7471473313984200141
+      1-pepper_spilled_32: -2462360949887664184
+      1-pepper_spilled_33: 9145845419185123197
+      1-pepper_spilled_34: 4005889869925927081
+      1-pepper_spilled_35: 1807779851877835650
+      1-pepper_spilled_36: -1494335070710611522
+      1-pepper_spilled_37: 8710173551351044615
+      1-pepper_spilled_38: 1342385055631320438
+      1-pepper_spilled_39: 6536009184439116273
+      1-pepper_spilled_4: 6749329469567152611
+      1-pepper_spilled_40: -744350838400768910
+      1-pepper_spilled_41: -189233049208113153
+      1-pepper_spilled_42: 7294360228848360830
+      1-pepper_spilled_43: 5008768198359113766
+      1-pepper_spilled_44: -2486306758146888186
+      1-pepper_spilled_45: -561277127651126096
+      1-pepper_spilled_46: -4047978608863757344
+      1-pepper_spilled_47: -3456248006637745953
+      1-pepper_spilled_48: 8828475716815938867
+      1-pepper_spilled_49: -1620209402703925682
+      1-pepper_spilled_5: -5845712504318835667
+      1-pepper_spilled_50: -2354524274143752137
+      1-pepper_spilled_51: -8140929567229850296
+      1-pepper_spilled_52: -4145803523721668741
+      1-pepper_spilled_53: 1527666570696004340
+      1-pepper_spilled_54: 4377738767838610089
+      1-pepper_spilled_55: 3302285834877674297
+      1-pepper_spilled_56: 7901385990774402348
+      1-pepper_spilled_57: -8254243281116503475
+      1-pepper_spilled_58: 4325014307554275842
+      1-pepper_spilled_59: 6349823081680691399
+      1-pepper_spilled_6: -5709187049228869651
+      1-pepper_spilled_60: 6642408390993134001
+      1-pepper_spilled_61: -2060260521881389225
+      1-pepper_spilled_62: -8691137855218769089
+      1-pepper_spilled_63: 5879959374625687254
+      1-pepper_spilled_64: 2796783206107836856
+      1-pepper_spilled_65: -4697690530524403608
+      1-pepper_spilled_66: -7191197584384861835
+      1-pepper_spilled_67: 5647974307057355044
+      1-pepper_spilled_68: 8657518278259404811
+      1-pepper_spilled_69: -7415624326913943247
+      1-pepper_spilled_7: 5050700805493164172
+      1-pepper_spilled_70: 7302174510538818664
+      1-pepper_spilled_71: -2418727376740080740
+      1-pepper_spilled_72: -8101104972448624374
+      1-pepper_spilled_73: -416049714876191233
+      1-pepper_spilled_74: -689407686817325606
+      1-pepper_spilled_75: -6950418314110720036
+      1-pepper_spilled_76: 6197178238128321538
+      1-pepper_spilled_77: 3133793251582889608
+      1-pepper_spilled_78: -1160758153954166994
+      1-pepper_spilled_79: -684293327812680470
+      1-pepper_spilled_8: -6466607704464534465
+      1-pepper_spilled_80: -4545718740336202072
+      1-pepper_spilled_81: -331275654328741267
+      1-pepper_spilled_82: 3026764000180435541
+      1-pepper_spilled_83: -8556369130298491967
+      1-pepper_spilled_84: -4698390634263044499
+      1-pepper_spilled_85: 8404832267662283251
+      1-pepper_spilled_86: -5720113579341791268
+      1-pepper_spilled_87: 5949332237544996463
+      1-pepper_spilled_88: -2389042997666470298
+      1-pepper_spilled_89: -3438869822054442802
+      1-pepper_spilled_9: -3278220984017463360
+      1-pepper_spilled_90: -1972638825642160412
+      1-pepper_spilled_91: 8441850476605267570
+      1-pepper_spilled_92: -405322628391370178
+      1-pepper_spilled_93: -8437282271547675808
+      1-pepper_spilled_94: 3839132987227874237
+      1-pepper_spilled_95: 4956205750823106336
+      1-pepper_spilled_96: -7189850866950583057
+      1-pepper_spilled_97: -1449951756059157217
+      1-pepper_spilled_98: 414907023794453594
+      1-pepper_spilled_99: 6887850453962602861
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
