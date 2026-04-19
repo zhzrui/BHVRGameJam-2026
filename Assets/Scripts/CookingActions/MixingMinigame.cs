@@ -24,6 +24,7 @@ public class MixingMinigame : CookingMinigameBase
         currentMeter = 0f;
         isActive = true;
         minigamePanel.SetActive(true);
+        CursorManager.Instance?.SetMinigameCursor(CursorManager.Instance.SpoonCursor);
         UpdateUI();
     }
 
@@ -49,6 +50,7 @@ public class MixingMinigame : CookingMinigameBase
     {
         isActive = false;
         minigamePanel.SetActive(false);
+        CursorManager.Instance?.ClearMinigameCursor();
 
         if (success)
         {
