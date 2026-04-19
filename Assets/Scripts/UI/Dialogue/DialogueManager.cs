@@ -41,8 +41,12 @@ public class DialogueManager : MonoBehaviour
     public AudioClip[] cutOnLineEndClips;
 
     [Header("Behavior")]
-    public bool autoLoadNextLevel = true;
+    public bool autoLoadNextLevel = false;
     public UnityEvent onDialogueComplete = new UnityEvent();
+
+    [Header("Scene Transition Prompt")]
+    [SerializeField] private GameObject scenePrompt;
+    [SerializeField] private GameObject eKeyPrompt;
 
     private int currentLine = 0;
 
@@ -59,6 +63,12 @@ public class DialogueManager : MonoBehaviour
     void Start()
     {
         HideIndicator();
+
+        if (eKeyPrompt != null)
+        {
+            eKeyPrompt.SetActive(false);
+        }
+
 
         if (lines == null || lines.Length == 0)
         {
@@ -189,7 +199,13 @@ public class DialogueManager : MonoBehaviour
         HideIndicator();
         onDialogueComplete?.Invoke();
 
-        if (autoLoadNextLevel && LevelManager.Instance != null)
+        if (eKeyPrompt != null)
+        {
+            eKeyPrompt.SetActive(true);
+            return;
+        }
+
+        else if (autoLoadNextLevel && LevelManager.Instance != null)
         {
             LevelManager.Instance.LoadNextLevel();
         }
