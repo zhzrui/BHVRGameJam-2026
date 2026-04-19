@@ -9858,8 +9858,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: faf7a80ddc7244234a6dfe94ecd61490, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Ghost
-  clickTime: 3
-  explodeTime: 2
+  clickTime: 1
+  explodeTime: 1.5
   fearCurve:
     serializedVersion: 2
     m_Curve:
@@ -9884,7 +9884,7 @@ MonoBehaviour:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
-  minFearTime: 10
+  minFearTime: 5
   maxFearTime: 40
   particleSystem: {fileID: 2461442548598688483}
   explodeParticles: {fileID: 4300117937621649211}

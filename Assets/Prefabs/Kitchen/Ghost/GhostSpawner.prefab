@@ -194,8 +194,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::GhostSpawner
   ghostPrefab: {fileID: 7848687578092301156, guid: af7218e87ebaa4a05827cb04f8f1d82c, type: 3}
   maxGhosts: 3
-  spawnIntervalMin: 8
-  spawnIntervalMax: 15
+  spawnIntervalMin: 2
+  spawnIntervalMax: 8
   spawnAreaSprite: {fileID: 0}
   spawnXMin: -7
   spawnXMax: 7

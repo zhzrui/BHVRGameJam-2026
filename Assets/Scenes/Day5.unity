@@ -320,6 +320,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 2134091405}
     m_Modifications:
+    - target: {fileID: 748248972705368503, guid: cbd0e4ffed1201c40a418abce8d3b907, type: 3}
+      propertyPath: fadeCanvasGroup
+      value: 
+      objectReference: {fileID: 1651674606}
     - target: {fileID: 2483046894334380896, guid: cbd0e4ffed1201c40a418abce8d3b907, type: 3}
       propertyPath: m_LocalPosition.x
       value: 74.24987

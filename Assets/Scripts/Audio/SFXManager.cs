@@ -69,6 +69,7 @@ class SFXManager : MonoBehaviour
             currentAudioSource = 0;
         }
 
+        audioPool[currentAudioSource].volume = PlayerPrefs.GetFloat("SFXVolume");
         audioPool[currentAudioSource].pitch = Random.Range(0.9f, 1.1f);
         audioPool[currentAudioSource].PlayOneShot(clip);
     }
@@ -110,6 +111,19 @@ class SFXManager : MonoBehaviour
         } else
         {
             StopLoop(audioClip);
+        }
+    }
+
+    public void ChangedVolume()
+    {
+        float volume = PlayerPrefs.GetFloat("SFXVolume");
+        foreach (AudioSource loopSource in loopUsed.Values)
+        {
+            loopSource.volume = volume;
+        }
+        foreach (AudioSource loopSource in loopPool)
+        {
+            loopSource.volume = volume;
         }
     }
 

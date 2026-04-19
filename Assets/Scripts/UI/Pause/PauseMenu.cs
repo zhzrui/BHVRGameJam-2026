@@ -103,6 +103,7 @@ public class PauseMenu : MonoBehaviour
         // update playerprefs
         PlayerPrefs.SetFloat("SFXVolume",sfxSlider.value);
         PlayerPrefs.Save();
+        SFXManager.Instance?.ChangedVolume();
     }
 
     public void UpdateSliders()

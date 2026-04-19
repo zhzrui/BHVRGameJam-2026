@@ -119,7 +119,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 837838696543481240}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: bf5b69f90962d4f829afcb97ebc55bdd, type: 3}
+  m_Script: {fileID: 11500000, guid: 4f37860478735448ca350324e22edafa, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::PauseMenu
   volume: {fileID: 4521894854374289356}
