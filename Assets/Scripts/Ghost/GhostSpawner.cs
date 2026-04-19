@@ -16,7 +16,9 @@ public class GhostSpawner : MonoBehaviour
     public float spawnIntervalMin = 6f;
     public float spawnIntervalMax = 14f;
 
-    [Header("Spawn Area (world space X/Y)")]
+    [Header("Spawn Area")]
+    [Tooltip("Ghosts spawn randomly within this sprite's bounds. Falls back to manual min/max if null.")]
+    public SpriteRenderer spawnAreaSprite;
     public float spawnXMin = -7f;
     public float spawnXMax =  7f;
     public float spawnYMin = -3f;
@@ -75,11 +77,19 @@ public class GhostSpawner : MonoBehaviour
 
     void SpawnGhost()
     {
-        Vector3 pos = new Vector3(
-            Random.Range(spawnXMin, spawnXMax),
-            Random.Range(spawnYMin, spawnYMax),
-            spawnZ
-        );
+        float x, y;
+        if (spawnAreaSprite != null)
+        {
+            Bounds b = spawnAreaSprite.bounds;
+            x = Random.Range(b.min.x, b.max.x);
+            y = Random.Range(b.min.y, b.max.y);
+        }
+        else
+        {
+            x = Random.Range(spawnXMin, spawnXMax);
+            y = Random.Range(spawnYMin, spawnYMax);
+        }
+        Vector3 pos = new Vector3(x, y, spawnZ);
 
         GameObject ghost = Instantiate(ghostPrefab, pos, Quaternion.identity);
         activeGhosts.Add(ghost);
