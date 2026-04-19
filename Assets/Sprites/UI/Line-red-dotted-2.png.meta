@@ -1,0 +1,455 @@
+fileFormatVersion: 2
+guid: 3677a35522b0c6d42a4b0dc295663845
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5571904445915977245
+    second: Line-red-dotted-2_0
+  - first:
+      213: -8824889545863362937
+    second: Line-red-dotted-2_1
+  - first:
+      213: 6400158135247530548
+    second: Line-red-dotted-2_2
+  - first:
+      213: 4780655600476028877
+    second: Line-red-dotted-2_3
+  - first:
+      213: -9152573522880827516
+    second: Line-red-dotted-2_4
+  - first:
+      213: 8789247865849085726
+    second: Line-red-dotted-2_5
+  - first:
+      213: 1154582379889536160
+    second: Line-red-dotted-2_6
+  - first:
+      213: 3480511941074026835
+    second: Line-red-dotted-2_7
+  - first:
+      213: 3957980508371158075
+    second: Line-red-dotted-2_8
+  - first:
+      213: -2331659896746946427
+    second: Line-red-dotted-2_9
+  - first:
+      213: 7851448372380480776
+    second: Line-red-dotted-2_10
+  - first:
+      213: 4550530952058414545
+    second: Line-red-dotted-2_11
+  - first:
+      213: 2531845537124989666
+    second: Line-red-dotted-2_12
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Line-red-dotted-2_0
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 86
+        width: 49
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e922ca7d6e9ca2b0800000000000000
+      internalID: -5571904445915977245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Line-red-dotted-2_1
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 88
+        width: 41
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78681ccd6b1b78580800000000000000
+      internalID: -8824889545863362937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Line-red-dotted-2_2
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 88
+        width: 56
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43a61cd1aede1d850800000000000000
+      internalID: 6400158135247530548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Line-red-dotted-2_3
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 88
+        width: 44
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcffadb80fc485240800000000000000
+      internalID: 4780655600476028877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Line-red-dotted-2_4
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 85
+        width: 53
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48fea049fd68bf080800000000000000
+      internalID: -9152573522880827516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Line-red-dotted-2_5
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 87
+        width: 72
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1f7bc6dd5ea9f970800000000000000
+      internalID: 8789247865849085726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Line-red-dotted-2_6
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 87
+        width: 63
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0acad39ae86e50010800000000000000
+      internalID: 1154582379889536160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Line-red-dotted-2_7
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 89
+        width: 58
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 351093c7b234d4030800000000000000
+      internalID: 3480511941074026835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Line-red-dotted-2_8
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 89
+        width: 71
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3402655d429de630800000000000000
+      internalID: 3957980508371158075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Line-red-dotted-2_9
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 88
+        width: 68
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 580df557da744afd0800000000000000
+      internalID: -2331659896746946427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Line-red-dotted-2_10
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 89
+        width: 57
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 805be0822b2f5fc60800000000000000
+      internalID: 7851448372380480776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Line-red-dotted-2_11
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 87
+        width: 47
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d5acd88acbb62f30800000000000000
+      internalID: 4550530952058414545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Line-red-dotted-2_12
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 91
+        width: 49
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ea3e7a0a1ce22320800000000000000
+      internalID: 2531845537124989666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Line-red-dotted-2_0: -5571904445915977245
+      Line-red-dotted-2_1: -8824889545863362937
+      Line-red-dotted-2_10: 7851448372380480776
+      Line-red-dotted-2_11: 4550530952058414545
+      Line-red-dotted-2_12: 2531845537124989666
+      Line-red-dotted-2_2: 6400158135247530548
+      Line-red-dotted-2_3: 4780655600476028877
+      Line-red-dotted-2_4: -9152573522880827516
+      Line-red-dotted-2_5: 8789247865849085726
+      Line-red-dotted-2_6: 1154582379889536160
+      Line-red-dotted-2_7: 3480511941074026835
+      Line-red-dotted-2_8: 3957980508371158075
+      Line-red-dotted-2_9: -2331659896746946427
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
