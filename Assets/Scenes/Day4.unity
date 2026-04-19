@@ -213,7 +213,6 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 30341823}
   m_CullTransparentMesh: 1
-<<<<<<< Updated upstream
 --- !u!1 &54084516
 GameObject:
   m_ObjectHideFlags: 0
@@ -244,7 +243,6 @@ RectTransform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 1294789815}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -289,64 +287,6 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 54084516}
   m_CullTransparentMesh: 1
---- !u!1 &57528922
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 57528923}
-  - component: {fileID: 57528924}
-  m_Layer: 5
-  m_Name: cutting2
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!224 &57528923
-RectTransform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 57528922}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1.1749095, y: 1.1749095, z: 1.1749095}
-  m_ConstrainProportionsScale: 0
-  m_Children:
-  - {fileID: 1294789815}
-  m_Father: {fileID: 1163189812}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.5, y: 0.5}
-  m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 2.0650024, y: 6.4675903}
-  m_SizeDelta: {x: 200.2906, y: 91.311}
-  m_Pivot: {x: 0.5, y: 0.5}
---- !u!114 &57528924
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 57528922}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 23bc80f989166514b99b3d531fda0a43, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::CuttingMinigame
-  minigamePanel: {fileID: 1294789814}
-  ingredients: []
-  ingredientContainer: {fileID: 54084517}
-  cutLineTolerance: 20
-  cutLineIndicator: {fileID: 755531360}
-  sliceSeparation: 8
-  objectiveKey: day4step2
-=======
->>>>>>> Stashed changes
 --- !u!1 &77368091
 GameObject:
   m_ObjectHideFlags: 0
@@ -1701,11 +1641,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::DialogueManager
   dialogueText: {fileID: 772833778}
   continueIndicator: {fileID: 0}
-<<<<<<< Updated upstream
-  screenSprite: {fileID: 330914951}
-=======
   screenSprite: {fileID: 0}
->>>>>>> Stashed changes
   lines:
   - text: "Hi my lovelies. It\u2019s me, Candy\u2606, the host of\u2026 my own cooking
       show."
@@ -2130,15 +2066,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::DraggableIngredient
   orderIndex: 1
-<<<<<<< Updated upstream
-  bowlSprite: {fileID: 0}
-  bowlSpriteSize: {x: 80, y: 80}
-  bowlSpritePosition: {x: 0, y: 0}
-=======
   bowlSprite: {fileID: 21300000, guid: 4b0f0c0ca1c43d747aaa094509ae0bd6, type: 3}
   bowlSpriteSize: {x: 208, y: 208}
   bowlSpritePosition: {x: 53.64, y: 18.02}
->>>>>>> Stashed changes
 --- !u!114 &967193603
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2252,8 +2182,6 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 992456526}
   m_CullTransparentMesh: 1
-<<<<<<< Updated upstream
-=======
 --- !u!1 &998972095
 GameObject:
   m_ObjectHideFlags: 0
@@ -2347,8 +2275,7 @@ RectTransform:
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 0, y: 0, z: 0}
   m_ConstrainProportionsScale: 0
-  m_Children:
-  - {fileID: 201775922}
+  m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
@@ -2431,7 +2358,6 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1001314731}
   m_CullTransparentMesh: 1
->>>>>>> Stashed changes
 --- !u!1 &1005571449
 GameObject:
   m_ObjectHideFlags: 0
@@ -3117,9 +3043,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::CuttingMinigame
   minigamePanel: {fileID: 251130129}
-<<<<<<< Updated upstream
-  ingredients: []
-=======
   ingredients:
   - texture: {fileID: 2800000, guid: 4e906f72a69c60b44ae685e6ccb8f5d0, type: 3}
     cutPositions:
@@ -3128,12 +3051,18 @@ MonoBehaviour:
     - 0.5
     - 0.6666667
     - 0.8333333
+  - texture: {fileID: 2800000, guid: 42568589a0ee8914ba03bd5e10a85bf9, type: 3}
+    cutPositions:
+    - 0.1666667
+    - 0.3333333
+    - 0.5
+    - 0.6666667
+    - 0.8333334
   - texture: {fileID: 2800000, guid: 62a8fee697718f24da3c80a7eb38cb25, type: 3}
     cutPositions:
     - 0.56
     - 0.6666667
     - 0.8333334
->>>>>>> Stashed changes
   ingredientContainer: {fileID: 1249940977}
   cutLineTolerance: 20
   cutLineIndicator: {fileID: 605352058}
@@ -3202,17 +3131,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 593c8e77e89485d4fabc844733dcf3e6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::DraggableIngredient
-<<<<<<< Updated upstream
-  orderIndex: 2
-  bowlSprite: {fileID: 0}
-  bowlSpriteSize: {x: 80, y: 80}
-  bowlSpritePosition: {x: 0, y: 0}
-=======
   orderIndex: 4
   bowlSprite: {fileID: 21300000, guid: 4e906f72a69c60b44ae685e6ccb8f5d0, type: 3}
   bowlSpriteSize: {x: 259, y: 276}
   bowlSpritePosition: {x: -51.1, y: -14.8}
->>>>>>> Stashed changes
 --- !u!114 &1683847389
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3725,15 +3647,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::DraggableIngredient
   orderIndex: 0
-<<<<<<< Updated upstream
-  bowlSprite: {fileID: 0}
-  bowlSpriteSize: {x: 80, y: 80}
-  bowlSpritePosition: {x: 0, y: 0}
-=======
   bowlSprite: {fileID: 21300000, guid: 62a8fee697718f24da3c80a7eb38cb25, type: 3}
   bowlSpriteSize: {x: 486, y: 350}
   bowlSpritePosition: {x: 0, y: -38}
->>>>>>> Stashed changes
 --- !u!114 &2022363842
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3854,3 +3770,5 @@ SceneRoots:
   - {fileID: 1163189812}
   - {fileID: 1924557680}
   - {fileID: 919067942}
+  - {fileID: 54084517}
+  - {fileID: 998972099}
