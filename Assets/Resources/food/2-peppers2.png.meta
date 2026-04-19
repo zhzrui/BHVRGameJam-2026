@@ -1,10 +1,19 @@
 fileFormatVersion: 2
-guid: d549a17bd0a19b34e899c86d29f04c28
+guid: 935e3b792d201744e82737dbba44d3b8
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 7486103751331642759
-    second: Illustration42__1_-removebg-preview_0
+      213: 6968298835231718490
+    second: 2-peppers2_0
+  - first:
+      213: -8906637835868257934
+    second: 2-peppers2_1
+  - first:
+      213: 5155328523418771508
+    second: 2-peppers2_2
+  - first:
+      213: -8674962746688123291
+    second: 2-peppers2_3
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -24,7 +33,7 @@ TextureImporter:
     heightScale: 0.25
     normalMapFilter: 0
     flipGreenChannel: 0
-  isReadable: 1
+  isReadable: 0
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
@@ -46,7 +55,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 2
+  spriteMode: 1
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -57,7 +66,7 @@ TextureImporter:
   alphaUsage: 1
   alphaIsTransparency: 1
   spriteTessellationDetail: -1
-  textureType: 7
+  textureType: 8
   textureShape: 1
   singleChannelComponent: 0
   flipbookRows: 1
@@ -100,13 +109,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Illustration42__1_-removebg-preview_0
+      name: 2-peppers2_0
       rect:
         serializedVersion: 2
-        x: 112
-        y: 52
-        width: 286
-        height: 304
+        x: 1462
+        y: 2277
+        width: 16
+        height: 14
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +124,74 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 78d77d1e2bbf3e760800000000000000
-      internalID: 7486103751331642759
+      spriteID: a5c31cafede54b060800000000000000
+      internalID: 6968298835231718490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-peppers2_1
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 2280
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 271c402e314456480800000000000000
+      internalID: -8906637835868257934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-peppers2_2
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 220
+        width: 2386
+        height: 2014
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 430a0da5af76b8740800000000000000
+      internalID: 5155328523418771508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-peppers2_3
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 160
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56e48e308575c9780800000000000000
+      internalID: -8674962746688123291
       vertices: []
       indices: 
       edges: []
@@ -125,7 +200,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 5e97eb03825dee720800000000000000
     internalID: 0
     vertices: []
     indices: 
@@ -135,7 +210,10 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Illustration42__1_-removebg-preview_0: 7486103751331642759
+      2-peppers2_0: 6968298835231718490
+      2-peppers2_1: -8906637835868257934
+      2-peppers2_2: 5155328523418771508
+      2-peppers2_3: -8674962746688123291
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

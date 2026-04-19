@@ -1,0 +1,4121 @@
+fileFormatVersion: 2
+guid: 1fc473493046c8846bdafebc45652393
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5733537834367397264
+    second: 2-chillis2_0
+  - first:
+      213: 4887050624629542205
+    second: 2-chillis2_1
+  - first:
+      213: 1158183156541031881
+    second: 2-chillis2_2
+  - first:
+      213: 2664651724165126606
+    second: 2-chillis2_3
+  - first:
+      213: -1592217097721599879
+    second: 2-chillis2_4
+  - first:
+      213: 6299916880513357944
+    second: 2-chillis2_5
+  - first:
+      213: -4956195923110576171
+    second: 2-chillis2_6
+  - first:
+      213: -661507387295886145
+    second: 2-chillis2_7
+  - first:
+      213: -2690749436836784938
+    second: 2-chillis2_8
+  - first:
+      213: -2578762952136367293
+    second: 2-chillis2_9
+  - first:
+      213: 4173269392316680508
+    second: 2-chillis2_10
+  - first:
+      213: 8442083097433711438
+    second: 2-chillis2_11
+  - first:
+      213: 5765063925636284668
+    second: 2-chillis2_12
+  - first:
+      213: 9056980830748228856
+    second: 2-chillis2_13
+  - first:
+      213: 7050570630099669444
+    second: 2-chillis2_14
+  - first:
+      213: -4714149918110341363
+    second: 2-chillis2_15
+  - first:
+      213: -8733392737504007174
+    second: 2-chillis2_16
+  - first:
+      213: 5500433353463729931
+    second: 2-chillis2_17
+  - first:
+      213: 5904671048157503437
+    second: 2-chillis2_18
+  - first:
+      213: -2998707659513907598
+    second: 2-chillis2_19
+  - first:
+      213: 8546030602685138660
+    second: 2-chillis2_20
+  - first:
+      213: 8724751618706998206
+    second: 2-chillis2_21
+  - first:
+      213: 2865003634776397273
+    second: 2-chillis2_22
+  - first:
+      213: 3451336186395821410
+    second: 2-chillis2_23
+  - first:
+      213: -4204103442067183718
+    second: 2-chillis2_24
+  - first:
+      213: -1498687005764505944
+    second: 2-chillis2_25
+  - first:
+      213: 6647091412841631949
+    second: 2-chillis2_26
+  - first:
+      213: 6053021518505887333
+    second: 2-chillis2_27
+  - first:
+      213: 4464438976699201017
+    second: 2-chillis2_28
+  - first:
+      213: -981847430130600735
+    second: 2-chillis2_29
+  - first:
+      213: 6434681453029040068
+    second: 2-chillis2_30
+  - first:
+      213: -3470492575833406016
+    second: 2-chillis2_31
+  - first:
+      213: -4439895899373029780
+    second: 2-chillis2_32
+  - first:
+      213: 1965749408462170945
+    second: 2-chillis2_33
+  - first:
+      213: -4145789740300610685
+    second: 2-chillis2_34
+  - first:
+      213: -4439662014237022913
+    second: 2-chillis2_35
+  - first:
+      213: 1121320340735884094
+    second: 2-chillis2_36
+  - first:
+      213: -8147280746619496759
+    second: 2-chillis2_37
+  - first:
+      213: -5269652722125572019
+    second: 2-chillis2_38
+  - first:
+      213: -8706187678927911273
+    second: 2-chillis2_39
+  - first:
+      213: 2422151250668508821
+    second: 2-chillis2_40
+  - first:
+      213: -7083702227017315538
+    second: 2-chillis2_41
+  - first:
+      213: 1082893837587382027
+    second: 2-chillis2_42
+  - first:
+      213: -3515162014953758446
+    second: 2-chillis2_43
+  - first:
+      213: -3458033274153985585
+    second: 2-chillis2_44
+  - first:
+      213: -802358706439926408
+    second: 2-chillis2_45
+  - first:
+      213: 9040263774805828150
+    second: 2-chillis2_46
+  - first:
+      213: 4044240577073637878
+    second: 2-chillis2_47
+  - first:
+      213: -6430178663045549890
+    second: 2-chillis2_48
+  - first:
+      213: -5279025174645140584
+    second: 2-chillis2_49
+  - first:
+      213: 5735444661305575633
+    second: 2-chillis2_50
+  - first:
+      213: -8569727828597253398
+    second: 2-chillis2_51
+  - first:
+      213: -4425618650312519369
+    second: 2-chillis2_52
+  - first:
+      213: 5731478329868773074
+    second: 2-chillis2_53
+  - first:
+      213: 7400993795038524322
+    second: 2-chillis2_54
+  - first:
+      213: 845759547745347602
+    second: 2-chillis2_55
+  - first:
+      213: 5959113858204171467
+    second: 2-chillis2_56
+  - first:
+      213: -2585146284733571638
+    second: 2-chillis2_57
+  - first:
+      213: 1912342529753302331
+    second: 2-chillis2_58
+  - first:
+      213: 3278113029817222441
+    second: 2-chillis2_59
+  - first:
+      213: -249158145072028317
+    second: 2-chillis2_60
+  - first:
+      213: -93677617925347674
+    second: 2-chillis2_61
+  - first:
+      213: -2950851521158344220
+    second: 2-chillis2_62
+  - first:
+      213: 8587970145901816008
+    second: 2-chillis2_63
+  - first:
+      213: -6086521882138502115
+    second: 2-chillis2_64
+  - first:
+      213: -4327632446596189846
+    second: 2-chillis2_65
+  - first:
+      213: -208583971493082074
+    second: 2-chillis2_66
+  - first:
+      213: 936864882937055713
+    second: 2-chillis2_67
+  - first:
+      213: -5571830602311264383
+    second: 2-chillis2_68
+  - first:
+      213: -6616718899365138368
+    second: 2-chillis2_69
+  - first:
+      213: 8857895897716241727
+    second: 2-chillis2_70
+  - first:
+      213: 838852233901357197
+    second: 2-chillis2_71
+  - first:
+      213: -6600674829140696069
+    second: 2-chillis2_72
+  - first:
+      213: 3412695266551470764
+    second: 2-chillis2_73
+  - first:
+      213: 1908245363250693937
+    second: 2-chillis2_74
+  - first:
+      213: 7463805235823444138
+    second: 2-chillis2_75
+  - first:
+      213: 3427223717354103939
+    second: 2-chillis2_76
+  - first:
+      213: -1708569103346735302
+    second: 2-chillis2_77
+  - first:
+      213: 2095678102585507458
+    second: 2-chillis2_78
+  - first:
+      213: -1154797886819071474
+    second: 2-chillis2_79
+  - first:
+      213: -3398133561891372111
+    second: 2-chillis2_80
+  - first:
+      213: 6395747959787185806
+    second: 2-chillis2_81
+  - first:
+      213: -924188647459661657
+    second: 2-chillis2_82
+  - first:
+      213: -5986193472036202030
+    second: 2-chillis2_83
+  - first:
+      213: 506067017441028517
+    second: 2-chillis2_84
+  - first:
+      213: 786838906670431180
+    second: 2-chillis2_85
+  - first:
+      213: -7180065464222082627
+    second: 2-chillis2_86
+  - first:
+      213: -4261806058871293722
+    second: 2-chillis2_87
+  - first:
+      213: -749243938934993000
+    second: 2-chillis2_88
+  - first:
+      213: 6461391653587097700
+    second: 2-chillis2_89
+  - first:
+      213: -6768409368737007788
+    second: 2-chillis2_90
+  - first:
+      213: -8352541448375432905
+    second: 2-chillis2_91
+  - first:
+      213: -5425272181351852643
+    second: 2-chillis2_92
+  - first:
+      213: 2933850870061488641
+    second: 2-chillis2_93
+  - first:
+      213: -3793957176678052333
+    second: 2-chillis2_94
+  - first:
+      213: -8809125645696403795
+    second: 2-chillis2_95
+  - first:
+      213: -9012442885549770823
+    second: 2-chillis2_96
+  - first:
+      213: -7493955978548857748
+    second: 2-chillis2_97
+  - first:
+      213: 6440128509205191898
+    second: 2-chillis2_98
+  - first:
+      213: -2327158278127508135
+    second: 2-chillis2_99
+  - first:
+      213: 6030111984415031856
+    second: 2-chillis2_100
+  - first:
+      213: 5543106967992806255
+    second: 2-chillis2_101
+  - first:
+      213: 335254615087403212
+    second: 2-chillis2_102
+  - first:
+      213: 7797405540439026099
+    second: 2-chillis2_103
+  - first:
+      213: -4705121629879697705
+    second: 2-chillis2_104
+  - first:
+      213: -3157262590525925622
+    second: 2-chillis2_105
+  - first:
+      213: -7120100977278013337
+    second: 2-chillis2_106
+  - first:
+      213: 7183107587433722531
+    second: 2-chillis2_107
+  - first:
+      213: -2141159175701021387
+    second: 2-chillis2_108
+  - first:
+      213: -154913111892513420
+    second: 2-chillis2_109
+  - first:
+      213: -1869579368115720235
+    second: 2-chillis2_110
+  - first:
+      213: 426675203093725458
+    second: 2-chillis2_111
+  - first:
+      213: -7690561257605906236
+    second: 2-chillis2_112
+  - first:
+      213: -8368009358285250207
+    second: 2-chillis2_113
+  - first:
+      213: 280228333889860988
+    second: 2-chillis2_114
+  - first:
+      213: -6327783495926841074
+    second: 2-chillis2_115
+  - first:
+      213: 3970442630577711314
+    second: 2-chillis2_116
+  - first:
+      213: 468462895614403530
+    second: 2-chillis2_117
+  - first:
+      213: 2535585189570652820
+    second: 2-chillis2_118
+  - first:
+      213: 1551862413336873479
+    second: 2-chillis2_119
+  - first:
+      213: -8004614200391274010
+    second: 2-chillis2_120
+  - first:
+      213: -6405133750781576340
+    second: 2-chillis2_121
+  - first:
+      213: -1148905673039292011
+    second: 2-chillis2_122
+  - first:
+      213: -4958354926001953344
+    second: 2-chillis2_123
+  - first:
+      213: -8333342617715093801
+    second: 2-chillis2_124
+  - first:
+      213: 5860014032452735581
+    second: 2-chillis2_125
+  - first:
+      213: -1345309626844421755
+    second: 2-chillis2_126
+  - first:
+      213: -555278603831261110
+    second: 2-chillis2_127
+  - first:
+      213: -2541889011918008680
+    second: 2-chillis2_128
+  - first:
+      213: 4371782316212173306
+    second: 2-chillis2_129
+  - first:
+      213: -8481284665481279840
+    second: 2-chillis2_130
+  - first:
+      213: -3449016554222602382
+    second: 2-chillis2_131
+  - first:
+      213: 909384071316268864
+    second: 2-chillis2_132
+  - first:
+      213: 4471506721804764717
+    second: 2-chillis2_133
+  - first:
+      213: -5675165598173939812
+    second: 2-chillis2_134
+  - first:
+      213: -5646855484920398755
+    second: 2-chillis2_135
+  - first:
+      213: 1683513621130505816
+    second: 2-chillis2_136
+  - first:
+      213: -9071585355134999668
+    second: 2-chillis2_137
+  - first:
+      213: 2385712767134449932
+    second: 2-chillis2_138
+  - first:
+      213: 2223260759432189568
+    second: 2-chillis2_139
+  - first:
+      213: -2551670683390046702
+    second: 2-chillis2_140
+  - first:
+      213: 8986459768521062902
+    second: 2-chillis2_141
+  - first:
+      213: -966775514637051308
+    second: 2-chillis2_142
+  - first:
+      213: -6847845385622649243
+    second: 2-chillis2_143
+  - first:
+      213: -4935773201930880443
+    second: 2-chillis2_144
+  - first:
+      213: 3099952998087482343
+    second: 2-chillis2_145
+  - first:
+      213: 2273042581917895054
+    second: 2-chillis2_146
+  - first:
+      213: -2771997381979040942
+    second: 2-chillis2_147
+  - first:
+      213: -1825822929838295748
+    second: 2-chillis2_148
+  - first:
+      213: 5833323732180583811
+    second: 2-chillis2_149
+  - first:
+      213: -6797123813792039514
+    second: 2-chillis2_150
+  - first:
+      213: 4209781800278961564
+    second: 2-chillis2_151
+  - first:
+      213: 1865524441585050775
+    second: 2-chillis2_152
+  - first:
+      213: -5236687891062501247
+    second: 2-chillis2_153
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 2-chillis2_0
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 2059
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 072d44c97b16e60b0800000000000000
+      internalID: -5733537834367397264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-chillis2_1
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 1664
+        width: 423
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3d056086aa42d340800000000000000
+      internalID: 4887050624629542205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-chillis2_2
+      rect:
+        serializedVersion: 2
+        x: 1590
+        y: 1849
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c5087ec171b21010800000000000000
+      internalID: 1158183156541031881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-chillis2_3
+      rect:
+        serializedVersion: 2
+        x: 1599
+        y: 1849
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec99efc00aebaf420800000000000000
+      internalID: 2664651724165126606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-chillis2_4
+      rect:
+        serializedVersion: 2
+        x: 1606
+        y: 1847
+        width: 39
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 978200d4cfe47e9e0800000000000000
+      internalID: -1592217097721599879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-chillis2_5
+      rect:
+        serializedVersion: 2
+        x: 1711
+        y: 1542
+        width: 512
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8785c71460dcd6750800000000000000
+      internalID: 6299916880513357944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-chillis2_6
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 1653
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5df31c5211e083bb0800000000000000
+      internalID: -4956195923110576171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-chillis2_7
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 1672
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb49eeb398ad1d6f0800000000000000
+      internalID: -661507387295886145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-chillis2_8
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 1668
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d4d2c5b4a988aad0800000000000000
+      internalID: -2690749436836784938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-chillis2_9
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 1448
+        width: 515
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34369f502c4663cd0800000000000000
+      internalID: -2578762952136367293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-chillis2_10
+      rect:
+        serializedVersion: 2
+        x: 2354
+        y: 1444
+        width: 507
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c39cb01c66e6ae930800000000000000
+      internalID: 4173269392316680508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-chillis2_11
+      rect:
+        serializedVersion: 2
+        x: 2852
+        y: 1679
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e43adda59dd482570800000000000000
+      internalID: 8442083097433711438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-chillis2_12
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 1644
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf048f2881f910050800000000000000
+      internalID: 5765063925636284668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-chillis2_13
+      rect:
+        serializedVersion: 2
+        x: 2847
+        y: 1656
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fc3542641cd0bd70800000000000000
+      internalID: 9056980830748228856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-chillis2_14
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 1516
+        width: 69
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c194eee1a8a8d160800000000000000
+      internalID: 7050570630099669444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-chillis2_15
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 1484
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d07a81940a9f39eb0800000000000000
+      internalID: -4714149918110341363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-chillis2_16
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 1538
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afbe815a391ccc680800000000000000
+      internalID: -8733392737504007174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-chillis2_17
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 1575
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0f8aef0ef6755c40800000000000000
+      internalID: 5500433353463729931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-chillis2_18
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1564
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcf16f4b80b91f150800000000000000
+      internalID: 5904671048157503437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-chillis2_19
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1518
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2763e6185437266d0800000000000000
+      internalID: -2998707659513907598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-chillis2_20
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 1491
+        width: 9
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e64aa8ed89999670800000000000000
+      internalID: 8546030602685138660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-chillis2_21
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 1562
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb38b8a1f5b841970800000000000000
+      internalID: 8724751618706998206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-chillis2_22
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 1112
+        width: 386
+        height: 408
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d5dc0b50a982c720800000000000000
+      internalID: 2865003634776397273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-chillis2_23
+      rect:
+        serializedVersion: 2
+        x: 2233
+        y: 1541
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 265039eb9fb95ef20800000000000000
+      internalID: 3451336186395821410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-chillis2_24
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1506
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a97a698913608a5c0800000000000000
+      internalID: -4204103442067183718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-chillis2_25
+      rect:
+        serializedVersion: 2
+        x: 2061
+        y: 938
+        width: 685
+        height: 532
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8aea9efcb18933be0800000000000000
+      internalID: -1498687005764505944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-chillis2_26
+      rect:
+        serializedVersion: 2
+        x: 2412
+        y: 1458
+        width: 34
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc099f31c663f3c50800000000000000
+      internalID: 6647091412841631949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-chillis2_27
+      rect:
+        serializedVersion: 2
+        x: 2615
+        y: 1456
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 566c6543007a00450800000000000000
+      internalID: 6053021518505887333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-chillis2_28
+      rect:
+        serializedVersion: 2
+        x: 2682
+        y: 1451
+        width: 31
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f5709f789fd4fd30800000000000000
+      internalID: 4464438976699201017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-chillis2_29
+      rect:
+        serializedVersion: 2
+        x: 2785
+        y: 1454
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e47f6fd6f6cf52f0800000000000000
+      internalID: -981847430130600735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-chillis2_30
+      rect:
+        serializedVersion: 2
+        x: 1328
+        y: 1283
+        width: 424
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cf179a60b49c4950800000000000000
+      internalID: 6434681453029040068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-chillis2_31
+      rect:
+        serializedVersion: 2
+        x: 1959
+        y: 1314
+        width: 43
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c5c1d5c36556dfc0800000000000000
+      internalID: -3470492575833406016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-chillis2_32
+      rect:
+        serializedVersion: 2
+        x: 2669
+        y: 1061
+        width: 353
+        height: 317
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c66382ef3325262c0800000000000000
+      internalID: -4439895899373029780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-chillis2_33
+      rect:
+        serializedVersion: 2
+        x: 1790
+        y: 1017
+        width: 311
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14b62d80caeb74b10800000000000000
+      internalID: 1965749408462170945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-chillis2_34
+      rect:
+        serializedVersion: 2
+        x: 2027
+        y: 1285
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3835cef42323776c0800000000000000
+      internalID: -4145789740300610685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-chillis2_35
+      rect:
+        serializedVersion: 2
+        x: 1687
+        y: 1229
+        width: 28
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f356b9e9be62362c0800000000000000
+      internalID: -4439662014237022913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-chillis2_36
+      rect:
+        serializedVersion: 2
+        x: 3003
+        y: 1217
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3b7bfca8eabf8f00800000000000000
+      internalID: 1121320340735884094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-chillis2_37
+      rect:
+        serializedVersion: 2
+        x: 3004
+        y: 1206
+        width: 50
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c69d5cb35b0fee80800000000000000
+      internalID: -8147280746619496759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-chillis2_38
+      rect:
+        serializedVersion: 2
+        x: 3010
+        y: 1205
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d48f800e4ce6ed6b0800000000000000
+      internalID: -5269652722125572019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-chillis2_39
+      rect:
+        serializedVersion: 2
+        x: 3016
+        y: 1197
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7968e91fe686d2780800000000000000
+      internalID: -8706187678927911273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-chillis2_40
+      rect:
+        serializedVersion: 2
+        x: 3022
+        y: 1214
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5965d58bab53d9120800000000000000
+      internalID: 2422151250668508821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-chillis2_41
+      rect:
+        serializedVersion: 2
+        x: 3027
+        y: 1187
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2b4df70b52a1bd90800000000000000
+      internalID: -7083702227017315538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-chillis2_42
+      rect:
+        serializedVersion: 2
+        x: 1763
+        y: 1184
+        width: 38
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0ffad63536370f00800000000000000
+      internalID: 1082893837587382027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-chillis2_43
+      rect:
+        serializedVersion: 2
+        x: 1780
+        y: 1175
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2112cb285c2a73fc0800000000000000
+      internalID: -3515162014953758446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-chillis2_44
+      rect:
+        serializedVersion: 2
+        x: 1786
+        y: 1163
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc912900f099200d0800000000000000
+      internalID: -3458033274153985585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-chillis2_45
+      rect:
+        serializedVersion: 2
+        x: 3016
+        y: 1175
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87dc430f1037dd4f0800000000000000
+      internalID: -802358706439926408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-chillis2_46
+      rect:
+        serializedVersion: 2
+        x: 1773
+        y: 1159
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 632222d7108757d70800000000000000
+      internalID: 9040263774805828150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-chillis2_47
+      rect:
+        serializedVersion: 2
+        x: 1775
+        y: 1151
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f9e1b6a067002830800000000000000
+      internalID: 4044240577073637878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-chillis2_48
+      rect:
+        serializedVersion: 2
+        x: 1785
+        y: 1159
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb0bfd2139a63c6a0800000000000000
+      internalID: -6430178663045549890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-chillis2_49
+      rect:
+        serializedVersion: 2
+        x: 1785
+        y: 1142
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8939ee8b2922db6b0800000000000000
+      internalID: -5279025174645140584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-chillis2_50
+      rect:
+        serializedVersion: 2
+        x: 1790
+        y: 1159
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d887022884689f40800000000000000
+      internalID: 5735444661305575633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-chillis2_51
+      rect:
+        serializedVersion: 2
+        x: 2728
+        y: 1151
+        width: 32
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aea5eaab1f5321980800000000000000
+      internalID: -8569727828597253398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-chillis2_52
+      rect:
+        serializedVersion: 2
+        x: 2790
+        y: 1157
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73157c4194b0592c0800000000000000
+      internalID: -4425618650312519369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-chillis2_53
+      rect:
+        serializedVersion: 2
+        x: 2797
+        y: 1153
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d66da1ac2d4a8f40800000000000000
+      internalID: 5731478329868773074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-chillis2_54
+      rect:
+        serializedVersion: 2
+        x: 2804
+        y: 1148
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a3342af4ac95b660800000000000000
+      internalID: 7400993795038524322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-chillis2_55
+      rect:
+        serializedVersion: 2
+        x: 2883
+        y: 1159
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 218a1c0e3ddbcbb00800000000000000
+      internalID: 845759547745347602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-chillis2_56
+      rect:
+        serializedVersion: 2
+        x: 2912
+        y: 1156
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bccfd563b7603b250800000000000000
+      internalID: 5959113858204171467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-chillis2_57
+      rect:
+        serializedVersion: 2
+        x: 2918
+        y: 1144
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acdd8069627bf1cd0800000000000000
+      internalID: -2585146284733571638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-chillis2_58
+      rect:
+        serializedVersion: 2
+        x: 2930
+        y: 1155
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3541d616610a8a10800000000000000
+      internalID: 1912342529753302331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-chillis2_59
+      rect:
+        serializedVersion: 2
+        x: 2944
+        y: 1154
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 925c5d3be623e7d20800000000000000
+      internalID: 3278113029817222441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-chillis2_60
+      rect:
+        serializedVersion: 2
+        x: 2949
+        y: 1157
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3652616bcffca8cf0800000000000000
+      internalID: -249158145072028317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-chillis2_61
+      rect:
+        serializedVersion: 2
+        x: 2963
+        y: 1153
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a6a72ce3b033bef0800000000000000
+      internalID: -93677617925347674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-chillis2_62
+      rect:
+        serializedVersion: 2
+        x: 2963
+        y: 1112
+        width: 51
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e19f600d287c07d0800000000000000
+      internalID: -2950851521158344220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-chillis2_63
+      rect:
+        serializedVersion: 2
+        x: 2867
+        y: 1148
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c82320c8599e2770800000000000000
+      internalID: 8587970145901816008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-chillis2_64
+      rect:
+        serializedVersion: 2
+        x: 2951
+        y: 1147
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1c1e719894588ba0800000000000000
+      internalID: -6086521882138502115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-chillis2_65
+      rect:
+        serializedVersion: 2
+        x: 1779
+        y: 1118
+        width: 37
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a61fd26f73921f3c0800000000000000
+      internalID: -4327632446596189846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-chillis2_66
+      rect:
+        serializedVersion: 2
+        x: 2744
+        y: 1138
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62c8059abf5fa1df0800000000000000
+      internalID: -208583971493082074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-chillis2_67
+      rect:
+        serializedVersion: 2
+        x: 2867
+        y: 1137
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e94006b5a9600d00800000000000000
+      internalID: 936864882937055713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-chillis2_68
+      rect:
+        serializedVersion: 2
+        x: 2902
+        y: 1131
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18716988691eca2b0800000000000000
+      internalID: -5571830602311264383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-chillis2_69
+      rect:
+        serializedVersion: 2
+        x: 1783
+        y: 1122
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0403ab8c731bc24a0800000000000000
+      internalID: -6616718899365138368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-chillis2_70
+      rect:
+        serializedVersion: 2
+        x: 1789
+        y: 1117
+        width: 21
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3534c843619dea70800000000000000
+      internalID: 8857895897716241727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-chillis2_71
+      rect:
+        serializedVersion: 2
+        x: 2755
+        y: 1118
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d88bbbc89a334ab00800000000000000
+      internalID: 838852233901357197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-chillis2_72
+      rect:
+        serializedVersion: 2
+        x: 2775
+        y: 1125
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf3e43bf631b564a0800000000000000
+      internalID: -6600674829140696069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-chillis2_73
+      rect:
+        serializedVersion: 2
+        x: 1785
+        y: 1095
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caa157183445c5f20800000000000000
+      internalID: 3412695266551470764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-chillis2_74
+      rect:
+        serializedVersion: 2
+        x: 1796
+        y: 1109
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13708dc2c037b7a10800000000000000
+      internalID: 1908245363250693937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-chillis2_75
+      rect:
+        serializedVersion: 2
+        x: 1796
+        y: 1095
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa005f92153c49760800000000000000
+      internalID: 7463805235823444138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-chillis2_76
+      rect:
+        serializedVersion: 2
+        x: 1798
+        y: 1087
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3846fae00d1ff8f20800000000000000
+      internalID: 3427223717354103939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-chillis2_77
+      rect:
+        serializedVersion: 2
+        x: 1803
+        y: 1099
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a376fc0f371f948e0800000000000000
+      internalID: -1708569103346735302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-chillis2_78
+      rect:
+        serializedVersion: 2
+        x: 2747
+        y: 1111
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28e7c248128551d10800000000000000
+      internalID: 2095678102585507458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-chillis2_79
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 759
+        width: 369
+        height: 334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0a07c8b07559ffe0800000000000000
+      internalID: -1154797886819071474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-chillis2_80
+      rect:
+        serializedVersion: 2
+        x: 2770
+        y: 842
+        width: 312
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b3c120978767d0d0800000000000000
+      internalID: -3398133561891372111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-chillis2_81
+      rect:
+        serializedVersion: 2
+        x: 2939
+        y: 1081
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e866b0022e242c850800000000000000
+      internalID: 6395747959787185806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-chillis2_82
+      rect:
+        serializedVersion: 2
+        x: 1367
+        y: 689
+        width: 471
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a8d7ba525f9c23f0800000000000000
+      internalID: -924188647459661657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-chillis2_83
+      rect:
+        serializedVersion: 2
+        x: 1857
+        y: 1030
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d9158ed0c4cceca0800000000000000
+      internalID: -5986193472036202030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-chillis2_84
+      rect:
+        serializedVersion: 2
+        x: 3141
+        y: 1014
+        width: 69
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a92d176549e50700800000000000000
+      internalID: 506067017441028517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-chillis2_85
+      rect:
+        serializedVersion: 2
+        x: 1819
+        y: 1019
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccb3c8711d96bea00800000000000000
+      internalID: 786838906670431180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-chillis2_86
+      rect:
+        serializedVersion: 2
+        x: 1599
+        y: 968
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db91efc70884b5c90800000000000000
+      internalID: -7180065464222082627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-chillis2_87
+      rect:
+        serializedVersion: 2
+        x: 2075
+        y: 734
+        width: 462
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e87e5f28f50bd4c0800000000000000
+      internalID: -4261806058871293722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-chillis2_88
+      rect:
+        serializedVersion: 2
+        x: 2788
+        y: 898
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89f4aa17b962a95f0800000000000000
+      internalID: -749243938934993000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-chillis2_89
+      rect:
+        serializedVersion: 2
+        x: 2795
+        y: 903
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4689bba99797ba950800000000000000
+      internalID: 6461391653587097700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-chillis2_90
+      rect:
+        serializedVersion: 2
+        x: 2822
+        y: 908
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 457310a2a87c112a0800000000000000
+      internalID: -6768409368737007788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-chillis2_91
+      rect:
+        serializedVersion: 2
+        x: 2814
+        y: 900
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7390bdd6ecfc51c80800000000000000
+      internalID: -8352541448375432905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-chillis2_92
+      rect:
+        serializedVersion: 2
+        x: 3033
+        y: 895
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d95d6b402bf85b4b0800000000000000
+      internalID: -5425272181351852643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-chillis2_93
+      rect:
+        serializedVersion: 2
+        x: 1813
+        y: 890
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10a5cf572d127b820800000000000000
+      internalID: 2933850870061488641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-chillis2_94
+      rect:
+        serializedVersion: 2
+        x: 1808
+        y: 841
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31e8f0f8c08295bc0800000000000000
+      internalID: -3793957176678052333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-chillis2_95
+      rect:
+        serializedVersion: 2
+        x: 3331
+        y: 859
+        width: 40
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da67b72e5e2bfb580800000000000000
+      internalID: -8809125645696403795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-chillis2_96
+      rect:
+        serializedVersion: 2
+        x: 1832
+        y: 799
+        width: 38
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b73f4012fe5de280800000000000000
+      internalID: -9012442885549770823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-chillis2_97
+      rect:
+        serializedVersion: 2
+        x: 1840
+        y: 851
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c643e200ebe100890800000000000000
+      internalID: -7493955978548857748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-chillis2_98
+      rect:
+        serializedVersion: 2
+        x: 1848
+        y: 847
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adc9a0302ceef5950800000000000000
+      internalID: 6440128509205191898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-chillis2_99
+      rect:
+        serializedVersion: 2
+        x: 1826
+        y: 826
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 955a91830e544bfd0800000000000000
+      internalID: -2327158278127508135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-chillis2_100
+      rect:
+        serializedVersion: 2
+        x: 2956
+        y: 830
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03242e2a6e24fa350800000000000000
+      internalID: 6030111984415031856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-chillis2_101
+      rect:
+        serializedVersion: 2
+        x: 2958
+        y: 823
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6b24333b621dec40800000000000000
+      internalID: 5543106967992806255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-chillis2_102
+      rect:
+        serializedVersion: 2
+        x: 1812
+        y: 822
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc05891db4017a400800000000000000
+      internalID: 335254615087403212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-chillis2_103
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 815
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b9e78fc603f53c60800000000000000
+      internalID: 7797405540439026099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-chillis2_104
+      rect:
+        serializedVersion: 2
+        x: 1838
+        y: 817
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7de73027ecc04beb0800000000000000
+      internalID: -4705121629879697705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-chillis2_105
+      rect:
+        serializedVersion: 2
+        x: 2962
+        y: 809
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a07921dd6662f24d0800000000000000
+      internalID: -3157262590525925622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-chillis2_106
+      rect:
+        serializedVersion: 2
+        x: 1806
+        y: 808
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 760be6492e1503d90800000000000000
+      internalID: -7120100977278013337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-chillis2_107
+      rect:
+        serializedVersion: 2
+        x: 1815
+        y: 805
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a276640b468fa360800000000000000
+      internalID: 7183107587433722531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-chillis2_108
+      rect:
+        serializedVersion: 2
+        x: 1818
+        y: 810
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53db5c4f2131942e0800000000000000
+      internalID: -2141159175701021387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-chillis2_109
+      rect:
+        serializedVersion: 2
+        x: 1823
+        y: 803
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47da8927853a9ddf0800000000000000
+      internalID: -154913111892513420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-chillis2_110
+      rect:
+        serializedVersion: 2
+        x: 1812
+        y: 800
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5df201c587bed06e0800000000000000
+      internalID: -1869579368115720235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-chillis2_111
+      rect:
+        serializedVersion: 2
+        x: 1817
+        y: 795
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2118eda26dadbe500800000000000000
+      internalID: 426675203093725458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-chillis2_112
+      rect:
+        serializedVersion: 2
+        x: 1827
+        y: 790
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c0c4055843a54590800000000000000
+      internalID: -7690561257605906236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-chillis2_113
+      rect:
+        serializedVersion: 2
+        x: 1814
+        y: 776
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 161634203dbdedb80800000000000000
+      internalID: -8368009358285250207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-chillis2_114
+      rect:
+        serializedVersion: 2
+        x: 1834
+        y: 785
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7531895f2293e300800000000000000
+      internalID: 280228333889860988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-chillis2_115
+      rect:
+        serializedVersion: 2
+        x: 1538
+        y: 759
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0183bdbf623f28a0800000000000000
+      internalID: -6327783495926841074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-chillis2_116
+      rect:
+        serializedVersion: 2
+        x: 1580
+        y: 758
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d8e6a44988d91730800000000000000
+      internalID: 3970442630577711314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-chillis2_117
+      rect:
+        serializedVersion: 2
+        x: 1588
+        y: 755
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac32c838580508600800000000000000
+      internalID: 468462895614403530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-chillis2_118
+      rect:
+        serializedVersion: 2
+        x: 1594
+        y: 757
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49aa91abb45303320800000000000000
+      internalID: 2535585189570652820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-chillis2_119
+      rect:
+        serializedVersion: 2
+        x: 1683
+        y: 760
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70a893f84a2598510800000000000000
+      internalID: 1551862413336873479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-chillis2_120
+      rect:
+        serializedVersion: 2
+        x: 1693
+        y: 763
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e171a58bc5e9e090800000000000000
+      internalID: -8004614200391274010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-chillis2_121
+      rect:
+        serializedVersion: 2
+        x: 1758
+        y: 758
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6b7ccd1ac46c17a0800000000000000
+      internalID: -6405133750781576340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-chillis2_122
+      rect:
+        serializedVersion: 2
+        x: 1790
+        y: 764
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 599df06a0644e00f0800000000000000
+      internalID: -1148905673039292011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-chillis2_123
+      rect:
+        serializedVersion: 2
+        x: 1443
+        y: 750
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c5685d1772603bb0800000000000000
+      internalID: -4958354926001953344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-chillis2_124
+      rect:
+        serializedVersion: 2
+        x: 1528
+        y: 746
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dec7778a050a5c80800000000000000
+      internalID: -8333342617715093801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-chillis2_125
+      rect:
+        serializedVersion: 2
+        x: 1587
+        y: 748
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d52562ff6b3f25150800000000000000
+      internalID: 5860014032452735581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-chillis2_126
+      rect:
+        serializedVersion: 2
+        x: 1799
+        y: 753
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 581660ba500845de0800000000000000
+      internalID: -1345309626844421755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-chillis2_127
+      rect:
+        serializedVersion: 2
+        x: 1695
+        y: 744
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4843434d014b48f0800000000000000
+      internalID: -555278603831261110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-chillis2_128
+      rect:
+        serializedVersion: 2
+        x: 1697
+        y: 738
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89e8822496569bcd0800000000000000
+      internalID: -2541889011918008680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-chillis2_129
+      rect:
+        serializedVersion: 2
+        x: 1677
+        y: 711
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af939299ad0bbac30800000000000000
+      internalID: 4371782316212173306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-chillis2_130
+      rect:
+        serializedVersion: 2
+        x: 1679
+        y: 706
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a64503588c6c4a80800000000000000
+      internalID: -8481284665481279840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-chillis2_131
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 610
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 277be15b7b1a220d0800000000000000
+      internalID: -3449016554222602382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-chillis2_132
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 640
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0476437aef7ce9c00800000000000000
+      internalID: 909384071316268864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-chillis2_133
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 636
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d26c1f32cabfd0e30800000000000000
+      internalID: 4471506721804764717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-chillis2_134
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 481
+        width: 119
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c97335fe4f2cd31b0800000000000000
+      internalID: -5675165598173939812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-chillis2_135
+      rect:
+        serializedVersion: 2
+        x: 1238
+        y: 324
+        width: 366
+        height: 362
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5c7a53dad652a1b0800000000000000
+      internalID: -5646855484920398755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-chillis2_136
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 620
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85ee30208ba0d5710800000000000000
+      internalID: 1683513621130505816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-chillis2_137
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 616
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c83ea8dce214b1280800000000000000
+      internalID: -9071585355134999668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-chillis2_138
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 611
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c01c9252f11cb1120800000000000000
+      internalID: 2385712767134449932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-chillis2_139
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 602
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0865501a1eb9ade10800000000000000
+      internalID: 2223260759432189568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-chillis2_140
+      rect:
+        serializedVersion: 2
+        x: 2945
+        y: 584
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21e02c46805a69cd0800000000000000
+      internalID: -2551670683390046702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-chillis2_141
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 522
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f979031c8156bc70800000000000000
+      internalID: 8986459768521062902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-chillis2_142
+      rect:
+        serializedVersion: 2
+        x: 3002
+        y: 541
+        width: 139
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45a5388aac25592f0800000000000000
+      internalID: -966775514637051308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-chillis2_143
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 507
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5660a2937e097f0a0800000000000000
+      internalID: -6847845385622649243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-chillis2_144
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 432
+        width: 58
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54a74077c6c908bb0800000000000000
+      internalID: -4935773201930880443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-chillis2_145
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 65
+        width: 519
+        height: 333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7eb5967d3de350b20800000000000000
+      internalID: 3099952998087482343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-chillis2_146
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 398
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e898d866f287b8f10800000000000000
+      internalID: 2273042581917895054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-chillis2_147
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 133
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25393d85113e789d0800000000000000
+      internalID: -2771997381979040942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-chillis2_148
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 148
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c35b93c08bf59a6e0800000000000000
+      internalID: -1825822929838295748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-chillis2_149
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 144
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 385ca74370124f050800000000000000
+      internalID: 5833323732180583811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-chillis2_150
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 145
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6adb39077e3cba1a0800000000000000
+      internalID: -6797123813792039514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-chillis2_151
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 119
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9d28833e362c6a30800000000000000
+      internalID: 4209781800278961564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-chillis2_152
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 133
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7946c7c789ca3e910800000000000000
+      internalID: 1865524441585050775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-chillis2_153
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 116
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18051a5bb1c8357b0800000000000000
+      internalID: -5236687891062501247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      2-chillis2_0: -5733537834367397264
+      2-chillis2_1: 4887050624629542205
+      2-chillis2_10: 4173269392316680508
+      2-chillis2_100: 6030111984415031856
+      2-chillis2_101: 5543106967992806255
+      2-chillis2_102: 335254615087403212
+      2-chillis2_103: 7797405540439026099
+      2-chillis2_104: -4705121629879697705
+      2-chillis2_105: -3157262590525925622
+      2-chillis2_106: -7120100977278013337
+      2-chillis2_107: 7183107587433722531
+      2-chillis2_108: -2141159175701021387
+      2-chillis2_109: -154913111892513420
+      2-chillis2_11: 8442083097433711438
+      2-chillis2_110: -1869579368115720235
+      2-chillis2_111: 426675203093725458
+      2-chillis2_112: -7690561257605906236
+      2-chillis2_113: -8368009358285250207
+      2-chillis2_114: 280228333889860988
+      2-chillis2_115: -6327783495926841074
+      2-chillis2_116: 3970442630577711314
+      2-chillis2_117: 468462895614403530
+      2-chillis2_118: 2535585189570652820
+      2-chillis2_119: 1551862413336873479
+      2-chillis2_12: 5765063925636284668
+      2-chillis2_120: -8004614200391274010
+      2-chillis2_121: -6405133750781576340
+      2-chillis2_122: -1148905673039292011
+      2-chillis2_123: -4958354926001953344
+      2-chillis2_124: -8333342617715093801
+      2-chillis2_125: 5860014032452735581
+      2-chillis2_126: -1345309626844421755
+      2-chillis2_127: -555278603831261110
+      2-chillis2_128: -2541889011918008680
+      2-chillis2_129: 4371782316212173306
+      2-chillis2_13: 9056980830748228856
+      2-chillis2_130: -8481284665481279840
+      2-chillis2_131: -3449016554222602382
+      2-chillis2_132: 909384071316268864
+      2-chillis2_133: 4471506721804764717
+      2-chillis2_134: -5675165598173939812
+      2-chillis2_135: -5646855484920398755
+      2-chillis2_136: 1683513621130505816
+      2-chillis2_137: -9071585355134999668
+      2-chillis2_138: 2385712767134449932
+      2-chillis2_139: 2223260759432189568
+      2-chillis2_14: 7050570630099669444
+      2-chillis2_140: -2551670683390046702
+      2-chillis2_141: 8986459768521062902
+      2-chillis2_142: -966775514637051308
+      2-chillis2_143: -6847845385622649243
+      2-chillis2_144: -4935773201930880443
+      2-chillis2_145: 3099952998087482343
+      2-chillis2_146: 2273042581917895054
+      2-chillis2_147: -2771997381979040942
+      2-chillis2_148: -1825822929838295748
+      2-chillis2_149: 5833323732180583811
+      2-chillis2_15: -4714149918110341363
+      2-chillis2_150: -6797123813792039514
+      2-chillis2_151: 4209781800278961564
+      2-chillis2_152: 1865524441585050775
+      2-chillis2_153: -5236687891062501247
+      2-chillis2_16: -8733392737504007174
+      2-chillis2_17: 5500433353463729931
+      2-chillis2_18: 5904671048157503437
+      2-chillis2_19: -2998707659513907598
+      2-chillis2_2: 1158183156541031881
+      2-chillis2_20: 8546030602685138660
+      2-chillis2_21: 8724751618706998206
+      2-chillis2_22: 2865003634776397273
+      2-chillis2_23: 3451336186395821410
+      2-chillis2_24: -4204103442067183718
+      2-chillis2_25: -1498687005764505944
+      2-chillis2_26: 6647091412841631949
+      2-chillis2_27: 6053021518505887333
+      2-chillis2_28: 4464438976699201017
+      2-chillis2_29: -981847430130600735
+      2-chillis2_3: 2664651724165126606
+      2-chillis2_30: 6434681453029040068
+      2-chillis2_31: -3470492575833406016
+      2-chillis2_32: -4439895899373029780
+      2-chillis2_33: 1965749408462170945
+      2-chillis2_34: -4145789740300610685
+      2-chillis2_35: -4439662014237022913
+      2-chillis2_36: 1121320340735884094
+      2-chillis2_37: -8147280746619496759
+      2-chillis2_38: -5269652722125572019
+      2-chillis2_39: -8706187678927911273
+      2-chillis2_4: -1592217097721599879
+      2-chillis2_40: 2422151250668508821
+      2-chillis2_41: -7083702227017315538
+      2-chillis2_42: 1082893837587382027
+      2-chillis2_43: -3515162014953758446
+      2-chillis2_44: -3458033274153985585
+      2-chillis2_45: -802358706439926408
+      2-chillis2_46: 9040263774805828150
+      2-chillis2_47: 4044240577073637878
+      2-chillis2_48: -6430178663045549890
+      2-chillis2_49: -5279025174645140584
+      2-chillis2_5: 6299916880513357944
+      2-chillis2_50: 5735444661305575633
+      2-chillis2_51: -8569727828597253398
+      2-chillis2_52: -4425618650312519369
+      2-chillis2_53: 5731478329868773074
+      2-chillis2_54: 7400993795038524322
+      2-chillis2_55: 845759547745347602
+      2-chillis2_56: 5959113858204171467
+      2-chillis2_57: -2585146284733571638
+      2-chillis2_58: 1912342529753302331
+      2-chillis2_59: 3278113029817222441
+      2-chillis2_6: -4956195923110576171
+      2-chillis2_60: -249158145072028317
+      2-chillis2_61: -93677617925347674
+      2-chillis2_62: -2950851521158344220
+      2-chillis2_63: 8587970145901816008
+      2-chillis2_64: -6086521882138502115
+      2-chillis2_65: -4327632446596189846
+      2-chillis2_66: -208583971493082074
+      2-chillis2_67: 936864882937055713
+      2-chillis2_68: -5571830602311264383
+      2-chillis2_69: -6616718899365138368
+      2-chillis2_7: -661507387295886145
+      2-chillis2_70: 8857895897716241727
+      2-chillis2_71: 838852233901357197
+      2-chillis2_72: -6600674829140696069
+      2-chillis2_73: 3412695266551470764
+      2-chillis2_74: 1908245363250693937
+      2-chillis2_75: 7463805235823444138
+      2-chillis2_76: 3427223717354103939
+      2-chillis2_77: -1708569103346735302
+      2-chillis2_78: 2095678102585507458
+      2-chillis2_79: -1154797886819071474
+      2-chillis2_8: -2690749436836784938
+      2-chillis2_80: -3398133561891372111
+      2-chillis2_81: 6395747959787185806
+      2-chillis2_82: -924188647459661657
+      2-chillis2_83: -5986193472036202030
+      2-chillis2_84: 506067017441028517
+      2-chillis2_85: 786838906670431180
+      2-chillis2_86: -7180065464222082627
+      2-chillis2_87: -4261806058871293722
+      2-chillis2_88: -749243938934993000
+      2-chillis2_89: 6461391653587097700
+      2-chillis2_9: -2578762952136367293
+      2-chillis2_90: -6768409368737007788
+      2-chillis2_91: -8352541448375432905
+      2-chillis2_92: -5425272181351852643
+      2-chillis2_93: 2933850870061488641
+      2-chillis2_94: -3793957176678052333
+      2-chillis2_95: -8809125645696403795
+      2-chillis2_96: -9012442885549770823
+      2-chillis2_97: -7493955978548857748
+      2-chillis2_98: 6440128509205191898
+      2-chillis2_99: -2327158278127508135
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
