@@ -31,8 +31,8 @@ public class ScenePrompt : MonoBehaviour
 
         if (fadeCanvasGroup != null)
         {
-            fadeCanvasGroup.alpha = 0f;
             fadeCanvasGroup.gameObject.SetActive(true);
+            fadeCanvasGroup.alpha = 0f;
         }
     }
 
@@ -52,48 +52,47 @@ public class ScenePrompt : MonoBehaviour
 
         if (Keyboard.current != null && Keyboard.current.eKey.wasPressedThisFrame)
         {
+            Debug.Log("ScenePrompt E pressed on object: " + gameObject.name);
             StartCoroutine(FadeAndLoadNextScene());
         }
     }
 
     private IEnumerator FadeAndLoadNextScene()
     {
+        Debug.Log("Fade coroutine START on: " + gameObject.name);
+
         if (fadeCanvasGroup == null)
         {
-            Debug.LogWarning("Fade Canvas Group is not assigned.");
-
-            int nextSceneNoFade = SceneManager.GetActiveScene().buildIndex + 1;
-            if (nextSceneNoFade < SceneManager.sceneCountInBuildSettings)
-                SceneManager.LoadScene(nextSceneNoFade);
-            else
-                Debug.Log("No next scene in build settings.");
-
+            Debug.LogError("fadeCanvasGroup is NULL");
             yield break;
         }
 
         isTransitioning = true;
+
         fadeCanvasGroup.gameObject.SetActive(true);
+        fadeCanvasGroup.transform.SetAsLastSibling();
+        fadeCanvasGroup.alpha = 0f;
 
         float timer = 0f;
 
         while (timer < fadeDuration)
         {
             timer += Time.deltaTime;
-            fadeCanvasGroup.alpha = Mathf.Lerp(0f, 1f, timer / fadeDuration);
+            fadeCanvasGroup.alpha = Mathf.Clamp01(timer / fadeDuration);
+            Debug.Log("Fade alpha: " + fadeCanvasGroup.alpha);
             yield return null;
         }
 
         fadeCanvasGroup.alpha = 1f;
+        Debug.Log("Fade coroutine END, loading next scene");
+
+        yield return new WaitForSeconds(0.2f);
 
         int nextScene = SceneManager.GetActiveScene().buildIndex + 1;
 
         if (nextScene < SceneManager.sceneCountInBuildSettings)
         {
             SceneManager.LoadScene(nextScene);
-        }
-        else
-        {
-            Debug.Log("No next scene in build settings.");
         }
     }
 
