@@ -23,7 +23,7 @@ public class MixingMinigame : CookingMinigameBase
     {
         currentMeter = 0f;
         isActive = true;
-        SFXManager.Instance.PlayLoop("mix");
+        SFXManager.Instance?.PlayLoop("mix");
         minigamePanel.SetActive(true);
         CursorManager.Instance?.SetMinigameCursor(CursorManager.Instance.SpoonCursor);
         UpdateUI();
@@ -52,7 +52,7 @@ public class MixingMinigame : CookingMinigameBase
         isActive = false;
         minigamePanel.SetActive(false);
         CursorManager.Instance?.ClearMinigameCursor();
-        SFXManager.Instance.StopLoop("mix");
+        SFXManager.Instance?.StopLoop("mix");
 
         if (success)
         {

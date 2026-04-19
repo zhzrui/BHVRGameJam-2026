@@ -26,7 +26,7 @@ public class TimingMinigame : CookingMinigameBase
         arrowPosition = 0f;
         arrowDirection = 1f;
         isActive = true;
-        SFXManager.Instance.PlayLoop("fry");
+        SFXManager.Instance?.PlayLoop("fry");
         minigamePanel.SetActive(true);
         PositionGreenZone();
     }
@@ -52,7 +52,7 @@ public class TimingMinigame : CookingMinigameBase
         bool inGreen = arrowPosition >= greenMin && arrowPosition <= greenMax;
 
         isActive = false;
-        SFXManager.Instance.StopLoop("fry");
+        SFXManager.Instance?.StopLoop("fry");
         minigamePanel.SetActive(false);
 
         if (inGreen)

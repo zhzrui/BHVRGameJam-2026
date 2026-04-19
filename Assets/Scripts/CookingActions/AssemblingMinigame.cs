@@ -41,7 +41,7 @@ public class AssemblingMinigame : CookingMinigameBase, IDropHandler
         dropped.gameObject.SetActive(false);
         SpawnInBowl(dropped);
         currentStep++;
-        SFXManager.Instance.Play("grab");
+        SFXManager.Instance?.Play("grab");
 
         if (currentStep >= ingredientsInOrder.Count)
             Complete();
