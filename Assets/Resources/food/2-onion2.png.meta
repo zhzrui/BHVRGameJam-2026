@@ -1,0 +1,689 @@
+fileFormatVersion: 2
+guid: a8676a22bc355724dbccca26d1001f89
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2533713457152273723
+    second: 2-onion2_0
+  - first:
+      213: -2248115250236286904
+    second: 2-onion2_1
+  - first:
+      213: -7209476854353030559
+    second: 2-onion2_2
+  - first:
+      213: -299768464944607369
+    second: 2-onion2_3
+  - first:
+      213: 8061684786309254789
+    second: 2-onion2_4
+  - first:
+      213: 1920287666962886445
+    second: 2-onion2_5
+  - first:
+      213: 2467508783601636537
+    second: 2-onion2_6
+  - first:
+      213: -1502136791853907152
+    second: 2-onion2_7
+  - first:
+      213: 7413518097838073199
+    second: 2-onion2_8
+  - first:
+      213: -6076461611762308103
+    second: 2-onion2_9
+  - first:
+      213: -2603101481131948658
+    second: 2-onion2_10
+  - first:
+      213: -4335693203732342546
+    second: 2-onion2_11
+  - first:
+      213: -8890675782780228805
+    second: 2-onion2_12
+  - first:
+      213: -5077791049035784203
+    second: 2-onion2_13
+  - first:
+      213: 4375932904213267343
+    second: 2-onion2_14
+  - first:
+      213: 6812797943248700333
+    second: 2-onion2_15
+  - first:
+      213: 8340008162915960464
+    second: 2-onion2_16
+  - first:
+      213: -6336631537030819070
+    second: 2-onion2_17
+  - first:
+      213: 2951285901327124897
+    second: 2-onion2_18
+  - first:
+      213: -6686599092299168500
+    second: 2-onion2_19
+  - first:
+      213: 3950543423988015670
+    second: 2-onion2_20
+  - first:
+      213: 6614056536815491579
+    second: 2-onion2_21
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 2-onion2_0
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 184
+        width: 1152
+        height: 1794
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3d203017fe892320800000000000000
+      internalID: 2533713457152273723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-onion2_1
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 967
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 848178747171dc0e0800000000000000
+      internalID: -2248115250236286904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-onion2_2
+      rect:
+        serializedVersion: 2
+        x: 1223
+        y: 156
+        width: 1989
+        height: 1990
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16213e79ffac2fb90800000000000000
+      internalID: -7209476854353030559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-onion2_3
+      rect:
+        serializedVersion: 2
+        x: 1807
+        y: 210
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77fcc1c5b2207dbf0800000000000000
+      internalID: -299768464944607369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-onion2_4
+      rect:
+        serializedVersion: 2
+        x: 2063
+        y: 205
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58e422bb99bd0ef60800000000000000
+      internalID: 8061684786309254789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-onion2_5
+      rect:
+        serializedVersion: 2
+        x: 2096
+        y: 202
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2fe2ef757b36aa10800000000000000
+      internalID: 1920287666962886445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-onion2_6
+      rect:
+        serializedVersion: 2
+        x: 2148
+        y: 198
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b45bbe4a2a5e3220800000000000000
+      internalID: 2467508783601636537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-onion2_7
+      rect:
+        serializedVersion: 2
+        x: 2234
+        y: 200
+        width: 25
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 033c085eb86572be0800000000000000
+      internalID: -1502136791853907152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-onion2_8
+      rect:
+        serializedVersion: 2
+        x: 2288
+        y: 209
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6561957e6b12e660800000000000000
+      internalID: 7413518097838073199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-onion2_9
+      rect:
+        serializedVersion: 2
+        x: 2290
+        y: 180
+        width: 45
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fb2c9bcb521caba0800000000000000
+      internalID: -6076461611762308103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-onion2_10
+      rect:
+        serializedVersion: 2
+        x: 2334
+        y: 187
+        width: 66
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8546d6aefcefdbd0800000000000000
+      internalID: -2603101481131948658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-onion2_11
+      rect:
+        serializedVersion: 2
+        x: 1810
+        y: 200
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee85570b00684d3c0800000000000000
+      internalID: -4335693203732342546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-onion2_12
+      rect:
+        serializedVersion: 2
+        x: 2014
+        y: 165
+        width: 58
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3b673afa79fd9480800000000000000
+      internalID: -8890675782780228805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-onion2_13
+      rect:
+        serializedVersion: 2
+        x: 2061
+        y: 192
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ff5096b1ff0889b0800000000000000
+      internalID: -5077791049035784203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-onion2_14
+      rect:
+        serializedVersion: 2
+        x: 2071
+        y: 190
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f83439caacf6abc30800000000000000
+      internalID: 4375932904213267343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-onion2_15
+      rect:
+        serializedVersion: 2
+        x: 2169
+        y: 177
+        width: 37
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da3c9d532abeb8e50800000000000000
+      internalID: 6812797943248700333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-onion2_16
+      rect:
+        serializedVersion: 2
+        x: 2330
+        y: 194
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 096c676ac39adb370800000000000000
+      internalID: 8340008162915960464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-onion2_17
+      rect:
+        serializedVersion: 2
+        x: 2158
+        y: 178
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2039db2a033cf08a0800000000000000
+      internalID: -6336631537030819070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-onion2_18
+      rect:
+        serializedVersion: 2
+        x: 2364
+        y: 185
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a9c83304e215f820800000000000000
+      internalID: 2951285901327124897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-onion2_19
+      rect:
+        serializedVersion: 2
+        x: 2006
+        y: 172
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c050f0c7d8d6433a0800000000000000
+      internalID: -6686599092299168500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-onion2_20
+      rect:
+        serializedVersion: 2
+        x: 2306
+        y: 173
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 632af80305623d630800000000000000
+      internalID: 3950543423988015670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-onion2_21
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 158
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf9dc31a069d9cb50800000000000000
+      internalID: 6614056536815491579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      2-onion2_0: 2533713457152273723
+      2-onion2_1: -2248115250236286904
+      2-onion2_10: -2603101481131948658
+      2-onion2_11: -4335693203732342546
+      2-onion2_12: -8890675782780228805
+      2-onion2_13: -5077791049035784203
+      2-onion2_14: 4375932904213267343
+      2-onion2_15: 6812797943248700333
+      2-onion2_16: 8340008162915960464
+      2-onion2_17: -6336631537030819070
+      2-onion2_18: 2951285901327124897
+      2-onion2_19: -6686599092299168500
+      2-onion2_2: -7209476854353030559
+      2-onion2_20: 3950543423988015670
+      2-onion2_21: 6614056536815491579
+      2-onion2_3: -299768464944607369
+      2-onion2_4: 8061684786309254789
+      2-onion2_5: 1920287666962886445
+      2-onion2_6: 2467508783601636537
+      2-onion2_7: -1502136791853907152
+      2-onion2_8: 7413518097838073199
+      2-onion2_9: -6076461611762308103
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

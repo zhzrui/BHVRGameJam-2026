@@ -382,6 +382,7 @@ RectTransform:
   - {fileID: 802707103}
   - {fileID: 904613272}
   - {fileID: 2068176991}
+  - {fileID: 607150327}
   - {fileID: 1296478107}
   - {fileID: 1956417700}
   m_Father: {fileID: 1854171645}
@@ -447,6 +448,7 @@ MonoBehaviour:
   - {fileID: 2068176993}
   - {fileID: 1296478109}
   - {fileID: 1956417702}
+  - {fileID: 607150329}
   bowlSlotParent: {fileID: 802707103}
   objectiveKey: day2step2
 --- !u!1 &191483412
@@ -815,6 +817,111 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 481236584}
   m_CullTransparentMesh: 1
+--- !u!1 &607150326
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 607150327}
+  - component: {fileID: 607150331}
+  - component: {fileID: 607150330}
+  - component: {fileID: 607150329}
+  - component: {fileID: 607150328}
+  m_Layer: 5
+  m_Name: ingrediant1 (1)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &607150327
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 607150326}
+  m_LocalRotation: {x: -0, y: -0, z: 0.325627, w: 0.9454983}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 155167867}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 38.007}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: 47.00066, y: -336.99997}
+  m_SizeDelta: {x: 235.3699, y: 236.3921}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!225 &607150328
+CanvasGroup:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 607150326}
+  m_Enabled: 1
+  m_Alpha: 1
+  m_Interactable: 1
+  m_BlocksRaycasts: 1
+  m_IgnoreParentGroups: 0
+--- !u!114 &607150329
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 607150326}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 593c8e77e89485d4fabc844733dcf3e6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::DraggableIngredient
+  orderIndex: 1
+  bowlSprite: {fileID: 21300000, guid: d7c3ed1add46c7d4c8c89682ffac948a, type: 3}
+  bowlSpriteSize: {x: 220.3699, y: 220.3921}
+  bowlSpritePosition: {x: -31.7, y: 18.7}
+--- !u!114 &607150330
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 607150326}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: UnityEngine.UI::UnityEngine.UI.Image
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 1
+  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
+  m_Maskable: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_Sprite: {fileID: 21300000, guid: d7c3ed1add46c7d4c8c89682ffac948a, type: 3}
+  m_Type: 0
+  m_PreserveAspect: 0
+  m_FillCenter: 1
+  m_FillMethod: 4
+  m_FillAmount: 1
+  m_FillClockwise: 1
+  m_FillOrigin: 0
+  m_UseSpriteMesh: 0
+  m_PixelsPerUnitMultiplier: 1
+--- !u!222 &607150331
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 607150326}
+  m_CullTransparentMesh: 1
 --- !u!1 &623099911
 GameObject:
   m_ObjectHideFlags: 0
@@ -927,7 +1034,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 31.317688, y: -336.34705}
+  m_AnchoredPosition: {x: 31.317688, y: -336.34708}
   m_SizeDelta: {x: -221.5281, y: -881.0578}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &658903781
@@ -1899,8 +2006,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 676, y: -115}
-  m_SizeDelta: {x: 261.7221, y: 250.0316}
+  m_AnchoredPosition: {x: 705, y: 51}
+  m_SizeDelta: {x: 307.55, y: 279.92}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!225 &904613273
 CanvasGroup:
@@ -1927,8 +2034,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::DraggableIngredient
   orderIndex: 0
-  bowlSprite: {fileID: 21300000, guid: 593900cf1fba30444b2c2b03846533ec, type: 3}
-  bowlSpriteSize: {x: 261.7221, y: 250.0316}
+  bowlSprite: {fileID: 21300000, guid: 1fc473493046c8846bdafebc45652393, type: 3}
+  bowlSpriteSize: {x: 307.55, y: 279.92}
   bowlSpritePosition: {x: 8, y: 0.47}
 --- !u!114 &904613275
 MonoBehaviour:
@@ -1950,7 +2057,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 593900cf1fba30444b2c2b03846533ec, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 1fc473493046c8846bdafebc45652393, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -2220,17 +2327,17 @@ RectTransform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1296478106}
-  m_LocalRotation: {x: -0, y: -0, z: 0.0000004679896, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalRotation: {x: 0.02151969, y: -0.03242881, z: 0.2082697, w: 0.9772968}
+  m_LocalPosition: {x: 0, y: 0, z: -0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 155167867}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_LocalEulerAnglesHint: {x: 3.186, y: -3.124, z: 23.974}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 548, y: -335.43}
-  m_SizeDelta: {x: 291.4868, y: 253.1041}
+  m_AnchoredPosition: {x: 617, y: -307}
+  m_SizeDelta: {x: 408.59, y: 304.92}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!225 &1296478108
 CanvasGroup:
@@ -2257,8 +2364,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::DraggableIngredient
   orderIndex: 2
-  bowlSprite: {fileID: 21300000, guid: e08619bd69c30be419b633052fbb76da, type: 3}
-  bowlSpriteSize: {x: 291.4868, y: 253.1041}
+  bowlSprite: {fileID: 21300000, guid: a8676a22bc355724dbccca26d1001f89, type: 3}
+  bowlSpriteSize: {x: 408.59, y: 304.92}
   bowlSpritePosition: {x: 22.05, y: 3.86}
 --- !u!114 &1296478110
 MonoBehaviour:
@@ -2280,7 +2387,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: e08619bd69c30be419b633052fbb76da, type: 3}
+  m_Sprite: {fileID: 21300000, guid: a8676a22bc355724dbccca26d1001f89, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -2306,6 +2413,30 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 383421063439954766, guid: 4cd5b4884f31149c7b00dcd7d49b4d82, type: 3}
+      propertyPath: m_AnchorMax.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 383421063439954766, guid: 4cd5b4884f31149c7b00dcd7d49b4d82, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 383421063439954766, guid: 4cd5b4884f31149c7b00dcd7d49b4d82, type: 3}
+      propertyPath: m_AnchorMin.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4123288826303431195, guid: 4cd5b4884f31149c7b00dcd7d49b4d82, type: 3}
+      propertyPath: m_AnchorMax.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4123288826303431195, guid: 4cd5b4884f31149c7b00dcd7d49b4d82, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4123288826303431195, guid: 4cd5b4884f31149c7b00dcd7d49b4d82, type: 3}
+      propertyPath: m_AnchorMin.x
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 4522496550552514653, guid: 4cd5b4884f31149c7b00dcd7d49b4d82, type: 3}
       propertyPath: m_LocalPosition.x
       value: -175.00484
@@ -2344,6 +2475,22 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4522496550552514653, guid: 4cd5b4884f31149c7b00dcd7d49b4d82, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4685910946532144315, guid: 4cd5b4884f31149c7b00dcd7d49b4d82, type: 3}
+      propertyPath: m_AnchorMax.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4685910946532144315, guid: 4cd5b4884f31149c7b00dcd7d49b4d82, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7252800500243109334, guid: 4cd5b4884f31149c7b00dcd7d49b4d82, type: 3}
+      propertyPath: m_AnchorMax.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7252800500243109334, guid: 4cd5b4884f31149c7b00dcd7d49b4d82, type: 3}
+      propertyPath: m_AnchorMax.y
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8239273910911862091, guid: 4cd5b4884f31149c7b00dcd7d49b4d82, type: 3}
@@ -2846,7 +2993,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::CuttingMinigame
   minigamePanel: {fileID: 1773420986}
   ingredients:
-  - texture: {fileID: 2800000, guid: d7c3ed1add46c7d4c8c89682ffac948a, type: 3}
+  - texture: {fileID: 2800000, guid: 593900cf1fba30444b2c2b03846533ec, type: 3}
     cutPositions:
     - 0.1666667
     - 0.3366667
@@ -3362,8 +3509,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0.000022888, y: -335.43}
-  m_SizeDelta: {x: 272.1614, y: 248.61}
+  m_AnchoredPosition: {x: -69, y: 258}
+  m_SizeDelta: {x: 415.63, y: 264.55}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!225 &1956417701
 CanvasGroup:
@@ -3390,8 +3537,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::DraggableIngredient
   orderIndex: 2
-  bowlSprite: {fileID: 21300000, guid: 42568589a0ee8914ba03bd5e10a85bf9, type: 3}
-  bowlSpriteSize: {x: 272.1614, y: 248.61}
+  bowlSprite: {fileID: 21300000, guid: 935e3b792d201744e82737dbba44d3b8, type: 3}
+  bowlSpriteSize: {x: 415.63, y: 264.55}
   bowlSpritePosition: {x: 9.22, y: -6.53}
 --- !u!114 &1956417703
 MonoBehaviour:
@@ -3413,7 +3560,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 42568589a0ee8914ba03bd5e10a85bf9, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 935e3b792d201744e82737dbba44d3b8, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -3542,7 +3689,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -117.68693, y: -139.97421}
+  m_AnchoredPosition: {x: -100, y: -244}
   m_SizeDelta: {x: 235.3699, y: 236.3921}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!225 &2068176992
@@ -3571,7 +3718,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::DraggableIngredient
   orderIndex: 1
   bowlSprite: {fileID: 21300000, guid: d7c3ed1add46c7d4c8c89682ffac948a, type: 3}
-  bowlSpriteSize: {x: 235.3699, y: 236.3921}
+  bowlSpriteSize: {x: 220.3699, y: 220.3921}
   bowlSpritePosition: {x: 11.57, y: -4.81}
 --- !u!114 &2068176994
 MonoBehaviour:
