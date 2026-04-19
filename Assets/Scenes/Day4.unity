@@ -243,6 +243,7 @@ RectTransform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
+  m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -990,6 +991,37 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 374033423}
   m_CullTransparentMesh: 1
+--- !u!1 &422724696
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 422724697}
+  m_Layer: 0
+  m_Name: MISSING DAY4STEP2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &422724697
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 422724696}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 544.1404, y: 265.4889, z: 0}
+  m_LocalScale: {x: 1.7162474, y: 1.7162474, z: 1.7162474}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 534680134}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &434021749
 GameObject:
   m_ObjectHideFlags: 0
@@ -1228,6 +1260,7 @@ RectTransform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
+  - {fileID: 422724697}
   - {fileID: 772833776}
   m_Father: {fileID: 30341824}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -1641,18 +1674,23 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::DialogueManager
   dialogueText: {fileID: 772833778}
   continueIndicator: {fileID: 0}
-  screenSprite: {fileID: 0}
+  screenSprite: {fileID: 330914951}
   lines:
   - text: "Hi my lovelies. It\u2019s me, Candy\u2606, the host of\u2026 my own cooking
       show."
     flagToSet: 
-    spriteUpdates: []
+    spriteUpdates:
+    - shortcut speak
+    - eyes shut
+    - hair short
+    - hands hide
     pauseForObjective: 0
     objectiveId: 
   - text: "I\u2019ve been feeling a little sick lately, so I\u2019ll show you how
       to make my comfort food: steak."
     flagToSet: 
-    spriteUpdates: []
+    spriteUpdates:
+    - eyes normal
     pauseForObjective: 0
     objectiveId: 
   - text: "Look into your CookingCandyBox\u2606. "
@@ -1663,45 +1701,61 @@ MonoBehaviour:
   - text: "You\u2019ll find some juicy cuts of steak\u2026 and some vegetables. I
       forgot. I think they\u2019re assorted veggies."
     flagToSet: 
-    spriteUpdates: []
+    spriteUpdates:
+    - eyes squint
+    - hands hide
+    - mouth kind
     pauseForObjective: 0
     objectiveId: 
   - text: Cut the vegetables into pieces. I like to make mine into little finger
       shapes.
     flagToSet: 
-    spriteUpdates: []
+    spriteUpdates:
+    - shortcut speak
     pauseForObjective: 0
     objectiveId: 
   - text: "Actually? I don\u2019t care. Cut them however you like."
     flagToSet: 
-    spriteUpdates: []
+    spriteUpdates:
+    - shortcut annoyed
+    - hands hide
     pauseForObjective: 1
     objectiveId: day4step1
   - text: "And now, the thing we\u2019ve all been waiting for. The steak."
     flagToSet: 
-    spriteUpdates: []
+    spriteUpdates:
+    - shortcut hungry
+    - hands hide
     pauseForObjective: 0
     objectiveId: 
   - text: Cut them into pieces. Make it match the size of your vegetables.
     flagToSet: 
-    spriteUpdates: []
-    pauseForObjective: 1
-    objectiveId: day4step2
+    spriteUpdates:
+    - shortcut stare
+    pauseForObjective: 0
+    objectiveId: 
   - text: "If you made a pur\xE9e out of them\u2026 I don\u2019t know, turn your
       steak into ground beef or something."
     flagToSet: 
-    spriteUpdates: []
+    spriteUpdates:
+    - shortcut annoyed
+    - hands hide
     pauseForObjective: 0
     objectiveId: 
   - text: Marinade the steak in sauce. Oh, you know, the one I always make.
     flagToSet: 
-    spriteUpdates: []
+    spriteUpdates:
+    - shortcut stare
+    - hands hide
+    - eyes shut
     pauseForObjective: 1
     objectiveId: day4step3
   - text: Sear all your cuts in a pan. You should be able to smell that delicious
       Maillard reaction.
     flagToSet: 
-    spriteUpdates: []
+    spriteUpdates:
+    - shortcut hungry
+    - hands hide
     pauseForObjective: 1
     objectiveId: day4step4
   - text: Yummy steak strips and vegetables, ready in just a few excruciating minutes.
@@ -1713,17 +1767,21 @@ MonoBehaviour:
   - text: "If you turned them into beef and vegetable mush, great. You failed today\u2019s
       cooking lesson."
     flagToSet: 
-    spriteUpdates: []
+    spriteUpdates:
+    - shortcut annoyed
+    - hands hide
     pauseForObjective: 0
     objectiveId: 
   - text: ...
     flagToSet: 
-    spriteUpdates: []
+    spriteUpdates:
+    - shortcut stare
     pauseForObjective: 0
     objectiveId: 
   - text: I have to go. Goodbye.
     flagToSet: 
-    spriteUpdates: []
+    spriteUpdates:
+    - shortcut speak
     pauseForObjective: 0
     objectiveId: 
   - text: "Don\u2019t forget that whenever you eat my cooking, I become a part of
@@ -2530,7 +2588,7 @@ Canvas:
   m_Enabled: 1
   serializedVersion: 3
   m_RenderMode: 1
-  m_Camera: {fileID: 164140297}
+  m_Camera: {fileID: 0}
   m_PlaneDistance: 100
   m_PixelPerfect: 0
   m_ReceivesEvents: 1
