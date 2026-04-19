@@ -3411,7 +3411,7 @@ MonoBehaviour:
   - {fileID: 783188398}
   - {fileID: 1229919624}
   bowlSlotParent: {fileID: 289027371}
-  objectiveKey: day3step1
+  objectiveKey: day3step5
 --- !u!224 &1262706031
 RectTransform:
   m_ObjectHideFlags: 0
@@ -3860,7 +3860,9 @@ MonoBehaviour:
   lines:
   - text: Hi my lovelies. Welcome back to my cooking show.
     flagToSet: 
-    spriteUpdates: []
+    spriteUpdates:
+    - shortcut speak
+    - hands hide
     pauseForObjective: 0
     objectiveId: 
   - text: "I\u2019m Candy\u2606."
@@ -3871,45 +3873,55 @@ MonoBehaviour:
   - text: "Today, I\u2019ll teach you all how to make tiramisu. It\u2019s very delicious
       and easy to make."
     flagToSet: 
-    spriteUpdates: []
+    spriteUpdates:
+    - shortcut hungry
+    - eyes shut
     pauseForObjective: 0
     objectiveId: 
   - text: "Take a look at your In your CookingCandyBox\u2606. You can put some mascarpone
       cream in the bowl."
     flagToSet: 
-    spriteUpdates: []
-    pauseForObjective: 0
-    objectiveId: 
+    spriteUpdates:
+    - shortcut speak
+    - hands hide
+    pauseForObjective: 1
+    objectiveId: day3step1
   - text: Mix, then set it aside.
     flagToSet: 
-    spriteUpdates: []
-    pauseForObjective: 0
-    objectiveId: 
+    spriteUpdates:
+    - shortcut stare
+    pauseForObjective: 1
+    objectiveId: day3step2
   - text: You will also find a few ladyfingers, an egg based biscuit. Soak them in
       the coffee mixture and put them in the pan.
     flagToSet: 
     spriteUpdates: []
-    pauseForObjective: 0
-    objectiveId: 
-  - text: Layer the mascarpone cream on top of the ladyfingers.
-    flagToSet: 
-    spriteUpdates: []
     pauseForObjective: 1
-    objectiveId: day1step1
-  - text: Finally, add a thin layer of the cocoa powder.
+    objectiveId: day3step3
+  - text: Layer the mascarpone cream on top of the ladyfingers. Get the cocoa powder
+      ready.
     flagToSet: 
-    spriteUpdates: []
+    spriteUpdates:
+    - eyes squint
     pauseForObjective: 1
-    objectiveId: day1step2
+    objectiveId: day3step4
+  - text: Finally, add a thin layer of the cocoa and add a cherry on top.
+    flagToSet: 
+    spriteUpdates:
+    - mouth drool
+    pauseForObjective: 1
+    objectiveId: day3step5
   - text: There we go, a nice tiramisu. Ready to serve!
     flagToSet: 
-    spriteUpdates: []
-    pauseForObjective: 1
-    objectiveId: day1step3
+    spriteUpdates:
+    - shortcut outtro
+    pauseForObjective: 0
+    objectiveId: 
   - text: "I hope you all enjoy this nice dessert. Whenever you eat my cooking, I
       become\u2026 a part of you."
     flagToSet: 
-    spriteUpdates: []
+    spriteUpdates:
+    - shortcut speak
     pauseForObjective: 0
     objectiveId: 
   voiceClips: []
@@ -4166,7 +4178,7 @@ MonoBehaviour:
   cutLineTolerance: 20
   cutLineIndicator: {fileID: 930747454}
   sliceSeparation: 8
-  objectiveKey: day3step5
+  objectiveKey: day3step4
 --- !u!224 &1614786607
 RectTransform:
   m_ObjectHideFlags: 0
