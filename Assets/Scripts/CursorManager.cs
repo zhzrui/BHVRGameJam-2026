@@ -25,7 +25,7 @@ public class CursorManager : MonoBehaviour
         DontDestroyOnLoad(gameObject);
 
         pointFinger = Scale(Resources.Load<Texture2D>("kitchen/pointfinger"));
-        closeHand = Scale(Resources.Load<Texture2D>("kitchen/closehand"));
+        closeHand = Scale(Resources.Load<Texture2D>("kitchen/closedhand"));
         knife = Scale(Resources.Load<Texture2D>("kitchen/knife"));
         spoon = Scale(Resources.Load<Texture2D>("kitchen/spoon"));
 
