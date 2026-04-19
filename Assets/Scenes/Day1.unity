@@ -1674,7 +1674,7 @@ MonoBehaviour:
       pepper to taste.
     flagToSet: 
     spriteUpdates:
-    - shotcut stare
+    - shortcut stare
     - eyes squint
     pauseForObjective: 1
     objectiveId: day1step1
