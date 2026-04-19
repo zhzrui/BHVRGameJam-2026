@@ -1,0 +1,923 @@
+fileFormatVersion: 2
+guid: 0c29fd040e1484d06bffbecf7514a52a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3885023958644331836
+    second: stream_UI_0
+  - first:
+      213: 107482110911508707
+    second: stream_UI_1
+  - first:
+      213: -4648673978909868324
+    second: stream_UI_2
+  - first:
+      213: -7265341852837764904
+    second: stream_UI_3
+  - first:
+      213: -2850180149904380409
+    second: stream_UI_4
+  - first:
+      213: -5373918425015922965
+    second: stream_UI_5
+  - first:
+      213: 3036643531296166444
+    second: stream_UI_6
+  - first:
+      213: 4788443291771654273
+    second: stream_UI_7
+  - first:
+      213: -7478362013834067127
+    second: stream_UI_8
+  - first:
+      213: 437121362450631092
+    second: stream_UI_9
+  - first:
+      213: -787968980061608341
+    second: stream_UI_10
+  - first:
+      213: -485000699398751129
+    second: stream_UI_11
+  - first:
+      213: 4227725709815164670
+    second: stream_UI_12
+  - first:
+      213: -999693701474771270
+    second: stream_UI_13
+  - first:
+      213: -3604003900745491357
+    second: stream_UI_14
+  - first:
+      213: 6390763575230723403
+    second: stream_UI_15
+  - first:
+      213: -120571799198964630
+    second: stream_UI_16
+  - first:
+      213: -7196454677988384079
+    second: stream_UI_17
+  - first:
+      213: -4409493560948264897
+    second: stream_UI_18
+  - first:
+      213: -6327662613849880423
+    second: stream_UI_19
+  - first:
+      213: 4494521495462743300
+    second: stream_UI_20
+  - first:
+      213: 7418445075584491077
+    second: stream_UI_21
+  - first:
+      213: -2214538531709597332
+    second: stream_UI_22
+  - first:
+      213: 2367406863942081510
+    second: stream_UI_23
+  - first:
+      213: -8786417979922628883
+    second: stream_UI_24
+  - first:
+      213: 4353590343533976811
+    second: stream_UI_25
+  - first:
+      213: 8018289230556507310
+    second: stream_UI_26
+  - first:
+      213: 8975420244707007567
+    second: stream_UI_27
+  - first:
+      213: 8734493676399321229
+    second: stream_UI_28
+  - first:
+      213: -7711017449619163504
+    second: stream_UI_29
+  - first:
+      213: -6730302647523034032
+    second: stream_UI_30
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: stream_UI_0
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 692
+        width: 58
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ca6f191b4f951ac0800000000000000
+      internalID: -3885023958644331836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stream_UI_1
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 727
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e0f690196add7100800000000000000
+      internalID: 107482110911508707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stream_UI_2
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 727
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdeb97a55a79c7fb0800000000000000
+      internalID: -4648673978909868324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stream_UI_3
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 728
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d0a3d904125c2b90800000000000000
+      internalID: -7265341852837764904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stream_UI_4
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 727
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70e641b21402278d0800000000000000
+      internalID: -2850180149904380409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stream_UI_5
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 722
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beecff82aa10c65b0800000000000000
+      internalID: -5373918425015922965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stream_UI_6
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 728
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c225560f333542a20800000000000000
+      internalID: 3036643531296166444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stream_UI_7
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 723
+        width: 55
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 180d629bdc7f37240800000000000000
+      internalID: 4788443291771654273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stream_UI_8
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 738
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94345a7de55873890800000000000000
+      internalID: -7478362013834067127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stream_UI_9
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 725
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b9ca9c2097f01600800000000000000
+      internalID: 437121362450631092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stream_UI_10
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 720
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b66a66133629015f0800000000000000
+      internalID: -787968980061608341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stream_UI_11
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 282
+        width: 48
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76c758cfe6ee449f0800000000000000
+      internalID: -485000699398751129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stream_UI_12
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 275
+        width: 42
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efea1553226ebaa30800000000000000
+      internalID: 4227725709815164670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stream_UI_13
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 260
+        width: 44
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abe966700ef5022f0800000000000000
+      internalID: -999693701474771270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stream_UI_14
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 257
+        width: 27
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36c51fe0c810cfdc0800000000000000
+      internalID: -3604003900745491357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stream_UI_15
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 232
+        width: 73
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b45f129ac9d80b850800000000000000
+      internalID: 6390763575230723403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stream_UI_16
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 244
+        width: 69
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a64e0d26694a35ef0800000000000000
+      internalID: -120571799198964630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stream_UI_17
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 243
+        width: 29
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b2ed4c499e012c90800000000000000
+      internalID: -7196454677988384079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stream_UI_18
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 234
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f307e4408f45ec2c0800000000000000
+      internalID: -4409493560948264897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stream_UI_19
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 227
+        width: 40
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99845fac060af28a0800000000000000
+      internalID: -6327662613849880423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stream_UI_20
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 202
+        width: 28
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40d0a64bc7fbf5e30800000000000000
+      internalID: 4494521495462743300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stream_UI_21
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 200
+        width: 33
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54e95fbdd7c93f660800000000000000
+      internalID: 7418445075584491077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stream_UI_22
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 190
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c69c80440f06441e0800000000000000
+      internalID: -2214538531709597332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stream_UI_23
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 182
+        width: 47
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ebd61ceff7bad020800000000000000
+      internalID: 2367406863942081510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stream_UI_24
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 181
+        width: 39
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dee3b92566f501680800000000000000
+      internalID: -8786417979922628883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stream_UI_25
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 166
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: becd9e3e95f0b6c30800000000000000
+      internalID: 4353590343533976811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stream_UI_26
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 165
+        width: 67
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eac29ad829fa64f60800000000000000
+      internalID: 8018289230556507310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stream_UI_27
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 162
+        width: 29
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4c5c93a8291f8c70800000000000000
+      internalID: 8975420244707007567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stream_UI_28
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 115
+        width: 222
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d806daaa8b7273970800000000000000
+      internalID: 8734493676399321229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stream_UI_29
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 108
+        width: 45
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0967c9afb76fcf490800000000000000
+      internalID: -7711017449619163504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stream_UI_30
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 114
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05cb48796692992a0800000000000000
+      internalID: -6730302647523034032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      stream_UI_0: -3885023958644331836
+      stream_UI_1: 107482110911508707
+      stream_UI_10: -787968980061608341
+      stream_UI_11: -485000699398751129
+      stream_UI_12: 4227725709815164670
+      stream_UI_13: -999693701474771270
+      stream_UI_14: -3604003900745491357
+      stream_UI_15: 6390763575230723403
+      stream_UI_16: -120571799198964630
+      stream_UI_17: -7196454677988384079
+      stream_UI_18: -4409493560948264897
+      stream_UI_19: -6327662613849880423
+      stream_UI_2: -4648673978909868324
+      stream_UI_20: 4494521495462743300
+      stream_UI_21: 7418445075584491077
+      stream_UI_22: -2214538531709597332
+      stream_UI_23: 2367406863942081510
+      stream_UI_24: -8786417979922628883
+      stream_UI_25: 4353590343533976811
+      stream_UI_26: 8018289230556507310
+      stream_UI_27: 8975420244707007567
+      stream_UI_28: 8734493676399321229
+      stream_UI_29: -7711017449619163504
+      stream_UI_3: -7265341852837764904
+      stream_UI_30: -6730302647523034032
+      stream_UI_4: -2850180149904380409
+      stream_UI_5: -5373918425015922965
+      stream_UI_6: 3036643531296166444
+      stream_UI_7: 4788443291771654273
+      stream_UI_8: -7478362013834067127
+      stream_UI_9: 437121362450631092
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
