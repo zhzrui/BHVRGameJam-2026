@@ -1,16 +1,10 @@
 fileFormatVersion: 2
-guid: 946150d9a1fd34f76bd61f1384605701
+guid: e60c7c7c68aac4c9cb4b272758709a3c
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -1054197360440797545
-    second: 3-tiramisu_good_0
-  - first:
-      213: 1629671607030090163
-    second: 3-tiramisu_good_1
-  - first:
-      213: -1646512917485872677
-    second: 3-tiramisu_good_2
+      213: 2835149589584340174
+    second: 4-steak_bad_edit_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -119,13 +113,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: 3-tiramisu_good_0
+      name: 4-steak_bad_edit_0
       rect:
         serializedVersion: 2
-        x: 807
-        y: 153
-        width: 492
-        height: 589
+        x: 0
+        y: 18
+        width: 744
+        height: 748
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -134,52 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 79695c7061dbe51f0800000000000000
-      internalID: -1054197360440797545
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 3-tiramisu_good_1
-      rect:
-        serializedVersion: 2
-        x: 850
-        y: 661
-        width: 52
-        height: 114
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 3b9819531b1cd9610800000000000000
-      internalID: 1629671607030090163
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 3-tiramisu_good_2
-      rect:
-        serializedVersion: 2
-        x: 1043
-        y: 737
-        width: 38
-        height: 14
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: bd99923a9396629e0800000000000000
-      internalID: -1646512917485872677
+      spriteID: ec4e44cc789785720800000000000000
+      internalID: 2835149589584340174
       vertices: []
       indices: 
       edges: []
@@ -198,9 +148,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      3-tiramisu_good_0: -1054197360440797545
-      3-tiramisu_good_1: 1629671607030090163
-      3-tiramisu_good_2: -1646512917485872677
+      4-steak_bad_edit_0: 2835149589584340174
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -1,16 +1,16 @@
 fileFormatVersion: 2
-guid: 946150d9a1fd34f76bd61f1384605701
+guid: d5abc76b1958c4aeda66459eeaa3a5d8
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -1054197360440797545
-    second: 3-tiramisu_good_0
+      213: 2013798166255204071
+    second: 2-stirfry_bad_edit_0
   - first:
-      213: 1629671607030090163
-    second: 3-tiramisu_good_1
+      213: 718436623908605170
+    second: 2-stirfry_bad_edit_1
   - first:
-      213: -1646512917485872677
-    second: 3-tiramisu_good_2
+      213: -5359630667617505541
+    second: 2-stirfry_bad_edit_2
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -119,13 +119,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: 3-tiramisu_good_0
+      name: 2-stirfry_bad_edit_0
       rect:
         serializedVersion: 2
-        x: 807
-        y: 153
-        width: 492
-        height: 589
+        x: 0
+        y: 25
+        width: 732
+        height: 692
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -134,20 +134,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 79695c7061dbe51f0800000000000000
-      internalID: -1054197360440797545
+      spriteID: 7e679fc33c272fb10800000000000000
+      internalID: 2013798166255204071
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 3-tiramisu_good_1
+      name: 2-stirfry_bad_edit_1
       rect:
         serializedVersion: 2
-        x: 850
-        y: 661
-        width: 52
-        height: 114
+        x: 0
+        y: 689
+        width: 29
+        height: 8
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -156,20 +156,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 3b9819531b1cd9610800000000000000
-      internalID: 1629671607030090163
+      spriteID: 2fc04b19d4668f900800000000000000
+      internalID: 718436623908605170
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 3-tiramisu_good_2
+      name: 2-stirfry_bad_edit_2
       rect:
         serializedVersion: 2
-        x: 1043
-        y: 737
-        width: 38
-        height: 14
+        x: 26
+        y: 354
+        width: 6
+        height: 10
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -178,8 +178,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: bd99923a9396629e0800000000000000
-      internalID: -1646512917485872677
+      spriteID: bfe6e59ed44ce95b0800000000000000
+      internalID: -5359630667617505541
       vertices: []
       indices: 
       edges: []
@@ -198,9 +198,9 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      3-tiramisu_good_0: -1054197360440797545
-      3-tiramisu_good_1: 1629671607030090163
-      3-tiramisu_good_2: -1646512917485872677
+      2-stirfry_bad_edit_0: 2013798166255204071
+      2-stirfry_bad_edit_1: 718436623908605170
+      2-stirfry_bad_edit_2: -5359630667617505541
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
