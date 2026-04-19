@@ -22,6 +22,7 @@ public class Day1CookingSequence : MonoBehaviour
     [SerializeField] private float blackScreenHoldTime = 2f;
 
     private int currentIndex = 0;
+    private bool sequenceStarted = false;
 
     private void Start()
     {
@@ -30,7 +31,15 @@ public class Day1CookingSequence : MonoBehaviour
 
         foreach (var minigame in sequence)
             minigame.HidePanel();
+    }
 
+    // Call this from DialogueManager's onDialogueComplete UnityEvent in the Inspector.
+    // If there is no intro dialogue, call it directly or wire it up manually.
+    public void StartSequence()
+    {
+        if (sequenceStarted) return;
+        sequenceStarted = true;
+        currentIndex = 0;
         RunCurrent();
     }
 

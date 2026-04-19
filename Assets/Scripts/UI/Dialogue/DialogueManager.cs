@@ -48,6 +48,7 @@ public class DialogueManager : MonoBehaviour
     [Header("Behavior")]
     public bool autoLoadNextLevel = false;
     public UnityEvent onDialogueComplete = new UnityEvent();
+    public UnityEvent onPausedForObjective = new UnityEvent();
 
     [Header("Scene Transition Prompt")]
     [SerializeField] private GameObject scenePrompt;
@@ -165,6 +166,7 @@ public class DialogueManager : MonoBehaviour
 
             Debug.Log("Dialogue paused, waiting for objective: " + waitingObjectiveId);
             HideIndicator();
+            onPausedForObjective?.Invoke();
         }
         else
         {
