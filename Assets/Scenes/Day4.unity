@@ -992,37 +992,6 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 374033423}
   m_CullTransparentMesh: 1
---- !u!1 &422724696
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 422724697}
-  m_Layer: 0
-  m_Name: MISSING DAY4STEP2
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!4 &422724697
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 422724696}
-  serializedVersion: 2
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 544.1404, y: 265.4889, z: 0}
-  m_LocalScale: {x: 1.7162474, y: 1.7162474, z: 1.7162474}
-  m_ConstrainProportionsScale: 0
-  m_Children: []
-  m_Father: {fileID: 534680134}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &434021749
 GameObject:
   m_ObjectHideFlags: 0
@@ -1336,7 +1305,6 @@ RectTransform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
-  - {fileID: 422724697}
   - {fileID: 772833776}
   m_Father: {fileID: 30341824}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -1970,19 +1938,20 @@ MonoBehaviour:
       to make my comfort food: steak."
     flagToSet: 
     spriteUpdates:
-    - eyes normal
+    - eyes shut
     pauseForObjective: 0
     objectiveId: 
   - text: "Look into your CookingCandyBox\u2606. "
     flagToSet: 
-    spriteUpdates: []
+    spriteUpdates:
+    - eyes shut
     pauseForObjective: 0
     objectiveId: 
   - text: "You\u2019ll find some juicy cuts of steak\u2026 and some vegetables. I
       forgot. I think they\u2019re assorted veggies."
     flagToSet: 
     spriteUpdates:
-    - eyes squint
+    - eyes shut
     - hands hide
     - mouth kind
     pauseForObjective: 0
@@ -1992,6 +1961,7 @@ MonoBehaviour:
     flagToSet: 
     spriteUpdates:
     - shortcut speak
+    - eyes shut
     pauseForObjective: 0
     objectiveId: 
   - text: "Actually? I don\u2019t care. Cut them however you like."
@@ -1999,6 +1969,7 @@ MonoBehaviour:
     spriteUpdates:
     - shortcut annoyed
     - hands hide
+    - eyes shut
     pauseForObjective: 1
     objectiveId: day4step1
   - text: "And now, the thing we\u2019ve all been waiting for. The steak."
@@ -2006,20 +1977,23 @@ MonoBehaviour:
     spriteUpdates:
     - shortcut hungry
     - hands hide
+    - eyes shut
     pauseForObjective: 0
     objectiveId: 
   - text: Cut them into pieces. Make it match the size of your vegetables.
     flagToSet: 
     spriteUpdates:
     - shortcut stare
-    pauseForObjective: 0
-    objectiveId: 
+    - eyes shut
+    pauseForObjective: 1
+    objectiveId: day4step2
   - text: "If you made a pur\xE9e out of them\u2026 I don\u2019t know, turn your
       steak into ground beef or something."
     flagToSet: 
     spriteUpdates:
     - shortcut annoyed
     - hands hide
+    - eyes shut
     pauseForObjective: 0
     objectiveId: 
   - text: Marinade the steak in sauce. Oh, you know, the one I always make.
@@ -2036,6 +2010,7 @@ MonoBehaviour:
     spriteUpdates:
     - shortcut hungry
     - hands hide
+    - eyes shut
     pauseForObjective: 1
     objectiveId: day4step4
   - text: Yummy steak strips and vegetables, ready in just a few excruciating minutes.
@@ -2050,18 +2025,21 @@ MonoBehaviour:
     spriteUpdates:
     - shortcut annoyed
     - hands hide
+    - eyes shut
     pauseForObjective: 0
     objectiveId: 
   - text: ...
     flagToSet: 
     spriteUpdates:
     - shortcut stare
+    - eyes shut
     pauseForObjective: 0
     objectiveId: 
   - text: I have to go. Goodbye.
     flagToSet: 
     spriteUpdates:
     - shortcut speak
+    - eyes shut
     pauseForObjective: 0
     objectiveId: 
   - text: "Don\u2019t forget that whenever you eat my cooking, I become a part of
@@ -2078,8 +2056,8 @@ MonoBehaviour:
   onDialogueComplete:
     m_PersistentCalls:
       m_Calls: []
-  scenePrompt: {fileID: 0}
-  eKeyPrompt: {fileID: 0}
+  scenePrompt: {fileID: 857044500}
+  eKeyPrompt: {fileID: 857044500}
 --- !u!114 &772833778
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2180,6 +2158,11 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 772833775}
   m_CullTransparentMesh: 1
+--- !u!1 &857044500 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 6707645993995951799, guid: cbd0e4ffed1201c40a418abce8d3b907, type: 3}
+  m_PrefabInstance: {fileID: 559089250}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &904499500
 GameObject:
   m_ObjectHideFlags: 0

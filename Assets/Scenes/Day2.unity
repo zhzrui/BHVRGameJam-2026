@@ -592,6 +592,11 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 2483046894334380896, guid: cbd0e4ffed1201c40a418abce8d3b907, type: 3}
   m_PrefabInstance: {fileID: 214588681}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &214588683 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 6707645993995951799, guid: cbd0e4ffed1201c40a418abce8d3b907, type: 3}
+  m_PrefabInstance: {fileID: 214588681}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &215729897
 GameObject:
   m_ObjectHideFlags: 0
@@ -1034,7 +1039,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 31.317688, y: -336.34708}
+  m_AnchoredPosition: {x: 31.317688, y: -336.34705}
   m_SizeDelta: {x: -221.5281, y: -881.0578}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &658903781
@@ -1640,8 +1645,8 @@ MonoBehaviour:
   onDialogueComplete:
     m_PersistentCalls:
       m_Calls: []
-  scenePrompt: {fileID: 0}
-  eKeyPrompt: {fileID: 0}
+  scenePrompt: {fileID: 214588683}
+  eKeyPrompt: {fileID: 214588683}
 --- !u!114 &840838918
 MonoBehaviour:
   m_ObjectHideFlags: 0

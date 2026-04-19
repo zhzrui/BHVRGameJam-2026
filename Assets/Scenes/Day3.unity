@@ -2280,6 +2280,11 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 804636835}
   m_CullTransparentMesh: 1
+--- !u!1 &852414970 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 6707645993995951799, guid: cbd0e4ffed1201c40a418abce8d3b907, type: 3}
+  m_PrefabInstance: {fileID: 1517168829}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &903502744
 GameObject:
   m_ObjectHideFlags: 0
@@ -4000,11 +4005,13 @@ MonoBehaviour:
     - shortcut speak
     - hands hide
     - hair short
+    - eyes shut
     pauseForObjective: 0
     objectiveId: 
   - text: "I\u2019m Candy\u2606."
     flagToSet: 
-    spriteUpdates: []
+    spriteUpdates:
+    - eyes shut
     pauseForObjective: 0
     objectiveId: 
   - text: "Today, I\u2019ll teach you all how to make tiramisu. It\u2019s very delicious
@@ -4022,24 +4029,27 @@ MonoBehaviour:
     spriteUpdates:
     - shortcut speak
     - hands hide
+    - eyes shut
     pauseForObjective: 1
     objectiveId: day3step1
   - text: Mix, then set it aside.
     flagToSet: 
     spriteUpdates:
     - shortcut stare
+    - eyes shut
     pauseForObjective: 1
     objectiveId: day3step2
   - text: You will also find a few ladyfingers, an egg based biscuit. Soak them in
       the coffee mixture and put them in the pan.
     flagToSet: 
-    spriteUpdates: []
+    spriteUpdates:
+    - eyes shut
     pauseForObjective: 1
     objectiveId: day3step3
   - text: Get the cocoa powder ready.
     flagToSet: 
     spriteUpdates:
-    - eyes squint
+    - eyes shut
     pauseForObjective: 1
     objectiveId: day3step4
   - text: Finally, layer the mascarpone cream on top of the ladyfingers. Add a thin
@@ -4047,6 +4057,7 @@ MonoBehaviour:
     flagToSet: 
     spriteUpdates:
     - mouth drool
+    - eyes shut
     pauseForObjective: 1
     objectiveId: day3step5
   - text: There we go, a nice tiramisu. Ready to serve!
@@ -4054,6 +4065,7 @@ MonoBehaviour:
     spriteUpdates:
     - shortcut outtro
     - hands hide
+    - eyes shut
     pauseForObjective: 0
     objectiveId: 
   - text: "I hope you all enjoy this nice dessert. Whenever you eat my cooking, I
@@ -4061,6 +4073,7 @@ MonoBehaviour:
     flagToSet: 
     spriteUpdates:
     - shortcut speak
+    - eyes shut
     pauseForObjective: 0
     objectiveId: 
   voiceClips: []
@@ -4071,8 +4084,8 @@ MonoBehaviour:
   onDialogueComplete:
     m_PersistentCalls:
       m_Calls: []
-  scenePrompt: {fileID: 0}
-  eKeyPrompt: {fileID: 0}
+  scenePrompt: {fileID: 852414970}
+  eKeyPrompt: {fileID: 852414970}
 --- !u!114 &1594953920
 MonoBehaviour:
   m_ObjectHideFlags: 0
