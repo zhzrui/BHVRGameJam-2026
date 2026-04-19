@@ -86,7 +86,7 @@ public class DialogueManager : MonoBehaviour
     {
         bool space = Keyboard.current != null && Keyboard.current.spaceKey.wasPressedThisFrame;
         bool click = Mouse.current != null && Mouse.current.leftButton.wasPressedThisFrame;
-        return space || click;
+        return (space || click) && Time.timeScale > 0;
     }
 
     private void OnAdvance()

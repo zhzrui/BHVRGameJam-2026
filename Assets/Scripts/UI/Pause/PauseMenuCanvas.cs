@@ -40,12 +40,13 @@ public class PauseMenu : MonoBehaviour
     {
         if (!menuShown)
         {
+            DOTween.Kill(canvasGroup);
             menuShown = true;
             canvasGroup.blocksRaycasts = true;
             canvasGroup.interactable = true;
             Time.timeScale = 0f;
-            DOTween.To(()=> volume.weight, x=> volume.weight = x, 1.0f, 0.5f).SetUpdate(true);
-            canvasGroup.DOFade(1f, 0.5f).SetUpdate(true);
+            DOTween.To(()=> volume.weight, x=> volume.weight = x, 1.0f, 1f).SetUpdate(true);
+            canvasGroup.DOFade(1f, 1f).SetUpdate(true);
             // canvasGroup.DOFade(1f, 0.5f).OnComplete(() => { Time.timeScale = 0f; });
         }
     }
@@ -54,11 +55,12 @@ public class PauseMenu : MonoBehaviour
     {
         if (menuShown)
         {
+            DOTween.Kill(canvasGroup);
             menuShown = false;
             canvasGroup.blocksRaycasts = false;
             canvasGroup.interactable = false;
-            DOTween.To(()=> volume.weight, x=> volume.weight = x, 0.0f, 0.5f).SetUpdate(true);
-            canvasGroup.DOFade(0f, 0.5f).SetUpdate(true).OnComplete(() => { Time.timeScale = 1f; });
+            DOTween.To(()=> volume.weight, x=> volume.weight = x, 0.0f, 1f).SetUpdate(true);
+            canvasGroup.DOFade(0f, 1f).SetUpdate(true).OnComplete(() => { Time.timeScale = 1f; });
         }
     }
 
