@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 using UnityEngine.InputSystem;
+using UnityEngine.SceneManagement;
 
 public class ScenePrompt : MonoBehaviour
 {
@@ -37,7 +38,16 @@ public class ScenePrompt : MonoBehaviour
     {
         if (Keyboard.current != null && Keyboard.current.eKey.wasPressedThisFrame)
         {
-            LevelManager.Instance.LoadNextLevel();
+            int nextScene = SceneManager.GetActiveScene().buildIndex + 1;
+
+            if (nextScene < SceneManager.sceneCountInBuildSettings)
+            {
+                SceneManager.LoadScene(nextScene);
+            }
+            else
+            {
+                Debug.Log("No next scene in build settings.");
+            }
         }
     }
 
