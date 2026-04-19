@@ -4373,12 +4373,14 @@ MonoBehaviour:
     - eyes shut
     pauseForObjective: 0
     objectiveId: 
+    showFoodDisplay: 0
   - text: "I\u2019m Candy\u2606."
     flagToSet: 
     spriteUpdates:
     - eyes shut
     pauseForObjective: 0
     objectiveId: 
+    showFoodDisplay: 0
   - text: "Today, I\u2019ll teach you all how to make tiramisu. It\u2019s very delicious
       and easy to make."
     flagToSet: 
@@ -4388,11 +4390,13 @@ MonoBehaviour:
     - hands hide
     pauseForObjective: 0
     objectiveId: 
+    showFoodDisplay: 0
   - text: "Take a look at your In your CookingCandyBox\u2606. "
     flagToSet: 
     spriteUpdates: []
     pauseForObjective: 0
     objectiveId: 
+    showFoodDisplay: 0
   - text: 'You can put some coffee mixture in the bowl, and a few ladyfingers, an
       egg based biscuit. '
     flagToSet: 
@@ -4402,6 +4406,7 @@ MonoBehaviour:
     - eyes shut
     pauseForObjective: 1
     objectiveId: day3step1
+    showFoodDisplay: 0
   - text: Mix them in.
     flagToSet: 
     spriteUpdates:
@@ -4409,18 +4414,21 @@ MonoBehaviour:
     - eyes shut
     pauseForObjective: 1
     objectiveId: day3step2
+    showFoodDisplay: 0
   - text: Wait patiently, let them to soak in the coffee mixture.
     flagToSet: 
     spriteUpdates:
     - eyes shut
     pauseForObjective: 1
     objectiveId: day3step3
+    showFoodDisplay: 0
   - text: Get the cocoa powder ready.
     flagToSet: 
     spriteUpdates:
     - eyes shut
     pauseForObjective: 1
     objectiveId: day3step4
+    showFoodDisplay: 0
   - text: Finally, layer the mascarpone cream on top of the ladyfingers. Add a thin
       layer of the cocoa and a cherry on top.
     flagToSet: 
@@ -4429,6 +4437,7 @@ MonoBehaviour:
     - eyes shut
     pauseForObjective: 1
     objectiveId: day3step5
+    showFoodDisplay: 0
   - text: There we go, a nice tiramisu. Ready to serve!
     flagToSet: 
     spriteUpdates:
@@ -4437,6 +4446,7 @@ MonoBehaviour:
     - eyes shut
     pauseForObjective: 0
     objectiveId: 
+    showFoodDisplay: 1
   - text: "I hope you all enjoy this nice dessert. Whenever you eat my cooking, I
       become\u2026 a part of you."
     flagToSet: 
@@ -4445,6 +4455,7 @@ MonoBehaviour:
     - eyes shut
     pauseForObjective: 0
     objectiveId: 
+    showFoodDisplay: 0
   voiceClips: []
   voiceSource: {fileID: 0}
   voiceVolume: 1

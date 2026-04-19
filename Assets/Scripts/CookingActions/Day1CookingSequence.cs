@@ -76,8 +76,8 @@ public class Day1CookingSequence : MonoBehaviour
 
         if (failureText != null && !string.IsNullOrEmpty(failureLine))
         {
-            failureText.text = failureLine;
             failureText.gameObject.SetActive(true);
+            failureText.text = failureLine;
         }
 
         if (fadeCanvasGroup != null)

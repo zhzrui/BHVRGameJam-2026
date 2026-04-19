@@ -1969,6 +1969,7 @@ MonoBehaviour:
     - hands hide
     pauseForObjective: 0
     objectiveId: 
+    showFoodDisplay: 0
   - text: "I\u2019ve been feeling a little sick lately, so I\u2019ll show you how
       to make my comfort food: steak."
     flagToSet: 
@@ -1976,12 +1977,14 @@ MonoBehaviour:
     - eyes shut
     pauseForObjective: 0
     objectiveId: 
+    showFoodDisplay: 0
   - text: "Look into your CookingCandyBox\u2606. "
     flagToSet: 
     spriteUpdates:
     - eyes shut
     pauseForObjective: 0
     objectiveId: 
+    showFoodDisplay: 0
   - text: "You\u2019ll find some juicy cuts of steak\u2026 and some vegetables. I
       forgot. I think they\u2019re assorted veggies."
     flagToSet: 
@@ -1991,6 +1994,7 @@ MonoBehaviour:
     - mouth kind
     pauseForObjective: 0
     objectiveId: 
+    showFoodDisplay: 0
   - text: Cut the vegetables into pieces. I like to make mine into little finger
       shapes.
     flagToSet: 
@@ -1999,6 +2003,7 @@ MonoBehaviour:
     - eyes shut
     pauseForObjective: 0
     objectiveId: 
+    showFoodDisplay: 0
   - text: "Actually? I don\u2019t care. Cut them however you like."
     flagToSet: 
     spriteUpdates:
@@ -2007,6 +2012,7 @@ MonoBehaviour:
     - eyes shut
     pauseForObjective: 1
     objectiveId: day4step1
+    showFoodDisplay: 0
   - text: "And now, the thing we\u2019ve all been waiting for. The steak."
     flagToSet: 
     spriteUpdates:
@@ -2015,6 +2021,7 @@ MonoBehaviour:
     - eyes shut
     pauseForObjective: 0
     objectiveId: 
+    showFoodDisplay: 0
   - text: Cut them into pieces. Make it match the size of your vegetables.
     flagToSet: 
     spriteUpdates:
@@ -2022,6 +2029,7 @@ MonoBehaviour:
     - eyes shut
     pauseForObjective: 1
     objectiveId: day4step2
+    showFoodDisplay: 0
   - text: "If you made a pur\xE9e out of them\u2026 I don\u2019t know, turn your
       steak into ground beef or something."
     flagToSet: 
@@ -2031,6 +2039,7 @@ MonoBehaviour:
     - eyes shut
     pauseForObjective: 0
     objectiveId: 
+    showFoodDisplay: 0
   - text: Marinade the steak in sauce. Oh, you know, the one I always make.
     flagToSet: 
     spriteUpdates:
@@ -2039,6 +2048,7 @@ MonoBehaviour:
     - eyes shut
     pauseForObjective: 1
     objectiveId: day4step3
+    showFoodDisplay: 0
   - text: Sear all your cuts in a pan. You should be able to smell that delicious
       Maillard reaction.
     flagToSet: 
@@ -2048,12 +2058,14 @@ MonoBehaviour:
     - eyes shut
     pauseForObjective: 1
     objectiveId: day4step4
+    showFoodDisplay: 0
   - text: Yummy steak strips and vegetables, ready in just a few excruciating minutes.
       And ended in even less.
     flagToSet: 
     spriteUpdates: []
     pauseForObjective: 0
     objectiveId: 
+    showFoodDisplay: 0
   - text: "If you turned them into beef and vegetable mush, great. You failed today\u2019s
       cooking lesson."
     flagToSet: 
@@ -2063,6 +2075,7 @@ MonoBehaviour:
     - eyes shut
     pauseForObjective: 0
     objectiveId: 
+    showFoodDisplay: 0
   - text: ...
     flagToSet: 
     spriteUpdates:
@@ -2070,6 +2083,7 @@ MonoBehaviour:
     - eyes shut
     pauseForObjective: 0
     objectiveId: 
+    showFoodDisplay: 1
   - text: I have to go. Goodbye.
     flagToSet: 
     spriteUpdates:
@@ -2077,12 +2091,14 @@ MonoBehaviour:
     - eyes shut
     pauseForObjective: 0
     objectiveId: 
+    showFoodDisplay: 0
   - text: "Don\u2019t forget that whenever you eat my cooking, I become a part of
       you."
     flagToSet: 
     spriteUpdates: []
     pauseForObjective: 0
     objectiveId: 
+    showFoodDisplay: 0
   voiceClips: []
   voiceSource: {fileID: 0}
   voiceVolume: 1
@@ -3880,6 +3896,7 @@ GameObject:
   - component: {fileID: 1669317521}
   - component: {fileID: 1669317523}
   - component: {fileID: 1669317522}
+  - component: {fileID: 1669317524}
   m_Layer: 5
   m_Name: Text (TMP)
   m_TagString: Untagged
@@ -3903,8 +3920,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0.98, y: 1}
-  m_AnchoredPosition: {x: 21.255005, y: 6.4675903}
-  m_SizeDelta: {x: -317.81, y: -284.83}
+  m_AnchoredPosition: {x: 19.317017, y: -0.0005493164}
+  m_SizeDelta: {x: 38.11, y: -0.45544}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1669317522
 MonoBehaviour:
@@ -3960,7 +3977,7 @@ MonoBehaviour:
   m_fontSizeMin: 18
   m_fontSizeMax: 72
   m_fontStyle: 0
-  m_HorizontalAlignment: 2
+  m_HorizontalAlignment: 16
   m_VerticalAlignment: 512
   m_textAlignment: 65535
   m_characterSpacing: 0
@@ -4006,6 +4023,20 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1669317520}
   m_CullTransparentMesh: 1
+--- !u!114 &1669317524
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1669317520}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1994bd3e2791ac5449e574e6ba4719eb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::ShakeUI
+  intensity: 5
+  speed: 20
 --- !u!1 &1683847385
 GameObject:
   m_ObjectHideFlags: 0
@@ -4551,7 +4582,7 @@ MonoBehaviour:
   fadeCanvasGroup: {fileID: 220508575}
   fadeDuration: 1
   failureText: {fileID: 1669317522}
-  failureLine: "i\u2019msorryimsorryimsorryimsorryimsorryCandyimsorryimsorryimsorryimsorryimsorryimsorryimsorry"
+  failureLine: "i\u2019msorryimsorryimsorryimsorryimsorryCandyimsorryimsorryimsorryimsorryimsorryimsorryimsorryi\u2019msorryimsorryimsorryimsorryimsorryCandyimsorryimsorryimsorryimsorryimsorryimsorryimsorryi\u2019msorryimsorryimsorryimsorryimsorryCandyimsorryimsorryimsorryimsorryimsorryimsorryimsorry"
   blackScreenHoldTime: 3
 --- !u!4 &1924557680
 Transform:

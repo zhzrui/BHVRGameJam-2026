@@ -20,6 +20,9 @@ public class DialogueLineData
     [Header("Objective control")]
     public bool pauseForObjective;
     public string objectiveId;
+
+    [Header("Food Display")]
+    public bool showFoodDisplay;
 }
 
 public class DialogueManager : MonoBehaviour
@@ -143,6 +146,13 @@ public class DialogueManager : MonoBehaviour
         if (lineData.spriteUpdates != null)
         {
             screenSprite.UpdateSprites(lineData.spriteUpdates); // error handling in SpriteUpdates :thumbs_up:
+        }
+
+        if (lineData.showFoodDisplay && foodDisplayContainer != null)
+        {
+            if (foodImage != null && completedFoodSprite != null)
+                foodImage.sprite = completedFoodSprite;
+            foodDisplayContainer.SetActive(true);
         }
 
         PlayVoiceForLine(index);
