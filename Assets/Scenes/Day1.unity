@@ -442,6 +442,14 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1854171645}
     m_Modifications:
+    - target: {fileID: 748248972705368503, guid: cbd0e4ffed1201c40a418abce8d3b907, type: 3}
+      propertyPath: fadeDuration
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 748248972705368503, guid: cbd0e4ffed1201c40a418abce8d3b907, type: 3}
+      propertyPath: fadeCanvasGroup
+      value: 
+      objectReference: {fileID: 1851371881}
     - target: {fileID: 2483046894334380896, guid: cbd0e4ffed1201c40a418abce8d3b907, type: 3}
       propertyPath: m_LocalPosition.x
       value: 66.872314
@@ -1637,6 +1645,87 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 882204709}
   m_CullTransparentMesh: 1
+--- !u!1001 &915924173
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 1854171645}
+    m_Modifications:
+    - target: {fileID: 4231834840619962281, guid: 9b3f90d8cd6e1db4e8853075768f1209, type: 3}
+      propertyPath: m_Name
+      value: Fadeoverlay
+      objectReference: {fileID: 0}
+    - target: {fileID: 4231834840619962281, guid: 9b3f90d8cd6e1db4e8853075768f1209, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7824152933257719352, guid: 9b3f90d8cd6e1db4e8853075768f1209, type: 3}
+      propertyPath: m_Pivot.x
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 7824152933257719352, guid: 9b3f90d8cd6e1db4e8853075768f1209, type: 3}
+      propertyPath: m_Pivot.y
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 7824152933257719352, guid: 9b3f90d8cd6e1db4e8853075768f1209, type: 3}
+      propertyPath: m_AnchorMax.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7824152933257719352, guid: 9b3f90d8cd6e1db4e8853075768f1209, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7824152933257719352, guid: 9b3f90d8cd6e1db4e8853075768f1209, type: 3}
+      propertyPath: m_AnchorMin.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7824152933257719352, guid: 9b3f90d8cd6e1db4e8853075768f1209, type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7824152933257719352, guid: 9b3f90d8cd6e1db4e8853075768f1209, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7824152933257719352, guid: 9b3f90d8cd6e1db4e8853075768f1209, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7824152933257719352, guid: 9b3f90d8cd6e1db4e8853075768f1209, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7824152933257719352, guid: 9b3f90d8cd6e1db4e8853075768f1209, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7824152933257719352, guid: 9b3f90d8cd6e1db4e8853075768f1209, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7824152933257719352, guid: 9b3f90d8cd6e1db4e8853075768f1209, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7824152933257719352, guid: 9b3f90d8cd6e1db4e8853075768f1209, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7824152933257719352, guid: 9b3f90d8cd6e1db4e8853075768f1209, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7824152933257719352, guid: 9b3f90d8cd6e1db4e8853075768f1209, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 9b3f90d8cd6e1db4e8853075768f1209, type: 3}
 --- !u!1 &939312366
 GameObject:
   m_ObjectHideFlags: 0
@@ -1911,11 +2000,13 @@ MonoBehaviour:
     spriteUpdates:
     - shortcut stare
     - eyes squint
+    - hands pour
     pauseForObjective: 1
     objectiveId: day1step1
   - text: Beat the mixture until thoroughly combined.
     flagToSet: 
-    spriteUpdates: []
+    spriteUpdates:
+    - hands hide
     pauseForObjective: 1
     objectiveId: day1step2
   - text: While you're waiting for the pan to heat up, butter it properly, then add
@@ -3001,6 +3092,16 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1832175040}
   m_CullTransparentMesh: 1
+--- !u!224 &1851371880 stripped
+RectTransform:
+  m_CorrespondingSourceObject: {fileID: 7824152933257719352, guid: 9b3f90d8cd6e1db4e8853075768f1209, type: 3}
+  m_PrefabInstance: {fileID: 915924173}
+  m_PrefabAsset: {fileID: 0}
+--- !u!225 &1851371881 stripped
+CanvasGroup:
+  m_CorrespondingSourceObject: {fileID: 1086109685150629402, guid: 9b3f90d8cd6e1db4e8853075768f1209, type: 3}
+  m_PrefabInstance: {fileID: 915924173}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1854171641
 GameObject:
   m_ObjectHideFlags: 0
@@ -3101,7 +3202,11 @@ RectTransform:
   - {fileID: 1714100835}
   - {fileID: 37709380}
   - {fileID: 1643233856}
+<<<<<<< Updated upstream
   - {fileID: 1785529869}
+=======
+  - {fileID: 1851371880}
+>>>>>>> Stashed changes
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
