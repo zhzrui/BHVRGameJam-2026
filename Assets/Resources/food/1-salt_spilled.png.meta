@@ -1,0 +1,2470 @@
+fileFormatVersion: 2
+guid: a0e2864ec92db4f7e850e7ab3ec2664a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4379338220685489561
+    second: 1-salt_spilled_0
+  - first:
+      213: -1198995088137224132
+    second: 1-salt_spilled_1
+  - first:
+      213: 1635136285739738324
+    second: 1-salt_spilled_2
+  - first:
+      213: -6435047633772925795
+    second: 1-salt_spilled_3
+  - first:
+      213: -8555572877983533283
+    second: 1-salt_spilled_4
+  - first:
+      213: -1813366713522427621
+    second: 1-salt_spilled_5
+  - first:
+      213: -3142427077563872287
+    second: 1-salt_spilled_6
+  - first:
+      213: -3891181032353212647
+    second: 1-salt_spilled_7
+  - first:
+      213: 2212082381400852074
+    second: 1-salt_spilled_8
+  - first:
+      213: 8507933939711507103
+    second: 1-salt_spilled_9
+  - first:
+      213: -7776408858997833266
+    second: 1-salt_spilled_10
+  - first:
+      213: 810427850762733206
+    second: 1-salt_spilled_11
+  - first:
+      213: -3048084461149505026
+    second: 1-salt_spilled_12
+  - first:
+      213: -4924457431447309295
+    second: 1-salt_spilled_13
+  - first:
+      213: -455039229981261196
+    second: 1-salt_spilled_14
+  - first:
+      213: -6047402644524347409
+    second: 1-salt_spilled_15
+  - first:
+      213: 175876083790853765
+    second: 1-salt_spilled_16
+  - first:
+      213: 1036743187009175390
+    second: 1-salt_spilled_17
+  - first:
+      213: -1025077189580189820
+    second: 1-salt_spilled_18
+  - first:
+      213: -3559120334740184391
+    second: 1-salt_spilled_19
+  - first:
+      213: 5522948765388900984
+    second: 1-salt_spilled_20
+  - first:
+      213: -2836061514335626872
+    second: 1-salt_spilled_21
+  - first:
+      213: -2444414402738162962
+    second: 1-salt_spilled_22
+  - first:
+      213: -6434269653126594128
+    second: 1-salt_spilled_23
+  - first:
+      213: 8655374848282470846
+    second: 1-salt_spilled_24
+  - first:
+      213: 7424789069674000111
+    second: 1-salt_spilled_25
+  - first:
+      213: -2219547094779228462
+    second: 1-salt_spilled_26
+  - first:
+      213: 3307279062759079806
+    second: 1-salt_spilled_27
+  - first:
+      213: -5554854809850811888
+    second: 1-salt_spilled_28
+  - first:
+      213: 1982071394189086063
+    second: 1-salt_spilled_29
+  - first:
+      213: 1539949039139951111
+    second: 1-salt_spilled_30
+  - first:
+      213: 626710911246290448
+    second: 1-salt_spilled_31
+  - first:
+      213: 7519738961235625686
+    second: 1-salt_spilled_32
+  - first:
+      213: -5481637482868530209
+    second: 1-salt_spilled_33
+  - first:
+      213: 7149810783031342983
+    second: 1-salt_spilled_34
+  - first:
+      213: 3283754233440042184
+    second: 1-salt_spilled_35
+  - first:
+      213: 4019157673800023499
+    second: 1-salt_spilled_36
+  - first:
+      213: 4606076739886283097
+    second: 1-salt_spilled_37
+  - first:
+      213: 1863491426343348001
+    second: 1-salt_spilled_38
+  - first:
+      213: 6032954017329505351
+    second: 1-salt_spilled_39
+  - first:
+      213: -7496262052986810207
+    second: 1-salt_spilled_40
+  - first:
+      213: 1291739637432815753
+    second: 1-salt_spilled_41
+  - first:
+      213: -4963502181738450698
+    second: 1-salt_spilled_42
+  - first:
+      213: 1668084314542663659
+    second: 1-salt_spilled_43
+  - first:
+      213: 9015470985165716383
+    second: 1-salt_spilled_44
+  - first:
+      213: 7296477066054453422
+    second: 1-salt_spilled_45
+  - first:
+      213: -3940966162771920653
+    second: 1-salt_spilled_46
+  - first:
+      213: 9015223773921828850
+    second: 1-salt_spilled_47
+  - first:
+      213: -795582852129547352
+    second: 1-salt_spilled_48
+  - first:
+      213: -4951155001592603255
+    second: 1-salt_spilled_49
+  - first:
+      213: 9046639520692893189
+    second: 1-salt_spilled_50
+  - first:
+      213: -3578616387388450633
+    second: 1-salt_spilled_51
+  - first:
+      213: 4888482023319665214
+    second: 1-salt_spilled_52
+  - first:
+      213: -2674492599731987030
+    second: 1-salt_spilled_53
+  - first:
+      213: 8980592096265064406
+    second: 1-salt_spilled_54
+  - first:
+      213: -4250272292021711272
+    second: 1-salt_spilled_55
+  - first:
+      213: 1070022437557243263
+    second: 1-salt_spilled_56
+  - first:
+      213: 4011922006703899185
+    second: 1-salt_spilled_57
+  - first:
+      213: 3148701808072903525
+    second: 1-salt_spilled_58
+  - first:
+      213: 20293886086533842
+    second: 1-salt_spilled_59
+  - first:
+      213: -8474897704825438362
+    second: 1-salt_spilled_60
+  - first:
+      213: 1779693066520212010
+    second: 1-salt_spilled_61
+  - first:
+      213: -5691262964144400886
+    second: 1-salt_spilled_62
+  - first:
+      213: -5874617347359829864
+    second: 1-salt_spilled_63
+  - first:
+      213: 5244336834849623278
+    second: 1-salt_spilled_64
+  - first:
+      213: 6854359008980877468
+    second: 1-salt_spilled_65
+  - first:
+      213: 4035521524841515742
+    second: 1-salt_spilled_66
+  - first:
+      213: -5322077796603232092
+    second: 1-salt_spilled_67
+  - first:
+      213: -637733088988530935
+    second: 1-salt_spilled_68
+  - first:
+      213: 3682856616971005976
+    second: 1-salt_spilled_69
+  - first:
+      213: 2506533695353107725
+    second: 1-salt_spilled_70
+  - first:
+      213: -6173410233114142862
+    second: 1-salt_spilled_71
+  - first:
+      213: 8384427663645306459
+    second: 1-salt_spilled_72
+  - first:
+      213: -4329935965154126935
+    second: 1-salt_spilled_73
+  - first:
+      213: -5536179146976485745
+    second: 1-salt_spilled_74
+  - first:
+      213: -3225465234224834754
+    second: 1-salt_spilled_75
+  - first:
+      213: -6651973004208690238
+    second: 1-salt_spilled_76
+  - first:
+      213: 66851529469899067
+    second: 1-salt_spilled_77
+  - first:
+      213: -6855853455688673136
+    second: 1-salt_spilled_78
+  - first:
+      213: -4441575968571129274
+    second: 1-salt_spilled_79
+  - first:
+      213: 1665837206057544572
+    second: 1-salt_spilled_80
+  - first:
+      213: -3902690993688974067
+    second: 1-salt_spilled_81
+  - first:
+      213: 6181406077180165874
+    second: 1-salt_spilled_82
+  - first:
+      213: 3542791294848884561
+    second: 1-salt_spilled_83
+  - first:
+      213: -7107083992751334554
+    second: 1-salt_spilled_84
+  - first:
+      213: 1393379683649945881
+    second: 1-salt_spilled_85
+  - first:
+      213: -6732462133700619957
+    second: 1-salt_spilled_86
+  - first:
+      213: -2058437612039147895
+    second: 1-salt_spilled_87
+  - first:
+      213: -861857588665600256
+    second: 1-salt_spilled_88
+  - first:
+      213: 8496069976555904066
+    second: 1-salt_spilled_89
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 1-salt_spilled_0
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 388
+        width: 109
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76a00cc47177933c0800000000000000
+      internalID: -4379338220685489561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-salt_spilled_1
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 443
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c308424e1505c5fe0800000000000000
+      internalID: -1198995088137224132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-salt_spilled_2
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 435
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d46eded9cb21b610800000000000000
+      internalID: 1635136285739738324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-salt_spilled_3
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 425
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9c2f3c754e12b6a0800000000000000
+      internalID: -6435047633772925795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-salt_spilled_4
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 534
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1733ddfbcf744980800000000000000
+      internalID: -8555572877983533283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-salt_spilled_5
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 413
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b196af8e490a5d6e0800000000000000
+      internalID: -1813366713522427621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-salt_spilled_6
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 433
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1eb8c35e83bd364d0800000000000000
+      internalID: -3142427077563872287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-salt_spilled_7
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 428
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91759d9a77fbff9c0800000000000000
+      internalID: -3891181032353212647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-salt_spilled_8
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 554
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a664c4da435e2be10800000000000000
+      internalID: 2212082381400852074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-salt_spilled_9
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 414
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9a7ef857d0421670800000000000000
+      internalID: 8507933939711507103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-salt_spilled_10
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 426
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec1cb3b0855a41490800000000000000
+      internalID: -7776408858997833266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-salt_spilled_11
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 441
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 696cbc026d73f3b00800000000000000
+      internalID: 810427850762733206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-salt_spilled_12
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 429
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef9bbcff45703b5d0800000000000000
+      internalID: -3048084461149505026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-salt_spilled_13
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 421
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 114fc079e00d8abb0800000000000000
+      internalID: -4924457431447309295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-salt_spilled_14
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 415
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47289123b306fa9f0800000000000000
+      internalID: -455039229981261196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-salt_spilled_15
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 548
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fef4e57d55f431ca0800000000000000
+      internalID: -6047402644524347409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-salt_spilled_16
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 453
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58637dacd56d07200800000000000000
+      internalID: 175876083790853765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-salt_spilled_17
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 467
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5ffcf88f60436e00800000000000000
+      internalID: 1036743187009175390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-salt_spilled_18
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 428
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48f87b72ab136c1f0800000000000000
+      internalID: -1025077189580189820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-salt_spilled_19
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 417
+        width: 107
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b221fe99e67b9ec0800000000000000
+      internalID: -3559120334740184391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-salt_spilled_20
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 572
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87a00b9e3a475ac40800000000000000
+      internalID: 5522948765388900984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-salt_spilled_21
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 563
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8895edc241944a8d0800000000000000
+      internalID: -2836061514335626872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-salt_spilled_22
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 452
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee271f04d02b31ed0800000000000000
+      internalID: -2444414402738162962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-salt_spilled_23
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 581
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b1405837d1e4b6a0800000000000000
+      internalID: -6434269653126594128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-salt_spilled_24
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 442
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb92abdf0911e1870800000000000000
+      internalID: 8655374848282470846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-salt_spilled_25
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 462
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fee2f1612562a0760800000000000000
+      internalID: 7424789069674000111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-salt_spilled_26
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 433
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2de0f6d4da59231e0800000000000000
+      internalID: -2219547094779228462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-salt_spilled_27
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 453
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7f77dce8c0d5ed20800000000000000
+      internalID: 3307279062759079806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-salt_spilled_28
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 585
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01ae8f73bf039e2b0800000000000000
+      internalID: -5554854809850811888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-salt_spilled_29
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 573
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6d8a1a7e6bb18b10800000000000000
+      internalID: 1982071394189086063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-salt_spilled_30
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 477
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 702142afd7ffe5510800000000000000
+      internalID: 1539949039139951111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-salt_spilled_31
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 583
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01e42b9d04682b800800000000000000
+      internalID: 626710911246290448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-salt_spilled_32
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 573
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d64d147eba7b5860800000000000000
+      internalID: 7519738961235625686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-salt_spilled_33
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 464
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd3a72690cf4de3b0800000000000000
+      internalID: -5481637482868530209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-salt_spilled_34
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 580
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78737dd960b393360800000000000000
+      internalID: 7149810783031342983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-salt_spilled_35
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 580
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ccf0e5c31d329d20800000000000000
+      internalID: 3283754233440042184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-salt_spilled_36
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 589
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcdb2232c9ae6c730800000000000000
+      internalID: 4019157673800023499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-salt_spilled_37
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 475
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9597c1114621cef30800000000000000
+      internalID: 4606076739886283097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-salt_spilled_38
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 573
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1276e2d34937cd910800000000000000
+      internalID: 1863491426343348001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-salt_spilled_39
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 555
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 744e03df6bb59b350800000000000000
+      internalID: 6032954017329505351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-salt_spilled_40
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 480
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a01b74316de7f790800000000000000
+      internalID: -7496262052986810207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-salt_spilled_41
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 581
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98099773b5e2de110800000000000000
+      internalID: 1291739637432815753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-salt_spilled_42
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 572
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f07a9f30191e1bb0800000000000000
+      internalID: -4963502181738450698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-salt_spilled_43
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 441
+        width: 110
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be767bf98d9362710800000000000000
+      internalID: 1668084314542663659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-salt_spilled_44
+      rect:
+        serializedVersion: 2
+        x: 1093
+        y: 580
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9bb4a158136d1d70800000000000000
+      internalID: 9015470985165716383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-salt_spilled_45
+      rect:
+        serializedVersion: 2
+        x: 1093
+        y: 564
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea8c5f1bb3b424560800000000000000
+      internalID: 7296477066054453422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-salt_spilled_46
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 554
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f83524b720ee49c0800000000000000
+      internalID: -3940966162771920653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-salt_spilled_47
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 537
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ff5447f1428c1d70800000000000000
+      internalID: 9015223773921828850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-salt_spilled_48
+      rect:
+        serializedVersion: 2
+        x: 1103
+        y: 320
+        width: 76
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ab1d657c9585f4f0800000000000000
+      internalID: -795582852129547352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-salt_spilled_49
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 542
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98d9c2622c6f94bb0800000000000000
+      internalID: -4951155001592603255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-salt_spilled_50
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 539
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 506f8e186be1c8d70800000000000000
+      internalID: 9046639520692893189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-salt_spilled_51
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 538
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b8d1522b53365ec0800000000000000
+      internalID: -3578616387388450633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-salt_spilled_52
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 523
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3af9daff7067d340800000000000000
+      internalID: 4888482023319665214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-salt_spilled_53
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 518
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aad509e862b42ead0800000000000000
+      internalID: -2674492599731987030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-salt_spilled_54
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 513
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6df4f8a2ee871ac70800000000000000
+      internalID: 8980592096265064406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-salt_spilled_55
+      rect:
+        serializedVersion: 2
+        x: 1142
+        y: 521
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85e4c5b8edff305c0800000000000000
+      internalID: -4250272292021711272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-salt_spilled_56
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 445
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7d0c4cdcbb79de00800000000000000
+      internalID: 1070022437557243263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-salt_spilled_57
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 465
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 132882c1fc53da730800000000000000
+      internalID: 4011922006703899185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-salt_spilled_58
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 408
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56bc0d5ac9f62bb20800000000000000
+      internalID: 3148701808072903525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-salt_spilled_59
+      rect:
+        serializedVersion: 2
+        x: 1163
+        y: 499
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d2dc4f8e29184000800000000000000
+      internalID: 20293886086533842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-salt_spilled_60
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 470
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66f3b1c707d136a80800000000000000
+      internalID: -8474897704825438362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-salt_spilled_61
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 450
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a22b92f2a6db2b810800000000000000
+      internalID: 1779693066520212010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-salt_spilled_62
+      rect:
+        serializedVersion: 2
+        x: 1169
+        y: 396
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0616dadc729401b0800000000000000
+      internalID: -5691262964144400886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-salt_spilled_63
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 429
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 890154bc5aa297ea0800000000000000
+      internalID: -5874617347359829864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-salt_spilled_64
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 426
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eec45bbc090a7c840800000000000000
+      internalID: 5244336834849623278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-salt_spilled_65
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 398
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c90cd45e3339f1f50800000000000000
+      internalID: 6854359008980877468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-salt_spilled_66
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 404
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eda0f9b127d010830800000000000000
+      internalID: 4035521524841515742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-salt_spilled_67
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 391
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a0887a017e2426b0800000000000000
+      internalID: -5322077796603232092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-salt_spilled_68
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 335
+        width: 40
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 907735962215627f0800000000000000
+      internalID: -637733088988530935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-salt_spilled_69
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 395
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 810f04d94922c1330800000000000000
+      internalID: 3682856616971005976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-salt_spilled_70
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 348
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d05b111ad1ff8c220800000000000000
+      internalID: 2506533695353107725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-salt_spilled_71
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 385
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2775872e914a35aa0800000000000000
+      internalID: -6173410233114142862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-salt_spilled_72
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 380
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5e698899887b5470800000000000000
+      internalID: 8384427663645306459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-salt_spilled_73
+      rect:
+        serializedVersion: 2
+        x: 1147
+        y: 370
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a3dcc04e2af8e3c0800000000000000
+      internalID: -4329935965154126935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-salt_spilled_74
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 335
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8e9a83d56a8b23b0800000000000000
+      internalID: -5536179146976485745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-salt_spilled_75
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 362
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3718ae6578dc33d0800000000000000
+      internalID: -3225465234224834754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-salt_spilled_76
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 349
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cb27acdbc17fa3a0800000000000000
+      internalID: -6651973004208690238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-salt_spilled_77
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 352
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b31beb2ac118de000800000000000000
+      internalID: 66851529469899067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-salt_spilled_78
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 319
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 098da8d1b9d1bd0a0800000000000000
+      internalID: -6855853455688673136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-salt_spilled_79
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 341
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6420866603a5c52c0800000000000000
+      internalID: -4441575968571129274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-salt_spilled_80
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 296
+        width: 53
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7b60b8ec1e3e1710800000000000000
+      internalID: 1665837206057544572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-salt_spilled_81
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 321
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0d6d05f73bd6d9c0800000000000000
+      internalID: -3902690993688974067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-salt_spilled_82
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 307
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2feb3c2a314c8c550800000000000000
+      internalID: 6181406077180165874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-salt_spilled_83
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 326
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15f50d289e58a2130800000000000000
+      internalID: 3542791294848884561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-salt_spilled_84
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 300
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66b113773c09e5d90800000000000000
+      internalID: -7107083992751334554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-salt_spilled_85
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 294
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91183399077465310800000000000000
+      internalID: 1393379683649945881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-salt_spilled_86
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 287
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4191090c5d7192a0800000000000000
+      internalID: -6732462133700619957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-salt_spilled_87
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 286
+        width: 53
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98e6a1ed5e5fe63e0800000000000000
+      internalID: -2058437612039147895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-salt_spilled_88
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 277
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 007bc94e6111a04f0800000000000000
+      internalID: -861857588665600256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-salt_spilled_89
+      rect:
+        serializedVersion: 2
+        x: 1017
+        y: 275
+        width: 28
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24cd97b21aa18e570800000000000000
+      internalID: 8496069976555904066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      1-salt_spilled_0: -4379338220685489561
+      1-salt_spilled_1: -1198995088137224132
+      1-salt_spilled_10: -7776408858997833266
+      1-salt_spilled_11: 810427850762733206
+      1-salt_spilled_12: -3048084461149505026
+      1-salt_spilled_13: -4924457431447309295
+      1-salt_spilled_14: -455039229981261196
+      1-salt_spilled_15: -6047402644524347409
+      1-salt_spilled_16: 175876083790853765
+      1-salt_spilled_17: 1036743187009175390
+      1-salt_spilled_18: -1025077189580189820
+      1-salt_spilled_19: -3559120334740184391
+      1-salt_spilled_2: 1635136285739738324
+      1-salt_spilled_20: 5522948765388900984
+      1-salt_spilled_21: -2836061514335626872
+      1-salt_spilled_22: -2444414402738162962
+      1-salt_spilled_23: -6434269653126594128
+      1-salt_spilled_24: 8655374848282470846
+      1-salt_spilled_25: 7424789069674000111
+      1-salt_spilled_26: -2219547094779228462
+      1-salt_spilled_27: 3307279062759079806
+      1-salt_spilled_28: -5554854809850811888
+      1-salt_spilled_29: 1982071394189086063
+      1-salt_spilled_3: -6435047633772925795
+      1-salt_spilled_30: 1539949039139951111
+      1-salt_spilled_31: 626710911246290448
+      1-salt_spilled_32: 7519738961235625686
+      1-salt_spilled_33: -5481637482868530209
+      1-salt_spilled_34: 7149810783031342983
+      1-salt_spilled_35: 3283754233440042184
+      1-salt_spilled_36: 4019157673800023499
+      1-salt_spilled_37: 4606076739886283097
+      1-salt_spilled_38: 1863491426343348001
+      1-salt_spilled_39: 6032954017329505351
+      1-salt_spilled_4: -8555572877983533283
+      1-salt_spilled_40: -7496262052986810207
+      1-salt_spilled_41: 1291739637432815753
+      1-salt_spilled_42: -4963502181738450698
+      1-salt_spilled_43: 1668084314542663659
+      1-salt_spilled_44: 9015470985165716383
+      1-salt_spilled_45: 7296477066054453422
+      1-salt_spilled_46: -3940966162771920653
+      1-salt_spilled_47: 9015223773921828850
+      1-salt_spilled_48: -795582852129547352
+      1-salt_spilled_49: -4951155001592603255
+      1-salt_spilled_5: -1813366713522427621
+      1-salt_spilled_50: 9046639520692893189
+      1-salt_spilled_51: -3578616387388450633
+      1-salt_spilled_52: 4888482023319665214
+      1-salt_spilled_53: -2674492599731987030
+      1-salt_spilled_54: 8980592096265064406
+      1-salt_spilled_55: -4250272292021711272
+      1-salt_spilled_56: 1070022437557243263
+      1-salt_spilled_57: 4011922006703899185
+      1-salt_spilled_58: 3148701808072903525
+      1-salt_spilled_59: 20293886086533842
+      1-salt_spilled_6: -3142427077563872287
+      1-salt_spilled_60: -8474897704825438362
+      1-salt_spilled_61: 1779693066520212010
+      1-salt_spilled_62: -5691262964144400886
+      1-salt_spilled_63: -5874617347359829864
+      1-salt_spilled_64: 5244336834849623278
+      1-salt_spilled_65: 6854359008980877468
+      1-salt_spilled_66: 4035521524841515742
+      1-salt_spilled_67: -5322077796603232092
+      1-salt_spilled_68: -637733088988530935
+      1-salt_spilled_69: 3682856616971005976
+      1-salt_spilled_7: -3891181032353212647
+      1-salt_spilled_70: 2506533695353107725
+      1-salt_spilled_71: -6173410233114142862
+      1-salt_spilled_72: 8384427663645306459
+      1-salt_spilled_73: -4329935965154126935
+      1-salt_spilled_74: -5536179146976485745
+      1-salt_spilled_75: -3225465234224834754
+      1-salt_spilled_76: -6651973004208690238
+      1-salt_spilled_77: 66851529469899067
+      1-salt_spilled_78: -6855853455688673136
+      1-salt_spilled_79: -4441575968571129274
+      1-salt_spilled_8: 2212082381400852074
+      1-salt_spilled_80: 1665837206057544572
+      1-salt_spilled_81: -3902690993688974067
+      1-salt_spilled_82: 6181406077180165874
+      1-salt_spilled_83: 3542791294848884561
+      1-salt_spilled_84: -7107083992751334554
+      1-salt_spilled_85: 1393379683649945881
+      1-salt_spilled_86: -6732462133700619957
+      1-salt_spilled_87: -2058437612039147895
+      1-salt_spilled_88: -861857588665600256
+      1-salt_spilled_89: 8496069976555904066
+      1-salt_spilled_9: 8507933939711507103
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

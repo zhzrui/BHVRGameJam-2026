@@ -1949,6 +1949,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 973930135405153853, guid: 4cd5b4884f31149c7b00dcd7d49b4d82, type: 3}
+      propertyPath: m_Alpha
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 4522496550552514653, guid: 4cd5b4884f31149c7b00dcd7d49b4d82, type: 3}
       propertyPath: m_LocalPosition.x
       value: 1332.5742
@@ -2526,7 +2530,7 @@ Canvas:
   m_Enabled: 1
   serializedVersion: 3
   m_RenderMode: 1
-  m_Camera: {fileID: 0}
+  m_Camera: {fileID: 164140297}
   m_PlaneDistance: 100
   m_PixelPerfect: 0
   m_ReceivesEvents: 1

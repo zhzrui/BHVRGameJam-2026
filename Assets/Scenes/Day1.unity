@@ -365,8 +365,9 @@ MonoBehaviour:
   minigamePanel: {fileID: 37709376}
   ingredientsInOrder:
   - {fileID: 251869766}
-  - {fileID: 294252300}
   - {fileID: 1995915396}
+  - {fileID: 633476853}
+  - {fileID: 294252300}
   bowlSlotParent: {fileID: 1578111928}
   objectiveKey: day1step1
 --- !u!114 &37709378
@@ -420,8 +421,9 @@ RectTransform:
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 1578111928}
-  - {fileID: 1995915400}
   - {fileID: 251869770}
+  - {fileID: 1995915400}
+  - {fileID: 633476851}
   - {fileID: 294252304}
   m_Father: {fileID: 1854171645}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -789,7 +791,7 @@ GameObject:
   - component: {fileID: 251869766}
   - component: {fileID: 251869767}
   m_Layer: 5
-  m_Name: ingredient0
+  m_Name: ingrediant0
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -808,8 +810,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::DraggableIngredient
   orderIndex: 0
-  bowlSprite: {fileID: 0}
-  bowlSpriteSize: {x: 80, y: 80}
+  bowlSprite: {fileID: 21300000, guid: 2dcaeaaff06e85f478a65a9d09b9e750, type: 3}
+  bowlSpriteSize: {x: 300, y: 300}
   bowlSpritePosition: {x: 0, y: 0}
 --- !u!225 &251869767
 CanvasGroup:
@@ -843,9 +845,9 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: -3335594083524640538, guid: 29a03a3ee6152074c8969306c632a05a, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 44e98d7e87bc2d84abb4e5484d196ec8, type: 3}
   m_Type: 0
-  m_PreserveAspect: 0
+  m_PreserveAspect: 1
   m_FillCenter: 1
   m_FillMethod: 4
   m_FillAmount: 1
@@ -868,17 +870,17 @@ RectTransform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 251869765}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0.12703694, w: 0.991898}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 37709380}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: -14.597}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -201.93504, y: -192.05945}
-  m_SizeDelta: {x: 100, y: 100}
+  m_AnchoredPosition: {x: -84, y: 216}
+  m_SizeDelta: {x: 121.22, y: 121.22}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &294252299
 GameObject:
@@ -894,7 +896,7 @@ GameObject:
   - component: {fileID: 294252300}
   - component: {fileID: 294252301}
   m_Layer: 5
-  m_Name: ingredient1
+  m_Name: ingrediant3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -913,8 +915,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::DraggableIngredient
   orderIndex: 1
-  bowlSprite: {fileID: 0}
-  bowlSpriteSize: {x: 80, y: 80}
+  bowlSprite: {fileID: 21300000, guid: 2d2ee6868ebe441d3bd8ea7be2a6a231, type: 3}
+  bowlSpriteSize: {x: 300, y: 300}
   bowlSpritePosition: {x: 0, y: 0}
 --- !u!225 &294252301
 CanvasGroup:
@@ -948,7 +950,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: -6636823625981438756, guid: 6218960ac5d6f3d42a51d7f070fa9c7e, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 8d86e4dafae8b4d009c81f82a0b10a50, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -982,8 +984,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 10.269226, y: -192.05945}
-  m_SizeDelta: {x: 100, y: 100}
+  m_AnchoredPosition: {x: 425, y: -248.96}
+  m_SizeDelta: {x: 113.37, y: 113.37}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &617944510
 GameObject:
@@ -1096,6 +1098,111 @@ RectTransform:
   m_AnchoredPosition: {x: -5, y: 0}
   m_SizeDelta: {x: -20, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
+--- !u!1 &633476850
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 633476851}
+  - component: {fileID: 633476855}
+  - component: {fileID: 633476854}
+  - component: {fileID: 633476853}
+  - component: {fileID: 633476852}
+  m_Layer: 5
+  m_Name: ingrediant2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &633476851
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 633476850}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 37709380}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: 486.77, y: -138}
+  m_SizeDelta: {x: 113.37, y: 113.37}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!225 &633476852
+CanvasGroup:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 633476850}
+  m_Enabled: 1
+  m_Alpha: 1
+  m_Interactable: 1
+  m_BlocksRaycasts: 1
+  m_IgnoreParentGroups: 0
+--- !u!114 &633476853
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 633476850}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 593c8e77e89485d4fabc844733dcf3e6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::DraggableIngredient
+  orderIndex: 0
+  bowlSprite: {fileID: 21300000, guid: a0e2864ec92db4f7e850e7ab3ec2664a, type: 3}
+  bowlSpriteSize: {x: 300, y: 300}
+  bowlSpritePosition: {x: 0, y: 0}
+--- !u!114 &633476854
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 633476850}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: UnityEngine.UI::UnityEngine.UI.Image
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 1
+  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
+  m_Maskable: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_Sprite: {fileID: 21300000, guid: d5192221e3a274b55aba8b4ac330d1ed, type: 3}
+  m_Type: 0
+  m_PreserveAspect: 1
+  m_FillCenter: 1
+  m_FillMethod: 4
+  m_FillAmount: 1
+  m_FillClockwise: 1
+  m_FillOrigin: 0
+  m_UseSpriteMesh: 0
+  m_PixelsPerUnitMultiplier: 1
+--- !u!222 &633476855
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 633476850}
+  m_CullTransparentMesh: 1
 --- !u!1 &697646702
 GameObject:
   m_ObjectHideFlags: 0
@@ -1567,7 +1674,7 @@ MonoBehaviour:
       pepper to taste.
     flagToSet: 
     spriteUpdates:
-    - shotcut stare
+    - shortcut stare
     - eyes squint
     pauseForObjective: 1
     objectiveId: day1step1
@@ -2830,7 +2937,7 @@ GameObject:
   - component: {fileID: 1995915396}
   - component: {fileID: 1995915397}
   m_Layer: 5
-  m_Name: ingredient2
+  m_Name: ingrediant1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2849,8 +2956,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::DraggableIngredient
   orderIndex: 2
-  bowlSprite: {fileID: 0}
-  bowlSpriteSize: {x: 80, y: 80}
+  bowlSprite: {fileID: 21300000, guid: 2c6f1f6a82ab44fae8be48b5518fda71, type: 3}
+  bowlSpriteSize: {x: 300, y: 300}
   bowlSpritePosition: {x: 0, y: 0}
 --- !u!225 &1995915397
 CanvasGroup:
@@ -2884,7 +2991,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: -6848031806446540474, guid: d811777e8c21fc04d971477bb940a0d7, type: 3}
+  m_Sprite: {fileID: 7835886662117166575, guid: 14d5f3d592146420a81a1f2f379b0b49, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -2918,8 +3025,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 214.06506, y: -192.05945}
-  m_SizeDelta: {x: 100, y: 100}
+  m_AnchoredPosition: {x: -123, y: -230.42}
+  m_SizeDelta: {x: 150.45, y: 150.45}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &2021739495
 GameObject:
@@ -3224,6 +3331,14 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4522496550552514653, guid: 4cd5b4884f31149c7b00dcd7d49b4d82, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5203357126331519713, guid: 4cd5b4884f31149c7b00dcd7d49b4d82, type: 3}
+      propertyPath: weight
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7425376889538783362, guid: 4cd5b4884f31149c7b00dcd7d49b4d82, type: 3}
+      propertyPath: m_RenderMode
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8239273910911862091, guid: 4cd5b4884f31149c7b00dcd7d49b4d82, type: 3}
