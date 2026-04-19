@@ -576,6 +576,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Ekey
       objectReference: {fileID: 0}
+    - target: {fileID: 6707645993995951799, guid: cbd0e4ffed1201c40a418abce8d3b907, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
