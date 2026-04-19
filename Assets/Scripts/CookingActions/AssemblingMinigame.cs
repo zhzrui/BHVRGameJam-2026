@@ -13,7 +13,7 @@ public class AssemblingMinigame : CookingMinigameBase, IDropHandler
 
     [SerializeField] private string objectiveKey = "cooking";
 
-    public event System.Action OnWrongOrder;
+    //public event System.Action OnWrongOrder;
 
     private int currentStep = 0;
 
@@ -33,20 +33,12 @@ public class AssemblingMinigame : CookingMinigameBase, IDropHandler
 
         Debug.Log($"[Assembling] Dropped orderIndex={dropped.orderIndex}, expecting step={currentStep}, total={ingredientsInOrder.Count}");
 
-        if (dropped.orderIndex == currentStep)
-        {
-            dropped.gameObject.SetActive(false);
-            SpawnInBowl(dropped);
-            currentStep++;
+        dropped.gameObject.SetActive(false);
+        SpawnInBowl(dropped);
+        currentStep++;
 
-            if (currentStep >= ingredientsInOrder.Count)
-                Complete();
-        }
-        else
-        {
-            Debug.Log($"[Assembling] Wrong order — snapping back");
-            OnWrongOrder?.Invoke();
-        }
+        if (currentStep >= ingredientsInOrder.Count)
+            Complete();
     }
 
     private void SpawnInBowl(DraggableIngredient dropped)
@@ -57,7 +49,9 @@ public class AssemblingMinigame : CookingMinigameBase, IDropHandler
         icon.transform.SetParent(bowlSlotParent, false);
         Image img = icon.AddComponent<Image>();
         img.sprite = dropped.bowlSprite;
-        img.SetNativeSize();
+        RectTransform rt = icon.GetComponent<RectTransform>();
+        rt.sizeDelta = dropped.bowlSpriteSize;
+        rt.anchoredPosition = dropped.bowlSpritePosition;
     }
 
     private void Complete()

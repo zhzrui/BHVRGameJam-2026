@@ -3,18 +3,23 @@ using UnityEngine.UI;
 using UnityEngine.EventSystems;
 using System.Collections.Generic;
 
+[System.Serializable]
+public class CuttingIngredientData
+{
+    public Texture2D texture;
+    public float[] cutPositions;
+}
+
 public class CuttingMinigame : CookingMinigameBase, IPointerDownHandler, IDragHandler, IPointerUpHandler
 {
     //private void Start() => StartMinigame();
 
-    [Header("Ingredient")]
-    [SerializeField] private Texture2D ingredientTexture;
-    [SerializeField] private RectTransform ingredientContainer;
+    [Header("Ingredients")]
+    [SerializeField] private List<CuttingIngredientData> ingredients; // cut these in order
 
     [Header("Cut Settings")]
-    [SerializeField] private float[] cutPositions = { 0.33f, 0.66f };
+    [SerializeField] private RectTransform ingredientContainer;
     [SerializeField] private float cutLineTolerance = 20f;
-    [SerializeField] private float requiredCutDistance = 80f;
 
     [Header("Visuals")]
     [SerializeField] private RectTransform cutLineIndicator;
@@ -22,19 +27,28 @@ public class CuttingMinigame : CookingMinigameBase, IPointerDownHandler, IDragHa
 
     [SerializeField] private string objectiveKey = "cooking";
 
+    private int currentIngredientIndex;
     private int currentCutIndex;
     private bool isCutting;
-    private float cuttingProgress;
     private float currentRightStart;
     private RawImage mainDisplay;
     private List<RawImage> completedSlices = new();
 
+    // Shorthand for the active ingredient's data
+    private CuttingIngredientData CurrentIngredient => ingredients[currentIngredientIndex];
+
     public override void StartMinigame()
+    {
+        currentIngredientIndex = 0;
+        minigamePanel.SetActive(true);
+        LoadIngredient();
+    }
+
+    private void LoadIngredient()
     {
         currentCutIndex = 0;
         currentRightStart = 0f;
         isCutting = false;
-        cuttingProgress = 0f;
 
         foreach (var slice in completedSlices)
             if (slice != null) Destroy(slice.gameObject);
@@ -47,60 +61,51 @@ public class CuttingMinigame : CookingMinigameBase, IPointerDownHandler, IDragHa
         }
 
         mainDisplay.gameObject.SetActive(true);
-        mainDisplay.texture = ingredientTexture;
+        mainDisplay.texture = CurrentIngredient.texture;
         SetAnchoredSlice(mainDisplay.rectTransform, 0f, 1f, 0f);
         mainDisplay.uvRect = new Rect(0, 0, 1, 1);
-        mainDisplay.transform.SetAsFirstSibling(); // always render behind slices and cut line
+        mainDisplay.transform.SetAsFirstSibling();
 
-        minigamePanel.SetActive(true);
         RefreshCutLine();
     }
 
     public void OnPointerDown(PointerEventData eventData)
     {
-        if (currentCutIndex >= cutPositions.Length) return;
+        if (currentCutIndex >= CurrentIngredient.cutPositions.Length) return;
 
         float normX = PointerToNormalizedX(eventData.position, eventData.pressEventCamera);
         float tolerance = cutLineTolerance / ingredientContainer.rect.width;
-        float cutX = cutPositions[currentCutIndex];
+        float cutX = CurrentIngredient.cutPositions[currentCutIndex];
 
-        Debug.Log($"[Cutting] Click at normX={normX:F2}, cutX={cutX:F2}, tolerance={tolerance:F2}, hit={Mathf.Abs(normX - cutX) <= tolerance}");
+        Debug.Log($"[Cutting] Click normX={normX:F2} cutX={cutX:F2} hit={Mathf.Abs(normX - cutX) <= tolerance}");
 
         if (Mathf.Abs(normX - cutX) <= tolerance)
-        {
             isCutting = true;
-            cuttingProgress = 0f;
-        }
     }
 
-    public void OnDrag(PointerEventData eventData)
-    {
-        // intentionally empty — drag is not required, cut completes on release
-    }
+    public void OnDrag(PointerEventData eventData) { }
 
     public void OnPointerUp(PointerEventData eventData)
     {
         if (isCutting)
             CompleteCut();
-
         isCutting = false;
-        cuttingProgress = 0f;
     }
 
     private void CompleteCut()
     {
         isCutting = false;
 
-        float cutX = cutPositions[currentCutIndex];
+        float cutX = CurrentIngredient.cutPositions[currentCutIndex];
         int sliceNumber = completedSlices.Count + 1;
 
         RawImage slice = new GameObject($"Slice_{sliceNumber}").AddComponent<RawImage>();
         slice.transform.SetParent(ingredientContainer, false);
-        slice.texture = ingredientTexture;
+        slice.texture = CurrentIngredient.texture;
         slice.uvRect = new Rect(currentRightStart, 0, cutX - currentRightStart, 1);
         SetAnchoredSlice(slice.rectTransform, currentRightStart, cutX, 0f);
         completedSlices.Add(slice);
-        cutLineIndicator?.SetAsLastSibling(); // keep cut line on top after each new slice
+        cutLineIndicator?.SetAsLastSibling();
 
         for (int i = 0; i < completedSlices.Count; i++)
             SetAnchoredSlice(completedSlices[i].rectTransform,
@@ -113,17 +118,27 @@ public class CuttingMinigame : CookingMinigameBase, IPointerDownHandler, IDragHa
         SetAnchoredSlice(mainDisplay.rectTransform, cutX, 1f, 0f);
 
         currentCutIndex++;
-        Debug.Log($"[Cutting] Cut {currentCutIndex}/{cutPositions.Length} done. Slices: {completedSlices.Count}");
+        Debug.Log($"[Cutting] Ingredient {currentIngredientIndex + 1}, cut {currentCutIndex}/{CurrentIngredient.cutPositions.Length}");
 
-        if (currentCutIndex >= cutPositions.Length)
+        if (currentCutIndex >= CurrentIngredient.cutPositions.Length)
+            FinishIngredient();
+        else
+            RefreshCutLine();
+    }
+
+    private void FinishIngredient()
+    {
+        currentIngredientIndex++;
+        Debug.Log($"[Cutting] Ingredient done. Next: {currentIngredientIndex}/{ingredients.Count}");
+
+        if (currentIngredientIndex >= ingredients.Count)
         {
-            Debug.Log("[Cutting] All cuts done, completing.");
             Complete();
         }
         else
         {
-            Debug.Log($"[Cutting] Next cut at normX={cutPositions[currentCutIndex]:F2}");
-            RefreshCutLine();
+            // Brief pause could be added here via coroutine if desired
+            LoadIngredient();
         }
     }
 
@@ -147,22 +162,15 @@ public class CuttingMinigame : CookingMinigameBase, IPointerDownHandler, IDragHa
     {
         if (cutLineIndicator == null) return;
 
-        if (currentCutIndex >= cutPositions.Length)
-        {
-            cutLineIndicator.gameObject.SetActive(false);
-            return;
-        }
-
-        // Add an overriding Canvas so the cut line always sorts above the ingredient image
         if (!cutLineIndicator.TryGetComponent<Canvas>(out var lineCanvas))
         {
             lineCanvas = cutLineIndicator.gameObject.AddComponent<Canvas>();
-            cutLineIndicator.gameObject.AddComponent<UnityEngine.UI.GraphicRaycaster>();
+            cutLineIndicator.gameObject.AddComponent<GraphicRaycaster>();
         }
         lineCanvas.overrideSorting = true;
         lineCanvas.sortingOrder = 10;
 
-        float cutX = cutPositions[currentCutIndex];
+        float cutX = CurrentIngredient.cutPositions[currentCutIndex];
         cutLineIndicator.anchorMin = new Vector2(cutX, 0f);
         cutLineIndicator.anchorMax = new Vector2(cutX, 1f);
         cutLineIndicator.sizeDelta = new Vector2(4f, 0f);
@@ -174,8 +182,6 @@ public class CuttingMinigame : CookingMinigameBase, IPointerDownHandler, IDragHa
     {
         cutLineIndicator?.gameObject.SetActive(false);
 
-        // Destroy dynamically created slice images so they don't persist if ingredientContainer
-        // is outside minigamePanel
         foreach (var slice in completedSlices)
             if (slice != null) Destroy(slice.gameObject);
         completedSlices.Clear();
@@ -183,13 +189,8 @@ public class CuttingMinigame : CookingMinigameBase, IPointerDownHandler, IDragHa
 
         minigamePanel?.SetActive(false);
 
-        //ObjectiveManager.Instance?.CompleteObjective(objectiveKey);
-
         DialogueManager dm = FindFirstObjectByType<DialogueManager>();
-        if (dm != null)
-        {
-            dm.MarkObjectiveComplete(objectiveKey);
-        }
+        dm?.MarkObjectiveComplete(objectiveKey);
 
         RaiseSuccess();
     }
