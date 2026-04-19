@@ -1521,18 +1521,24 @@ MonoBehaviour:
   lines:
   - text: Hi my lovelies, welcome back to my cooking show!
     flagToSet: 
-    spriteUpdates: []
+    spriteUpdates:
+    - shortcut stare
+    - mouth tongueout
+    - hands hide
     pauseForObjective: 0
     objectiveId: 
   - text: "I\u2019m your super-duper-awesome-cutie host, Candy\u2606!"
     flagToSet: 
-    spriteUpdates: []
+    spriteUpdates:
+    - shortcut speak
+    - eyes shut
     pauseForObjective: 0
     objectiveId: 
   - text: "Today, I\u2019ll teach you how to make scrambled eggs, just like how my
       mother made it."
     flagToSet: 
-    spriteUpdates: []
+    spriteUpdates:
+    - shortcut hungry
     pauseForObjective: 0
     objectiveId: 
   - text: "It\u2019s warm and comforting. Perfect for a quick meal!"
@@ -1545,19 +1551,24 @@ MonoBehaviour:
     objectiveId: 
   - text: "Let\u2019s get cooking!"
     flagToSet: 
-    spriteUpdates: []
+    spriteUpdates:
+    - shortcut hungry
     pauseForObjective: 0
     objectiveId: 
   - text: "First, make sure you have your CookingCandyBox\u2606. It contains all
       of the ingredients you\u2019ll need for today\u2019s recipe."
     flagToSet: 
-    spriteUpdates: []
+    spriteUpdates:
+    - shortcut stare
+    - hands elegant
     pauseForObjective: 0
     objectiveId: 
   - text: Crack the eggs and pour the milk into the bowl. Then, add some salt and
       pepper to taste.
     flagToSet: 
-    spriteUpdates: []
+    spriteUpdates:
+    - shotcut stare
+    - eyes squint
     pauseForObjective: 1
     objectiveId: day1step1
   - text: Beat the mixture until thoroughly combined.
@@ -1574,13 +1585,15 @@ MonoBehaviour:
   - text: "And there we have it. Fluffy scrambled egg that Mama Candy\u2606 used
       to feed me."
     flagToSet: 
-    spriteUpdates: []
+    spriteUpdates:
+    - shortcut hungry
     pauseForObjective: 0
     objectiveId: 
   - text: Have a taste! And remember, whenever you eat my cooking, I become a part
       of you.
     flagToSet: 
-    spriteUpdates: []
+    spriteUpdates:
+    - shortcut outtro
     pauseForObjective: 0
     objectiveId: 
   voiceClips: []
