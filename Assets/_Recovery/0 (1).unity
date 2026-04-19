@@ -501,6 +501,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4461bac2254c74741b6bb143080488c4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::CursorManager
+  cursorSize: 333
 --- !u!4 &938015815
 Transform:
   m_ObjectHideFlags: 0

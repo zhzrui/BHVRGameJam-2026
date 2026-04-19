@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: c9f5e77b0239f48cf9fa61b968ae2240
+guid: 08c467ee2ba6d414a9e647d8acc3e490
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 761100573506273824
-    second: knife_0
+      213: -1325850629364307908
+    second: Illustration42-removebg-preview_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -96,30 +96,17 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 4
-    buildTarget: WebGL
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: knife_0
+      name: Illustration42-removebg-preview_0
       rect:
         serializedVersion: 2
-        x: 689
-        y: 58
-        width: 375
-        height: 791
+        x: 53
+        y: 52
+        width: 345
+        height: 366
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 022003a60f8ff8a00800000000000000
-      internalID: 761100573506273824
+      spriteID: c38238390e1a99de0800000000000000
+      internalID: -1325850629364307908
       vertices: []
       indices: 
       edges: []
@@ -148,7 +135,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      knife_0: 761100573506273824
+      Illustration42-removebg-preview_0: -1325850629364307908
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

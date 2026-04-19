@@ -62,6 +62,7 @@ public class CuttingMinigame : CookingMinigameBase, IPointerDownHandler, IDragHa
 
         mainDisplay.gameObject.SetActive(true);
         mainDisplay.texture = CurrentIngredient.texture;
+        CursorManager.Instance?.SetMinigameCursor(CursorManager.Instance.KnifeCursor);
         SetAnchoredSlice(mainDisplay.rectTransform, 0f, 1f, 0f);
         mainDisplay.uvRect = new Rect(0, 0, 1, 1);
         mainDisplay.transform.SetAsFirstSibling();
@@ -186,6 +187,7 @@ public class CuttingMinigame : CookingMinigameBase, IPointerDownHandler, IDragHa
             if (slice != null) Destroy(slice.gameObject);
         completedSlices.Clear();
         mainDisplay?.gameObject.SetActive(false);
+        CursorManager.Instance?.ClearMinigameCursor();
 
         minigamePanel?.SetActive(false);
 
