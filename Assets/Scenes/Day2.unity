@@ -789,7 +789,7 @@ RectTransform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 321711124}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: -60625.27}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1.0004208, y: 1.0004208, z: 1.0004208}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -1695,6 +1695,7 @@ MonoBehaviour:
     - shortcut speak
     pauseForObjective: 0
     objectiveId: 
+    showFoodDisplay: 0
   - text: "I\u2019m your cutieful host, Candy\u2606."
     flagToSet: 
     spriteUpdates:
@@ -1703,12 +1704,14 @@ MonoBehaviour:
     - hands clasped
     pauseForObjective: 0
     objectiveId: 
+    showFoodDisplay: 0
   - text: Today, we will be making spicy stir-fried cartilage.
     flagToSet: 
     spriteUpdates:
     - shortcut hungry
     pauseForObjective: 0
     objectiveId: 
+    showFoodDisplay: 0
   - text: "It\u2019s a dish that is very amusing to eat: crunchy and bouncy."
     flagToSet: 
     spriteUpdates:
@@ -1716,11 +1719,13 @@ MonoBehaviour:
     - mouth kind
     pauseForObjective: 0
     objectiveId: 
+    showFoodDisplay: 0
   - text: "Let\u2019s get cooking!"
     flagToSet: 
     spriteUpdates: []
     pauseForObjective: 0
     objectiveId: 
+    showFoodDisplay: 0
   - text: "Get the vegetables from your CookingCandyBox\u2606. Chop them into medium-thin
       slices and add them to your bowl."
     flagToSet: 
@@ -1728,12 +1733,14 @@ MonoBehaviour:
     - shortcut stare
     pauseForObjective: 1
     objectiveId: day2step1
-  - text: "Now, add the cartilage into the bowl too! It might look a little strange
-      for people who have never tried it before, but it\u2019s veeeeery yummy!"
+    showFoodDisplay: 0
+  - text: "Add the cartilage into the pan! It might look a little strange for people
+      who have never tried it before, but it\u2019s veeeeery yummy!"
     flagToSet: 
     spriteUpdates: []
     pauseForObjective: 1
     objectiveId: day2step2
+    showFoodDisplay: 0
   - text: "Mix, mix, mix~ And now to the pan we go! Stir it until it\u2019s thoroughly
       cooked, then place it into a plate."
     flagToSet: 
@@ -1742,12 +1749,14 @@ MonoBehaviour:
     - eyes shut
     pauseForObjective: 1
     objectiveId: day2step3
+    showFoodDisplay: 0
   - text: Now you have yourself a delicious, chewy stir fry with unconventional ingredients!
     flagToSet: 
     spriteUpdates:
     - shortcut hungry
     pauseForObjective: 0
     objectiveId: 
+    showFoodDisplay: 1
   - text: "Try it out! Don\u2019t forget: whenever you eat my cooking, I become a
       part of you!"
     flagToSet: 
@@ -1756,6 +1765,7 @@ MonoBehaviour:
     - eyes normal
     pauseForObjective: 0
     objectiveId: 
+    showFoodDisplay: 0
   voiceClips: []
   voiceSource: {fileID: 0}
   voiceVolume: 1
