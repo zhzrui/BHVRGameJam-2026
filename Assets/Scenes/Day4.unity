@@ -379,6 +379,11 @@ RectTransform:
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 100, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
+--- !u!20 &164140297 stripped
+Camera:
+  m_CorrespondingSourceObject: {fileID: 4073045393685252005, guid: 4cd5b4884f31149c7b00dcd7d49b4d82, type: 3}
+  m_PrefabInstance: {fileID: 919067942}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &193503457
 GameObject:
   m_ObjectHideFlags: 0
@@ -1774,6 +1779,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 973930135405153853, guid: 4cd5b4884f31149c7b00dcd7d49b4d82, type: 3}
+      propertyPath: m_Alpha
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 4522496550552514653, guid: 4cd5b4884f31149c7b00dcd7d49b4d82, type: 3}
       propertyPath: m_LocalPosition.x
       value: 1332.5742
@@ -2176,7 +2185,7 @@ Canvas:
   m_Enabled: 1
   serializedVersion: 3
   m_RenderMode: 1
-  m_Camera: {fileID: 0}
+  m_Camera: {fileID: 164140297}
   m_PlaneDistance: 100
   m_PixelPerfect: 0
   m_ReceivesEvents: 1

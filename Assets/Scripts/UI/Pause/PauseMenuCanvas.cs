@@ -3,6 +3,7 @@ using UnityEngine.InputSystem;
 using DG.Tweening;
 using UnityEngine.SceneManagement;
 using System.Collections;
+using UnityEngine.Rendering;
 
 public class PauseMenu : MonoBehaviour
 {
@@ -11,6 +12,7 @@ public class PauseMenu : MonoBehaviour
     CanvasGroup canvasGroup;
 
     InputAction cancel;
+    [SerializeField] Volume volume;
     bool menuShown = false;
 
     void Awake()
@@ -42,6 +44,7 @@ public class PauseMenu : MonoBehaviour
             canvasGroup.blocksRaycasts = true;
             canvasGroup.interactable = true;
             Time.timeScale = 0f;
+            DOTween.To(()=> volume.weight, x=> volume.weight = x, 1.0f, 0.5f);
             canvasGroup.DOFade(1f, 0.5f).SetUpdate(true);
             // canvasGroup.DOFade(1f, 0.5f).OnComplete(() => { Time.timeScale = 0f; });
         }
@@ -54,6 +57,7 @@ public class PauseMenu : MonoBehaviour
             menuShown = false;
             canvasGroup.blocksRaycasts = false;
             canvasGroup.interactable = false;
+            DOTween.To(()=> volume.weight, x=> volume.weight = x, 0.0f, 0.5f);
             canvasGroup.DOFade(0f, 0.5f).SetUpdate(true).OnComplete(() => { Time.timeScale = 1f; });
         }
     }
