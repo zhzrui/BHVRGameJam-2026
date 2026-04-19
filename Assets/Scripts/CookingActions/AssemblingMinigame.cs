@@ -12,8 +12,7 @@ public class AssemblingMinigame : CookingMinigameBase, IDropHandler
     [SerializeField] private Transform bowlSlotParent;
 
     [SerializeField] private string objectiveKey = "cooking";
-
-    //public event System.Action OnWrongOrder;
+    [SerializeField] private bool requiresOrder = false;
 
     private int currentStep = 0;
 
@@ -33,12 +32,27 @@ public class AssemblingMinigame : CookingMinigameBase, IDropHandler
 
         Debug.Log($"[Assembling] Dropped orderIndex={dropped.orderIndex}, expecting step={currentStep}, total={ingredientsInOrder.Count}");
 
+        if (requiresOrder && dropped.orderIndex != CurrentRequiredOrder())
+        {
+            Debug.Log($"[Assembling] Wrong order! Expected group {CurrentRequiredOrder()}, got {dropped.orderIndex}.");
+            return;
+        }
+
         dropped.gameObject.SetActive(false);
         SpawnInBowl(dropped);
         currentStep++;
 
         if (currentStep >= ingredientsInOrder.Count)
             Complete();
+    }
+
+    private int CurrentRequiredOrder()
+    {
+        int min = int.MaxValue;
+        foreach (var ingredient in ingredientsInOrder)
+            if (ingredient.gameObject.activeSelf && ingredient.orderIndex < min)
+                min = ingredient.orderIndex;
+        return min;
     }
 
     private void SpawnInBowl(DraggableIngredient dropped)

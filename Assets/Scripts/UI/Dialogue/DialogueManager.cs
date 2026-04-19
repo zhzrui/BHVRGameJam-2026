@@ -2,6 +2,7 @@
 using TMPro;
 using UnityEngine.InputSystem;
 using UnityEngine.Events;
+using System.Collections;
 using System.Collections.Generic;
 
 [System.Serializable]
@@ -47,6 +48,8 @@ public class DialogueManager : MonoBehaviour
     [Header("Scene Transition Prompt")]
     [SerializeField] private GameObject scenePrompt;
     [SerializeField] private GameObject eKeyPrompt;
+    [SerializeField] private GameObject completedFoodDisplay;
+    [SerializeField] private float eKeyDelay = 0.8f;
 
     private int currentLine = 0;
 
@@ -65,9 +68,10 @@ public class DialogueManager : MonoBehaviour
         HideIndicator();
 
         if (eKeyPrompt != null)
-        {
             eKeyPrompt.SetActive(false);
-        }
+
+        if (completedFoodDisplay != null)
+            completedFoodDisplay.SetActive(false);
 
 
         if (lines == null || lines.Length == 0)
@@ -199,9 +203,12 @@ public class DialogueManager : MonoBehaviour
         HideIndicator();
         onDialogueComplete?.Invoke();
 
+        if (completedFoodDisplay != null)
+            completedFoodDisplay.SetActive(true);
+
         if (eKeyPrompt != null)
         {
-            eKeyPrompt.SetActive(true);
+            StartCoroutine(ShowEKeyAfterDelay());
             return;
         }
 
@@ -209,6 +216,12 @@ public class DialogueManager : MonoBehaviour
         {
             LevelManager.Instance.LoadNextLevel();
         }
+    }
+
+    private IEnumerator ShowEKeyAfterDelay()
+    {
+        yield return new WaitForSeconds(eKeyDelay);
+        eKeyPrompt.SetActive(true);
     }
 
     private void PlayVoiceForLine(int index)

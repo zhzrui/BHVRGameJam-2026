@@ -392,6 +392,7 @@ MonoBehaviour:
   - {fileID: 1609107957}
   bowlSlotParent: {fileID: 1994897634}
   objectiveKey: day3step1
+  requiresOrder: 1
 --- !u!114 &206507741
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -672,7 +673,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 593c8e77e89485d4fabc844733dcf3e6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::DraggableIngredient
-  orderIndex: 0
+  orderIndex: 1
   bowlSprite: {fileID: 0}
   bowlSpriteSize: {x: 80, y: 80}
   bowlSpritePosition: {x: 0, y: 0}
@@ -985,7 +986,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 593c8e77e89485d4fabc844733dcf3e6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::DraggableIngredient
-  orderIndex: 0
+  orderIndex: 1
   bowlSprite: {fileID: 0}
   bowlSpriteSize: {x: 80, y: 80}
   bowlSpritePosition: {x: 0, y: 0}
@@ -1165,7 +1166,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 593c8e77e89485d4fabc844733dcf3e6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::DraggableIngredient
-  orderIndex: 0
+  orderIndex: 1
   bowlSprite: {fileID: 0}
   bowlSpriteSize: {x: 80, y: 80}
   bowlSpritePosition: {x: 0, y: 0}
@@ -3145,7 +3146,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.3333333, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -319.94998, y: -0.000061035156}
+  m_AnchoredPosition: {x: -319.95, y: -0.000061035156}
   m_SizeDelta: {x: 639.9099, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1078700666
@@ -3379,7 +3380,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 593c8e77e89485d4fabc844733dcf3e6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::DraggableIngredient
-  orderIndex: 1
+  orderIndex: 2
   bowlSprite: {fileID: 21300000, guid: 0c5cd038f7cbe2c49b2d124a844d0720, type: 3}
   bowlSpriteSize: {x: 142.56, y: 218.42}
   bowlSpritePosition: {x: 0, y: 0}
@@ -3496,6 +3497,7 @@ MonoBehaviour:
   - {fileID: 1229919624}
   bowlSlotParent: {fileID: 289027371}
   objectiveKey: day3step5
+  requiresOrder: 0
 --- !u!224 &1262706031
 RectTransform:
   m_ObjectHideFlags: 0
@@ -4225,14 +4227,14 @@ MonoBehaviour:
     - eyes shut
     pauseForObjective: 1
     objectiveId: day3step1
-  - text: Mix, then set it aside.
+  - text: Mix them in.
     flagToSet: 
     spriteUpdates:
     - shortcut stare
     - eyes shut
     pauseForObjective: 1
     objectiveId: day3step2
-  - text: Soak them in the coffee mixture and wait patiently.s
+  - text: Wait patiently, let them to soak in the coffee mixture.
     flagToSet: 
     spriteUpdates:
     - eyes shut
@@ -4441,7 +4443,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 593c8e77e89485d4fabc844733dcf3e6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::DraggableIngredient
-  orderIndex: 0
+  orderIndex: 1
   bowlSprite: {fileID: 0}
   bowlSpriteSize: {x: 80, y: 80}
   bowlSpritePosition: {x: 0, y: 0}
@@ -5545,7 +5547,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0.3333333, y: 1}
-  m_AnchoredPosition: {x: 29.558472, y: -0.000061035156}
+  m_AnchoredPosition: {x: 29.558655, y: -0.000061035156}
   m_SizeDelta: {x: 58.815186, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &2109264592

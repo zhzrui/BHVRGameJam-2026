@@ -371,6 +371,7 @@ MonoBehaviour:
   - {fileID: 294252300}
   bowlSlotParent: {fileID: 1578111928}
   objectiveKey: day1step1
+  requiresOrder: 0
 --- !u!114 &37709378
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1677,7 +1678,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0.3333333, y: 1}
-  m_AnchoredPosition: {x: 29.558472, y: 0}
+  m_AnchoredPosition: {x: 29.558533, y: 0}
   m_SizeDelta: {x: 58.8152, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &939312368
@@ -1918,8 +1919,7 @@ MonoBehaviour:
     spriteUpdates: []
     pauseForObjective: 1
     objectiveId: day1step2
-  - text: While you're waiting for the pan to heat up, butter it properly, then add
-      the egg mixture. Now, scramble it!
+  - text: Adddd the egg mixture to the pan. Now, scramble it!
     flagToSet: 
     spriteUpdates: []
     pauseForObjective: 1
