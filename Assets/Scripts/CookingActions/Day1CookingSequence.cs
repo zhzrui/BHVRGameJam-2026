@@ -3,6 +3,7 @@ using UnityEngine.UI;
 using UnityEngine.SceneManagement;
 using System.Collections;
 using System.Collections.Generic;
+using TMPro;
 
 // Chains cooking minigames in order. Add any minigame (including duplicates) to the list.
 public class Day1CookingSequence : MonoBehaviour
@@ -13,7 +14,12 @@ public class Day1CookingSequence : MonoBehaviour
     [SerializeField] private GameObject foodDisplayContainer;
     [SerializeField] private Image foodImage;
     [SerializeField] private Sprite ruinedFoodSprite;
-    [SerializeField] private float restartDelay = 2f;
+    [SerializeField] private float restartDelay = 1f;
+    [SerializeField] private CanvasGroup fadeCanvasGroup;
+    [SerializeField] private float fadeDuration = 0.3f;
+    [SerializeField] private TMP_Text failureText;
+    [SerializeField] private string failureLine;
+    [SerializeField] private float blackScreenHoldTime = 2f;
 
     private int currentIndex = 0;
 
@@ -67,6 +73,28 @@ public class Day1CookingSequence : MonoBehaviour
         }
 
         yield return new WaitForSeconds(restartDelay);
+
+        if (failureText != null && !string.IsNullOrEmpty(failureLine))
+        {
+            failureText.text = failureLine;
+            failureText.gameObject.SetActive(true);
+        }
+
+        if (fadeCanvasGroup != null)
+        {
+            fadeCanvasGroup.gameObject.SetActive(true);
+            fadeCanvasGroup.alpha = 0f;
+            float timer = 0f;
+            while (timer < fadeDuration)
+            {
+                timer += Time.deltaTime;
+                fadeCanvasGroup.alpha = Mathf.Clamp01(timer / fadeDuration);
+                yield return null;
+            }
+            fadeCanvasGroup.alpha = 1f;
+        }
+
+        yield return new WaitForSeconds(blackScreenHoldTime);
 
         SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
     }
