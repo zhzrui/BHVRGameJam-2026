@@ -1,4 +1,5 @@
 ﻿using UnityEngine;
+using UnityEngine.UI;
 using TMPro;
 using UnityEngine.InputSystem;
 using UnityEngine.Events;
@@ -48,8 +49,12 @@ public class DialogueManager : MonoBehaviour
     [Header("Scene Transition Prompt")]
     [SerializeField] private GameObject scenePrompt;
     [SerializeField] private GameObject eKeyPrompt;
-    [SerializeField] private GameObject completedFoodDisplay;
     [SerializeField] private float eKeyDelay = 0.8f;
+
+    [Header("Food Display")]
+    [SerializeField] private GameObject foodDisplayContainer;
+    [SerializeField] private Image foodImage;
+    [SerializeField] private Sprite completedFoodSprite;
 
     private int currentLine = 0;
 
@@ -70,8 +75,8 @@ public class DialogueManager : MonoBehaviour
         if (eKeyPrompt != null)
             eKeyPrompt.SetActive(false);
 
-        if (completedFoodDisplay != null)
-            completedFoodDisplay.SetActive(false);
+        if (foodDisplayContainer != null)
+            foodDisplayContainer.SetActive(false);
 
 
         if (lines == null || lines.Length == 0)
@@ -203,8 +208,12 @@ public class DialogueManager : MonoBehaviour
         HideIndicator();
         onDialogueComplete?.Invoke();
 
-        if (completedFoodDisplay != null)
-            completedFoodDisplay.SetActive(true);
+        if (foodDisplayContainer != null)
+        {
+            if (foodImage != null && completedFoodSprite != null)
+                foodImage.sprite = completedFoodSprite;
+            foodDisplayContainer.SetActive(true);
+        }
 
         if (eKeyPrompt != null)
         {

@@ -1,4 +1,5 @@
 using UnityEngine;
+using UnityEngine.UI;
 using UnityEngine.SceneManagement;
 using System.Collections;
 using System.Collections.Generic;
@@ -9,15 +10,17 @@ public class Day1CookingSequence : MonoBehaviour
     [SerializeField] private List<CookingMinigameBase> sequence;
 
     [Header("Failure")]
-    [SerializeField] private GameObject ruinedFoodDisplay;
+    [SerializeField] private GameObject foodDisplayContainer;
+    [SerializeField] private Image foodImage;
+    [SerializeField] private Sprite ruinedFoodSprite;
     [SerializeField] private float restartDelay = 2f;
 
     private int currentIndex = 0;
 
     private void Start()
     {
-        if (ruinedFoodDisplay != null)
-            ruinedFoodDisplay.SetActive(false);
+        if (foodDisplayContainer != null)
+            foodDisplayContainer.SetActive(false);
 
         foreach (var minigame in sequence)
             minigame.HidePanel();
@@ -56,8 +59,12 @@ public class Day1CookingSequence : MonoBehaviour
 
     private IEnumerator ShowRuinedAndRestart()
     {
-        if (ruinedFoodDisplay != null)
-            ruinedFoodDisplay.SetActive(true);
+        if (foodDisplayContainer != null)
+        {
+            if (foodImage != null && ruinedFoodSprite != null)
+                foodImage.sprite = ruinedFoodSprite;
+            foodDisplayContainer.SetActive(true);
+        }
 
         yield return new WaitForSeconds(restartDelay);
 
