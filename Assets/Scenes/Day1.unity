@@ -1994,8 +1994,8 @@ MonoBehaviour:
     - hands elegant
     pauseForObjective: 0
     objectiveId: 
-  - text: Crack the eggs and pour the milk into the bowl. Then, add some salt and
-      pepper to taste.
+  - text: Crack the eggs and put the butter and the milk into the bowl. Then, add
+      some salt and pepper to taste.
     flagToSet: 
     spriteUpdates:
     - shortcut stare
