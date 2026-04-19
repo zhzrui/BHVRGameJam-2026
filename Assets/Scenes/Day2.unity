@@ -1394,22 +1394,29 @@ MonoBehaviour:
   lines:
   - text: Hi my lovelies, welcome back to my cooking show!
     flagToSet: 
-    spriteUpdates: []
+    spriteUpdates:
+    - shortcut speak
     pauseForObjective: 0
     objectiveId: 
   - text: "I\u2019m your cutieful host, Candy\u2606."
     flagToSet: 
-    spriteUpdates: []
+    spriteUpdates:
+    - mouth tongueout
+    - eyes shut
+    - hands clasped
     pauseForObjective: 0
     objectiveId: 
   - text: Today, we will be making spicy stir-fried cartilage.
     flagToSet: 
-    spriteUpdates: []
+    spriteUpdates:
+    - shortcut hungry
     pauseForObjective: 0
     objectiveId: 
   - text: "It\u2019s a dish that is very amusing to eat: crunchy and bouncy."
     flagToSet: 
-    spriteUpdates: []
+    spriteUpdates:
+    - eyes shut
+    - mouth kind
     pauseForObjective: 0
     objectiveId: 
   - text: "Let\u2019s get cooking!"
@@ -1420,30 +1427,36 @@ MonoBehaviour:
   - text: "Get the vegetables from your CookingCandyBox\u2606. Chop them into medium-thin
       slices and add them to your bowl."
     flagToSet: 
-    spriteUpdates: []
-    pauseForObjective: 0
-    objectiveId: 
+    spriteUpdates:
+    - shortcut stare
+    pauseForObjective: 1
+    objectiveId: day2step1
   - text: "Now, add the cartilage into the bowl too! It might look a little strange
       for people who have never tried it before, but it\u2019s veeeeery yummy!"
     flagToSet: 
     spriteUpdates: []
     pauseForObjective: 1
-    objectiveId: day1step1
+    objectiveId: day2step2
   - text: "Mix, mix, mix~ And now to the pan we go! Stir it until it\u2019s thoroughly
       cooked, then place it into a plate."
     flagToSet: 
-    spriteUpdates: []
+    spriteUpdates:
+    - mouth tongueout
+    - eyes shut
     pauseForObjective: 1
-    objectiveId: day1step2
+    objectiveId: day2step3
   - text: Now you have yourself a delicious, chewy stir fry with unconventional ingredients!
     flagToSet: 
-    spriteUpdates: []
-    pauseForObjective: 1
-    objectiveId: day1step3
+    spriteUpdates:
+    - shortcut hungry
+    pauseForObjective: 0
+    objectiveId: 
   - text: "Try it out! Don\u2019t forget: whenever you eat my cooking, I become a
       part of you!"
     flagToSet: 
-    spriteUpdates: []
+    spriteUpdates:
+    - shortcut outtro
+    - eyes normal
     pauseForObjective: 0
     objectiveId: 
   voiceClips: []
