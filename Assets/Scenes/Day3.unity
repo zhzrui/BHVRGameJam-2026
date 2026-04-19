@@ -519,6 +519,67 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 206507738}
   m_CullTransparentMesh: 1
+--- !u!1001 &236686061
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 3170287566277484708, guid: f4a2cdead1a184bbfb5787e654ae69ab, type: 3}
+      propertyPath: m_Name
+      value: GhostSpawner
+      objectReference: {fileID: 0}
+    - target: {fileID: 6200127578767397065, guid: f4a2cdead1a184bbfb5787e654ae69ab, type: 3}
+      propertyPath: spawnAreaSprite
+      value: 
+      objectReference: {fileID: 777990429}
+    - target: {fileID: 7171487361094762072, guid: f4a2cdead1a184bbfb5787e654ae69ab, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 40.40775
+      objectReference: {fileID: 0}
+    - target: {fileID: 7171487361094762072, guid: f4a2cdead1a184bbfb5787e654ae69ab, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7171487361094762072, guid: f4a2cdead1a184bbfb5787e654ae69ab, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -3.19926
+      objectReference: {fileID: 0}
+    - target: {fileID: 7171487361094762072, guid: f4a2cdead1a184bbfb5787e654ae69ab, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7171487361094762072, guid: f4a2cdead1a184bbfb5787e654ae69ab, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7171487361094762072, guid: f4a2cdead1a184bbfb5787e654ae69ab, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7171487361094762072, guid: f4a2cdead1a184bbfb5787e654ae69ab, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7171487361094762072, guid: f4a2cdead1a184bbfb5787e654ae69ab, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7171487361094762072, guid: f4a2cdead1a184bbfb5787e654ae69ab, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7171487361094762072, guid: f4a2cdead1a184bbfb5787e654ae69ab, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: f4a2cdead1a184bbfb5787e654ae69ab, type: 3}
 --- !u!1 &294968468
 GameObject:
   m_ObjectHideFlags: 0
@@ -918,6 +979,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::DraggableIngredient
   orderIndex: 0
+  bowlSprite: {fileID: 0}
 --- !u!114 &464252250
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1157,6 +1219,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::DraggableIngredient
   orderIndex: 2
+  bowlSprite: {fileID: 0}
 --- !u!114 &490907044
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1500,6 +1563,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::DraggableIngredient
   orderIndex: 0
+  bowlSprite: {fileID: 0}
 --- !u!114 &615344941
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1846,6 +1910,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::DraggableIngredient
   orderIndex: 1
+  bowlSprite: {fileID: 0}
 --- !u!114 &749207776
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3435,49 +3500,60 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::DialogueManager
   dialogueText: {fileID: 1594953920}
   continueIndicator: {fileID: 0}
+  screenSprite: {fileID: 0}
   lines:
   - text: Hi my lovelies. Welcome back to my cooking show.
     flagToSet: 
+    spriteUpdates: []
     pauseForObjective: 0
     objectiveId: 
   - text: "I\u2019m Candy\u2606."
     flagToSet: 
+    spriteUpdates: []
     pauseForObjective: 0
     objectiveId: 
   - text: "Today, I\u2019ll teach you all how to make tiramisu. It\u2019s very delicious
       and easy to make."
     flagToSet: 
+    spriteUpdates: []
     pauseForObjective: 0
     objectiveId: 
   - text: "Take a look at your In your CookingCandyBox\u2606. You can put some mascarpone
       cream in the bowl."
     flagToSet: 
+    spriteUpdates: []
     pauseForObjective: 0
     objectiveId: 
   - text: Mix, then set it aside.
     flagToSet: 
+    spriteUpdates: []
     pauseForObjective: 0
     objectiveId: 
   - text: You will also find a few ladyfingers, an egg based biscuit. Soak them in
       the coffee mixture and put them in the pan.
     flagToSet: 
+    spriteUpdates: []
     pauseForObjective: 0
     objectiveId: 
   - text: Layer the mascarpone cream on top of the ladyfingers.
     flagToSet: 
+    spriteUpdates: []
     pauseForObjective: 1
     objectiveId: day1step1
   - text: Finally, add a thin layer of the cocoa powder.
     flagToSet: 
+    spriteUpdates: []
     pauseForObjective: 1
     objectiveId: day1step2
   - text: There we go, a nice tiramisu. Ready to serve!
     flagToSet: 
+    spriteUpdates: []
     pauseForObjective: 1
     objectiveId: day1step3
   - text: "I hope you all enjoy this nice dessert. Whenever you eat my cooking, I
       become\u2026 a part of you."
     flagToSet: 
+    spriteUpdates: []
     pauseForObjective: 0
     objectiveId: 
   voiceClips: []
@@ -3790,6 +3866,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::DraggableIngredient
   orderIndex: 2
+  bowlSprite: {fileID: 0}
 --- !u!114 &1770670489
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -4002,6 +4079,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::DraggableIngredient
   orderIndex: 1
+  bowlSprite: {fileID: 0}
 --- !u!114 &1849852433
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -4684,3 +4762,4 @@ SceneRoots:
   - {fileID: 971932077}
   - {fileID: 543509301}
   - {fileID: 1228464059}
+  - {fileID: 236686061}

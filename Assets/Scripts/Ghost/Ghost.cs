@@ -72,6 +72,7 @@ public class Ghost : MonoBehaviour, IPointerDownHandler, IPointerUpHandler, IPoi
         {
             clicked = false;
             timeLeft = clickTime;
+            rend.material.SetFloat("_clickTime", timeLeft);
             explodeParticles.Stop();
         }
     }
@@ -82,6 +83,7 @@ public class Ghost : MonoBehaviour, IPointerDownHandler, IPointerUpHandler, IPoi
         {
             clicked = false;
             timeLeft = clickTime;
+            rend.material.SetFloat("_clickTime", timeLeft);
             explodeParticles.Stop();
         }
     }

@@ -1,5 +1,54 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
+--- !u!1 &780985739948339932
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4600774658018630077}
+  - component: {fileID: 5785541940778718650}
+  m_Layer: 0
+  m_Name: GhostVolume
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4600774658018630077
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 780985739948339932}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -70.22924, y: 1359.9778, z: -114.26433}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 7171487361094762072}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5785541940778718650
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 780985739948339932}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 172515602e62fb746b5d573b38a5fe58, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Unity.RenderPipelines.Core.Runtime::UnityEngine.Rendering.Volume
+  m_IsGlobal: 1
+  priority: 0
+  blendDistance: 0
+  weight: 1
+  sharedProfile: {fileID: 11400000, guid: bd5525eb9280d46ffb6b1a5e75668a0b, type: 2}
 --- !u!1 &3170287566277484708
 GameObject:
   m_ObjectHideFlags: 0
@@ -30,7 +79,8 @@ Transform:
   m_LocalPosition: {x: 0.42177, y: 0.3006, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
-  m_Children: []
+  m_Children:
+  - {fileID: 4600774658018630077}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!82 &7930931996483719751
@@ -144,14 +194,22 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::GhostSpawner
   ghostPrefab: {fileID: 7848687578092301156, guid: af7218e87ebaa4a05827cb04f8f1d82c, type: 3}
   maxGhosts: 3
-  spawnIntervalMin: 2
-  spawnIntervalMax: 4
-  spawnXMin: -5
-  spawnXMax: 5
+  spawnIntervalMin: 8
+  spawnIntervalMax: 15
+  spawnAreaSprite: {fileID: 0}
+  spawnXMin: -7
+  spawnXMax: 7
   spawnYMin: -3
   spawnYMax: 3
   spawnZ: -1
   spawnSounds: []
+  textures:
+  - {fileID: 2800000, guid: 8a24705c2862945fc9c1597d49350392, type: 3}
+  - {fileID: 2800000, guid: e94820bb101234162839909efcbc66a2, type: 3}
+  - {fileID: 2800000, guid: c3dbf2d4c13f14b4d87886d79b0d755a, type: 3}
+  - {fileID: 2800000, guid: 1d2f84befbc7f424eba264061e8651b8, type: 3}
+  - {fileID: 2800000, guid: ad96775bf78cb49d9a7145f3c8aa9ae8, type: 3}
+  - {fileID: 2800000, guid: c34a763f64c4d4b92803e7bb839656bd, type: 3}
   volume: {fileID: 11400000, guid: bd5525eb9280d46ffb6b1a5e75668a0b, type: 2}
   smoothedFearDelta: 1
   phaseCurve:

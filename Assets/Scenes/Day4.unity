@@ -571,6 +571,67 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 201775921}
   m_CullTransparentMesh: 1
+--- !u!1001 &245358541
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 3170287566277484708, guid: f4a2cdead1a184bbfb5787e654ae69ab, type: 3}
+      propertyPath: m_Name
+      value: GhostSpawner
+      objectReference: {fileID: 0}
+    - target: {fileID: 6200127578767397065, guid: f4a2cdead1a184bbfb5787e654ae69ab, type: 3}
+      propertyPath: spawnAreaSprite
+      value: 
+      objectReference: {fileID: 1984687506}
+    - target: {fileID: 7171487361094762072, guid: f4a2cdead1a184bbfb5787e654ae69ab, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 40.40775
+      objectReference: {fileID: 0}
+    - target: {fileID: 7171487361094762072, guid: f4a2cdead1a184bbfb5787e654ae69ab, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7171487361094762072, guid: f4a2cdead1a184bbfb5787e654ae69ab, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -3.19926
+      objectReference: {fileID: 0}
+    - target: {fileID: 7171487361094762072, guid: f4a2cdead1a184bbfb5787e654ae69ab, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7171487361094762072, guid: f4a2cdead1a184bbfb5787e654ae69ab, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7171487361094762072, guid: f4a2cdead1a184bbfb5787e654ae69ab, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7171487361094762072, guid: f4a2cdead1a184bbfb5787e654ae69ab, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7171487361094762072, guid: f4a2cdead1a184bbfb5787e654ae69ab, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7171487361094762072, guid: f4a2cdead1a184bbfb5787e654ae69ab, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7171487361094762072, guid: f4a2cdead1a184bbfb5787e654ae69ab, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: f4a2cdead1a184bbfb5787e654ae69ab, type: 3}
 --- !u!1 &251130129
 GameObject:
   m_ObjectHideFlags: 0
@@ -1640,78 +1701,95 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::DialogueManager
   dialogueText: {fileID: 772833778}
   continueIndicator: {fileID: 0}
+  screenSprite: {fileID: 0}
   lines:
   - text: "Hi my lovelies. It\u2019s me, Candy\u2606, the host of\u2026 my own cooking
       show."
     flagToSet: 
+    spriteUpdates: []
     pauseForObjective: 0
     objectiveId: 
   - text: "I\u2019ve been feeling a little sick lately, so I\u2019ll show you how
       to make my comfort food: steak."
     flagToSet: 
+    spriteUpdates: []
     pauseForObjective: 0
     objectiveId: 
   - text: "Look into your CookingCandyBox\u2606. "
     flagToSet: 
+    spriteUpdates: []
     pauseForObjective: 0
     objectiveId: 
   - text: "You\u2019ll find some juicy cuts of steak\u2026 and some vegetables. I
       forgot. I think they\u2019re assorted veggies."
     flagToSet: 
+    spriteUpdates: []
     pauseForObjective: 0
     objectiveId: 
   - text: Cut the vegetables into pieces. I like to make mine into little finger
       shapes.
     flagToSet: 
+    spriteUpdates: []
     pauseForObjective: 0
     objectiveId: 
   - text: "Actually? I don\u2019t care. Cut them however you like."
     flagToSet: 
+    spriteUpdates: []
     pauseForObjective: 1
     objectiveId: day4step1
   - text: "And now, the thing we\u2019ve all been waiting for. The steak."
     flagToSet: 
+    spriteUpdates: []
     pauseForObjective: 0
     objectiveId: 
   - text: Cut them into pieces. Make it match the size of your vegetables.
     flagToSet: 
+    spriteUpdates: []
     pauseForObjective: 1
     objectiveId: day4step2
   - text: "If you made a pur\xE9e out of them\u2026 I don\u2019t know, turn your
       steak into ground beef or something."
     flagToSet: 
+    spriteUpdates: []
     pauseForObjective: 0
     objectiveId: 
   - text: Marinade the steak in sauce. Oh, you know, the one I always make.
     flagToSet: 
+    spriteUpdates: []
     pauseForObjective: 1
     objectiveId: day4step3
   - text: Sear all your cuts in a pan. You should be able to smell that delicious
       Maillard reaction.
     flagToSet: 
+    spriteUpdates: []
     pauseForObjective: 1
     objectiveId: day4step4
   - text: Yummy steak strips and vegetables, ready in just a few excruciating minutes.
       And ended in even less.
     flagToSet: 
+    spriteUpdates: []
     pauseForObjective: 0
     objectiveId: 
   - text: "If you turned them into beef and vegetable mush, great. You failed today\u2019s
       cooking lesson."
     flagToSet: 
+    spriteUpdates: []
     pauseForObjective: 0
     objectiveId: 
   - text: ...
     flagToSet: 
+    spriteUpdates: []
     pauseForObjective: 0
     objectiveId: 
   - text: I have to go. Goodbye.
     flagToSet: 
+    spriteUpdates: []
     pauseForObjective: 0
     objectiveId: 
   - text: "Don\u2019t forget that whenever you eat my cooking, I become a part of
       you."
     flagToSet: 
+    spriteUpdates: []
     pauseForObjective: 0
     objectiveId: 
   voiceClips: []
@@ -1985,6 +2063,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::DraggableIngredient
   orderIndex: 1
+  bowlSprite: {fileID: 0}
 --- !u!114 &967193603
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2962,6 +3041,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::DraggableIngredient
   orderIndex: 2
+  bowlSprite: {fileID: 0}
 --- !u!114 &1683847389
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3650,6 +3730,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::DraggableIngredient
   orderIndex: 0
+  bowlSprite: {fileID: 0}
 --- !u!114 &2022363842
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3773,3 +3854,4 @@ SceneRoots:
   - {fileID: 1924557680}
   - {fileID: 489161167}
   - {fileID: 998972099}
+  - {fileID: 245358541}

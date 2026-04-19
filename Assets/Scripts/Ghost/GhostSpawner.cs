@@ -27,6 +27,9 @@ public class GhostSpawner : MonoBehaviour
 
     [Header("Audio")]
     public AudioClip[] spawnSounds;
+    [Header("Ghost Textures")]
+    [SerializeField] List<Texture> textures;
+    private List<Texture> texturePool;
     [SerializeField] VolumeProfile volume;
     [Header("Fear Settings")]
     [SerializeField] float smoothedFearDelta = 0.2f;
@@ -52,6 +55,7 @@ public class GhostSpawner : MonoBehaviour
         volume.TryGet(out chromaticAberration);
         volume.TryGet(out vignette);
         audioSource = GetComponent<AudioSource>();
+        texturePool = new List<Texture>(textures);
     }
 
     void Start()
@@ -92,6 +96,7 @@ public class GhostSpawner : MonoBehaviour
         Vector3 pos = new Vector3(x, y, spawnZ);
 
         GameObject ghost = Instantiate(ghostPrefab, pos, Quaternion.identity);
+        SetRandomSprite(ghost);
         activeGhosts.Add(ghost);
 
         if (spawnSounds != null && spawnSounds.Length > 0)
@@ -130,6 +135,19 @@ public class GhostSpawner : MonoBehaviour
         abberationValue = Mathf.Clamp(abberationValue, 0f, 1f);
         chromaticAberration.intensity.Override(abberationValue);
 
-        Debug.Log(string.Format("{0}, {1}, {2}, {3}", phase * phaseStrength, fear, vignetteValue, abberationValue));
+        // Debug.Log(string.Format("{0}, {1}, {2}, {3}", phase * phaseStrength, fear, vignetteValue, abberationValue));
+    }
+
+    void SetRandomSprite(GameObject ghost)
+    {
+        // get a random texture that is available.
+        Texture texture = texturePool[Random.Range(0, texturePool.Count() - 1)];
+        ghost.GetComponent<Renderer>().material.SetTexture("_BaseMap",texture);
+        // if list is empty repopulate list with all except the last one.
+        if (texturePool.Count() <= 0)
+        {
+            texturePool.Concat(textures);
+            texturePool.Remove(texture);
+        }
     }
 }
