@@ -14,7 +14,7 @@ public class MixingMinigame : CookingMinigameBase
     [SerializeField] private string objectiveKey = "cooking";
 
     [Header("UI")]
-    [SerializeField] private Slider meterSlider;
+    [SerializeField] private Image meterFill; // Image type: Filled, Fill Method: Horizontal, Fill Origin: Left
 
     private float currentMeter;
     private bool isActive;
@@ -69,7 +69,7 @@ public class MixingMinigame : CookingMinigameBase
 
     private void UpdateUI()
     {
-        if (meterSlider != null)
-            meterSlider.value = currentMeter / maxMeter;
+        if (meterFill != null)
+            meterFill.fillAmount = currentMeter / maxMeter;
     }
 }
