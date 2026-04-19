@@ -3648,7 +3648,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 31.317688, y: -336.34705}
+  m_AnchoredPosition: {x: 31.317688, y: -336.34708}
   m_SizeDelta: {x: -221.5281, y: -881.0578}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &2021739497
@@ -3723,10 +3723,10 @@ MonoBehaviour:
   minigamePanel: {fileID: 2043100181}
   meterBar: {fileID: 1832175041}
   arrowIndicator: {fileID: 1417151473}
-  arrowSpeed: 0.67
+  arrowSpeed: 0.5
   greenZone: {fileID: 1942209794}
   greenZoneCenter: 0.5
-  greenZoneWidth: 0.17
+  greenZoneWidth: 0.19
   objectiveKey: day1step3
 --- !u!224 &2043100183
 RectTransform:

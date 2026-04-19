@@ -2967,7 +2967,7 @@ MonoBehaviour:
   minigamePanel: {fileID: 1043902688}
   meterBar: {fileID: 909784897}
   arrowIndicator: {fileID: 1245457000}
-  arrowSpeed: 0.67
+  arrowSpeed: 0.5
   greenZone: {fileID: 961087290}
   greenZoneCenter: 0.5
   greenZoneWidth: 0.2
@@ -4870,7 +4870,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 31.317688, y: -336.34705}
+  m_AnchoredPosition: {x: 31.317688, y: -336.34708}
   m_SizeDelta: {x: -221.5281, y: -881.0578}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1702579689
