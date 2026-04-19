@@ -41,6 +41,7 @@ public class PauseMenu : MonoBehaviour
 
     public void Show()
     {
+        Debug.Log(menuShown);
         if (!menuShown)
         {
             DOTween.Kill(canvasGroup);
