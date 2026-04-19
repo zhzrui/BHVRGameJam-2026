@@ -154,6 +154,7 @@ public class MusicManager : MonoBehaviour
     public void ChangedVolume()
     {
         AudioSource musicSource = GetActiveSource();
+        musicSource.DOComplete();
         musicSource.volume = clipVolume * GetPlayerVolume();
     }
 
@@ -171,12 +172,12 @@ public class MusicManager : MonoBehaviour
         } else
         {
             // fade current music source
-            musicSource.DOFade(0f, fadeTime).SetEase(fadeCurve).SetUpdate(true).OnComplete(() => { musicSource.Stop(); });
+            musicSource.DOFade(0f, fadeTime/2).SetEase(fadeCurve).SetUpdate(true).OnComplete(() => { musicSource.Stop(); });
             NextSource();
             AudioSource newMusicSource = GetActiveSource();
             newMusicSource.clip = clip;
             newMusicSource.Play();
-            newMusicSource.time = UnityEngine.Random.Range(0f, clip.length);
+            // newMusicSource.time = UnityEngine.Random.Range(0f, clip.length);
             newMusicSource.volume = 0f;
             newMusicSource.DOFade(volume, fadeTime).SetEase(fadeCurve).SetUpdate(true);
         }

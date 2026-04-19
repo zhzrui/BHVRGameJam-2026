@@ -42,6 +42,7 @@ public class CuttingMinigame : CookingMinigameBase, IPointerDownHandler, IDragHa
         currentIngredientIndex = 0;
         minigamePanel.SetActive(true);
         LoadIngredient();
+        SFXManager.Instance.Play("knife");
     }
 
     private void LoadIngredient()
@@ -95,6 +96,7 @@ public class CuttingMinigame : CookingMinigameBase, IPointerDownHandler, IDragHa
 
     private void CompleteCut()
     {
+        SFXManager.Instance.Play("cut");
         isCutting = false;
 
         float cutX = CurrentIngredient.cutPositions[currentCutIndex];

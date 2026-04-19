@@ -31,7 +31,8 @@ Transform:
   m_LocalPosition: {x: 0, y: -0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
-  m_Children: []
+  m_Children:
+  - {fileID: 320972583785123188}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &8254040936223954210
@@ -50,14 +51,26 @@ MonoBehaviour:
   - {fileID: 6759719424399397954}
   - {fileID: 2189162717723387447}
   tracks:
+  - sceneName: MainMenu
+    clip: {fileID: 8300000, guid: 9ff4d2f296d4648b3849f6979a2fadf9, type: 3}
+    volume: 1
   - sceneName: Day1
-    clip: {fileID: 8300000, guid: 0dbc523e9c8e94b57b375dd71999fb2b, type: 3}
+    clip: {fileID: 8300000, guid: 647ced2cb75ae415dbb44629a4df9972, type: 3}
+    volume: 1
+  - sceneName: Day2
+    clip: {fileID: 8300000, guid: b74b4c27c7a1a41e181508962dce5dae, type: 3}
     volume: 1
   - sceneName: Day3
-    clip: {fileID: 8300000, guid: 9275d955e26df46a69cb337b2c04ccad, type: 3}
+    clip: {fileID: 8300000, guid: 5a6f30a4c7fd043b9bacc9cd9fa39eb7, type: 3}
+    volume: 1
+  - sceneName: Day4
+    clip: {fileID: 8300000, guid: f064675be5f7c46a6ac4a1d7026b736a, type: 3}
+    volume: 1
+  - sceneName: Day5
+    clip: {fileID: 8300000, guid: b413c4c26d66b4648aaaf0005718aa4b, type: 3}
     volume: 1
   playOnStart: 1
-  fadeTime: 10
+  fadeTime: 8
   fadeCurve:
     serializedVersion: 2
     m_Curve:
@@ -71,28 +84,19 @@ MonoBehaviour:
       inWeight: 0
       outWeight: 0
     - serializedVersion: 3
-      time: 0.7433153
-      value: 0.19240507
-      inSlope: 0.9803658
-      outSlope: 0.9803658
-      tangentMode: 0
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.14980021
-    - serializedVersion: 3
       time: 1
       value: 1
-      inSlope: 4.003387
-      outSlope: 4.003387
+      inSlope: 2
+      outSlope: 2
       tangentMode: 0
       weightedMode: 0
-      inWeight: 0.07943047
+      inWeight: 0
       outWeight: 0
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
   unmappedBehavior: 0
-  defaultClip: {fileID: 0}
+  defaultClip: {fileID: 8300000, guid: 9275d955e26df46a69cb337b2c04ccad, type: 3}
   defaultVolume: 1
 --- !u!82 &6759719424399397954
 AudioSource:
@@ -288,3 +292,65 @@ AudioSource:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
+--- !u!1 &7153873977165250715
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 320972583785123188}
+  - component: {fileID: 1786652601433101608}
+  m_Layer: 0
+  m_Name: SFXManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &320972583785123188
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7153873977165250715}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 4659442963132672868}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1786652601433101608
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7153873977165250715}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 08f0af66bacf243ca8feebc68a487cd4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::SFXManager
+  poolSize: 5
+  inspectorSoundEffects:
+  - name: pour
+    audioClip: {fileID: 8300000, guid: 65df652c38f20445793087286ef60d5f, type: 3}
+  - name: grab
+    audioClip: {fileID: 8300000, guid: 9c00ed29fe7f345599d91644c8daf08d, type: 3}
+  - name: cut
+    audioClip: {fileID: 8300000, guid: adb335d38dffc49f9841bf6619b62ba9, type: 3}
+  - name: knocking
+    audioClip: {fileID: 8300000, guid: 503a4441e1ce54c65acff4b2f3a8013c, type: 3}
+  - name: fry
+    audioClip: {fileID: 8300000, guid: fda477c72801847b5b50b9eeeb506ebe, type: 3}
+  - name: mix
+    audioClip: {fileID: 8300000, guid: 1cad16c0df1f847f6b3882f1b5b8f50d, type: 3}
+  - name: squirt
+    audioClip: {fileID: 8300000, guid: 6639a03fb9e414806899b83a81f8764f, type: 3}
+  - name: knife
+    audioClip: {fileID: 8300000, guid: 2c35ab7be6a5d4904b60d55679a5dd9d, type: 3}

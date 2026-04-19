@@ -27,6 +27,7 @@ public class DraggableIngredient : MonoBehaviour, IBeginDragHandler, IDragHandle
         // Reparent to canvas root so it renders on top of everything
         transform.SetParent(GetComponentInParent<Canvas>().transform, true);
         canvasGroup.blocksRaycasts = false; // let raycasts pass through to the bowl
+        SFXManager.Instance.Play("cut");
     }
 
     public void OnDrag(PointerEventData eventData)
@@ -39,6 +40,7 @@ public class DraggableIngredient : MonoBehaviour, IBeginDragHandler, IDragHandle
         canvasGroup.blocksRaycasts = true;
         // If the bowl's IDropHandler didn't consume this, snap back
         SnapBack();
+        SFXManager.Instance.Play("grab");
     }
 
     public void SnapBack()
