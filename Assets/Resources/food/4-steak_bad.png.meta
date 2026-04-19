@@ -1,10 +1,19 @@
 fileFormatVersion: 2
-guid: 8a24705c2862945fc9c1597d49350392
+guid: 08c8dfee7369c654088f93828acef6dc
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 5731494089058639463
-    second: hallucination_1_0
+      213: -4237108979829832581
+    second: 4-steak_bad_0
+  - first:
+      213: 247190075099224373
+    second: 4-steak_bad_1
+  - first:
+      213: 6840504227311887902
+    second: 4-steak_bad_2
+  - first:
+      213: -7814275066671949374
+    second: 4-steak_bad_3
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -96,30 +105,17 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 4
-    buildTarget: WebGL
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: hallucination_1_0
+      name: 4-steak_bad_0
       rect:
         serializedVersion: 2
-        x: 718
-        y: 0
-        width: 1545
-        height: 2959
+        x: 545
+        y: 299
+        width: 42
+        height: 53
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,8 +124,74 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 76e579ad18b5a8f40800000000000000
-      internalID: 5731494089058639463
+      spriteID: b7400aef4d3c235c0800000000000000
+      internalID: -4237108979829832581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-steak_bad_1
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 75
+        width: 748
+        height: 762
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5399a4a40123e6300800000000000000
+      internalID: 247190075099224373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-steak_bad_2
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 266
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e16ab792a5a5eee50800000000000000
+      internalID: 6840504227311887902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-steak_bad_3
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 139
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c993d98a3e1e8390800000000000000
+      internalID: -7814275066671949374
       vertices: []
       indices: 
       edges: []
@@ -148,7 +210,10 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      hallucination_1_0: 5731494089058639463
+      4-steak_bad_0: -4237108979829832581
+      4-steak_bad_1: 247190075099224373
+      4-steak_bad_2: 6840504227311887902
+      4-steak_bad_3: -7814275066671949374
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
