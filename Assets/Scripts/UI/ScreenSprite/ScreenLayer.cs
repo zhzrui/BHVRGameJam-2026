@@ -26,6 +26,7 @@ public class ScreenLayer
             if (sprite.name.Split("_").Last() == name)
             {
                 imageRenderer.sprite = sprite;
+                return;
             }
         }
         Debug.LogError("name "+name+" not found in sprite list");

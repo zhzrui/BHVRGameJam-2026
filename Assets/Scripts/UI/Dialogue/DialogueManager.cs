@@ -2,6 +2,7 @@
 using TMPro;
 using UnityEngine.InputSystem;
 using UnityEngine.Events;
+using System.Collections.Generic;
 
 [System.Serializable]
 public class DialogueLineData
@@ -11,6 +12,8 @@ public class DialogueLineData
 
     [Header("Optional flag")]
     public string flagToSet;
+    [Header("Sprite Update")]
+    public string[] spriteUpdates;
 
     [Header("Objective control")]
     public bool pauseForObjective;
@@ -22,6 +25,7 @@ public class DialogueManager : MonoBehaviour
     [Header("UI")]
     public TextMeshProUGUI dialogueText;
     public GameObject continueIndicator;
+    public ScreenSprite screenSprite;
 
     [Header("Dialogue")]
     public DialogueLineData[] lines;
@@ -49,6 +53,7 @@ public class DialogueManager : MonoBehaviour
     {
         if (voiceSource == null)
             voiceSource = GetComponent<AudioSource>();
+        if (screenSprite == null) Debug.LogError("screensprite not assigned!", this.gameObject);
     }
 
     void Start()
@@ -114,6 +119,11 @@ public class DialogueManager : MonoBehaviour
         {
             DialogueFlags.SetFlag(lineData.flagToSet);
             Debug.Log("Dialogue flag set: " + lineData.flagToSet);
+        }
+
+        if (lineData.spriteUpdates != null)
+        {
+            screenSprite.UpdateSprites(lineData.spriteUpdates); // error handling in SpriteUpdates :thumbs_up:
         }
 
         PlayVoiceForLine(index);
