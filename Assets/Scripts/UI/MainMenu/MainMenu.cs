@@ -19,6 +19,8 @@ public class MainMenu : MonoBehaviour
 
     public void StartGame()
     {
+        content.DOKill();
+        background.DOKill();
         content.DOFade(0f, 1f);
         background.DOFade(0f, 1f).OnComplete(() => { SceneManager.LoadScene("Day1"); });
         // throw new System.NotImplementedException("mraow");
