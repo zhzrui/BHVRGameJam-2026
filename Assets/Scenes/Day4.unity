@@ -4123,17 +4123,17 @@ RectTransform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2022363838}
-  m_LocalRotation: {x: -0, y: -0, z: 0.43214488, w: -0.9018042}
+  m_LocalRotation: {x: -0, y: -0, z: 0.4899733, w: -0.8717374}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 193503458}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: -411.208}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: -418.678}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -214, y: -265}
-  m_SizeDelta: {x: 511.89, y: 364.91}
+  m_AnchoredPosition: {x: -195, y: -254}
+  m_SizeDelta: {x: 436.7299, y: 230.8551}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!225 &2022363840
 CanvasGroup:
@@ -4160,8 +4160,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::DraggableIngredient
   orderIndex: 0
-  bowlSprite: {fileID: 21300000, guid: 62a8fee697718f24da3c80a7eb38cb25, type: 3}
-  bowlSpriteSize: {x: 486, y: 350}
+  bowlSprite: {fileID: -6532862859488722829, guid: dcb63456ebaef0c4c98deaf49bd44860, type: 3}
+  bowlSpriteSize: {x: 436.7299, y: 230.8551}
   bowlSpritePosition: {x: 0, y: -38}
 --- !u!114 &2022363842
 MonoBehaviour:
@@ -4183,7 +4183,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 62a8fee697718f24da3c80a7eb38cb25, type: 3}
+  m_Sprite: {fileID: -6532862859488722829, guid: dcb63456ebaef0c4c98deaf49bd44860, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
