@@ -15,6 +15,7 @@ public class RoomCameraController : MonoBehaviour
     public SpriteRenderer roomSprite;
     public float roomOrthoSize = 6f;
     public float panSpeed = 10f;
+    public GameObject roomUI;
 
     [Header("Transition")]
     public float fadeDuration = 0.25f;
@@ -86,17 +87,17 @@ public class RoomCameraController : MonoBehaviour
 
         if (state == CameraState.Counter)
         {
-            if (kb.upArrowKey.wasPressedThisFrame)
+            if (kb.upArrowKey.wasPressedThisFrame || kb.wKey.wasPressedThisFrame)
                 StartCoroutine(TransitionToRoom());
         }
         else
         {
-            if (kb.downArrowKey.wasPressedThisFrame)
+            if (kb.downArrowKey.wasPressedThisFrame || kb.sKey.wasPressedThisFrame)
                 StartCoroutine(TransitionToCounter());
 
             float dir = 0f;
-            if (kb.leftArrowKey.isPressed)  dir = -1f;
-            if (kb.rightArrowKey.isPressed) dir =  1f;
+            if (kb.leftArrowKey.isPressed || kb.aKey.isPressed)  dir -= 1f;
+            if (kb.rightArrowKey.isPressed || kb.dKey.isPressed) dir += 1f;
 
             if (dir != 0f)
             {
@@ -123,6 +124,7 @@ public class RoomCameraController : MonoBehaviour
         transform.position = new Vector3(anchorX, roomY, roomZ);
 
         foreach (var obj in counterObjects) obj?.SetActive(false);
+        roomUI.SetActive(true);
 
         yield return StartCoroutine(Fade(1f, 0f));
         transitioning = false;
@@ -138,6 +140,7 @@ public class RoomCameraController : MonoBehaviour
         transform.position = counterPosition;
 
         foreach (var obj in counterObjects) obj?.SetActive(true);
+        roomUI.SetActive(false);
 
         yield return StartCoroutine(Fade(1f, 0f));
         transitioning = false;
